@@ -5,10 +5,10 @@
 	From:                 London, UK
 
 
-/* Thanks */
+/* Thanks to */
 
 	Programmer:           Tiago Alves
-	Contact:              alvesjtiago [at] gmail.com 
+	Contact:              tiago [at] iterar.co 
 	Twitter:              @plaintiago
 	From:                 Porto, Portugal
 		
@@ -17,4 +17,4 @@
 	Last update:          2012/01/07
 	Language:             English
 	Doctype:              HTML5
-	IDE:                  Coda, Illustrator, Photoshop
+	IDE:                  Adobe Illustrator CS6, Adobe Photoshop CS6, Coda 2, Sublime Text 2

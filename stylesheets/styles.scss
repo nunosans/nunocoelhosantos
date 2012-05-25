@@ -7,7 +7,12 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 a img, a:link, a:visited, a:hover, a:active {
-	font-family: franklin-gothic-urw-1, franklin-gothic-urw-2, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: franklin-gothic-urw-1,
+				 franklin-gothic-urw-2,
+				 "Helvetica Neue",
+				 Helvetica,
+				 Arial,
+				 sans-serif;
 	border: 0;
 	outline: 0;
 	margin: 0;
@@ -44,31 +49,21 @@ Base Styles
 body {
 	background-color: #FAFAFA;
 	color: #444;
-	}
-
-body > * {
-	margin: 0 auto 90px;
-	transition-property: width;
-	transition-duration: 0.3s;
-	-webkit-transition-property: width;
-	-webkit-transition-duration: 0.3s;
-	-moz-transition-property: width;
-	-moz-transition-duration: 0.3s;
-	-o-transition-property: width;
-	-o-transition-duration: 0.3s;
-	}
-
-img {
-	width: auto;
-	height: auto;
-	transition-property: width;
-	transition-duration: 0.3s;
-	-webkit-transition-property: width;
-	-webkit-transition-duration: 0.3s;
-	-moz-transition-property: width;
-	-moz-transition-duration: 0.3s;
-	-o-transition-property: width;
-	-o-transition-duration: 0.3s;
+	/* Center the body's direct children on the page */
+	> * {margin: 0 auto 90px;} 
+	/* Keep images propotional */
+	img {width: auto;height: auto;}
+	/* Make these resize gracefully when the window resizes */
+	> *, img {
+		-webkit-transition-property: width;
+		   -moz-transition-property: width;
+		     -o-transition-property: width;
+		        transition-property: width;
+		-webkit-transition-duration: 0.3s;
+		   -moz-transition-duration: 0.3s;
+		     -o-transition-duration: 0.3s;
+		        transition-duration: 0.3s;
+		}
 	}
 
 a,
@@ -88,14 +83,14 @@ a:visited {
 	border-bottom-color: $shade-2;
 	color: $shade-2;
 	outline: none;
-	transition-property: color, border-bottom-color;
-	transition-duration: 1.2s;
 	-webkit-transition-property: color, border-bottom-color;
+	   -moz-transition-property: color, border-bottom-color;
+	     -o-transition-property: color, border-bottom-color;
+	        transition-property: color, border-bottom-color;
 	-webkit-transition-duration: 1.2s;
-	-moz-transition-property: color, border-bottom-color;
-	-moz-transition-duration: 1.2s;
-	-o-transition-property: color, border-bottom-color;
-	-o-transition-duration: 1.2s;
+	   -moz-transition-duration: 1.2s;
+	     -o-transition-duration: 1.2s;
+	        transition-duration: 1.2s;
 	}
 
 a:hover,
@@ -105,36 +100,38 @@ a:focus {
 	border-bottom-style: dotted;
 	border-bottom-color: $key-color;
 	color: $key-color;
-	transition-duration: 0.0s;
 	-webkit-transition-duration: 0.0s;
-	-moz-transition-duration: 0.0s;
-	-o-transition-duration: 0.0s;
+	   -moz-transition-duration: 0.0s;
+	     -o-transition-duration: 0.0s;
+	        transition-duration: 0.0s;
 	}
 
+/* Disable clicking on the phone number */
 a.tel {
 	pointer-events: none;
 	border: none;
 	}
 
+/* Let's customise the browser's selection color... */
 ::selection {
 	background-color: $key-color;
 	background-color: rgba(255, 21, 0, 0.2);
 	}
-
-html::selection,
-body::selection,
-div::selection,
-.slider::selection,
-.slider::selection li,
-.slider::selection li img,
-.slider::selection li div,
-.slider::selection
-.flex-control-nav::selection,
-.work h4::selection,
-.work h4 a::selection,
-.work p::selection {
-	background-color: transparent;
-	}
+	/* ...but hide it for some elements */
+	html::selection,
+	body::selection,
+	div::selection,
+	.slider::selection,
+	.slider::selection li,
+	.slider::selection li img,
+	.slider::selection li div,
+	.slider::selection
+	.flex-control-nav::selection,
+	.work h4::selection,
+	.work h4 a::selection,
+	.work p::selection {
+		background-color: transparent;
+		}
 
 @font-face {
 	font-family: 'Modern Pictograms';
@@ -159,7 +156,12 @@ Forms
 */
 
 input[type="email"] {
-	font-family: franklin-gothic-urw-1,franklin-gothic-urw-2,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: franklin-gothic-urw-1,
+				 franklin-gothic-urw-2,
+				 "Helvetica Neue",
+				 Helvetica,
+				 Arial,
+				 sans-serif;
 	font-size: 14px;
 	color: $shade-1;
 	width: 239px;
@@ -168,45 +170,56 @@ input[type="email"] {
 	padding: 0 8px;
 	display: inline-block;
 	float: left;
+	/* Remove Firefox dotted outline */
+	outline: none;
+	/* Standard box color and no glow */
 	border: 1px solid #E6E6E6;
 	border-top: 1px solid #CCC;
 	border-right: none;
 	border-radius: none;
 	box-shadow: 0 0 0 rgba(0,0,0,0.0);
-	outline: none;
+	-webkit-transition-property: box-shadow, border-color;
+	   -moz-transition-property: box-shadow, border-color;
+	     -o-transition-property: box-shadow, border-color;
+	        transition-property: box-shadow, border-color;
+	-webkit-transition-duration: 1.2s;
+	   -moz-transition-duration: 1.2s;
+	     -o-transition-duration: 1.2s;
+	        transition-duration: 1.2s;
+	/* Override iOS input styles */
 	-webkit-appearance: none;  
 	-webkit-border-radius: 0px;
-	transition-property: box-shadow, border-color;
-	transition-duration: 1.2s;
-	-webkit-transition-property: box-shadow, border-color;
-	-webkit-transition-duration: 1.2s;
-	-moz-transition-property: box-shadow, border-color;
-	-moz-transition-duration: 1.2s;
-	-o-transition-property: box-shadow, border-color;
-	-o-transition-duration: 1.2s;
 	}
 	input[type="email"]:active,
 	input[type="email"]:focus {
+		/* Animate box color and make it glow */
 		border: 1px solid $key-color;
 		border-right: none;
 		box-shadow: 0 0 6px rgba(255,33,0,0.75);
-		transition-property: box-shadow, border-color;
-		transition-duration: 0.15s;
 		-webkit-transition-property: box-shadow, border-color;
+		   -moz-transition-property: box-shadow, border-color;
+		     -o-transition-property: box-shadow, border-color;
+		        transition-property: box-shadow, border-color;
 		-webkit-transition-duration: 0.15s;
-		-moz-transition-property: box-shadow, border-color;
-		-moz-transition-duration: 0.15s;
-		-o-transition-property: box-shadow, border-color;
-		-o-transition-duration: 0.15s;
+		   -moz-transition-duration: 0.15s;
+		     -o-transition-duration: 0.15s;
+		        transition-duration: 0.15s;
 		}
+		/* Hide placeholder text when the email box is active... */
 		input[type="email"]:active::-webkit-input-placeholder,
 		input[type="email"]:focus::-webkit-input-placeholder {color: transparent;}
+		/* ...and display it in a nice shade of grey when not. */
 		input::-webkit-input-placeholder {color: $shade-2;}
 		::-webkit-input-placeholder {color: $shade-2;}
 		:-moz-placeholder {color: $shade-2;}
 
 input[type="submit"] {
-	font-family: franklin-gothic-urw-1,franklin-gothic-urw-2,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: franklin-gothic-urw-1,
+				 franklin-gothic-urw-2,
+				 "Helvetica Neue",
+				 Helvetica,
+				 Arial,
+				 sans-serif;
 	font-size: 14px;
 	color: white;
 	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
@@ -221,31 +234,29 @@ input[type="submit"] {
 	border-bottom: 1px solid #999;
 	box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.2) inset;
 	border-radius: none;
+	/* Animate button color */
+	-webkit-transition-property: background-color, border-color;
+	   -moz-transition-property: background-color, border-color;
+	     -o-transition-property: background-color, border-color;
+	        transition-property: background-color, border-color;
+	-webkit-transition-duration: 1.2s;
+	   -moz-transition-duration: 1.2s;
+	     -o-transition-duration: 1.2s;
+	        transition-duration: 1.2s;
+	/* Override iOS input styles */
 	-webkit-appearance: none;  
 	-webkit-border-radius: 0px;
-	transition-property: background-color, border-color;
-	transition-duration: 1.2s;
-	-webkit-transition-property: background-color, border-color;
-	-webkit-transition-duration: 1.2s;
-	-moz-transition-property: background-color, border-color;
-	-moz-transition-duration: 1.2s;
-	-o-transition-property: background-color, border-color;
-	-o-transition-duration: 1.2s;
 	}
 	input[type="submit"]:hover,
 	input[type="submit"]:focus {
 		background-color: #999;
 		border: 1px solid #999;
 		border-bottom: 1px solid #777;
-		cursor: pointer;
-		transition-property: background-color, border-color;
-		transition-duration: 0.15s;
-		-webkit-transition-property: background-color, border-color;
 		-webkit-transition-duration: 0.15s;
-		-moz-transition-property: background-color, border-color;
-		-moz-transition-duration: 0.15s;
-		-o-transition-property: background-color, border-color;
-		-o-transition-duration: 0.15s;
+		   -moz-transition-duration: 0.15s;
+		     -o-transition-duration: 0.15s;
+		        transition-duration: 0.15s;
+		cursor: pointer;
 		}
 
 /*
@@ -277,24 +288,24 @@ Nav & Footer
 	color: $shade-1 !important;
 	font-style: normal;
 	border: none !important;
-	transition-property: color;
-	transition-duration: 1.2s;
 	-webkit-transition-property: color;
+	   -moz-transition-property: color;
+	     -o-transition-property: color;
+	        transition-property: color;
 	-webkit-transition-duration: 1.2s;
-	-moz-transition-property: color;
-	-moz-transition-duration: 1.2s;
-	-o-transition-property: color;
-	-o-transition-duration: 1.2s;
+	   -moz-transition-duration: 1.2s;
+	     -o-transition-duration: 1.2s;
+	        transition-duration: 1.2s;
 	}
 
 #header h1 em a:hover,
 #header h1 em a:active,
 #header h1 em a:focus {
 	color: $key-color !important;
-	transition-duration: 0.0s;
 	-webkit-transition-duration: 0.0s;
-	-moz-transition-duration: 0.0s;
-	-o-transition-duration: 0.0s;
+	   -moz-transition-duration: 0.0s;
+	     -o-transition-duration: 0.0s;
+	        transition-duration: 0.0s;
 	}
 
 /*
@@ -324,14 +335,14 @@ Homepage
 	background-image: url("http://media.nunocoelhosantos.com/graphics/bg-slider.jpg");
 	background-repeat: no-repeat;
 	background-position: 50% 0;
-	transition-property: width;
-	transition-duration: 0.3s;
 	-webkit-transition-property: width;
+	   -moz-transition-property: width;
+	     -o-transition-property: width;
+	        transition-property: width;
 	-webkit-transition-duration: 0.3s;
-	-moz-transition-property: width;
-	-moz-transition-duration: 0.3s;
-	-o-transition-property: width;
-	-o-transition-duration: 0.3s;
+	   -moz-transition-duration: 0.3s;
+	     -o-transition-duration: 0.3s;
+	        transition-duration: 0.3s;
 	}
 
 .slider .slides {
@@ -344,16 +355,16 @@ Homepage
 	background-color: $key-color;
 	background-color: rgba(255, 21, 0, 0.7);
 	cursor: pointer;
-	transition-duration: 0.0s;
 	-webkit-transition-duration: 0.0s;
 	-moz-transition-duration: 0.0s;
 	-o-transition-duration: 0.0s;
+	transition-duration: 0.0s;
 	}
 
 .slider .slides li {
 	position: relative;
-	display: none;
 	/* Hide the slides before the JS is loaded. Avoids image jumping */
+	display: none;
 	overflow: hidden;
 	width: 100%;
 	height: 280px;
@@ -365,14 +376,14 @@ Homepage
 	margin-left: -750px;
 	margin-top: 0;
 	background-color: transparent;
-	transition-duration: 1.2s;
-	transition-property: background-color;
-	-webkit-transition-duration: 1.2s;
 	-webkit-transition-property: background-color;
-	-moz-transition-duration: 1.2s;
-	-moz-transition-property: background-color;
-	-o-transition-duration: 1.2s;
-	-o-transition-property: background-color;
+	   -moz-transition-property: background-color;
+	     -o-transition-property: background-color;
+	        transition-property: background-color;
+	-webkit-transition-duration: 1.2s;
+	   -moz-transition-duration: 1.2s;
+	     -o-transition-duration: 1.2s;
+	        transition-duration: 1.2s;
 	}
 
 .slider .slides li .caption {
@@ -384,14 +395,14 @@ Homepage
 	height: 55px;
 	padding: 10px 0 22px;
 	background-color: rgba(0, 0, 0, 0.66);
-	transition-property: background-color;
-	transition-duration: 0.3s;
 	-webkit-transition-property: background-color;
+	   -moz-transition-property: background-color;
+	     -o-transition-property: background-color;
+	        transition-property: background-color;
 	-webkit-transition-duration: 0.3s;
-	-moz-transition-property: background-color;
-	-moz-transition-duration: 0.3s;
-	-o-transition-property: background-color;
-	-o-transition-duration: 0.3s;
+	   -moz-transition-duration: 0.3s;
+	     -o-transition-duration: 0.3s;
+	        transition-duration: 0.3s;
 	z-index: 2;
 	pointer-events: none;
 	}
@@ -399,14 +410,14 @@ Homepage
 .slider .slides li .caption * {
 	width: 240px;
 	padding: 0 512px 0 16px;
-	transition-property: padding;
-	transition-duration: 0.3s;
 	-webkit-transition-property: padding;
+	   -moz-transition-property: padding;
+	     -o-transition-property: padding;
+	        transition-property: padding;
 	-webkit-transition-duration: 0.3s;
-	-moz-transition-property: padding;
-	-moz-transition-duration: 0.3s;
-	-o-transition-property: padding;
-	-o-transition-duration: 0.3s;
+	   -moz-transition-duration: 0.3s;
+	     -o-transition-duration: 0.3s;
+	        transition-duration: 0.3s;
 	}
 
 .slider .slides h2 {
@@ -423,14 +434,14 @@ Homepage
 	width: 240px;
 	margin: 0 auto;
 	padding: 0 512px 0 16px;
-	transition-property: padding;
-	transition-duration: 0.3s;
 	-webkit-transition-property: padding;
+	   -moz-transition-property: padding;
+	     -o-transition-property: padding;
+	        transition-property: padding;
 	-webkit-transition-duration: 0.3s;
-	-moz-transition-property: padding;
-	-moz-transition-duration: 0.3s;
-	-o-transition-property: padding;
-	-o-transition-duration: 0.3s;
+	   -moz-transition-duration: 0.3s;
+	     -o-transition-duration: 0.3s;
+	        transition-duration: 0.3s;
 	}
 
 .flex-control-nav li {
@@ -450,14 +461,14 @@ Homepage
 	height: 8px;
 	text-decoration: none;
 	background-color: $shade-3;
-	transition-property: background-color;
-	transition-duration: 0.3s;
 	-webkit-transition-property: background-color;
+	   -moz-transition-property: background-color;
+	     -o-transition-property: background-color;
+	        transition-property: background-color;
 	-webkit-transition-duration: 0.3s;
-	-moz-transition-property: background-color;
-	-moz-transition-duration: 0.3s;
-	-o-transition-property: background-color;
-	-o-transition-duration: 0.3s;
+	   -moz-transition-duration: 0.3s;
+	     -o-transition-duration: 0.3s;
+	        transition-duration: 0.3s;
 	}
 
 .flex-control-nav li a:hover,
@@ -494,14 +505,14 @@ h3 {
 	margin: 0 auto 20px;
 	padding: 0px 60px;
 	overflow: hidden;
-	transition-property: width;
-	transition-duration: 0.3s;
 	-webkit-transition-property: width;
+	   -moz-transition-property: width;
+	     -o-transition-property: width;
+	        transition-property: width;
 	-webkit-transition-duration: 0.3s;
-	-moz-transition-property: width;
-	-moz-transition-duration: 0.3s;
-	-o-transition-property: width;
-	-o-transition-duration: 0.3s;
+	   -moz-transition-duration: 0.3s;
+	     -o-transition-duration: 0.3s;
+	        transition-duration: 0.3s;
 	}
 
 .work div {
@@ -524,27 +535,24 @@ h3 {
 			display: inline-block;
 			width: 240px;
 			border: none;
-			transition-property: color;
-			transition-duration: 1.2s;
 			-webkit-transition-property: color;
+			   -moz-transition-property: color;
+			     -o-transition-property: color;
+			        transition-property: color;
 			-webkit-transition-duration: 1.2s;
-			-moz-transition-property: color;
-			-moz-transition-duration: 1.2s;
-			-o-transition-property: color;
-			-o-transition-duration: 1.2s;	
-			
-			a.active {
-				color: $key-color;
-				transition-property: color;
-				transition-duration: 0.0s;
-				-webkit-transition-property: color;
-				-webkit-transition-duration: 0.0s;
-				-moz-transition-property: color;
-				-moz-transition-duration: 0.0s;
-				-o-transition-property: color;
-				-o-transition-duration: 0.0s;
-				}
+			   -moz-transition-duration: 1.2s;
+			     -o-transition-duration: 1.2s;
+			        transition-duration: 1.2s;
 			}
+
+		a.active {
+			color: $key-color;
+			-webkit-transition-duration: 0.0s;
+			   -moz-transition-duration: 0.0s;
+			     -o-transition-duration: 0.0s;
+			        transition-duration: 0.0s;
+			}
+
 		}
 
 	> a {
@@ -594,14 +602,14 @@ Project
 	height: 45px;
 	margin: 26px auto 29px;
 	padding: 7px 0 5px;
-	transition-property: width;
-	transition-duration: 0.3s;
 	-webkit-transition-property: width;
+	   -moz-transition-property: width;
+	     -o-transition-property: width;
+	        transition-property: width;
 	-webkit-transition-duration: 0.3s;
-	-moz-transition-property: width;
-	-moz-transition-duration: 0.3s;
-	-o-transition-property: width;
-	-o-transition-duration: 0.3s;
+	   -moz-transition-duration: 0.3s;
+	     -o-transition-duration: 0.3s;
+	        transition-duration: 0.3s;
 	}
 
 #project-nav > * {
@@ -633,14 +641,14 @@ Project
 	margin-right: 0;
 	margin-bottom: 90px;
 	margin-left: 16px;
-	column-count: 1;
-	column-gap: 16px;
 	-webkit-column-count: 1;
+	   -moz-column-count: 1;
+	     -o-column-count: 1;
+	        column-count: 1;
 	-webkit-column-gap: 16px;
-	-moz-column-count: 1;
-	-moz-column-gap: 16px;
-	-o-column-count: 1;
-	-o-column-gap: 16px;
+	   -moz-column-gap: 16px;
+	     -o-column-gap: 16px;
+	        column-gap: 16px;
 	}
 
 	.txt.col2	{width: 496px;	column-count: 2;	-webkit-column-count: 2;	-moz-column-count: 2;	-o-column-count: 2;}
@@ -663,11 +671,12 @@ Project
 	-webkit-border-radius: 7px;
 	border-radius: 7px;
 	/* Box Shadow */
-	box-shadow: 0 10px 25px #CCC;
-	-moz-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
-	-o-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+	
+	        box-shadow: 0 10px 25px #CCC;
 	-webkit-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
-	box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+	   -moz-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+	     -o-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
 	}
 
 img,
@@ -755,26 +764,22 @@ Info & Copyright
 #info h4 a {
 	color: $shade-1;
 	border: none;
-	transition-property: color;
-	transition-duration: 1.2s;
 	-webkit-transition-property: color;
+	   -moz-transition-property: color;
+	     -o-transition-property: color;
+	        transition-property: color;
 	-webkit-transition-duration: 1.2s;
-	-moz-transition-property: color;
-	-moz-transition-duration: 1.2s;
-	-o-transition-property: color;
-	-o-transition-duration: 1.2s;
+	   -moz-transition-duration: 1.2s;
+	     -o-transition-duration: 1.2s;
+	        transition-duration: 1.2s;
 	}
 
 #info h4 a:hover {
 	color: $key-color;
-	transition-property: color;
-	transition-duration: 0.0s;
-	-webkit-transition-property: color;
 	-webkit-transition-duration: 0.0s;
-	-moz-transition-property: color;
-	-moz-transition-duration: 0.0s;
-	-o-transition-property: color;
-	-o-transition-duration: 0.0s;
+	   -moz-transition-duration: 0.0s;
+	     -o-transition-duration: 0.0s;
+	        transition-duration: 0.0s;
 	}
 
 #info p,
@@ -826,7 +831,10 @@ Columns - Dev only
 	*.zero   {opacity: 0.00;}
 	}
 
-#columns-on:hover, #columns-off:hover, #baseline-on:hover, #baseline-off:hover {cursor: pointer;}
+#columns-on:hover,
+#columns-off:hover,
+#baseline-on:hover,
+#baseline-off:hover {cursor: pointer;}
 
 
 
