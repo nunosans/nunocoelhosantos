@@ -1,47 +1,13 @@
 <? $project='NO'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
 	
-	<div class="slider" id="main">
-		<ul class="slides">
-			<li>
-				<a href="work/stethoscore/">
-					<img src="<? echo $media_host ?>images/stethoscore-slide.png" width="1400" height="280" alt="Picture of the 	Stethoscore app on the iPhone 4">
-				</a>
-				<div class="caption">
-					<h2>Stethoscore</h2>
-					<p>UI&hairsp;/&hairsp;UX & web development for the medical utility app</p>
-				</div>
-			</li>
-			<li>
-				<a href="work/paul-cocksedge-shop/">
-					<img src="<? echo $media_host ?>images/paul-cocksedge-shop-slide.png" width="1400" height="280" alt="Logo for Paul 	Cocksedge">
-				</a>
-				<div class="caption">
-					<h2>Paul Cocksedge Shop</h2>
-					<p>Identity and online store for the <br />London-based product design studio</p>
-				</div>
-			</li>
-			
-			<li>
-				<a href="work/tweet-todo/">
-					<img src="<? echo $media_host ?>images/tweet-todo-slide.png" width="1400" height="280" alt="Picture of the Tweet 	#todo app on the iPhone 4S">
-				</a>
-				<div class="caption">
-					<h2>Tweet #todo</h2>
-					<p>User interface and experience of the Twitter-powered to-do list app</p>
-				</div>
-			</li>
-			<li>
-				<a href="work/vania-coelho-santos/">
-					<img src="<? echo $media_host ?>images/vania-coelho-santos-slide.png" width="1400" height="280" alt="">
-				</a>
-				<div class="caption">
-					<h2>Vania Coelho Santos</h2>
-					<p>Design and development of a vibrant architecture portfolio</p>
-				</div>
-			</li>
-		</ul>
+	<div class="featured">
+		<img src="<? echo $media_host ?>images/vania-coelho-santos-slide.jpg" width="1900" height="1100" alt="">
+		<div>
+			<h2>Featured: Vânia Coelho Santos</h2>
+			<p>Design and development of my sister's architecture digital portfolio</p>
+		</div>
 	</div>
-	
+
 	<div class="work">
 
 		<h3>2012</h3>
@@ -79,7 +45,7 @@
 			<a href="work/vania-coelho-santos/">
 				<img src="<? echo $media_host ?>images/vania-coelho-santos-card.jpg" width="240" height="140" alt="A detail of Vânia Coelho Santos website">
 			</a>
-			<p>Design and development of a vibrant architecture portfolio</p>
+			<p>Design and development of my sister's architecture digital portfolio</p>
 		</div>
 		<div>
 			<h4><a href="work/ava-mirabelle/">Ava Mirabelle</a></h4>

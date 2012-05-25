@@ -22,7 +22,7 @@
 	
 	<?
 	
-	$media_host = 'http://media.nunocoelhosantos.com/';
+	$media_host = 'http://media.nunocoelhosantos.dev/';
 	
 	$project_number = 0; // Initial value to iterate
 	$projects_total = 23;
@@ -63,9 +63,8 @@
 	<style type="text/css" media="only screen and (min-width: 1449px)">
 		body > * {width: 1296px;}
 		#header, .project, #project-nav {width: 1264px;}
-		.slider {width: 1264px;}
-		.slider .slides li .caption {background-color: transparent;}
-		.slider .slides li .caption *, .flex-control-nav {margin: 0 auto; padding-right: 1008px; padding-left: 16px;}
+		.featured {width: 1264px; height: 640px;}
+		.featured > div > * {padding-right: 1024px;}
 		.work {width: 1280px;}
 	</style>
 	
@@ -73,9 +72,7 @@
 	<style type="text/css" media="only screen and (max-width: 1448px)">
 		body > * {width: 1040px;}
 		#header, .project, #project-nav {width: 1008px;}
-		.slider {width: 100%;}
-		.slider .slides li .caption {background-color: transparent;}
-		.slider .slides li .caption *, .flex-control-nav {margin: 0 auto; padding-right: 768px; padding-left: 0;}
+		.featured > div > * {padding-right: 768px;}
 		.work {width: 1024px;}
 		.txt.col5 {
 			width: 1008px;
@@ -84,20 +81,22 @@
 			-moz-column-count: 4;
 			-o-column-count: 4;
 			}
-		.project .full     {width: 1008px;}
+
+		.txt.grid1 			{width: 240px;}
+		.txt.grid3 			{width: 496px;}
+		.project .full  	{width: 1008px;}
 		.project .side,
-		.project .half     {width: 752px;}
+		.project .half  	{width: 752px;}
 		.project .both,
-		.project .fourth   {width: 496px; }
-		.project .third    {width: 240px; }
+		.project .fourth	{width: 496px; }
+		.project .third 	{width: 240px; }
 	</style>
 	
 	<!-- Three Columns -->
 	<style type="text/css" media="only screen and (max-width: 1192px)">
 		body > * {width: 784px;}
 		#header, .project, #project-nav {width: 752px;}
-		.slider .slides li .caption {background-color: rgba(0,0,0,0.66);}
-		.slider .slides li .caption *, .flex-control-nav {padding-right: 512px;}
+		.featured > div > * {padding-right: 512px;}
 		.work {width: 768px;}
 		.txt.col5,
 		.txt.col4 {
@@ -117,7 +116,7 @@
 	<style type="text/css" media="only screen and (max-width:  936px)">
 		body > * {width: 528px;}
 		#header, .project, #project-nav, .work h3 {width: 496px;}
-		.slider .slides li .caption *, .flex-control-nav {padding-right: 256px;}
+		.featured > div > * {padding-right: 256px;}
 		.work {width: 512px;}
 		.work h3 {clear: both; height: 30px; border: none; border-bottom: 1px solid #E2E2E2; text-align: left; margin: 20px 8px 20px; padding: 0;}
 		img {
@@ -161,7 +160,9 @@
 	<!-- Mobile Three Column -->
 	<style type="text/css" media="only screen and (max-width:  680px)">
 		body > * {width: 784px;}
-		#header, .project, #project-nav, .work h3 {width: 752px;}
+		#header, .project, #project-nav, .work h3, .featured > div > * {width: 752px;}
+		.featured > div {background-color: black; background-color: rgba(0,0,0,0.85);}
+		.featured > div > * {padding-right: 0px;}
 		.work {width: 768px;}
 		.project .side,
 		.project .both,
@@ -177,11 +178,7 @@
 		a, a:link, a:visited, a:hover, a:active {height: 31px;}
 
 		/* Remove some elements */
-		.work div p, .slider .slides li .caption p, .flex-control-nav {display: none;}
-
-		/* Slider */
-		.slider .slides li .caption {margin-top: 224px; height: 25px;}
-		.slider .slides li .caption * {padding-right: 0px; width: 752px;}
+		.work div p {display: none;}
 
 		.work h3 {height: 40px;}
 
@@ -209,7 +206,7 @@
 	<!-- Mobile Two Column -->
 	<style type="text/css" media="only screen and (max-width:  440px)">
 		body > * {width: 528px;}
-		#header, .project, #project-nav, .work h3 {width: 496px;}
+		#header, .project, #project-nav, .work h3, .featured > div > * {width: 496px;}
 		.work {width: 512px;}
 		.project .side,
 		.project .both,
@@ -219,7 +216,7 @@
 		.project .fourth {
 			width: 496px;
 			}
-		.slider .slides li .caption * {padding-right: 0px; width: 496px;}
+		.featured > div > div > * {padding-right: 0px; width: 496px;}
 		.txt,
 		.txt.col1, .txt.col2, .txt.col3, .txt.col4, .txt.col5, 
 		.txt.grid2, .txt.grid3, .txt.grid4 {
@@ -234,11 +231,9 @@
 
 	<div id="header">
 		<h1>
-			<em><a href="/">Nuno Coelho Santos</a></em> &nbsp;/&nbsp; 
-			<a class="tel" href="tel:+447919537622">+44 [0]7919 537 622</a> &nbsp;/&nbsp; 
-			<a href="mailto:nuno@nunocoelhosantos.com?subject=Question%20about%20your%20work%20/%20Quote%20/%20Work%20proposal%20/%20Fan%20mail&body=Dear%20Nuno,%0D%0A%0D%0A%0D%0A">nuno&hairsp;@&hairsp;nunocoelhosantos.com</a>
+			<em><a href="/">Nuno Coelho Santos</a></em><br />
+			Graphic Designer & Front-end Developer
 		</h1>
-		<h1><em>Graphic Designer</em> &nbsp;—&nbsp; <span>Specialised in Identity and Web</span></h1>
 	</div>
 	
 	<? if ($project!='NO'): ?>

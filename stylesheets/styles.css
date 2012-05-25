@@ -240,15 +240,15 @@ Nav & Footer
 #header {
   display: block;
   width: 752px;
-  margin: 25px auto 0;
-  transition-property: width;
-  transition-duration: 0.3s;
+  margin: 25px auto 35px;
   -webkit-transition-property: width;
-  -webkit-transition-duration: 0.3s;
   -moz-transition-property: width;
-  -moz-transition-duration: 0.3s;
   -o-transition-property: width;
-  -o-transition-duration: 0.3s; }
+  transition-property: width;
+  -webkit-transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  transition-duration: 0.3s; }
 
 #header h1 {
   color: #999999;
@@ -294,52 +294,32 @@ Homepage
   top: 0px;
   left: 0px; }
 
-.slider {
+.featured {
   display: block;
   width: 100%;
   height: 280px;
-  margin: 35px auto 50px;
-  padding: 0 0 30px 0;
-  background-image: url("http://media.nunocoelhosantos.com/graphics/bg-slider.jpg");
-  background-repeat: no-repeat;
-  background-position: 50% 0;
-  -webkit-transition-property: width;
-  -moz-transition-property: width;
-  -o-transition-property: width;
-  transition-property: width;
-  -webkit-transition-duration: 0.3s;
-  -moz-transition-duration: 0.3s;
-  -o-transition-duration: 0.3s;
-  transition-duration: 0.3s; }
-
-.slider .slides {
-  display: block;
-  width: 100%;
-  height: 280px; }
-
-.slider .slides:hover li img {
-  background-color: #ff1500;
-  background-color: rgba(255, 21, 0, 0.7);
-  cursor: pointer;
-  -webkit-transition-duration: 0.0s;
-  -moz-transition-duration: 0.0s;
-  -o-transition-duration: 0.0s;
-  transition-duration: 0.0s; }
-
-.slider .slides li {
-  position: relative;
-  /* Hide the slides before the JS is loaded. Avoids image jumping */
-  display: none;
+  margin: 0 auto 100px;
+  /* Display background while image loads */
+  background-color: #636363;
   overflow: hidden;
-  width: 100%;
-  height: 280px; }
+  /* Relative position to fix children absolute position*/
+  position: relative; }
 
-.slider .slides li img {
+.featured img {
+  -webkit-transition-property: none;
+  -moz-transition-property: none;
+  -o-transition-property: none;
+  transition-property: none; }
+
+.featured > div {
+  width: 100%;
   position: absolute;
-  left: 50%;
-  margin-left: -750px;
-  margin-top: 0;
-  background-color: transparent;
+  left: 0;
+  bottom: 0;
+  display: block;
+  overflow: visible;
+  padding: 16px 0 40px;
+  background-color: rgba(0, 0, 0, 0.25);
   -webkit-transition-property: background-color;
   -moz-transition-property: background-color;
   -o-transition-property: background-color;
@@ -349,90 +329,34 @@ Homepage
   -o-transition-duration: 1.2s;
   transition-duration: 1.2s; }
 
-.slider .slides li .caption {
-  position: absolute;
-  top: 0;
-  display: block;
-  margin: 194px auto 0;
-  width: 100%;
-  height: 55px;
-  padding: 10px 0 22px;
-  background-color: rgba(0, 0, 0, 0.66);
-  -webkit-transition-property: background-color;
-  -moz-transition-property: background-color;
-  -o-transition-property: background-color;
-  transition-property: background-color;
-  -webkit-transition-duration: 0.3s;
-  -moz-transition-duration: 0.3s;
-  -o-transition-duration: 0.3s;
-  transition-duration: 0.3s;
-  z-index: 2;
-  pointer-events: none; }
+.featured > div:hover {
+  background-color: #ff1500;
+  background-color: rgba(255, 21, 0, 0.7);
+  -webkit-transition-duration: 0.0s;
+  -moz-transition-duration: 0.0s;
+  -o-transition-duration: 0.0s;
+  transition-duration: 0.0s;
+  cursor: pointer; }
 
-.slider .slides li .caption * {
-  width: 240px;
-  padding: 0 512px 0 16px;
-  -webkit-transition-property: padding;
-  -moz-transition-property: padding;
-  -o-transition-property: padding;
-  transition-property: padding;
-  -webkit-transition-duration: 0.3s;
-  -moz-transition-duration: 0.3s;
-  -o-transition-duration: 0.3s;
-  transition-duration: 0.3s; }
-
-.slider .slides h2 {
-  color: white; }
-
-.slider .slides p {
-  color: #BBB;
-  color: rgba(255, 255, 255, 0.6);
-  padding: 0 512px 0 16px; }
-
-.flex-control-nav {
+.featured > div > * {
   width: 240px;
   margin: 0 auto;
-  padding: 0 512px 0 16px;
-  -webkit-transition-property: padding;
-  -moz-transition-property: padding;
-  -o-transition-property: padding;
-  transition-property: padding;
+  padding-right: 256px;
+  -webkit-transition-property: padding-right, width;
+  -moz-transition-property: padding-right, width;
+  -o-transition-property: padding-right, width;
+  transition-property: padding-right, width;
   -webkit-transition-duration: 0.3s;
   -moz-transition-duration: 0.3s;
   -o-transition-duration: 0.3s;
   transition-duration: 0.3s; }
 
-.flex-control-nav li {
-  margin: 7px 2px 0 -5px;
-  display: inline-block; }
+.featured h2 {
+  color: white;
+  padding-bottom: 8px; }
 
-.flex-control-nav li a {
-  border: 5px solid #FAFAFA;
-  border-radius: 10px;
-  color: transparent;
-  text-indent: -9999px;
-  /* For IE8 */
-  cursor: pointer;
-  display: block;
-  width: 8px;
-  height: 8px;
-  text-decoration: none;
-  background-color: #d2d2d2;
-  -webkit-transition-property: background-color;
-  -moz-transition-property: background-color;
-  -o-transition-property: background-color;
-  transition-property: background-color;
-  -webkit-transition-duration: 0.3s;
-  -moz-transition-duration: 0.3s;
-  -o-transition-duration: 0.3s;
-  transition-duration: 0.3s; }
-
-.flex-control-nav li a:hover,
-.flex-control-nav li a.active:hover {
-  background-color: #ff1500; }
-
-.flex-control-nav li a.active {
-  background-color: #595959; }
+.featured p {
+  color: rgba(255, 255, 255, 0.6); }
 
 /*
 ----------------------------------------------------------
@@ -440,7 +364,7 @@ Work
 ----------------------------------------------------------
 */
 h3 {
-  color: #d2d2d2;
+  color: #999999;
   display: inline-block;
   float: left;
   clear: both;
@@ -552,7 +476,7 @@ Project
 #project-nav > * {
   display: block;
   width: 240px;
-  color: #d2d2d2; }
+  color: #999999; }
 
 #project-nav > h2 {
   float: left;
@@ -742,10 +666,10 @@ Info & Copyright
   display: block;
   padding-left: 32px;
   margin-bottom: 40px;
-  color: #d2d2d2;
+  color: #999999;
   clear: both; }
   #copyright a, #copyright a:link, #copyright a:visited {
-    color: #d2d2d2;
+    color: #999999;
     border-bottom: none; }
   #copyright a:hover, #copyright a:active, #copyright a:focus {
     color: #ff1500; }

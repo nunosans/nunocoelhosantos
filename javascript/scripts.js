@@ -6,32 +6,41 @@ $(function() {
     $(".dev").remove();
 });
 
-function nextSlide() {
-    replay.flexAnimate(0); replay.resume();
-};
-
 $(document).ready(function() {
-	
-	// Slider
-	$(window).load(function() {
-		$('.slider').flexslider({
-			animation: "slide",
-			slideshowSpeed: 8000,
-			animationDuration: 500,
-			directionNav: false,
-			keyboardNav: false,
-			pauseOnAction: false,
-			pauseOnHover: true,
-			animationLoop: false,
-			slideToStart: 0,
-			// Return to the first slide on the end of the animation
-			end: function(slider){
-				replay = slider;
-				var timer=setTimeout("nextSlide()",8000);
-			}
-		});
-	});
-	
+
+	// Resize the Featured Project 
+	function resizeFeaturedProject() {
+        // Define variables
+        var windowHeight = $(window).height();
+        var margin = $("#header").outerHeight(true);
+        var container = $('.featured');
+        var containerHeight = windowHeight - margin;
+        var containerWidth = $('.featured').width();
+        var image = $('.featured img');
+        var imageRatio = 0.55;
+        
+        container.height(containerHeight);
+        
+        // Resize the image to fill the container
+        if ((containerHeight / containerWidth) > imageRatio){
+            image.height(containerHeight - imageRatio + 1);
+            image.width(containerHeight / imageRatio + 1);
+        } else {
+            image.width(containerWidth - imageRatio + 1);
+            image.height(containerWidth * imageRatio + 1); 
+        };
+        
+        image.css('position', 'relative');
+        image.css('left', (containerWidth - image.width()) / 2);
+        image.css('top', (containerHeight - image.height()) / 2);
+
+    };
+	resizeFeaturedProject();
+
+    $('.featured').click(function() {
+
+    });
+
     // Grid Toggles
     $("#columns").css('display', 'none');
     $("#columns-on").css('display', 'inline');
@@ -64,12 +73,18 @@ $(document).ready(function() {
     	}
     );
 
-    $("img, .slider").fadeTo(0, 0);
+    // Resize elements with window
+    $(window).resize(function() {
+        resizeFeaturedProject();
+    });
+
+    // Get elements ready to fade-in
+    $("img, .featured div").fadeTo(0, 0);
 });
 
+
 $(window).load(function() {
-
-    $("img, .slider").fadeTo(500, 1);
-
+    // Fade elements in
+    $("img, .featured div").fadeTo(500, 1);
 });
 

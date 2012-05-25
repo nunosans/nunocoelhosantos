@@ -1,40 +1,12 @@
-<? if ($project=='NO'): ?>
+<? if ($project!='NO'): ?>
+<div id="project-nav">
+	<h2><span class="pictogram">&#93;</span>Back</h2>
+	<span><? echo $project_number ?> of <? echo $projects_total ?></span>
+	<span><a href="">Previous</a> &nbsp;/&nbsp; <a href="">Next</a></span>
+</div>
+<? endif; ?>
+
 <div id="info">
-	
-	<div class="txt grid1">
-		<h4>Filter by Type</h4>
-		<ul>
-			<li><a href="">Identity</a></li>
-			<li><a href="">Print</a></li>
-			<li><a href="">Promotional</a></li>
-			<li><a href="">Software</a></li>
-			<li><a href="">Type Design</a></li>
-			<li><a href="">Web</a></li>
-		</ul>
-	</div>
-	<div class="txt grid1">
-		<h4>Filter by Field</h4>
-		<ul>
-			<li><a href="">Architecture</a></li>
-			<li><a href="">Fashion</a></li>
-			<li><a href="">Photography</a></li>
-			<li><a href="">Product Design</a></li>
-			<li><a href="">Publishing</a></li>
-			<li><a href="">Turism</a></li>
-		</ul>
-	</div>
-	<div class="txt grid2">
-		<h4>Specials</h4>
-		<ul>
-			<li><a href="">Collection of Logo's & Typography</a></li>
-			<li><a href="">Collection of Editorial work</a></li>
-			<li><a href="">Collection of Web work</a></li>
-		</ul>
-	</div>
-	<div class="txt grid4">
-		<h4><a href="/about">About</a></h4>
-		<p>Freelance designer based in London. Director of <a href="http://savantstudio.co.uk/" target="_blank">Savant Studio</a>. Specialised in identity and web. <a href="http://www.stantonwilliams.com/projects/new-ual-campus-for-central-saint-martins-at-kings-cross/" target="_blank">Central Saint Martins</a> soon to be graduate. Originally from <a href="http://vimeo.com/21698583" target="_blank">Porto, Portugal</a>. <a href="/about">Read more</a></p>
-	</div>
 	<div class="txt grid2">
 		<h4>Contacts</h4>
 		<ul>
@@ -43,7 +15,15 @@
 			<li><a href="http://twitter.com/nunosans" target="_blank">@&hairsp;nunosans</a></li>
 		</ul>
 	</div>
-	<!--<div class="txt grid1">
+	<div class="txt grid3">
+		<h4>Newsletter</h4>
+		<p>If you feel like having new work sent to your inbox, enter your email below</p>
+		<form id="newsletter">
+			<input type="email" name="email" placeholder="Email address">
+			<input type="submit" name="submit" value="Submit">
+		</form>
+	</div>
+	<div class="txt grid1">
 		<h4>Also</h4>
 		<ul>
 			<li><a href="http://uk.linkedin.com/pub/nuno-coelho-santos/31/244/915" target="_blank">LinkedIn</a></li>
@@ -52,24 +32,7 @@
 			<li><a href="http://twitter.com/nunosans" target="_blank">Twitter</a></li>
 		</ul>
 	</div>
-	<div class="txt grid4">
-		<h4>Currently working on</h4>
-		<ul>
-			<li>Paul Cocksedge Studio — <i>Identity, Online Store</i></li>
-			<li>Tweet #todo — <i>iOS App, Interface Design / User Experience</i></li>
-			<li>Expresso Viagens CMS — <i>IA, Front-end development, Interface Design</i></li>
-		</ul>
-	</div>-->
-	<div class="txt grid3">
-		<h4>Stay up to date</h4>
-		<p>Subscribe here for emails with the latest news and work updates</p>
-		<form id="newsletter">
-			<input type="email" name="email" placeholder="Email address">
-			<input type="submit" name="submit" value="Submit">
-		</form>
-	</div>
 </div>
-<? endif; ?>
 
 <span id="copyright">
 	© <?php date_default_timezone_set('Europe/London'); echo date("Y") ?> Nuno Coelho Santos &nbsp;/&nbsp;
