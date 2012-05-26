@@ -2,21 +2,24 @@
 	<div class="txt grid2">
 		<h4>Contacts</h4>
 		<ul>
-			<li><a class="tel" href="tel:+447919537622">+44 [0]7919 537 622</a></li>
-			<li><a href="mailto:nuno@nunocoelhosantos.com?subject=Question%20about%20your%20work%20/%20Quote%20/%20Work%20proposal%20/%20Fan%20mail&body=Dear%20Nuno,%0D%0A%0D%0A%0D%0A">nuno&hairsp;@&hairsp;nunocoelhosantos.com</a></li>
-			<li><a href="http://twitter.com/nunosans" target="_blank">@&hairsp;nunosans</a></li>
+			<li><a class="tel" href="tel:+447919537622">+44 [0]7919 537 622</a>,</li>
+			<li><a href="mailto:nuno@nunocoelhosantos.com?subject=Question%20about%20your%20work%20/%20Quote%20/%20Work%20proposal%20/%20Fan%20mail&body=Dear%20Nuno,%0D%0A%0D%0A%0D%0A">nuno&hairsp;@&hairsp;nunocoelhosantos.com</a>,</li>
+			<li>and Skype as nunocoelhosantos</li>
 		</ul>
 	</div>
 	<div class="txt grid3">
 		<h4>Newsletter</h4>
 		<p>If you feel like having new work sent to you, just enter your email below</p>
-		<form id="newsletter">
-			<input type="email" name="email" placeholder="Email address">
-			<input type="submit" name="submit" value="Submit">
+		<form id="newsletter" action="http://nunocoelhosantos.us4.list-manage.com/subscribe/post" method="post">
+			<input type="hidden" name="u" value="25fc1fffb49d07ccadcc68a98">
+			<input type="hidden" name="id" value="4e296e3115">
+			<input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25">
+			<input type="submit" value="Submit">
+			<span class="error">*|HTML:EMAILERROR|*</span>
 		</form>
 	</div>
 	<div class="txt grid1">
-		<h4>Also</h4>
+		<h4>Also on</h4>
 		<ul>
 			<li><a href="http://github.com/nunosans" target="_blank">Github</a></li>
 			<li><a href="http://twitter.com/nunosans" target="_blank">Twitter</a></li>

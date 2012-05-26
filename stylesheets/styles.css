@@ -281,6 +281,7 @@ Nav & Footer
 
 #nav {
   float: right;
+  width: 248px;
   margin-top: 18px; }
 
 #nav li {
@@ -317,7 +318,7 @@ Homepage
   display: block;
   width: 100%;
   height: 280px;
-  margin: 0 auto 60px;
+  margin: 0 auto 0;
   /* Display background while image loads */
   background-color: #303030;
   overflow: hidden;
@@ -376,6 +377,11 @@ Homepage
 
 .featured p {
   color: rgba(255, 255, 255, 0.6); }
+
+.featured a {
+  color: inherit;
+  text-shadow: none;
+  border: none; }
 
 /*
 ----------------------------------------------------------
@@ -485,6 +491,7 @@ Project
   height: 45px;
   margin: 26px auto 29px;
   padding: 7px 0 5px;
+  clear: both;
   -webkit-transition-property: width;
   -moz-transition-property: width;
   -o-transition-property: width;
@@ -508,6 +515,7 @@ Project
   clear: right; }
 
 .project {
+  clear: both;
   overflow: visible; }
 
 .txt {
@@ -526,7 +534,15 @@ Project
   -webkit-column-gap: 16px;
   -moz-column-gap: 16px;
   -o-column-gap: 16px;
-  column-gap: 16px; }
+  column-gap: 16px;
+  -webkit-transition-property: width;
+  -moz-transition-property: width;
+  -o-transition-property: width;
+  transition-property: width;
+  -webkit-transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  transition-duration: 0.3s; }
 
 .txt.col2 {
   width: 496px;
@@ -604,7 +620,7 @@ video {
 .full {
   width: 1264px;
   height: auto;
-  margin-bottom: 16px; }
+  margin-bottom: 90px; }
 
 .half {
   width: 752px;
@@ -681,7 +697,8 @@ Info & Copyright
   color: #999999; }
 
 #info .txt p {
-  padding-right: 100px; }
+  padding-right: 100px;
+  max-width: 280px; }
 
 #copyright {
   display: block;

@@ -1,4 +1,4 @@
-<? $project='Expresso Viagens'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
+<? $project='Vânia Coelho Santos'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
 
 <div class="project-nav">
 	<h2><? echo $project ?></h2>

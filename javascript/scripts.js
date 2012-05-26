@@ -8,6 +8,12 @@ $(function() {
 
 $(document).ready(function() {
 
+    // Apply localScroll to the nav
+    $('#nav').localScroll({
+        lock: true,
+        target:'body'
+    });
+    
 	// Resize the Featured Project 
 	function resizeFeaturedProject() {
         // Define variables
@@ -36,10 +42,6 @@ $(document).ready(function() {
 
     };
 	resizeFeaturedProject();
-
-    $('.featured').click(function() {
-        window.location = "work/vania-coelho-santos/";
-    });
 
     // Grid Toggles
     $("#columns").css('display', 'none');
@@ -86,5 +88,14 @@ $(document).ready(function() {
 $(window).load(function() {
     // Fade elements in
     $("img, .featured div").fadeTo(500, 1);
+
+    // Make the bar of the featured project clickable
+    $(".featured").click(function() {
+        $('#.featured h2 a').bind('click', function() {
+            window.location.href = this.href;
+             return false;
+        });
+        $(".featured h2 a").trigger('click').once();
+    });
 });
 

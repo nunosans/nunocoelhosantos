@@ -14,44 +14,41 @@
 	<link   href="/humans.txt"				rel="author"		type="text/plain"					/>
 	
 	<script type="text/javascript" src="http://use.typekit.com/qxu7res.js"></script>
-	<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
-	<script type="text/javascript" src="/javascript/jquery.flexslider.js"></script>
+	<script type="text/javascript" src="/javascript/jquery.js"></script>
 	<script type="text/javascript" src="/javascript/scripts.js"></script>
 	
-	<!--<script type="text/javascript" src="http://mint.nunocoelhosantos.com/?js"></script>-->
+	<script type="text/javascript" src="http://mint.nunocoelhosantos.com/?js"></script>
 	
 	<?
 	
-	$media_host = 'http://media.nunocoelhosantos.dev/';
-	
 	$project_number = 0; // Initial value to iterate
-	$projects_total = 21;
+	$projects_total = 3;
 	
 	switch ($project) {
-		case 'Fractures from Anxiety'	: $project_number++;
-		case 'Sophie Westerlind'		: $project_number++;
-		case 'Miti Ruangkritya'			: $project_number++;
-		case 'Design Classics'			: $project_number++;
-		case 'Ana Barreira'				: $project_number++;
+	//	case 'Fractures from Anxiety'	: $project_number++;
+	//	case 'Sophie Westerlind'		: $project_number++;
+	//	case 'Miti Ruangkritya'			: $project_number++;
+	//	case 'Design Classics'			: $project_number++;
+	//	case 'Ana Barreira'				: $project_number++;
 	//	case 'Navigating News'			: $project_number++;
-		case 'Savant'					: $project_number++;
-		case 'Caroline Pera'			: $project_number++;
-		case 'Ailara Berdyyeva'			: $project_number++;
-		case 'Marili André'				: $project_number++;
-		case 'Stethoscore'				: $project_number++;
-		case 'Nostalgics'				: $project_number++;
-		case 'Iterar'					: $project_number++;
-		case 'Jo Phipps'				: $project_number++;
-		case 'Lilias Buchanan'			: $project_number++;
+	//	case 'Savant'					: $project_number++;
+	//	case 'Caroline Pera'			: $project_number++;
+	//	case 'Ailara Berdyyeva'			: $project_number++;
+	//	case 'Marili André'				: $project_number++;
+	//	case 'Stethoscore'				: $project_number++;
+	//	case 'Nostalgics'				: $project_number++;
+	//	case 'Iterar'					: $project_number++;
+	//	case 'Jo Phipps'				: $project_number++;
+	//	case 'Lilias Buchanan'			: $project_number++;
 	//	case 'PUMA.Peace'				: $project_number++;
-		case 'Shooting People'			: $project_number++;
-		case 'Protein Journal'			: $project_number++;
+	//	case 'Shooting People'			: $project_number++;
+	//	case 'Protein Journal'			: $project_number++;
 		case 'Index 7'					: $project_number++;
 		case 'Expresso Viagens'			: $project_number++;
-		case 'Ava Mirabelle'			: $project_number++;
+	//	case 'Ava Mirabelle'			: $project_number++;
 	//	case 'Norman Hartnell'			: $project_number++;
 		case 'Vânia Coelho Santos'		: $project_number++;
-		case 'Paul Cocksedge Shop'		: $project_number++;
+	//	case 'Paul Cocksedge Shop'		: $project_number++;
 	//	case '#todo'					: $project_number++;
 	//	case 'Open Cinema'				: $project_number++;
 	//	Add new projects here using the same structure
@@ -98,6 +95,8 @@
 		#header, .project, .project-nav {width: 752px;}
 		.featured > div > * {padding-right: 512px;}
 		.work {width: 768px;}
+		.txt.grid1	{width: 112px;}
+		.txt.grid3	{width: 368px;}
 		.txt.col5,
 		.txt.col4 {
 			width: 752px;
@@ -177,6 +176,15 @@
 		* {font-size: 28px !important; line-height: 34px !important;}
 		a, a:link, a:visited, a:hover, a:active {height: 31px;}
 
+		#nav li {margin-top: 16px;}
+		.featured p {
+			width: 50%;
+			background-image: url('http://media.nunocoelhosantos.com/graphics/arrow.png');
+			background-repeat: no-repeat;
+			background-position-x:100%;
+			padding-right: 272px;
+			}
+
 		/* Remove some elements */
 		.work div p {display: none;}
 
@@ -186,18 +194,16 @@
 		.project > * {padding-bottom: 40px;}
 
 		.txt,
-		.txt.col1, .txt.col2, .txt.col3, .txt.col4, .txt.col5, 
-		.txt.grid3, .txt.grid4 {
+		.txt.col1,  .txt.col2,  .txt.col3,  .txt.col4, .txt.col5, 
+		.txt.grid1, .txt.grid2, .txt.grid3, .txt.grid4 {
 			width: 752px;
 			column-count: 1;
 			-webkit-column-count: 1;
 			-moz-column-count: 1;
 			-o-column-count: 1;
 			}
-		.txt.grid1 {width:240px;}
-		.txt.grid2 {width:496px;}
 
-		#info .txt p {padding-right: 0;}
+		#info .txt p {padding-right: 0; max-width: 560px;}
 		#newsletter input[type="email"] {height: 48px; width: 351px; margin: 10px 0 0; padding-top:0; padding-bottom:0;}
 		#newsletter input[type="submit"] {height: 52px; width: 129px; text-shadow: 0 -3px 0 rgba(0, 0, 0, 0.2); margin: 10px 0 0; padding-top:0; padding-bottom:0;}
 
@@ -216,10 +222,17 @@
 		.project .fourth {
 			width: 496px;
 			}
+		#nav{float: left;}
+		#nav li:first-child {margin-left: 0;}
 		.featured > div > div > * {padding-right: 0px; width: 496px;}
+		.featured p {
+			width: 464px;
+			padding-right: 32px;
+			background-position-x:100%;
+			}
 		.txt,
-		.txt.col1, .txt.col2, .txt.col3, .txt.col4, .txt.col5, 
-		.txt.grid2, .txt.grid3, .txt.grid4 {
+		.txt.col1,  .txt.col2,  .txt.col3,  .txt.col4, .txt.col5, 
+		.txt.grid1, .txt.grid2, .txt.grid3, .txt.grid4 {
 			width: 496px;
 			}
 	</style>
