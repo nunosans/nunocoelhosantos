@@ -60,8 +60,24 @@
 	<style type="text/css" media="only screen and (min-width: 1449px)">
 		body > * {width: 1296px;}
 		#header, .project, .project-nav {width: 1264px;}
-		.featured {width: 1264px; height: 640px;}
-		.featured > div > * {padding-right: 1024px;}
+		.featured {width: 1264px; max-height: 695px;}
+		.featured img {
+			/* Override JS */
+			top: 0 !important;
+			left: 0 !important;
+			height: 695px !important;
+			width: 1264px !important;
+
+			}
+		.featured > div > * {
+			padding-left: 16px;
+			padding-right: 1008px;
+			}
+		.featured p {
+			background-image: url('http://media.nunocoelhosantos.com/graphics/arrow.png');
+			background-repeat: no-repeat;
+			background-position: 1224px 0;
+			}
 		.work {width: 1280px;}
 	</style>
 	
@@ -181,7 +197,7 @@
 			width: 50%;
 			background-image: url('http://media.nunocoelhosantos.com/graphics/arrow.png');
 			background-repeat: no-repeat;
-			background-position-x:100%;
+			background-position:100% 0;
 			padding-right: 272px;
 			}
 

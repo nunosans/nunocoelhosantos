@@ -1,7 +1,7 @@
 <? $nav='home'; $project='NO'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
 	
 	<div class="featured">
-		<img src='http://media.nunocoelhosantos.dev/images/vania-coelho-santos-slide.jpg' width='2000' height='1100' alt=''>
+		<img src='http://media.nunocoelhosantos.com/images/vania-coelho-santos-slide.jpg' width='2000' height='1100' alt=''>
 		<div>
 			<h2><a href="work/vania-coelho-santos/">Featured: Vânia Coelho Santos</a></h2>
 			<p><a href="work/vania-coelho-santos/">Design and development of my sister's architecture digital portfolio</a></p>

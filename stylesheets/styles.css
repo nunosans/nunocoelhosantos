@@ -362,10 +362,10 @@ Homepage
   width: 240px;
   margin: 0 auto;
   padding-right: 256px;
-  -webkit-transition-property: padding-right, width;
-  -moz-transition-property: padding-right, width;
-  -o-transition-property: padding-right, width;
-  transition-property: padding-right, width;
+  -webkit-transition-property: padding-right, padding-left, width;
+  -moz-transition-property: padding-right, padding-left, width;
+  -o-transition-property: padding-right, padding-left, width;
+  transition-property: padding-right, padding-left, width;
   -webkit-transition-duration: 0.3s;
   -moz-transition-duration: 0.3s;
   -o-transition-duration: 0.3s;
@@ -379,6 +379,7 @@ Homepage
   color: rgba(255, 255, 255, 0.6); }
 
 .featured a {
+  display: inline;
   color: inherit;
   text-shadow: none;
   border: none; }
