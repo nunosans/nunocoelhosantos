@@ -37,8 +37,8 @@ SASS Variables
 $key-color: 	#FF1500;	/* Special Red */
 $shade-1:		#444;		/* Headers */
 $shade-2:		#999;		/* Body Text */
-$shade-3:		#999;	/* Notes */
-$shade-4:		#EAEAEA;	/* Borders */
+$shade-3:		#999;		/* Notes */
+$shade-4:		#E0E0E0;	/* Borders */
 
 
 /*
@@ -268,6 +268,7 @@ Nav & Footer
 	display: block;
 	width: 752px;
 	margin: 25px auto 35px;
+	overflow: hidden;
 	-webkit-transition-property: width;
 	   -moz-transition-property: width;
 	     -o-transition-property: width;
@@ -279,6 +280,7 @@ Nav & Footer
 	}
 
 #header h1 {
+	float: left;
 	color: $shade-2;
 	font-style: normal;
 	}
@@ -308,6 +310,24 @@ Nav & Footer
 	        transition-duration: 0.0s;
 	}
 
+#nav {
+	float: right;
+	margin-top: 18px;
+	}
+	#nav li {
+		float:left;
+		display: inline-block;
+		margin-left: 8px;
+		}
+	#nav li:after {
+		content: "/";
+		color: $shade-4;
+		margin-left: 8px;
+		}
+		#nav li:last-child:after {
+			content: "";
+			}
+
 /*
 ----------------------------------------------------------
 Homepage
@@ -330,9 +350,9 @@ Homepage
 	display: block;
 	width: 100%;
 	height: 280px;
-	margin: 0 auto 100px;
+	margin: 0 auto 60px;
 	/* Display background while image loads */
-	background-color: #636363;
+	background-color: #303030;
 	overflow: hidden;
 	/* Relative position to fix children absolute position*/
 	position: relative;
@@ -405,6 +425,10 @@ h3 {
 	margin: 0 8px 100px -248px;
 	border-right: 1px solid $shade-4;
 	line-height: 10px;
+	}
+
+#portfolio {
+	padding-top: 40px;
 	}
 
 .work {
@@ -502,10 +526,9 @@ h3 {
 Project
 ----------------------------------------------------------
 */
-#project-nav {
+.project-nav {
 	width: 1008px;
 	border-top: 1px solid $shade-4;
-	border-bottom: 1px solid $shade-4;
 	height: 45px;
 	margin: 26px auto 29px;
 	padding: 7px 0 5px;
@@ -519,18 +542,18 @@ Project
 	        transition-duration: 0.3s;
 	}
 
-#project-nav > * {
+.project-nav > * {
 	display: block;
 	width: 240px;
 	color: $shade-3;
 	}
 
-#project-nav > h2 {
+.project-nav > h2 {
 	float: left;
 	color: #444;
 	}
 
-#project-nav > span {
+.project-nav > span {
 	float: right;
 	clear: right;
 	}

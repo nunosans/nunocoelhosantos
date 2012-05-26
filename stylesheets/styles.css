@@ -241,6 +241,7 @@ Nav & Footer
   display: block;
   width: 752px;
   margin: 25px auto 35px;
+  overflow: hidden;
   -webkit-transition-property: width;
   -moz-transition-property: width;
   -o-transition-property: width;
@@ -251,6 +252,7 @@ Nav & Footer
   transition-duration: 0.3s; }
 
 #header h1 {
+  float: left;
   color: #999999;
   font-style: normal; }
 
@@ -277,6 +279,23 @@ Nav & Footer
   -o-transition-duration: 0.0s;
   transition-duration: 0.0s; }
 
+#nav {
+  float: right;
+  margin-top: 18px; }
+
+#nav li {
+  float: left;
+  display: inline-block;
+  margin-left: 8px; }
+
+#nav li:after {
+  content: "/";
+  color: #e0e0e0;
+  margin-left: 8px; }
+
+#nav li:last-child:after {
+  content: ""; }
+
 /*
 ----------------------------------------------------------
 Homepage
@@ -298,9 +317,9 @@ Homepage
   display: block;
   width: 100%;
   height: 280px;
-  margin: 0 auto 100px;
+  margin: 0 auto 60px;
   /* Display background while image loads */
-  background-color: #636363;
+  background-color: #303030;
   overflow: hidden;
   /* Relative position to fix children absolute position*/
   position: relative; }
@@ -374,8 +393,11 @@ h3 {
   pointer-events: none;
   padding: 0 16px;
   margin: 0 8px 100px -248px;
-  border-right: 1px solid #eaeaea;
+  border-right: 1px solid #e0e0e0;
   line-height: 10px; }
+
+#portfolio {
+  padding-top: 40px; }
 
 .work {
   width: 768px;
@@ -457,10 +479,9 @@ h3 {
 Project
 ----------------------------------------------------------
 */
-#project-nav {
+.project-nav {
   width: 1008px;
-  border-top: 1px solid #eaeaea;
-  border-bottom: 1px solid #eaeaea;
+  border-top: 1px solid #e0e0e0;
   height: 45px;
   margin: 26px auto 29px;
   padding: 7px 0 5px;
@@ -473,16 +494,16 @@ Project
   -o-transition-duration: 0.3s;
   transition-duration: 0.3s; }
 
-#project-nav > * {
+.project-nav > * {
   display: block;
   width: 240px;
   color: #999999; }
 
-#project-nav > h2 {
+.project-nav > h2 {
   float: left;
   color: #444; }
 
-#project-nav > span {
+.project-nav > span {
   float: right;
   clear: right; }
 
@@ -629,7 +650,7 @@ Info & Copyright
   clear: both; }
 
 #info .txt {
-  border-top: 1px solid #eaeaea;
+  border-top: 1px solid #e0e0e0;
   min-height: 140px;
   padding-top: 14px;
   margin-top: 0;

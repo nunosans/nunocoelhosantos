@@ -1,14 +1,14 @@
-<? $project='NO'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
+<? $nav='home'; $project='NO'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
 	
 	<div class="featured">
-		<img src="<? echo $media_host ?>images/vania-coelho-santos-slide.jpg" width="1900" height="1100" alt="">
+		<img src='http://media.nunocoelhosantos.dev/images/vania-coelho-santos-slide.jpg' width='2000' height='1100' alt=''>
 		<div>
 			<h2>Featured: Vânia Coelho Santos</h2>
 			<p>Design and development of my sister's architecture digital portfolio</p>
 		</div>
 	</div>
 
-	<div class="work">
+	<div class="work" id="portfolio">
 
 		<h3>2012</h3>
 
@@ -19,7 +19,7 @@
 			</a>
 			<p>App for the organisation bringing cinema to socially excluded people</p>
 		</div>
-		<div>
+		<div class="dev">
 			<h4><a href="work/tweet-todo/">Tweet #todo</a></h4>
 			<a href="work/tweet-todo/">
 				<img src="<? echo $media_host ?>images/tweet-todo-card.jpg" width="240" height="140" alt="">
@@ -28,12 +28,12 @@
 		</div>
 		<div>
 			<h4><a href="work/paul-cocksedge-shop/">Paul Cocksedge Shop</a></h4>
-			<a href="work/paul-cocksedge/">
+			<a href="work/paul-cocksedge-shop/">
 				<img src="<? echo $media_host ?>images/paul-cocksedge-shop-card.jpg" width="240" height="140" alt="Image of Bookmark by Paul Cocksedge Studio">
 			</a>
-			<p>Identity and online store for the <br />London-based product design studio</p>
+			<p>Identity and online store for the <br />London-based design studio</p>
 		</div>
-		<div>
+		<div class="dev">
 			<h4><a href="work/norman-hartnell/">Norman Hartnell</a></h4>
 			<a href="work/norman-hartnell/">
 				<img src="<? echo $media_host ?>images/norman-hartnell-card.png" width="240" height="140" alt="Composition with the Norman Hartnell logo and illustrations taken from the website">

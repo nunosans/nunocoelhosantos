@@ -38,7 +38,7 @@ $(document).ready(function() {
 	resizeFeaturedProject();
 
     $('.featured').click(function() {
-
+        window.location = "work/vania-coelho-santos/";
     });
 
     // Grid Toggles

@@ -8,7 +8,7 @@
 	<meta name="format-detection" content="telephone=no" >
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
 	
-	<title>Nuno Coelho Santos<? if ($project=='NO') {echo(' &nbsp;—&nbsp; Graphic Designer');} else {echo(' &nbsp;~&nbsp; '); echo $project;} ?></title>
+	<title>Nuno Coelho Santos<? if ($project=='NO') {echo(' &nbsp;—&nbsp; Designer & Front-end Developer');} else {echo(' &nbsp;~&nbsp; '); echo $project;} ?></title>
 	 
 	<link   href="/stylesheets/styles.css"	rel="stylesheet"	type="text/css"		media="screen"	/>
 	<link   href="/humans.txt"				rel="author"		type="text/plain"					/>
@@ -25,36 +25,36 @@
 	$media_host = 'http://media.nunocoelhosantos.dev/';
 	
 	$project_number = 0; // Initial value to iterate
-	$projects_total = 23;
+	$projects_total = 21;
 	
 	switch ($project) {
-		case 'Fractures from Anxiety': $project_number++;
-		case 'Sophie Westerlind'     : $project_number++;
-		case 'Miti Ruangkritya'      : $project_number++;
-		case 'Design Classics'       : $project_number++;
-		case 'Ana Barreira'          : $project_number++;
-		//case 'Navigating News'       : $project_number++;
-		case 'Savant'                : $project_number++;
-		case 'Caroline Pera'         : $project_number++;
-		case 'Ailara Berdyyeva'      : $project_number++;
-		case 'Marili André'          : $project_number++;
-		case 'Stethoscore'           : $project_number++;
-		case 'Nostalgics'            : $project_number++;
-		case 'Iterar'                : $project_number++;
-		case 'Jo Phipps'             : $project_number++;
-		case 'Lilias Buchanan'       : $project_number++;
-		//case 'PUMA.Peace'            : $project_number++;
-		case 'Shooting People'       : $project_number++;
-		case 'Protein Journal'       : $project_number++;
-		case 'Index 7'               : $project_number++;
-		case 'Expresso Viagens'      : $project_number++;
-		case 'Ava Mirabelle'         : $project_number++;
-		case 'Tweet #todo'           : $project_number++;
-		case 'Paul Cocksedge'        : $project_number++;
-		case 'Norman Hartnell'       : $project_number++;
-		//case 'Open Cinema'           : $project_number++;
-		case 'Vânia Coelho Santos'   : $project_number++;
-		// Add new projects here using the same structure
+		case 'Fractures from Anxiety'	: $project_number++;
+		case 'Sophie Westerlind'		: $project_number++;
+		case 'Miti Ruangkritya'			: $project_number++;
+		case 'Design Classics'			: $project_number++;
+		case 'Ana Barreira'				: $project_number++;
+	//	case 'Navigating News'			: $project_number++;
+		case 'Savant'					: $project_number++;
+		case 'Caroline Pera'			: $project_number++;
+		case 'Ailara Berdyyeva'			: $project_number++;
+		case 'Marili André'				: $project_number++;
+		case 'Stethoscore'				: $project_number++;
+		case 'Nostalgics'				: $project_number++;
+		case 'Iterar'					: $project_number++;
+		case 'Jo Phipps'				: $project_number++;
+		case 'Lilias Buchanan'			: $project_number++;
+	//	case 'PUMA.Peace'				: $project_number++;
+		case 'Shooting People'			: $project_number++;
+		case 'Protein Journal'			: $project_number++;
+		case 'Index 7'					: $project_number++;
+		case 'Expresso Viagens'			: $project_number++;
+		case 'Ava Mirabelle'			: $project_number++;
+	//	case 'Norman Hartnell'			: $project_number++;
+		case 'Vânia Coelho Santos'		: $project_number++;
+		case 'Paul Cocksedge Shop'		: $project_number++;
+	//	case '#todo'					: $project_number++;
+	//	case 'Open Cinema'				: $project_number++;
+	//	Add new projects here using the same structure
 		}
 	
 	?>
@@ -62,7 +62,7 @@
 	<!-- Five Columns -->
 	<style type="text/css" media="only screen and (min-width: 1449px)">
 		body > * {width: 1296px;}
-		#header, .project, #project-nav {width: 1264px;}
+		#header, .project, .project-nav {width: 1264px;}
 		.featured {width: 1264px; height: 640px;}
 		.featured > div > * {padding-right: 1024px;}
 		.work {width: 1280px;}
@@ -71,7 +71,7 @@
 	<!-- Four Columns -->
 	<style type="text/css" media="only screen and (max-width: 1448px)">
 		body > * {width: 1040px;}
-		#header, .project, #project-nav {width: 1008px;}
+		#header, .project, .project-nav {width: 1008px;}
 		.featured > div > * {padding-right: 768px;}
 		.work {width: 1024px;}
 		.txt.col5 {
@@ -95,7 +95,7 @@
 	<!-- Three Columns -->
 	<style type="text/css" media="only screen and (max-width: 1192px)">
 		body > * {width: 784px;}
-		#header, .project, #project-nav {width: 752px;}
+		#header, .project, .project-nav {width: 752px;}
 		.featured > div > * {padding-right: 512px;}
 		.work {width: 768px;}
 		.txt.col5,
@@ -115,7 +115,7 @@
 	<!-- Two Columns -->
 	<style type="text/css" media="only screen and (max-width:  936px)">
 		body > * {width: 528px;}
-		#header, .project, #project-nav, .work h3 {width: 496px;}
+		#header, .project, .project-nav, .work h3 {width: 496px;}
 		.featured > div > * {padding-right: 256px;}
 		.work {width: 512px;}
 		.work h3 {clear: both; height: 30px; border: none; border-bottom: 1px solid #E2E2E2; text-align: left; margin: 20px 8px 20px; padding: 0;}
@@ -160,7 +160,7 @@
 	<!-- Mobile Three Column -->
 	<style type="text/css" media="only screen and (max-width:  680px)">
 		body > * {width: 784px;}
-		#header, .project, #project-nav, .work h3, .featured > div > * {width: 752px;}
+		#header, .project, .project-nav, .work h3, .featured > div > * {width: 752px;}
 		.featured > div {background-color: black; background-color: rgba(0,0,0,0.85);}
 		.featured > div > * {padding-right: 0px;}
 		.work {width: 768px;}
@@ -182,7 +182,7 @@
 
 		.work h3 {height: 40px;}
 
-		#project-nav {height: 75px;}
+		.project-nav {height: 75px;}
 		.project > * {padding-bottom: 40px;}
 
 		.txt,
@@ -206,7 +206,7 @@
 	<!-- Mobile Two Column -->
 	<style type="text/css" media="only screen and (max-width:  440px)">
 		body > * {width: 528px;}
-		#header, .project, #project-nav, .work h3, .featured > div > * {width: 496px;}
+		#header, .project, .project-nav, .work h3, .featured > div > * {width: 496px;}
 		.work {width: 512px;}
 		.project .side,
 		.project .both,
@@ -232,17 +232,13 @@
 	<div id="header">
 		<h1>
 			<em><a href="/">Nuno Coelho Santos</a></em><br />
-			Graphic Designer & Front-end Developer
+			Designer & Front-end Developer
 		</h1>
+		<ul id="nav">
+			<li><a href="<? if ($nav=='home') {echo('#portfolio');} else {echo('/');}?>">Portfolio</a></li>
+			<li><a href="/en/">About</a></li>
+		</ul>
 	</div>
-	
-	<? if ($project!='NO'): ?>
-	<div id="project-nav">
-		<h2><span class="pictogram">&#93;</span>Back</h2>
-		<span><? echo $project_number ?> of <? echo $projects_total ?></span>
-		<span><a href="">Previous</a> &nbsp;/&nbsp; <a href="">Next</a></span>
-	</div>
-	<? endif; ?>
 	
 	<div id="columns">
 		<div class="thirty"></div>

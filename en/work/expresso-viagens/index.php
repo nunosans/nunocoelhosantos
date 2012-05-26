@@ -1,5 +1,11 @@
 <? $project='Expresso Viagens'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
 
+<div class="project-nav">
+	<h2>Expresso Viagens</h2>
+	<span><? echo $project_number ?> of <? echo $projects_total ?></span>
+	<span><a href="">Previous</a> &nbsp;/&nbsp; <a href="">Next</a></span>
+</div>
+
 <div class="project" id="expresso-viagens">
 	
 	<img class="full" src="<? echo $media_host ?>images/expresso-viagens-logo.png" width="1264" height="590">
@@ -34,6 +40,13 @@
 	
 	<img class="clear center half site-plan" src="<? echo $media_host ?>images/expresso-viagens-website-plan.png" width="1166" height="3798">
 	
+</div>
+
+
+<div class="project-nav">
+	<h2>Expresso Viagens</h2>
+	<span><? echo $project_number ?> of <? echo $projects_total ?></span>
+	<span><a href="">Previous</a> &nbsp;/&nbsp; <a href="">Next</a></span>
 </div>
 
 <? include_once ($_SERVER['DOCUMENT_ROOT']."/en/footer.inc.php"); ?>
