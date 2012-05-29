@@ -1,4 +1,4 @@
-<? $nav='home'; $project='NO'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
+<? $nav='home'; $project='NO'; include_once("header.inc.php"); ?>
 	
 	<div class="featured">
 		<img src='http://media.nunocoelhosantos.com/images/vania-coelho-santos-slide.jpg' width='2000' height='1100' alt=''>
@@ -172,4 +172,4 @@
 		</div>
 	</div>
 
-<? include_once ($_SERVER['DOCUMENT_ROOT']."/en/footer.inc.php"); ?>
+<? include_once("footer.inc.php"); ?>

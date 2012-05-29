@@ -1,7 +1,7 @@
 <div id="info">
 	<div class="txt grid4">
 		<h4>About</h4>
-		<p>I am an east londoner starting up <a href="http://savantstudio.co.uk/">Savant</a> as a collaborative studio and a hobbie. This July I am graduating from <a href="http://www.stantonwilliams.com/projects/new-ual-campus-for-central-saint-martins-at-kings-cross/">Central Saint Martins</a>, don't miss my <a href="http://instagr.am/p/K_GLAfrPJ6/">degree show</a>!. Original from lovely <a href="http://vimeo.com/21698583">Porto, Portugal</a>.</p>
+		<p>I am an east londoner starting up <a href="http://savantstudio.co.uk/">Savant</a> as a collaborative studio and a hobbie. This July I am graduating from <a href="http://www.stantonwilliams.com/projects/new-ual-campus-for-central-saint-martins-at-kings-cross/">Central Saint Martins</a> (don't miss my <a href="http://instagr.am/p/K_GLAfrPJ6/">degree show</a>!) Original from lovely <a href="http://vimeo.com/21698583">Porto, Portugal</a>.</p>
 	</div>
 	<div class="txt grid2">
 		<h4>Contacts</h4>

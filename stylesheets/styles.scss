@@ -373,7 +373,7 @@ Homepage
 		display: block;
 		overflow: visible;
 		padding: 16px 0 40px;
-		background-color: rgba(0,0,0,0.25);
+		background-color: rgba(0,0,0,0.5);
 		-webkit-transition-property: background-color;
 		   -moz-transition-property: background-color;
 		     -o-transition-property: background-color;
@@ -408,6 +408,9 @@ Homepage
 			.featured h2 {color: white; padding-bottom: 8px;}
 			.featured p {
 				color: rgba(255,255,255,0.6);
+				background-image: url('http://media.nunocoelhosantos.com/graphics/arrow.png');
+				background-repeat: no-repeat;
+				background-position: 100% 0;
 				}
 			.featured a {
 				display: inline;
@@ -598,6 +601,9 @@ Project
 		padding-bottom: 12px;
 		margin-bottom: 9px;
 		}
+	.project p + p {
+		padding-top: 9px;
+		}
 
 .txt {
 	display: inline-block;
@@ -713,9 +719,10 @@ video {
 	margin-right: auto;
 	}
 
-#special-1 {margin-top: 190px;} /* Expresso Viagens / Align caption with display */
-#special-2 {margin-bottom: 15px;} /* Expresso Viagens / Reduce margin on logo image */
-#special-3 {margin-bottom: 15px;} /* Vania Coelho Santos / Put laptop images together */
+#special-1 {margin-top: 150px;} /* Expresso Viagens / Align caption with display */
+#special-2 {margin-top: -60px;}
+.no-margin {margin-bottom: 15px;}
+
 
 /*
 ----------------------------------------------------------

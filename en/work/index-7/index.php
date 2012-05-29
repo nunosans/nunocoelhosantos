@@ -1,4 +1,4 @@
-<? $project='Index 7'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
+<? $project='Index 7'; include_once("../../header.inc.php"); ?>
 
 <div class="project-nav">
 	<h2><? echo $project ?></h2>
@@ -28,4 +28,4 @@
 	<span><a href="../expresso-viagens/">Previous</a> &nbsp;/&nbsp; <a href="../protein-journal/">Next</a></span>
 </div>
 
-<? include_once ($_SERVER['DOCUMENT_ROOT']."/en/footer.inc.php"); ?>
+<? include_once("../../footer.inc.php"); ?>

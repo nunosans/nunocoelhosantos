@@ -1,4 +1,4 @@
-<? $project='Ailara Berdyyeva'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
+<? $project='Ailara Berdyyeva'; include_once("../../header.inc.php"); ?>
 
 <div class="project-nav">
 	<h2><? echo $project ?></h2>
@@ -8,8 +8,8 @@
 
 <div class="project" id="ailara-berdyyeva">
 	
-	<!-- Work goes here -->
+	<img class="clear side" src="http://media.nunocoelhosantos.com/images/ailara-berdyyeva-screen.png" width="1008" height="928">
 
 </div>
 
-<? include_once ($_SERVER['DOCUMENT_ROOT']."/en/footer.inc.php"); ?>
+<? include_once("../../footer.inc.php"); ?>

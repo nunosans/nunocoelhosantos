@@ -1,4 +1,4 @@
-<? $project='Norman Hartnell'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
+<? $project='Norman Hartnell'; include_once("../../header.inc.php"); ?>
 
 <div class="project-nav">
 	<h2><? echo $project ?></h2>
@@ -12,4 +12,4 @@
 	
 </div>
 
-<? include_once ($_SERVER['DOCUMENT_ROOT']."/en/footer.inc.php"); ?>
+<? include_once("../../footer.inc.php"); ?>

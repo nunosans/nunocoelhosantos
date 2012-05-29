@@ -77,13 +77,13 @@ $(document).ready(function() {
     });
 
     // Get elements ready to fade-in
-    $("img, .featured div").fadeTo(0, 0);
+    $("img, .featured div, .project, #info").fadeTo(0, 0);
 });
 
 
 $(window).load(function() {
     // Fade elements in
-    $("img, .featured div").fadeTo(500, 1);
+    $("img, .featured div, .project, #info").fadeTo(500, 1);
 
     // Make the bar of the featured project clickable
     $(".featured").click(function() {

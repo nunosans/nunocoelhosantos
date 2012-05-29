@@ -1,4 +1,4 @@
-<? $project='Protein Journal'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
+<? $project='Protein Journal'; include_once("../../header.inc.php"); ?>
 
 <div class="project-nav">
 	<h2><? echo $project ?></h2>
@@ -8,8 +8,8 @@
 
 <div class="project" id="protein-journal">
 	
-	<!-- Work goes here -->
+	<img class="full" src="http://media.nunocoelhosantos.com/images/protein-journal-main.png" width="1264" height="833">
 	
 </div>
 
-<? include_once ($_SERVER['DOCUMENT_ROOT']."/en/footer.inc.php"); ?>
+<? include_once("../../footer.inc.php"); ?>

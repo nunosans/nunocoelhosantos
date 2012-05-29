@@ -22,7 +22,7 @@
 	<?
 	
 	$project_number = 0; // Initial value to iterate
-	$projects_total = 22;
+	$projects_total = 20;
 	
 	switch ($project) {
 		case 'Fractures from Anxiety'	: $project_number++;
@@ -45,8 +45,8 @@
 		case 'Ava Mirabelle'			: $project_number++;
 		case 'Vânia Coelho Santos'		: $project_number++;
 		case 'Paul Cocksedge Shop'		: $project_number++;
-		case 'Norman Hartnell'			: $project_number++;
-		case '#todo'					: $project_number++;
+	//	case 'Norman Hartnell'			: $project_number++;
+	//	case '#todo'					: $project_number++;
 	//	Add new projects here using the same structure
 		}
 	
@@ -70,8 +70,6 @@
 			padding-right: 1008px;
 			}
 		.featured p {
-			background-image: url('http://media.nunocoelhosantos.com/graphics/arrow.png');
-			background-repeat: no-repeat;
 			background-position: 1224px 0;
 			}
 		.work {width: 1280px;}
@@ -129,22 +127,30 @@
 		#header, .project, .project-nav, .work h3 {width: 496px;}
 		.featured > div > * {padding-right: 256px;}
 		.work {width: 512px;}
-		.work h3 {clear: both; height: 30px; border: none; border-bottom: 1px solid #E2E2E2; text-align: left; margin: 20px 8px 20px; padding: 0;}
+		.work h3 {
+			clear: both;
+			height: 30px;
+			border: none;
+			border-bottom: 1px solid #E2E2E2;
+			text-align: left;
+			margin: 20px 8px 20px;
+			padding: 0;
+			}
 		img {
-			transition-duration: 0.0s;
 			-webkit-transition-duration: 0.0s;
-			-moz-transition-duration: 0.0s;
-			-o-transition-duration: 0.0ss;
+			   -moz-transition-duration: 0.0s;
+			     -o-transition-duration: 0.0s;
+			        transition-duration: 0.0s;
 			}
 		#about, #also {width: 100%;}
 		.txt.col5,
 		.txt.col4,
 		.txt.col3 {
 			width: 496px;
-			column-count: 2;
 			-webkit-column-count: 2;
-			-moz-column-count: 2;
-			-o-column-count: 2;
+			   -moz-column-count: 2;
+			     -o-column-count: 2;
+			        column-count: 2;
 			}
 		.project .side,
 		.project .both,
@@ -166,7 +172,8 @@
 			.project .txt.clear {
 				}
 		
-		#special-1, #special-2 {margin-top: 0;}
+		#special-1,
+		#special-2 {margin-top: 0;}
 	</style>
 	
 	<!-- Mobile Three Column -->
@@ -191,9 +198,7 @@
 
 		#nav li {margin-top: 16px;}
 		.featured p {
-			width: 50%;
-			background-image: url('http://media.nunocoelhosantos.com/graphics/arrow.png');
-			background-repeat: no-repeat;
+			width: 480px;
 			background-position:100% 0;
 			padding-right: 272px;
 			}
@@ -217,8 +222,6 @@
 			}
 
 		#info .txt p {padding-right: 0; max-width: 560px;}
-		#mc-embedded-subscribe-form input[type="email"] {height: 48px; width: 351px; margin: 10px 0 0; padding-top:0; padding-bottom:0;}
-		#mc-embedded-subscribe-form input[type="submit"] {height: 52px; width: 129px; text-shadow: 0 -3px 0 rgba(0, 0, 0, 0.2); margin: 10px 0 0; padding-top:0; padding-bottom:0;}
 
 	</style>
 

@@ -1,15 +1,15 @@
-<? $project='Marili André'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
+<? $project='Marili André'; include_once("../../header.inc.php"); ?>
 
 <div class="project-nav">
 	<h2><? echo $project ?></h2>
 	<span><? echo $project_number ?> of <? echo $projects_total ?></span>
-	<span><a href="../lilias-buchanan/">Previous</a> &nbsp;/&nbsp; <a href="../iterar/">Next</a></span>
+	<span><a href="../stethoscore/">Previous</a> &nbsp;/&nbsp; <a href="../ailara-berdyyeva/">Next</a></span>
 </div>
 
 <div class="project" id="marili-andre">
 	
-	<!-- Work goes here -->
+	<img class="clear side" src="http://media.nunocoelhosantos.com/images/marili-andre-screen.png" width="1008" height="928">
 	
 </div>
 
-<? include_once ($_SERVER['DOCUMENT_ROOT']."/en/footer.inc.php"); ?>
+<? include_once("../../footer.inc.php"); ?>
