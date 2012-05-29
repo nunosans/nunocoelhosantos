@@ -1,4 +1,4 @@
-<?php $nav='about'; $project='About'; include_once($_SERVER['DOCUMENT_ROOT']."/php/header.php"); ?>
+<? $project='NO'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
 
 
-<?php include_once ($_SERVER['DOCUMENT_ROOT']."/php/footer.php"); ?>
+<? include_once ($_SERVER['DOCUMENT_ROOT']."/en/footer.inc.php"); ?>

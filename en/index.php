@@ -12,18 +12,14 @@
 		
 		<h3>2012</h3>
 
-		<!--<div>
-			<h4><a href="work/open-cinema/">Open Cinema</a></h4>
-			<a href="work/open-cinema/">
-				<img src="http://media.nunocoelhosantos.com/images/open-cinema-card.jpg" width="240" height="140" alt="A view of the Open Cinema 	app on the iPhone 4S">
-			</a>
+		<div class="dev">
+			<h4>Open Cinema</h4>
+			<img src="http://media.nunocoelhosantos.com/images/open-cinema-card.jpg" width="240" height="140" alt="A view of the Open Cinema 	app on the iPhone 4S">
 			<p>App for the organisation bringing cinema to socially excluded people</p>
 		</div>
-		<div >
-			<h4><a href="work/tweet-todo/">Tweet #todo</a></h4>
-			<a href="work/tweet-todo/">
-				<img src="http://media.nunocoelhosantos.com/images/tweet-todo-card.jpg" width="240" height="140" alt="">
-			</a>
+		<div class="dev">
+			<h4>#todo</h4>
+			<img src="http://media.nunocoelhosantos.com/images/hash-todo-card.jpg" width="240" height="140" alt="">
 			<p>User interface and experience of the Twitter-powered to-do list app</p>
 		</div>
 		<div>
@@ -39,7 +35,7 @@
 				<img src="http://media.nunocoelhosantos.com/images/norman-hartnell-card.png" width="240" height="140" alt="Composition with the Norman Hartnell logo and illustrations taken from the website">
 			</a>
 			<p>Development of HM The Queen's dressmaker revival brand website</p>
-		</div>-->
+		</div>
 		<div>
 			<h4><a href="work/vania-coelho-santos/">Vânia Coelho Santos</a></h4>
 			<a href="work/vania-coelho-santos/">
@@ -47,14 +43,13 @@
 			</a>
 			<p>Design and development of my sister's architecture digital portfolio</p>
 		</div>
-		<!--<div>
+		<div>
 			<h4><a href="work/ava-mirabelle/">Ava Mirabelle</a></h4>
 			<a href="work/ava-mirabelle/">
 				<img src="http://media.nunocoelhosantos.com/images/ava-mirabelle-card.png" width="240" height="140" alt="">
 			</a>
 			<p>Identity and development of the <br />hand-made online fashion store</p>
 		</div>
-		-->
 		<h3>2011</h3>
 		
 		<div>
@@ -71,7 +66,7 @@
 			</a>
 			<p>Identity and print design for the photography exhibition</p>
 		</div>
-		<!--<div>
+		<div>
 			<h4><a href="work/protein-journal/">Protein&reg; Journal</a></h4>
 			<a href="work/protein-journal/">
 				<img src="http://media.nunocoelhosantos.com/images/protein-journal-card.jpg" width="240" height="140" alt="Fraction of the cover 	for the Protein Journal Issue 3">
@@ -84,13 +79,6 @@
 				<img src="http://media.nunocoelhosantos.com/images/shooting-people-card.jpg" width="240" height="140" alt="Placeholder">
 			</a>
 			<p>Print, web design and development for the filmmakers’ network</p>
-		</div>
-		<div>
-			<h4><a href="work/puma-peace/">Puma.Peace</a></h4>
-			<a href="work/puma-peace/">
-				<img src="http://media.nunocoelhosantos.com/images/puma-peace-card.jpg" width="240" height="140" alt="Photograph of the newspaper 	commissioned by Puma.Peace to be handed out at the World Peace Festival film screenings in 2011">
-			</a>
-			<p>Design of the newspaper to be handed out at the WPF &lsquo;11 film screenings</p>
 		</div>
 		<div>
 			<h4><a href="work/lilias-buchanan/">Lilias Buchanan</a></h4>
@@ -159,13 +147,6 @@
 			<p>Identity, print and website for the collaborative interactive design studio</p>
 		</div>
 		<div>
-			<h4><a href="work/navigating-news/">Navigating News</a></h4>
-			<a href="work/navigating-news/">
-				<img src="http://media.nunocoelhosantos.com/images/navigating-news-card.jpg" width="240" height="140" alt="Placeholder">
-			</a>
-			<p>Conceptual redesign of The New York Times website</p>
-		</div>
-		<div>
 			<h4><a href="work/ana-barreira/">Ana Barreira</a></h4>
 			<a href="work/ana-barreira/">
 				<img src="http://media.nunocoelhosantos.com/images/ana-barreira-card.jpg" width="240" height="140" alt="Placeholder">
@@ -175,13 +156,6 @@
 
 		<h3>2009</h3>
 
-		<div>
-			<h4><a href="work/design-classics/">Design Classics</a></h4>
-			<a href="work/design-classics/">
-				<img src="http://media.nunocoelhosantos.com/images/design-classics-card.jpg" width="240" height="140" alt="Placeholder">
-			</a>
-			<p>Documenting a swiss army knife in a printed format</p>
-		</div>
 		<div>
 			<h4><a href="work/miti-ruangkritya/">Miti Ruangkritya</a></h4>
 			<a href="work/miti-ruangkritya/">
@@ -202,8 +176,7 @@
 				<img src="http://media.nunocoelhosantos.com/images/fractures-from-anxiety-card.jpg" width="240" height="140" alt="Placeholder">
 			</a>
 			<p>Book and cover design for the short stories of Marcus Bastel</p>
-		</div>-->
-
+		</div>
 	</div>
 
 <? include_once ($_SERVER['DOCUMENT_ROOT']."/en/footer.inc.php"); ?>

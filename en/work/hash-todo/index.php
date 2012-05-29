@@ -1,4 +1,4 @@
-<? $project='Stethoscore'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
+<? $project='#todo'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
 
 <div class="project-nav">
 	<h2><? echo $project ?></h2>
@@ -8,7 +8,7 @@
 
 <div class="project" id="expresso-viagens">
 	
-	<img class="full" src="http://media.nunocoelhosantos.com/images/stethoscore-main.jpg" width="1264" height="680">
+	<img class="full" src="http://media.nunocoelhosantos.com/images/hash-todo-main.jpg" width="1264" height="680">
 	
 </div>
 

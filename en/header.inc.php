@@ -160,6 +160,7 @@
 			width: 496px;
 			margin-top: 16px;
 			margin-bottom: 16px;
+			margin-left: 0;
 			}
 		.project .txt {
 			margin-top: 0;
@@ -169,7 +170,7 @@
 			.project .txt.clear {
 				}
 		
-		#special-1 {margin-top: 0;}
+		#special-1, #special-2 {margin-top: 0;}
 	</style>
 	
 	<!-- Mobile Three Column -->
@@ -220,8 +221,8 @@
 			}
 
 		#info .txt p {padding-right: 0; max-width: 560px;}
-		#newsletter input[type="email"] {height: 48px; width: 351px; margin: 10px 0 0; padding-top:0; padding-bottom:0;}
-		#newsletter input[type="submit"] {height: 52px; width: 129px; text-shadow: 0 -3px 0 rgba(0, 0, 0, 0.2); margin: 10px 0 0; padding-top:0; padding-bottom:0;}
+		#mc-embedded-subscribe-form input[type="email"] {height: 48px; width: 351px; margin: 10px 0 0; padding-top:0; padding-bottom:0;}
+		#mc-embedded-subscribe-form input[type="submit"] {height: 52px; width: 129px; text-shadow: 0 -3px 0 rgba(0, 0, 0, 0.2); margin: 10px 0 0; padding-top:0; padding-bottom:0;}
 
 	</style>
 
@@ -265,7 +266,7 @@
 		</h1>
 		<ul id="nav">
 			<li><a href="<? if ($nav=='home') {echo('#portfolio');} else {echo('/');}?>">Portfolio</a></li>
-			<li><a href="/en/">About</a></li>
+			<li><a href="/en/about/">About</a></li>
 		</ul>
 	</div>
 	

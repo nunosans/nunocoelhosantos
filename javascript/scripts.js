@@ -2,10 +2,6 @@ var replay;
 
 try{Typekit.load();}catch(e){};
 
-$(function() {
-    $(".dev").remove();
-});
-
 $(document).ready(function() {
 
     // Apply localScroll to the nav

@@ -464,7 +464,7 @@ h3 {
 	height: 240px;
 	
 	h4 {
-		padding: 145px 8px 0px;
+		padding: 150px 8px 0px;
 		display: inline-block;
 		width: 240px;
 		float: left;
@@ -500,6 +500,21 @@ h3 {
 		}
 	}
 	
+	.work div.dev h4:after {
+		content: "Coming Soon";
+		background-color: #CCC;
+		position: absolute;
+		top: 148px;
+		right: 8px;
+		border-radius: 3px;
+		text-transform: uppercase;
+		font-size: 9px;
+		letter-spacing: 1.3px;
+		color: white;
+		padding: 0 4px;
+		line-height: 14px;
+	}
+
 	.work div img,
 	.work div .cover {
 		position: absolute;
@@ -538,8 +553,9 @@ Project
 .project-nav {
 	width: 1008px;
 	border-top: 1px solid $shade-4;
+	border-bottom: 1px solid $shade-4;
 	height: 45px;
-	margin: 26px auto 29px;
+	margin: 26px auto 90px;
 	padding: 7px 0 5px;
 	clear: both;
 	-webkit-transition-property: width;
@@ -572,13 +588,23 @@ Project
 	clear:both;
 	overflow: visible;
 	}
+	.project h2 {
+		color: $shade-1;
+	}
+	.project h6 {
+		font-style: italic;
+		color: $shade-3;
+		border-bottom: 1px solid $shade-4;
+		padding-bottom: 12px;
+		margin-bottom: 9px;
+		}
 
 .txt {
 	display: inline-block;
 	float: left;
 	width: 240px;
 	padding: 0;
-	margin-top: 5px;
+	margin-top: -3px;
 	margin-right: 0;
 	margin-bottom: 90px;
 	margin-left: 16px;
@@ -688,6 +714,8 @@ video {
 	}
 
 #special-1 {margin-top: 190px;} /* Expresso Viagens / Align caption with display */
+#special-2 {margin-bottom: 15px;} /* Expresso Viagens / Reduce margin on logo image */
+#special-3 {margin-bottom: 15px;} /* Vania Coelho Santos / Put laptop images together */
 
 /*
 ----------------------------------------------------------
@@ -696,7 +724,7 @@ Info & Copyright
 */
 #info {
 	overflow: hidden;
-	margin-top: 110px;
+	padding-top: 200px;
 	margin-bottom: 15px;
 	clear: both;
 	}
@@ -737,8 +765,7 @@ Info & Copyright
 	}
 
 #info .txt p {
-	padding-right: 100px;
-	max-width: 280px;
+	padding-right: 60px;
 	}
 
 #copyright {
