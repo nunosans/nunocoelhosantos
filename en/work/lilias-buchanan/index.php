@@ -1,4 +1,15 @@
-<?php $nav='work'; $project='Lilias Buchanan'; include_once($_SERVER['DOCUMENT_ROOT']."/php/header.php"); ?>
+<? $project='Lilias Buchanan'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
 
+<div class="project-nav">
+	<h2><? echo $project ?></h2>
+	<span><? echo $project_number ?> of <? echo $projects_total ?></span>
+	<span><a href="../shooting-people/">Previous</a> &nbsp;/&nbsp; <a href="../jo-phipps/">Next</a></span>
+</div>
 
-<?php include_once ($_SERVER['DOCUMENT_ROOT']."/php/footer.php"); ?>
+<div class="project" id="lilias-buchanan">
+	
+	<!-- Work goes here -->
+	
+</div>
+
+<? include_once ($_SERVER['DOCUMENT_ROOT']."/en/footer.inc.php"); ?>

@@ -1,12 +1,12 @@
-<? $project='Protein Journal'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
+<? $project='Paul Cocksedge Shop'; include_once($_SERVER['DOCUMENT_ROOT']."/en/header.inc.php"); ?>
 
 <div class="project-nav">
 	<h2><? echo $project ?></h2>
 	<span><? echo $project_number ?> of <? echo $projects_total ?></span>
-	<span><a href="../index-7/">Previous</a> &nbsp;/&nbsp; <a href="../shooting-people/">Next</a></span>
+	<span>Previous &nbsp;/&nbsp; <a href="../vania-coelho-santos/">Next</a></span>
 </div>
 
-<div class="project" id="protein-journal">
+<div class="project" id="paul-cocksedge-shop">
 	
 	<!-- Work goes here -->
 	

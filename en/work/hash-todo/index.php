@@ -3,12 +3,12 @@
 <div class="project-nav">
 	<h2><? echo $project ?></h2>
 	<span><? echo $project_number ?> of <? echo $projects_total ?></span>
-	<span><a href="">Previous</a> &nbsp;/&nbsp; <a href="">Next</a></span>
+	<span>Previous &nbsp;/&nbsp; <a href="../paul-cocksedge-shop/">Next</a></span>
 </div>
 
-<div class="project" id="expresso-viagens">
+<div class="project" id="hash-todo">
 	
-	<img class="full" src="http://media.nunocoelhosantos.com/images/hash-todo-main.jpg" width="1264" height="680">
+	<!-- Work goes here -->
 	
 </div>
 

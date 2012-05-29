@@ -22,35 +22,31 @@
 	<?
 	
 	$project_number = 0; // Initial value to iterate
-	$projects_total = 3;
+	$projects_total = 22;
 	
 	switch ($project) {
-	//	case 'Fractures from Anxiety'	: $project_number++;
-	//	case 'Sophie Westerlind'		: $project_number++;
-	//	case 'Miti Ruangkritya'			: $project_number++;
-	//	case 'Design Classics'			: $project_number++;
-	//	case 'Ana Barreira'				: $project_number++;
-	//	case 'Navigating News'			: $project_number++;
-	//	case 'Savant'					: $project_number++;
-	//	case 'Caroline Pera'			: $project_number++;
-	//	case 'Ailara Berdyyeva'			: $project_number++;
-	//	case 'Marili André'				: $project_number++;
-	//	case 'Stethoscore'				: $project_number++;
-	//	case 'Nostalgics'				: $project_number++;
-	//	case 'Iterar'					: $project_number++;
-	//	case 'Jo Phipps'				: $project_number++;
-	//	case 'Lilias Buchanan'			: $project_number++;
-	//	case 'PUMA.Peace'				: $project_number++;
-	//	case 'Shooting People'			: $project_number++;
-	//	case 'Protein Journal'			: $project_number++;
+		case 'Fractures from Anxiety'	: $project_number++;
+		case 'Sophie Westerlind'		: $project_number++;
+		case 'Miti Ruangkritya'			: $project_number++;
+		case 'Ana Barreira'				: $project_number++;
+		case 'Savant'					: $project_number++;
+		case 'Caroline Pera'			: $project_number++;
+		case 'Ailara Berdyyeva'			: $project_number++;
+		case 'Marili André'				: $project_number++;
+		case 'Stethoscore'				: $project_number++;
+		case 'Nostalgics'				: $project_number++;
+		case 'Iterar'					: $project_number++;
+		case 'Jo Phipps'				: $project_number++;
+		case 'Lilias Buchanan'			: $project_number++;
+		case 'Shooting People'			: $project_number++;
+		case 'Protein Journal'			: $project_number++;
 		case 'Index 7'					: $project_number++;
 		case 'Expresso Viagens'			: $project_number++;
-	//	case 'Ava Mirabelle'			: $project_number++;
-	//	case 'Norman Hartnell'			: $project_number++;
+		case 'Ava Mirabelle'			: $project_number++;
 		case 'Vânia Coelho Santos'		: $project_number++;
-	//	case 'Paul Cocksedge Shop'		: $project_number++;
-	//	case '#todo'					: $project_number++;
-	//	case 'Open Cinema'				: $project_number++;
+		case 'Paul Cocksedge Shop'		: $project_number++;
+		case 'Norman Hartnell'			: $project_number++;
+		case '#todo'					: $project_number++;
 	//	Add new projects here using the same structure
 		}
 	

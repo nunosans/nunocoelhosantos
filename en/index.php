@@ -13,14 +13,14 @@
 		<h3>2012</h3>
 
 		<div class="dev">
-			<h4>Open Cinema</h4>
-			<img src="http://media.nunocoelhosantos.com/images/open-cinema-card.jpg" width="240" height="140" alt="A view of the Open Cinema 	app on the iPhone 4S">
-			<p>App for the organisation bringing cinema to socially excluded people</p>
-		</div>
-		<div class="dev">
 			<h4>#todo</h4>
 			<img src="http://media.nunocoelhosantos.com/images/hash-todo-card.jpg" width="240" height="140" alt="">
 			<p>User interface and experience of the Twitter-powered to-do list app</p>
+		</div>
+		<div class="dev">
+			<h4>Norman Hartnell</h4>
+			<img src="http://media.nunocoelhosantos.com/images/norman-hartnell-card.png" width="240" height="140" alt="Composition with the Norman Hartnell logo and illustrations taken from the website">
+			<p>Development of HM The Queen's dressmaker revival brand website</p>
 		</div>
 		<div>
 			<h4><a href="work/paul-cocksedge-shop/">Paul Cocksedge Shop</a></h4>
@@ -28,13 +28,6 @@
 				<img src="http://media.nunocoelhosantos.com/images/paul-cocksedge-shop-card.jpg" width="240" height="140" alt="Image of Bookmark by Paul Cocksedge Studio">
 			</a>
 			<p>Identity and online store for the <br />London-based design studio</p>
-		</div>
-		<div>
-			<h4><a href="work/norman-hartnell/">Norman Hartnell</a></h4>
-			<a href="work/norman-hartnell/">
-				<img src="http://media.nunocoelhosantos.com/images/norman-hartnell-card.png" width="240" height="140" alt="Composition with the Norman Hartnell logo and illustrations taken from the website">
-			</a>
-			<p>Development of HM The Queen's dressmaker revival brand website</p>
 		</div>
 		<div>
 			<h4><a href="work/vania-coelho-santos/">Vânia Coelho Santos</a></h4>
