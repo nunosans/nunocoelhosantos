@@ -52,7 +52,7 @@
 			</a>
 			<p>Identity, print, web design&hairsp;/development and illustrations for the travel agency</p>
 		</div>
-		<div>
+		<!--<div>
 			<h4><a href="work/index-7/">Index 7</a></h4>
 			<a href="work/index-7/">
 				<img src="http://media.nunocoelhosantos.com/images/index-7-card.jpg" width="240" height="140" alt="Image with the Index 7 show 	logo sitting on top of a photograph by Myka Baum">
@@ -100,7 +100,7 @@
 				<img src="http://media.nunocoelhosantos.com/images/nostalgics-card.jpg" width="240" height="140" alt="Close up photograph of the 	engraved musical notes in the Musical Glass by Nostalgics">
 			</a>
 			<p>Web development for the collection of bespoke curious artefacts</p>
-		</div>
+		</div>-->
 		<div>
 			<h4><a href="work/stethoscore/">Stethoscore</a></h4>
 			<a href="work/stethoscore/">
@@ -111,7 +111,7 @@
 
 		<h3>2010</h3>
 
-		<div>
+		<!--<div>
 			<h4><a href="work/marili-andre/">Marili André</a></h4>
 			<a href="work/marili-andre/">
 				<img src="http://media.nunocoelhosantos.com/images/marili-andre-card.jpg" width="240" height="140" alt="Placeholder">
@@ -138,7 +138,7 @@
 				<img src="http://media.nunocoelhosantos.com/images/savant-card.png" width="240" height="140" alt="Placeholder">
 			</a>
 			<p>Identity, print and website for the collaborative interactive design studio</p>
-		</div>
+		</div>-->
 		<div>
 			<h4><a href="work/ana-barreira/">Ana Barreira</a></h4>
 			<a href="work/ana-barreira/">
@@ -147,7 +147,7 @@
 			<p>Identity, print and web design of the fashion photography webfolio</p>
 		</div>
 
-		<h3>2009</h3>
+		<!--<h3>2009</h3>
 
 		<div>
 			<h4><a href="work/miti-ruangkritya/">Miti Ruangkritya</a></h4>
@@ -169,7 +169,7 @@
 				<img src="http://media.nunocoelhosantos.com/images/fractures-from-anxiety-card.jpg" width="240" height="140" alt="Placeholder">
 			</a>
 			<p>Book and cover design for the short stories of Marcus Bastel</p>
-		</div>
+		</div>-->
 	</div>
 
 <? include_once("footer.inc.php"); ?>
