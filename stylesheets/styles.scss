@@ -558,7 +558,7 @@ Project
 	border-top: 1px solid $shade-4;
 	border-bottom: 1px solid $shade-4;
 	height: 45px;
-	margin: 26px auto 90px;
+	margin: 26px auto 60px;
 	padding: 7px 0 5px;
 	clear: both;
 	-webkit-transition-property: width;
@@ -667,45 +667,32 @@ video {
 	background-color: #FAFAFA;
 	}
 
-.side {
-	width: 1008px;
-	height: auto;
-	margin-bottom: 90px;
-	margin-left: 16px;
-	}
-
-.both {
-	width: 720px;
-	height: auto;
-	margin-bottom: 90px;
-	}
-
-.full {
-	width: 1264px;
-	height: auto;
-	margin-bottom: 90px;
-	}
-
-.half {
-	width: 752px;
-	height: auto;
-	margin-bottom: 90px;
-	margin-left: 16px;
-	}
-
-.third {
-	width: 496px;
-	height: auto;
-	margin-bottom: 90px;
-	margin-left: 16px;
-	}
-
+.side,
+.both,
+.full,
+.half,
+.third,
 .fourth {
-	width: 240px;
 	height: auto;
 	margin-bottom: 90px;
+	}
+
+.side,
+.half,
+.third,
+.fourth {
 	margin-left: 16px;
 	}
+
+.side 		{width: 1008px;}
+.both 		{width:  720px;}
+.full 		{width: 1264px;}
+.half 		{width:  752px;}
+.third 		{width:  496px;}
+.fourth 	{width:  240px;}
+
+.right 		{float: right;}
+.left 		{float: left;}
 
 .clear {
 	clear: left;

@@ -8,7 +8,7 @@
 
 <div class="project" id="expresso-viagens">
 	
-	<img class="full" src="http://media.nunocoelhosantos.com/images/expresso-viagens-logo.png" width="1008" height="600">
+	<img class="full" src="http://media.nunocoelhosantos.com/images/expresso-viagens-logo.png" width="1264" height="550">
 	
 	<img class="clear side" src="http://media.nunocoelhosantos.com/images/expresso-viagens-stationary.jpg" width="1008" height="1008">
 	<div class="txt">
