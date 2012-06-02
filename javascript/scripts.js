@@ -84,6 +84,7 @@ $(document).ready(function() {
 $(window).load(function() {
     // Fade elements in
     $("img, .featured div, .project, #info, #copyright").fadeTo(500, 1);
+    $(".work .dev img").fadeTo(250, 0.5);
 
     // Make the bar of the featured project clickable
     $(".featured").click(function() {

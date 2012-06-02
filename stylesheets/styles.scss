@@ -350,7 +350,7 @@ Homepage
 .featured {
 	display: block;
 	width: 100%;
-	height: 280px;
+	height: 380px;
 	margin: 0 auto 0;
 	/* Display background while image loads */
 	background-color: #303030;
@@ -516,7 +516,21 @@ h3 {
 		color: white;
 		padding: 0 4px;
 		line-height: 14px;
-	}
+		}
+	.work div.new h4:after {
+		content: "New";
+		background-color: $key-color;
+		position: absolute;
+		top: 152px;
+		right: 8px;
+		border-radius: 3px;
+		text-transform: uppercase;
+		font-size: 9px;
+		letter-spacing: 1.3px;
+		color: white;
+		padding: 0 4px;
+		line-height: 14px;
+		}
 
 	.work div img,
 	.work div .cover {

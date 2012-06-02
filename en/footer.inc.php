@@ -1,7 +1,11 @@
 <div id="info">
 	<div class="txt grid4">
 		<h4>About</h4>
-		<p>I am an east londoner starting up <a href="http://savantstudio.co.uk/">Savant</a> as a collaborative studio. Also a member of <a href="http://iterar.co/">Iterar</a>. This July I am graduating from <a href="http://www.stantonwilliams.com/projects/new-ual-campus-for-central-saint-martins-at-kings-cross/">Central Saint Martins</a> (don't miss my <a href="http://instagr.am/p/K_GLAfrPJ6/">degree show</a>!) Original from lovely <a href="http://vimeo.com/21698583">Porto, Portugal</a>.</p>
+		<p>
+			This is the online portfolio and archive of Nuno Coelho Santos.
+			I use this website as a way to document the process of each project and my progress as a designer.
+			Please <a href="/en/profile">read more about me</a>.
+		</p>
 	</div>
 	<div class="txt grid2">
 		<h4>Contacts</h4>
