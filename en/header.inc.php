@@ -181,8 +181,20 @@
 	<style type="text/css" media="only screen and (max-width:  680px)">
 		body > * {width: 784px;}
 		#header, .project, .project-nav, .work h3, .featured > div > * {width: 752px;}
-		.featured > div {background-color: black; background-color: rgba(0,0,0,0.85);}
+		
+		
+		.featured {
+			min-height: 530px;
+			}
+			.featured img {
+				/* Override jQuery resizing  */
+				top: 0 !important;
+			}
+
+		.featured > div {background-color: black; background-color: rgba(0,0,0,0.75);}
 		.featured > div > * {padding-right: 0px;}
+		
+		/* Have all content full-width  */
 		.work {width: 768px;}
 		.project .side,
 		.project .both,
@@ -207,6 +219,14 @@
 		/* Remove some elements */
 		.work div p {display: none;}
 
+		.work div.dev h4:after,
+		.work div.new h4:after {
+			top: 105px;
+			right: 18px;
+			border-radius: 6px;
+			padding: 4px 8px 6px;
+			}
+
 		.work h3 {height: 40px;}
 
 		.project-nav {height: 75px;}
@@ -228,8 +248,12 @@
 
 	<!-- Mobile Two Column -->
 	<style type="text/css" media="only screen and (max-width:  440px)">
+		/* Have all content full-width  */
 		body > * {width: 528px;}
 		#header, .project, .project-nav, .work h3, .featured > div > * {width: 496px;}
+		.featured {
+			min-height: 380px;
+			}
 		.work {width: 512px;}
 		.project .side,
 		.project .both,
