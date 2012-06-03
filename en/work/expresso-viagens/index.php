@@ -24,7 +24,7 @@
 	</div>
 	
 	<div class="clear txt">
-		<p id="special-1">The website was designed to be as simple and as engaging as possible. The focus was to display the services offered by the agency and make the phone number and email very easy to find. 25% of the visits are made from Internet Explorer browsers so this also renders perfectly on any version above 6. Half of the visitors to the site are using a system in english and a third one in portuguese therefor we made this site bilingual and the language is detected automatically.</p>
+		<p id="special-1">The website was designed to be as simple and as engaging as possible. The focus was to display the services offered by the agency and make the phone number and email very easy to find. 25% of the visits are made from Internet Explorer browsers so this also renders perfectly on any version above 6. Half of the visitors to the site are using a system in english and a third one in portuguese therefor we made this site bilingual and the language is detected automatically. Built using Adobe Photoshop, Adobe Illustrator, Typekit, Sublime Text 2, HTML, CSS, JS, jQuery, RoR and Git.</p>
 	</div>
 	<img class="side" src="http://media.nunocoelhosantos.com/videos/expresso-viagens-website-demo.jpg" width="1008" height="958">
 	<!-- Video is still not working propertly on iOS-->

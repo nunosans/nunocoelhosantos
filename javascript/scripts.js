@@ -77,13 +77,16 @@ $(document).ready(function() {
     });
 
     // Get elements ready to fade-in
-    $("img, .featured div, .project, #info, #copyright").fadeTo(0, 0);
+    $("img, .featured div, .project > *, #info, #copyright").fadeTo(0, 0);
 });
 
 
 $(window).load(function() {
+    // Remove spinners
+    $(".project").css("background-image", "none");
+    $(".featured").css("background-image", "none");
     // Fade elements in
-    $("img, .featured div, .project, #info, #copyright").fadeTo(500, 1);
+    $("img, .featured div, .project > *, #info, #copyright").fadeTo(500, 1);
     $(".work .dev img").fadeTo(250, 0.5);
 
     // Make the bar of the featured project clickable

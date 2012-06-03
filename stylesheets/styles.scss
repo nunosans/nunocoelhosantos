@@ -357,6 +357,9 @@ Homepage
 	overflow: hidden;
 	/* Relative position to fix children absolute position*/
 	position: relative;
+	background-image: url("http://media.nunocoelhosantos.com/graphics/spinner-dark.gif");
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
 	}
 	.featured:hover .featured > div > div {}
 	.featured img {
@@ -608,6 +611,9 @@ Project
 .project {
 	clear:both;
 	overflow: visible;
+	background-image: url("http://media.nunocoelhosantos.com/graphics/spinner-light.gif");
+	background-position: 50% 50px;
+	background-repeat: no-repeat;
 	}
 	.project h2 {
 		color: $shade-1;
