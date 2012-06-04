@@ -25,7 +25,7 @@ a img, a:link, a:visited, a:hover, a:active {
 
 /*
 ----------------------------------------------------------
-SASS Variables
+Colors
 ----------------------------------------------------------
 */
 /* Special Red */
@@ -38,7 +38,7 @@ SASS Variables
 Typefaces
 ----------------------------------------------------------
 */
-/*  */
+/* Use UTF-8 on this CSS file */
 /* Load the Fontello typeface */
 @font-face {
   font-family: 'Fontello Pictograms';
@@ -62,47 +62,47 @@ Typefaces
 .icon-left:before {
   content: "←"; }
 
-/* UTF-8: '\2190' */
+/* UTF-8: '\2190' / Arrow Left 		*/
 .icon-up:before {
   content: "↑"; }
 
-/* UTF-8: '\2191' */
+/* UTF-8: '\2191' / Arrow Up 		*/
 .icon-right:before {
   content: "→"; }
 
-/* UTF-8: '\2192' */
+/* UTF-8: '\2192' / Arrow Right 	*/
 .icon-down:before {
   content: "↓"; }
 
-/* UTF-8: '\2193' */
+/* UTF-8: '\2193' / Arrow Down 		*/
 .icon-down-circle:before {
   content: ""; }
 
-/* UTF-8: '\e4a4' */
+/* UTF-8: '\e4a4' / Download 		*/
 .icon-eye:before {
   content: ""; }
 
-/* UTF-8: '\e70a' */
+/* UTF-8: '\e70a' / Preview 		*/
 .icon-resize-full:before {
   content: ""; }
 
-/* UTF-8: '\e744' */
+/* UTF-8: '\e744' / Full-screen 	*/
 .icon-twitter-bird:before {
   content: ""; }
 
-/* UTF-8: '\f303' */
+/* UTF-8: '\f303' / Twitter 		*/
 .icon-github:before {
   content: ""; }
 
-/* UTF-8: '\f308' */
+/* UTF-8: '\f308' / Github 			*/
 .icon-skype:before {
   content: ""; }
 
-/* UTF-8: '\f30b' */
+/* UTF-8: '\f30b' / Skype 			*/
 .icon-globe-1:before {
   content: ""; }
 
-/* UTF-8: '\e800' */
+/* UTF-8: '\e800' / Website 		*/
 /*
 ----------------------------------------------------------
 Base Styles
@@ -138,6 +138,7 @@ a:link,
 a:visited {
   display: inline-block;
   height: 15px;
+  /* Use text shadow to prevent underline from crossing over the type */
   text-shadow: 1px 1px 0 #fafafa, 0 1px 0 #fafafa, -1px 1px 0 #fafafa, 2px 1px 0 #fafafa, 0 1px 0 #fafafa, -2px 1px 0 #fafafa;
   text-decoration: none;
   border-bottom-width: 1px;
@@ -154,6 +155,11 @@ a:visited {
   -o-transition-duration: 1.2s;
   transition-duration: 1.2s; }
 
+/* Hack to fix link height on Firefox */
+@-moz-document url-prefix() {
+  a, a:link, a:visited, a:hover a:active, a:focus {
+    height: 16px; } }
+
 a:hover,
 a:active,
 a:focus {
@@ -166,7 +172,7 @@ a:focus {
   -o-transition-duration: 0.0s;
   transition-duration: 0.0s; }
 
-/* Disable clicking on the phone number */
+/* Disable clicking on the phone number when on a desktop */
 a.tel {
   pointer-events: none;
   border: none; }

@@ -3,8 +3,7 @@
 <div class="project-nav">
 	<h2><? echo $project ?></h2>
 	<span><? echo $project_number ?> of <? echo $projects_total ?></span>
-	<span><a href="../stethoscore/">Previous</a> &nbsp;/&nbsp; Next</span>
-	<!--<span><a href="../savant/">Previous</a> &nbsp;/&nbsp; <a href="../miti-ruangkritya/">Next</a></span>-->
+	<span><a href="../expresso-viagens/">Previous</a> &nbsp;/&nbsp; Next</span>
 </div>
 
 <div class="project" id="ana-barreira">
@@ -16,11 +15,15 @@
 	<div class="txt col1">
 		<h2>Ana Barreira</h2>
 		<h6>Branding, Print & Web Design.</h6>
-		<p>This was my first fashion related project, which is now a big subject of my work. Ana Barreira is a talented fashion photographer graduated from the London College of Fashion with an impessive portfolio. I approached her to help promote her work.</p>
+		<p>This was my first fashion related project, which is now a big subject of my work. Ana Barreira is a talented fashion photographer graduated from the <a href="http://www.fashion.arts.ac.uk/" target="_blank">London College of Fashion</a> with an impessive portfolio. I approached her to help promote her work.</p>
+		<p>It was not a requirement, and certainly not a straight-forward task, to come up with an idenity for Ana. She would describe herself as belonging to the fashion world, but at the same time against it. The concept explores this characteristic and uses the capital “V” from <a href="http://www.vogue.co.uk/" target="_blank">Vogue</a> magazine inverted to create a capital “A”. This followed a whole custom typeface to create the identity.</p>
 	</div>
 
 	<div class="clear txt col1">
-		<p>Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna, duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc. Arcu feugiat amet mattis vulputate. Non leo lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus placerat fringilla dapibus vel mollis. Voluptas donec proin, sed quis, sit sed faucibus lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien justo. Nisl porttitor, maecenas tortor sed, a potenti. Vitae sodales orci euismod sapien nonummy enim, varius eros ac.</p>
+		<p>The website was developed by <a href="http://twitter.com/plaintiago" target="_blank">Tiago Alves</a>. I wanted this site to be stunning from the very first page and very easy to navigate around. The design lines follow the angle of the capital “A” and the italicized menu items fit into this trend.</p>
+		<p>This website was built using <a href="http://www.adobe.com/products/photoshop.html" target="_blank">Adobe Photoshop</a>, <a href="http://www.adobe.com/products/illustrator.html" target="_blank">Adobe Illustrator</a>, <a href="" target="_blank">Coda</a>, <a href="http://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>, <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a> and <a href="http://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a>.</p>
+		<p class="icon-globe-1"><a href="http://anabarreira.com/" target="_blank">anabarreira.com</a></p>
+
 	</div>
 	<img class="side" src="http://media.nunocoelhosantos.com/images/ana-barreira-screen.png" width="1008" height="917">
 

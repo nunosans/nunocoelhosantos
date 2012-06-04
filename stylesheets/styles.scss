@@ -30,7 +30,7 @@ a img, a:link, a:visited, a:hover, a:active {
 
 /*
 ----------------------------------------------------------
-SASS Variables
+Colors
 ----------------------------------------------------------
 */
 
@@ -47,7 +47,7 @@ Typefaces
 ----------------------------------------------------------
 */
 
-/*  */
+/* Use UTF-8 on this CSS file */
 @charset "UTF-8";
 
 /* Load the Fontello typeface */
@@ -75,17 +75,17 @@ Typefaces
 		}
 
 /* Apply the right icon to each icon class element */
-.icon-left:before 			{content: "←";} /* UTF-8: '\2190' */
-.icon-up:before 			{content: "↑"; } /* UTF-8: '\2191' */
-.icon-right:before 			{content: "→"; } /* UTF-8: '\2192' */
-.icon-down:before 			{content: "↓"; } /* UTF-8: '\2193' */
-.icon-down-circle:before 	{content: "";} /* UTF-8: '\e4a4' */
-.icon-eye:before 			{content: "";} /* UTF-8: '\e70a' */
-.icon-resize-full:before 	{content: "";} /* UTF-8: '\e744' */
-.icon-twitter-bird:before 	{content: "";} /* UTF-8: '\f303' */
-.icon-github:before 		{content: "";} /* UTF-8: '\f308' */
-.icon-skype:before 			{content: "";} /* UTF-8: '\f30b' */
-.icon-globe-1:before 		{content: "";} /* UTF-8: '\e800' */
+.icon-left:before 			{content: "←";} 	/* UTF-8: '\2190' / Arrow Left 		*/
+.icon-up:before 			{content: "↑"; } 	/* UTF-8: '\2191' / Arrow Up 		*/
+.icon-right:before 			{content: "→"; } 	/* UTF-8: '\2192' / Arrow Right 	*/
+.icon-down:before 			{content: "↓"; } 	/* UTF-8: '\2193' / Arrow Down 		*/
+.icon-down-circle:before 	{content: "";} 	/* UTF-8: '\e4a4' / Download 		*/
+.icon-eye:before 			{content: "";} 	/* UTF-8: '\e70a' / Preview 		*/
+.icon-resize-full:before 	{content: "";} 	/* UTF-8: '\e744' / Full-screen 	*/
+.icon-twitter-bird:before 	{content: "";} 	/* UTF-8: '\f303' / Twitter 		*/
+.icon-github:before 		{content: "";} 	/* UTF-8: '\f308' / Github 			*/
+.icon-skype:before 			{content: "";} 	/* UTF-8: '\f30b' / Skype 			*/
+.icon-globe-1:before 		{content: "";} 	/* UTF-8: '\e800' / Website 		*/
 
 
 
@@ -123,6 +123,7 @@ a:link,
 a:visited {
 	display: inline-block;
 	height: 15px;
+	/* Use text shadow to prevent underline from crossing over the type */
 	text-shadow: 1px 1px 0 #FAFAFA,
 				 0   1px 0 #FAFAFA,
 				-1px 1px 0 #FAFAFA,
@@ -144,6 +145,13 @@ a:visited {
 	     -o-transition-duration: 1.2s;
 	        transition-duration: 1.2s;
 	}
+	/* Hack to fix link height on Firefox */
+	@-moz-document url-prefix() {
+		a, a:link, a:visited, a:hover a:active, a:focus {
+			height: 16px;
+			}
+		}
+
 
 a:hover,
 a:active,
@@ -158,7 +166,7 @@ a:focus {
 	        transition-duration: 0.0s;
 	}
 
-/* Disable clicking on the phone number */
+/* Disable clicking on the phone number when on a desktop */
 a.tel {
 	pointer-events: none;
 	border: none;

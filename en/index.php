@@ -1,7 +1,7 @@
 <? $nav='home'; $project='NO'; include_once("header.inc.php"); ?>
 	
 	<div class="featured">
-		<img src='http://media.nunocoelhosantos.com/images/vania-coelho-santos-slide.jpg' width='2000' height='1100' alt=''>
+		<img src="http://media.nunocoelhosantos.com/images/vania-coelho-santos-slide.jpg" width="2000" height="1100" alt="A computer generated image displaying the website for Vânia Coelho Santos on a desktop screen, a tablet and a mobile phone">
 		<div>
 			<h2><a href="work/vania-coelho-santos/">Featured: Vânia Coelho Santos</a></h2>
 			<p><a href="work/vania-coelho-santos/">Design and development of my sister's architecture digital portfolio</a></p>
@@ -14,62 +14,59 @@
 
 		<div class="dev">
 			<h4>#todo</h4>
-			<img src="http://media.nunocoelhosantos.com/images/hash-todo-card.jpg" width="240" height="140" alt="">
+			<img src="http://media.nunocoelhosantos.com/images/hash-todo-card.jpg" width="240" height="140" alt="A computer generated image of an iPhone with the #todo app interface on the display">
 			<p>User interface and experience of the Twitter-powered to-do list app</p>
 		</div>
 		<div class="dev">
 			<h4>Norman Hartnell</h4>
-			<img src="http://media.nunocoelhosantos.com/images/norman-hartnell-card.png" width="240" height="140" alt="Composition with the Norman Hartnell logo and illustrations taken from the website">
+			<img src="http://media.nunocoelhosantos.com/images/norman-hartnell-card.png" width="240" height="140" alt="A picture of the Norman Hartnell logo">
 			<p>Development of HM The Queen's dressmaker revival brand website</p>
 		</div>
-		<div>
-			<h4><a href="work/paul-cocksedge-shop/">Paul Cocksedge Shop</a></h4>
-			<a href="work/paul-cocksedge-shop/">
-				<img src="http://media.nunocoelhosantos.com/images/paul-cocksedge-shop-card.jpg" width="240" height="140" alt="Image of Bookmark by Paul Cocksedge Studio">
-			</a>
+		<div class="dev">
+			<h4>Paul Cocksedge Shop</h4>
+			<img src="http://media.nunocoelhosantos.com/images/paul-cocksedge-shop-card.jpg" width="240" height="140" alt="A photograph of the black Bookmark by Paul Cocksedge Studio">
 			<p>Identity and online store for the <br />London-based design studio</p>
 		</div>
 		<div class="new">
 			<h4><a href="work/vania-coelho-santos/">Vânia Coelho Santos</a></h4>
 			<a href="work/vania-coelho-santos/">
-				<img src="http://media.nunocoelhosantos.com/images/vania-coelho-santos-card.jpg" width="240" height="140" alt="A detail of Vânia Coelho Santos website">
+				<img src="http://media.nunocoelhosantos.com/images/vania-coelho-santos-card.jpg" width="240" height="140" alt="One of the computer generated images representing one Vânia Coelho Santos architectural concepts">
 			</a>
 			<p>Design and development of my sister's architecture digital portfolio</p>
 		</div>
-		<div>
-			<h4><a href="work/ava-mirabelle/">Ava Mirabelle</a></h4>
-			<a href="work/ava-mirabelle/">
-				<img src="http://media.nunocoelhosantos.com/images/ava-mirabelle-card.png" width="240" height="140" alt="">
-			</a>
+		<div class="dev">
+			<h4>Ava Mirabelle</h4>
+			<img src="http://media.nunocoelhosantos.com/images/ava-mirabelle-card.png" width="240" height="140" alt="A picture of the Ava Mirabelle Logo">
 			<p>Identity and development of the <br />hand-made online fashion store</p>
 		</div>
+
 		<h3>2011</h3>
 		
 		<div>
 			<h4><a href="work/expresso-viagens/">Expresso Viagens</a></h4>
 			<a href="work/expresso-viagens/">
-				<img src="http://media.nunocoelhosantos.com/images/expresso-viagens-card.png" width="240" height="140" alt="Fraction of one 	illustration made for the Expresso Viagens rebrand">
+				<img src="http://media.nunocoelhosantos.com/images/expresso-viagens-card.png" width="240" height="140" alt="Fraction of one of the illustrations made for the Expresso Viagens rebrand">
 			</a>
-			<p>Identity, print, web design&hairsp;/development and illustrations for the travel agency</p>
+			<p>Identity, print, web design&hairsp;/&hairsp;development and illustrations for the travel agency</p>
 		</div>
 		<div class="dev">
 			<h4>Index 7</h4>
-			<img src="http://media.nunocoelhosantos.com/images/index-7-card.jpg" width="240" height="140" alt="Image with the Index 7 show 	logo sitting on top of a photograph by Myka Baum">
+			<img src="http://media.nunocoelhosantos.com/images/index-7-card.jpg" width="240" height="140" alt="Image with the Index 7 show logo placed on top of a photograph by Myka Baum">
 			<p>Identity and print design for the photography exhibition</p>
 		</div>
 		<div class="dev">
 			<h4>Protein&reg; Journal</a></h4>
-			<img src="http://media.nunocoelhosantos.com/images/protein-journal-card.jpg" width="240" height="140" alt="Fraction of the cover 	for the Protein Journal Issue 3">
+			<img src="http://media.nunocoelhosantos.com/images/protein-journal-card.jpg" width="240" height="140" alt="Fraction of the cover for the Protein Journal Issue 3">
 			<p>Development of the Protein’s journal version for the iPad</p>
 		</div>
 		<div class="dev">
 			<h4>Shooting People</h4>
-			<img src="http://media.nunocoelhosantos.com/images/shooting-people-card.jpg" width="240" height="140" alt="Placeholder">
+			<img src="http://media.nunocoelhosantos.com/images/shooting-people-card.jpg" width="240" height="140" alt="Photograph of the buinsess cards designed for Shooting People">
 			<p>Print, web design and development for the filmmakers’ network</p>
 		</div>
 		<div class="dev">
 			<h4>Lilias Buchanan</h4>
-			<img src="http://media.nunocoelhosantos.com/images/lilias-buchanan-card.jpg" width="240" height="140" alt="Fraction of one 	illustration part of the series &ldquo;The Death of Ivan Illych&rdquo; by Lilias Buchanan">
+			<img src="http://media.nunocoelhosantos.com/images/lilias-buchanan-card.jpg" width="240" height="140" alt="Fraction of one of the illustrations from the series ‘The Death of Ivan Illych’ by Lilias Buchanan">
 			<p>Online portfolio for the portraitist illustrator and graphic designer</p>
 		</div>
 		<div class="dev">
@@ -87,11 +84,9 @@
 			<img src="http://media.nunocoelhosantos.com/images/nostalgics-card.jpg" width="240" height="140" alt="Close up photograph of the 	engraved musical notes in the Musical Glass by Nostalgics">
 			<p>Web development for the collection of bespoke curious artefacts</p>
 		</div>
-		<div>
-			<h4><a href="work/stethoscore/">Stethoscore</a></h4>
-			<a href="work/stethoscore/">
-				<img src="http://media.nunocoelhosantos.com/images/stethoscore-card.jpg" width="240" height="140" alt="Placeholder">
-			</a>
+		<div class="dev">
+			<h4>Stethoscore</h4>
+			<img src="http://media.nunocoelhosantos.com/images/stethoscore-card.jpg" width="240" height="140" alt="Placeholder">
 			<p>UI&hairsp;/&hairsp;UX & web development for the medical utility app</p>
 		</div>
 
