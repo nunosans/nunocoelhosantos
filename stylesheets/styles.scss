@@ -35,10 +35,9 @@ Colors
 */
 
 $key-color: 	#FF1500;	/* Special Red */
-$shade-1:		#444;		/* Headers */
-$shade-2:		#999;		/* Body Text */
-$shade-3:		#999;		/* Notes */
-$shade-4:		#E0E0E0;	/* Borders */
+$shade-1:		#222;		/* Headers */
+$shade-2:		#777;		/* Body Text */
+$shade-3:		#E0E0E0;	/* Borders */
 
 
 /*
@@ -96,7 +95,7 @@ Base Styles
 */
 body {
 	background-color: #FAFAFA;
-	color: #444;
+	color: $shade-2;
 	/* Add a spinner (to be removed with JS) */
 	background-image: url("http://media.nunocoelhosantos.com/graphics/spinner-light.gif");
 	background-position: 50% 300px;
@@ -194,6 +193,12 @@ a.tel {
 		background-color: transparent;
 		text-shadow: none;
 		}
+
+ul.inline li {
+	display: inline;
+	}
+	ul.inline li:after {content: ",";}
+	ul.inline li:last-child:after {content: ".";}
 
 /*
 ----------------------------------------------------------
@@ -368,7 +373,7 @@ Nav & Footer
 		}
 	#nav li:after {
 		content: "/";
-		color: $shade-4;
+		color: $shade-3;
 		margin-left: 8px;
 		}
 		#nav li:last-child:after {
@@ -476,7 +481,7 @@ Work
 ----------------------------------------------------------
 */
 h3 {
-	color: $shade-3;
+	color: $shade-2;
 	display: inline-block;
 	float: left;
 	clear: both;
@@ -486,7 +491,7 @@ h3 {
 	pointer-events: none;
 	padding: 0 16px;
 	margin: 0 8px 100px -248px;
-	border-right: 1px solid $shade-4;
+	border-right: 1px solid $shade-3;
 	line-height: 10px;
 	}
 
@@ -518,6 +523,7 @@ h3 {
 	height: 240px;
 	
 	h4 {
+		color: $shade-1;
 		padding: 150px 8px 0px;
 		display: inline-block;
 		width: 240px;
@@ -623,8 +629,8 @@ Project
 */
 .project-nav {
 	width: 1008px;
-	border-top: 1px solid $shade-4;
-	border-bottom: 1px solid $shade-4;
+	border-top: 1px solid $shade-3;
+	border-bottom: 1px solid $shade-3;
 	height: 45px;
 	margin: 26px auto 60px;
 	padding: 7px 0 5px;
@@ -642,7 +648,7 @@ Project
 .project-nav > * {
 	display: block;
 	width: 240px;
-	color: $shade-3;
+	color: $shade-2;
 	}
 
 .project-nav > h2 {
@@ -661,16 +667,22 @@ Project
 	}
 	.project h2 {
 		color: $shade-1;
+		display: block;
+		width: 100%;
 	}
 	.project h6 {
 		font-style: italic;
-		color: $shade-3;
-		border-bottom: 1px solid $shade-4;
+		color: $shade-2;
+		border-bottom: 1px solid $shade-3;
 		padding-bottom: 12px;
 		margin-bottom: 9px;
 		}
 	.project p + p {
 		padding-top: 9px;
+		}
+	/* Add a margin below the titles on the profile page */
+	.project#profile h2 {
+		margin-bottom: 9px;
 		}
 
 .txt {
@@ -680,7 +692,7 @@ Project
 	padding: 0;
 	margin-top: -3px;
 	margin-right: 0;
-	margin-bottom: 90px;
+	margin-bottom: 63px;
 	margin-left: 16px;
 	-webkit-column-count: 1;
 	   -moz-column-count: 1;
@@ -711,8 +723,10 @@ Project
 	.txt.grid4	{width: 496px;}
 
 .site-plan {
-	display: inline-block;
-	float: left;
+	float: none;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	border: 1px solid #CCC;
 	/* Border Radius */
 	-moz-border-radius: 7px;
@@ -735,35 +749,28 @@ video {
 	background-color: #FAFAFA;
 	}
 
-.side,
-.both,
 .full,
-.half,
-.third,
-.fourth {
+.side,
+.both{
 	height: auto;
-	margin-bottom: 90px;
+	margin-bottom: 60px;
 	}
 
 .side,
-.half,
-.third,
-.fourth {
+.both {
 	margin-left: 16px;
 	}
 
-.side 		{width: 1008px;}
-.both 		{width:  720px;}
+
 .full 		{width: 1264px;}
-.half 		{width:  752px;}
-.third 		{width:  496px;}
-.fourth 	{width:  240px;}
+.side 		{width: 1008px;}
+.both 		{width:  752px;}
 
 .right 		{float: right;}
 .left 		{float: left;}
 
 .clear {
-	clear: left;
+	clear: both;
 	margin-left: 0px;
 	}
 
@@ -792,7 +799,7 @@ Info & Copyright
 	}
 
 #info .txt {
-	border-top: 1px solid $shade-4;
+	border-top: 1px solid $shade-3;
 	min-height: 140px;
 	padding-top: 14px;
 	margin-top: 0;
@@ -834,9 +841,9 @@ Info & Copyright
 	display: block;
 	padding-left: 32px;
 	margin-bottom: 40px;
-	color: $shade-3;
+	color: $shade-2;
 	clear: both;
-	a, a:link, a:visited 		{color: $shade-3;	border-bottom: none;}
+	a, a:link, a:visited 		{color: $shade-2;	border-bottom: none;}
 	a:hover, a:active, a:focus 	{color: $key-color;	}
 	}
 

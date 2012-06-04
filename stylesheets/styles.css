@@ -31,7 +31,6 @@ Colors
 /* Special Red */
 /* Headers */
 /* Body Text */
-/* Notes */
 /* Borders */
 /*
 ----------------------------------------------------------
@@ -110,7 +109,7 @@ Base Styles
 */
 body {
   background-color: #FAFAFA;
-  color: #444;
+  color: #777777;
   /* Add a spinner (to be removed with JS) */
   background-image: url("http://media.nunocoelhosantos.com/graphics/spinner-light.gif");
   background-position: 50% 300px;
@@ -143,7 +142,7 @@ a:visited {
   text-decoration: none;
   border-bottom-width: 1px;
   border-bottom-style: dotted;
-  border-bottom-color: #999999;
+  border-bottom-color: #777777;
   color: inherit;
   outline: none;
   -webkit-transition-property: color, border-bottom-color;
@@ -199,6 +198,15 @@ div::selection,
   background-color: transparent;
   text-shadow: none; }
 
+ul.inline li {
+  display: inline; }
+
+ul.inline li:after {
+  content: ","; }
+
+ul.inline li:last-child:after {
+  content: "."; }
+
 /*
 ----------------------------------------------------------
 Forms
@@ -207,7 +215,7 @@ Forms
 input[type="email"] {
   font-family: franklin-gothic-urw-1, franklin-gothic-urw-2, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
-  color: #444444;
+  color: #222222;
   width: 239px;
   height: 31px;
   margin-top: 8px;
@@ -256,13 +264,13 @@ input[type="email"]:focus::-webkit-input-placeholder {
 
 /* ...and display it in a nice shade of grey when not. */
 input::-webkit-input-placeholder {
-  color: #999999; }
+  color: #777777; }
 
 ::-webkit-input-placeholder {
-  color: #999999; }
+  color: #777777; }
 
 :-moz-placeholder {
-  color: #999999; }
+  color: #777777; }
 
 input[type="submit"] {
   font-family: franklin-gothic-urw-1, franklin-gothic-urw-2, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -325,12 +333,12 @@ Nav & Footer
 
 #header h1 {
   float: left;
-  color: #999999;
+  color: #777777;
   font-style: normal; }
 
 #header h1 em,
 #header h1 em a {
-  color: #444444 !important;
+  color: #222222 !important;
   font-style: normal;
   border: none !important;
   -webkit-transition-property: color;
@@ -470,7 +478,7 @@ Work
 ----------------------------------------------------------
 */
 h3 {
-  color: #999999;
+  color: #777777;
   display: inline-block;
   float: left;
   clear: both;
@@ -508,13 +516,14 @@ h3 {
   width: 256px;
   height: 240px; }
   .work div h4 {
+    color: #222222;
     padding: 150px 8px 0px;
     display: inline-block;
     width: 240px;
     float: left;
     clear: left; }
     .work div h4 a {
-      color: #444444;
+      color: #222222;
       display: inline-block;
       width: 240px;
       border: none;
@@ -587,7 +596,7 @@ h3 {
   z-index: 1; }
 
 .work div p {
-  color: #999999;
+  color: #777777;
   padding: 0 8px;
   width: 240px;
   float: left; }
@@ -617,7 +626,7 @@ Project
 .project-nav > * {
   display: block;
   width: 240px;
-  color: #999999; }
+  color: #777777; }
 
 .project-nav > h2 {
   float: left;
@@ -632,17 +641,23 @@ Project
   overflow: visible; }
 
 .project h2 {
-  color: #444444; }
+  color: #222222;
+  display: block;
+  width: 100%; }
 
 .project h6 {
   font-style: italic;
-  color: #999999;
+  color: #777777;
   border-bottom: 1px solid #e0e0e0;
   padding-bottom: 12px;
   margin-bottom: 9px; }
 
 .project p + p {
   padding-top: 9px; }
+
+/* Add a margin below the titles on the profile page */
+.project#profile h2 {
+  margin-bottom: 9px; }
 
 .txt {
   display: inline-block;
@@ -651,7 +666,7 @@ Project
   padding: 0;
   margin-top: -3px;
   margin-right: 0;
-  margin-bottom: 90px;
+  margin-bottom: 63px;
   margin-left: 16px;
   -webkit-column-count: 1;
   -moz-column-count: 1;
@@ -711,8 +726,10 @@ Project
   width: 496px; }
 
 .site-plan {
-  display: inline-block;
-  float: left;
+  float: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   border: 1px solid #CCC;
   /* Border Radius */
   -moz-border-radius: 7px;
@@ -732,38 +749,24 @@ video {
   float: left;
   background-color: #FAFAFA; }
 
-.side,
-.both,
 .full,
-.half,
-.third,
-.fourth {
+.side,
+.both {
   height: auto;
-  margin-bottom: 90px; }
+  margin-bottom: 60px; }
 
 .side,
-.half,
-.third,
-.fourth {
+.both {
   margin-left: 16px; }
+
+.full {
+  width: 1264px; }
 
 .side {
   width: 1008px; }
 
 .both {
-  width: 720px; }
-
-.full {
-  width: 1264px; }
-
-.half {
   width: 752px; }
-
-.third {
-  width: 496px; }
-
-.fourth {
-  width: 240px; }
 
 .right {
   float: right; }
@@ -772,7 +775,7 @@ video {
   float: left; }
 
 .clear {
-  clear: left;
+  clear: both;
   margin-left: 0px; }
 
 .center {
@@ -811,7 +814,7 @@ Info & Copyright
 
 #info h4,
 #info h4 a {
-  color: #444444;
+  color: #222222;
   border: none;
   -webkit-transition-property: color;
   -moz-transition-property: color;
@@ -831,7 +834,7 @@ Info & Copyright
 
 #info p,
 #info li {
-  color: #999999; }
+  color: #777777; }
 
 #info .txt p {
   padding-right: 60px; }
@@ -840,10 +843,10 @@ Info & Copyright
   display: block;
   padding-left: 32px;
   margin-bottom: 40px;
-  color: #999999;
+  color: #777777;
   clear: both; }
   #copyright a, #copyright a:link, #copyright a:visited {
-    color: #999999;
+    color: #777777;
     border-bottom: none; }
   #copyright a:hover, #copyright a:active, #copyright a:focus {
     color: #ff1500; }

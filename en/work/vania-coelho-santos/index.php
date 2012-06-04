@@ -21,7 +21,7 @@
 	</div>
 	<img class="clear side" src="http://media.nunocoelhosantos.com/images/vania-coelho-santos-vila-nova-de-gaia-public-library.jpg" width="1008" height="580">
 	
-	<img class="clear center half site-plan" src="http://media.nunocoelhosantos.com/images/vania-coelho-santos-website-plan.jpg" width="1440" height="9947">
+	<img class="site-plan" src="http://media.nunocoelhosantos.com/images/vania-coelho-santos-website-plan.jpg" width="1440" height="9947">
 	
 </div>
 

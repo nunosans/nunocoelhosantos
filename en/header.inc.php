@@ -74,6 +74,9 @@
 			background-position: 1224px 0;
 			}
 		.work {width: 1280px;}
+		.project .full  	{width: 1280px;}
+		.project .side		{width: 1008px;}
+		.project .site-plan {width: 752px;}
 	</style>
 	
 	<!-- Four Columns -->
@@ -94,10 +97,8 @@
 		.txt.grid3 			{width: 496px;}
 		.project .full  	{width: 1008px;}
 		.project .side,
-		.project .half  	{width: 752px;}
-		.project .both,
-		.project .fourth	{width: 496px; }
-		.project .third 	{width: 240px; }
+		.project .site-plan {width: 752px;}
+		.project .both 		{width: 496px;}
 	</style>
 	
 	<!-- Three Columns -->
@@ -116,10 +117,10 @@
 			-moz-column-count: 3;
 			-o-column-count: 3;
 			}
-		.project .full     {width: 752px;}
+		.project .full 		{width: 752px;}
 		.project .side,
-		.project .half,
-		.project .third    {width: 496px; }
+		.project .site-plan,
+		.project .both {width: 496px;}
 	</style>
 	
 	<!-- Two Columns -->
@@ -153,12 +154,10 @@
 			     -o-column-count: 2;
 			        column-count: 2;
 			}
-		.project .side,
-		.project .both,
 		.project .full,
-		.project .half,
-		.project .third,
-		.project .fourth {
+		.project .side,
+		.project .site-plan,
+		.project .both {
 			float: left;
 			width: 496px;
 			margin-top: 16px;
@@ -197,12 +196,10 @@
 		
 		/* Have all content full-width  */
 		.work {width: 768px;}
-		.project .side,
-		.project .both,
 		.project .full,
-		.project .half,
-		.project .third,
-		.project .fourth {
+		.project .side,
+		.project .site-plan,
+		.project .both {
 			width: 752px;
 			}
 
@@ -256,12 +253,10 @@
 			min-height: 380px;
 			}
 		.work {width: 512px;}
-		.project .side,
-		.project .both,
 		.project .full,
-		.project .half,
-		.project .third,
-		.project .fourth {
+		.project .side,
+		.project .site-plan,
+		.project .both {
 			width: 496px;
 			}
 		#nav{float: left;}

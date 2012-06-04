@@ -39,7 +39,7 @@
 	    <source src="http://media.nunocoelhosantos.com/videos/expresso-viagens-website-demo.ogv" type="video/ogv">
 	</video>-->
 	
-	<img class="clear center half site-plan" src="http://media.nunocoelhosantos.com/images/expresso-viagens-website-plan.png" width="1166" height="3798">
+	<img class="site-plan" src="http://media.nunocoelhosantos.com/images/expresso-viagens-website-plan.png" width="1166" height="3798">
 	
 </div>
 
