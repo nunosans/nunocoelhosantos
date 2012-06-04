@@ -16,7 +16,7 @@
 	<div class="txt col1">
 		<h2>Ana Barreira</h2>
 		<h6>Branding, Print & Web Design.</h6>
-		<p>Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna, duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc. Arcu feugiat amet mattis vulputate. Non leo lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus placerat fringilla dapibus vel mollis. Voluptas donec proin, sed quis, sit sed faucibus lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien justo. Nisl porttitor, maecenas tortor sed, a potenti. Vitae sodales orci euismod sapien nonummy enim, varius eros ac.</p>
+		<p>This was my first fashion related project, which is now a big subject of my work. Ana Barreira is a talented fashion photographer graduated from the London College of Fashion with an impessive portfolio. I approached her to help promote her work.</p>
 	</div>
 
 	<div class="clear txt col1">
