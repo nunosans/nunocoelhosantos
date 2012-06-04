@@ -1,0 +1,8 @@
+This was my first fashion related project, which is now a big subject of my work. Ana Barreira is a talented fashion photographer graduated from the London College of Fashion with an impessive portfolio. I approached Ana to help her promote her work.
+
+It was not a requirement, an certainly not a straight-forward task, to come up with an idenity for Ana.
+
+The website was developed by Tiago Alves. With the design I wanted the website to be stunning right from the first page, and simple to navigate around. The lines of the website follow the angle of the capital “A” 
+
+This website was built using Adobe Photoshop, Adobe Illustrator, HTML, CSS, JavaScript and jQuery.
+anabarreira.com

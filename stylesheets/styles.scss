@@ -43,12 +43,64 @@ $shade-4:		#E0E0E0;	/* Borders */
 
 /*
 ----------------------------------------------------------
+Typefaces
+----------------------------------------------------------
+*/
+
+/*  */
+@charset "UTF-8";
+
+/* Load the Fontello typeface */
+@font-face {
+	font-family: 'Fontello Pictograms';
+	src: url('../webfonts/fontello.eot');
+	src: url('../webfonts/fontello.eot?#iefix')			format('embedded-opentype'),
+		 url('../webfonts/fontello.woff')				format('woff'),
+		 url('../webfonts/fontello.ttf')				format('truetype'),
+		 url('../webfonts/fontello.svg#fontello')		format('svg');
+	font-weight:	normal;
+	font-style:		normal;
+	}
+
+/* Turn all elements begining with a class "icon-" into a pictogram */
+[class^="icon-"],
+[class*=" icon-"] {
+	font-family: 'Fontello Pictograms';
+	font-style: normal;
+	speak: none;
+	}
+	[class^="icon-"]:before,
+	[class*=" icon-"]:before {
+		margin-right: 3px;
+		}
+
+/* Apply the right icon to each icon class element */
+.icon-left:before 			{content: "←";} /* UTF-8: '\2190' */
+.icon-up:before 			{content: "↑"; } /* UTF-8: '\2191' */
+.icon-right:before 			{content: "→"; } /* UTF-8: '\2192' */
+.icon-down:before 			{content: "↓"; } /* UTF-8: '\2193' */
+.icon-down-circle:before 	{content: "";} /* UTF-8: '\e4a4' */
+.icon-eye:before 			{content: "";} /* UTF-8: '\e70a' */
+.icon-resize-full:before 	{content: "";} /* UTF-8: '\e744' */
+.icon-twitter-bird:before 	{content: "";} /* UTF-8: '\f303' */
+.icon-github:before 		{content: "";} /* UTF-8: '\f308' */
+.icon-skype:before 			{content: "";} /* UTF-8: '\f30b' */
+.icon-globe-1:before 		{content: "";} /* UTF-8: '\e800' */
+
+
+
+/*
+----------------------------------------------------------
 Base Styles
 ----------------------------------------------------------
 */
 body {
 	background-color: #FAFAFA;
 	color: #444;
+	/* Add a spinner (to be removed with JS) */
+	background-image: url("http://media.nunocoelhosantos.com/graphics/spinner-light.gif");
+	background-position: 50% 300px;
+	background-repeat: no-repeat;
 	/* Center the body's direct children on the page */
 	> * {margin: 0 auto 90px;} 
 	/* Keep images propotional */
@@ -81,7 +133,7 @@ a:visited {
 	border-bottom-width: 1px;
 	border-bottom-style: dotted;
 	border-bottom-color: $shade-2;
-	color: $shade-2;
+	color: inherit;
 	outline: none;
 	-webkit-transition-property: color, border-bottom-color;
 	   -moz-transition-property: color, border-bottom-color;
@@ -116,6 +168,7 @@ a.tel {
 ::selection {
 	background-color: $key-color;
 	background-color: rgba(255, 21, 0, 0.2);
+	text-shadow: none;
 	}
 	/* ...but hide it for some elements */
 	html::selection,
@@ -131,23 +184,8 @@ a.tel {
 	.work h4 a::selection,
 	.work p::selection {
 		background-color: transparent;
+		text-shadow: none;
 		}
-
-@font-face {
-	font-family: 'Modern Pictograms';
-	src: url('/webfonts/modernpics-webfont.eot');
-	src: url('/webfonts/modernpics-webfont.eot?#iefix')						format('embedded-opentype'),
-		 url('/webfonts/modernpics-webfont.woff')							format('woff'),
-		 url('/webfonts/modernpics-webfont.ttf')							format('truetype'),
-		 url('/webfonts/modernpics-webfont.svg#ModernPictogramsNormal')		format('svg');
-	font-weight: normal;
-	font-style: normal;
-	}
-
-span.pictogram {
-	font-family: 'Modern Pictograms';
-	padding: 0 4px;
-	}
 
 /*
 ----------------------------------------------------------
@@ -511,6 +549,7 @@ h3 {
 	.work div.dev h4:after {
 		content: "Coming Soon";
 		background-color: #CCC;
+		background-color: rgba(0,0,0,0.25);
 		position: absolute;
 		top: 152px;
 		right: 8px;
@@ -611,9 +650,6 @@ Project
 .project {
 	clear:both;
 	overflow: visible;
-	background-image: url("http://media.nunocoelhosantos.com/graphics/spinner-light.gif");
-	background-position: 50% 50px;
-	background-repeat: no-repeat;
 	}
 	.project h2 {
 		color: $shade-1;

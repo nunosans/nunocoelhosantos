@@ -14,7 +14,9 @@
 	<div class="txt">	
 		<h2>Vânia Coelho Santos</h2>
 		<h6>Web Design & Development</h6>
-		<p>Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna, duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc. Arcu feugiat amet mattis vulputate. Non leo lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus placerat fringilla dapibus vel mollis. Voluptas donec proin, sed quis, sit sed faucibus lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien justo. Nisl porttitor, maecenas tortor sed, a potenti. Vitae sodales orci euismod sapien nonummy enim, varius eros ac.</p>
+		<p>Design and development of <a href="http://vaniacoelhosantos.com" target="_blank">my sister’s digital portfolio</a>. With this project I wanted to recreate her livelyhood adding colour to her work. To me, it was equally important to display each project’s thinking process as well as final outcome in a clean and simple responsive website.</p>
+		<p>This portfolio is part of <a href="http://siteinspire.com/showcase/view/2824/vnia-coelho-santos" target="_blank">siteinspire.com’s selected sites</a>. Built using Adobe Photoshop, Adobe Illustrator, <a href="https://typekit.com/" target="_blank">Adobe Typekit</a>, <a href="http://www.sublimetext.com/" target="_blank">Sublime Text 2</a>, <a href="http://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>,<a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>, <a href="http://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a>, <a href="http://jquery.com/" target="_blank">jQuery</a>, <a href="http://php.net/" target="_blank">PHP</a> and <a href="http://git-scm.com/" target="_blank">Git</a>.</p>
+		<p class="icon-globe-1"><a href="http://vaniacoelhosantos.com" target="_blank">vaniacoelhosantos.com</a></p>
 	</div>
 	<img class="clear side" src="http://media.nunocoelhosantos.com/images/vania-coelho-santos-vila-nova-de-gaia-public-library.jpg" width="1008" height="580">
 	

@@ -4,7 +4,7 @@
 		<p>
 			This is the online portfolio and archive of Nuno Coelho Santos.
 			I use this website as a way to document the process of each project and my progress as a designer.
-			Please <a href="/en/profile">read more about me</a>.
+			<a href="/en/profile">More about me</a>.
 		</p>
 	</div>
 	<div class="txt grid2">

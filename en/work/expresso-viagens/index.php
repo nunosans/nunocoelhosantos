@@ -14,7 +14,7 @@
 	<div class="txt">
 		<h2>Expresso Viagens</h2>
 		<h6>Branding, Front-end Development, Illustration, Print & Web Design.</h6>
-		<p>For this project I had to rebrand the travel agency Expresso Viagens and create a new online presence for itself. To do so I worked with <a>Tiago Alves</a> who developed the Ruby on Rails backend for the site and specially the blog, and with <a>Jack Veiga</a> who presented the work to the client and did systems administration. My role was to design the new identity, design the website and develop the front-end for it.</p>
+		<p>For this project I had to rebrand the travel agency Expresso Viagens and create a new online presence for itself. To do so I worked with <a href="http://twitter.com/plaintiago" target="_blank">Tiago Alves</a> who developed the Ruby on Rails backend for the site and specially the blog, and with <a href="http://twitter.com/jackveiga" target="_blank">Jack Veiga</a> who presented the work to the client and did systems administration. My role was to design the new identity, design the website and develop the front-end for it.</p>
 		<p>The new identity focuses on Expresso's personal assistance, simplification of procedures and wide range of services. The brand is illustrated by the icon of a suitcase: a travellers most valuable asset. Two proposals were developed, one with an approach to represent simplicity and one to represent familiarity. Alongside my coworkers we decided to go for the familiar identity, basing all elemnts on existing references to travelling and creating a brand that makes people connect easily with it. The typeface Swift is used to bring some serousness and reliability keeping a modern look. The airport inspired colours are used to inspire nostalgia from travelling.</p>
 	</div>
 	
@@ -24,9 +24,10 @@
 	</div>
 	
 	<div class="clear txt">
-		<p id="special-1">The website was designed to be as simple and as engaging as possible. The focus was to display the services offered by the agency and make the phone number and email very easy to find. 25% of the visits are made from Internet Explorer browsers so this also renders perfectly on any version above 6. Half of the visitors to the site are using a system in english and a third one in portuguese therefor we made this site bilingual and the language is detected automatically. Built using Adobe Photoshop, Adobe Illustrator, Typekit, Sublime Text 2, HTML, CSS, JS, jQuery, RoR and Git.</p>
+		<p id="special-1">The website was designed to be as simple and as engaging as possible. The focus was to display the services offered by the agency and make the phone number and email very easy to find. 25% of the visits are made from Internet Explorer browsers so this also renders perfectly on any version above 6. Half of the visitors to the site are using a system in english and a third one in portuguese therefor we made this site bilingual and the language is detected automatically. Built using <a href="http://www.adobe.com/products/photoshop.html" target="_blank">Adobe Photoshop</a>, <a href="http://www.adobe.com/products/illustrator.html" target="_blank">Adobe Illustrator</a>, <a href="https://typekit.com/" target="_blank">Typekit</a>, <a href="http://www.sublimetext.com/" target="_blank">Sublime Text 2</a>, <a href="http://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>, <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>, <a href="http://en.wikipedia.org/wiki/JavaScript" target="_blank">JS</a>, <a href="http://jquery.com/" target="_blank">jQuery</a>, <a href="http://rubyonrails.org/" target="_blank">RoR</a> and <a href="http://git-scm.com/" target="_blank">Git</a>.</p>
+		<p class="icon-globe-1"><a href="http://expressoviagens.com" target="_blank">expressoviagens.com</a></p>
 	</div>
-	<img class="side" src="http://media.nunocoelhosantos.com/videos/expresso-viagens-website-demo.jpg" width="1008" height="958">
+	<img class="side" src="http://media.nunocoelhosantos.com/images/expresso-viagens-screen.png" width="1008" height="965">
 	<!-- Video is still not working propertly on iOS-->
 	<!--<video class="side" poster="http://media.nunocoelhosantos.com/videos/expresso-viagens-website-demo.jpg"
 	autoplay="autoplay" loop="loop" width="1008" height="958" videoWidth="1008" videoHeight="958" onended="this.play()">

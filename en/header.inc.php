@@ -179,6 +179,7 @@
 	
 	<!-- Mobile Three Column -->
 	<style type="text/css" media="only screen and (max-width:  680px)">
+		body {background-position: 50% 400px;}
 		body > * {width: 784px;}
 		#header, .project, .project-nav, .work h3, .featured > div > * {width: 752px;}
 		
@@ -221,9 +222,10 @@
 
 		.work div.dev h4:after,
 		.work div.new h4:after {
-			top: 105px;
-			right: 18px;
-			border-radius: 6px;
+			width: 224px;
+			top: 116px;
+			right: 8px;
+			border-radius: 0px;
 			padding: 4px 8px 6px;
 			}
 
