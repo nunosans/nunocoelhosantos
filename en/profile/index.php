@@ -1,4 +1,4 @@
-<? $project='NO'; include_once("../header.inc.php"); ?>
+<? $nav='profile'; $project='NO'; include_once("../header.inc.php"); ?>
 
 <div class="project-nav">
 	<h2>Profile</h2>
