@@ -9,14 +9,16 @@
 	
 	<img class="clear side" src="http://media.nunocoelhosantos.com/images/profile-portrait-1.jpg" width="" height="">
 	<div class="txt">
-		<h2>Auto-Biography Nuno Coelho Santos</h2>
-		<p>I am a developer and graphic designer based in London. Born in Porto, Portugal, I moved to the UK to study at Central Saint Martins College of Art & Design. During my time at CSM I founded Savant and Iterar.</p>
-		<p>Before my move to London I studied at ESSR, a vocational arts school, from 2004 to 2008. I thought several times of leaving art school to study engeneering, but the creative and engaging atmosphere of this specific school kept me still. There I have learnt HTML, Adobe Flash and ActionScript 2.0 in parallel to my print-focused Graphic Design specialisation. During those years and alongside with my good friend Tiago Alves we developed mobile phone games and websites in Flash.</p>
+		<h2>Auto-Biography</h2>
+		<p>I am a developer and graphic designer based in London and original from <a href="http://vimeo.com/21698583" target="_blank">Porto, Portugal</a>. My work reflects a lot of my personality: organised, tidy, straigh-forward, unpronounced.</p>
+		<p>I am a print-design lover fascinated with the digital.</p>
+		<p>I attented <a href="http://pt.wikipedia.org/wiki/Escola_Art%C3%ADstica_de_Soares_dos_Reis" target="_blank">ESSR</a> back in Porto from 2004 to 2008. At this vocational arts school I had my first contact with design, print, typography, moving image, branding, web development, linux.</p>
 	</div>
 
 	<div class="clear txt">
-		<p>In 2008 I moved to London and worked part-time on coffee shops and later on as a freelance web designer to help with living expenses. My years at Central Saint Martins (below) inflicted the deepest change in philosophy and way of thinking as a graphic designer.</p>
-		<p>From the 14th of July 2012 my work will be exhibited at the Central Saint Martins Degree Shows.</p>
+		<p>Since late in 2008 I have been living in London to attend an undergraduate course at <a href="http://www.csm.arts.ac.uk/" target="_blank">Central Saint Martins</a>. From the 14th of June 2012 my work will be exhibited at the CSM Degree Shows. <a href="http://2012.csmgraphicdesign.com/about/planning_your_visit" target="_blank">More information here</a>.</p>
+		<p>I have been doing freelance work since 2009. I started doing branding and websites for friends as I wanted was to apply the things I was been learning by myself on web development. This later became a big passion.</p>
+		<p>My first steps were taken in the company of <a href="http://twitter.com/plaintiago" target="_blank">Tiago Alves</a>, a medicine student, old friend, and passionate hobbyist developer alike. Over time we gathered more people and founded <a href="http://savantstudio.co.uk/" target="_blank">Savant</a> & <a href="http://iterar.co/" target="_blank">Iterar</a>.</p>
 	</div>
 	<img class="both" src="http://media.nunocoelhosantos.com/images/profile-csm.jpg" width="" height="">
 
@@ -42,11 +44,11 @@
 	</div>
 	<div class="txt">
 		<h2>Experience</h2>
-		<p>I have been a freelance designer since 2009. In December 2009 I interned as a graphic designer for Saatchi & Saatchi Design. In 2010 and 2011 I was the in-house designer for Shooting People. On the summer of 2011 I interned as an iOS Developer for Protein.</p>
+		<p>Freelancer since 2009 non-stop. In December 2009 I interned as a graphic designer for <a href="http://saatchidesign.com/" target="_blank">Saatchi & Saatchi Design</a>. In 2010 and 2011 I was the in-house designer for <a href="http://shootingpeople.org/" target="_blank">Shooting People</a>. On the summer of 2011 I interned as an iOS Developer for <a href="http://prote.in/os" target="_blank">Protein</a>.</p>
 	</div>
 	<div class="txt">
 		<h2>Workflow</h2>
-		<p>Sketch, write, sketch. I use all the Adobe tools without preference for any. I code on Sublime Text 2. I backup with Dropbox, version my code with Git, develop RoR locally with Pow and Powder. Kickoff is my number 1 collaboration tool. Mac user.</p>
+		<p>Sketch, write, sketch. I use all the <a href="http://adobe.com/" target="_blank">Adobe</a> tools without preference for any. I code on <a href="http://www.sublimetext.com/2" target="_blank">Sublime Text 2</a>. I backup with <a href="http://dropbox.com/" target="_blank">Dropbox</a>, version my code with <a href="http://git-scm.com" target="_blank">Git</a>, develop <a href="http://rubyonrails.org/" target="_blank">RoR</a> locally with <a href="http://pow.cx/" target="_blank">Pow</a> and <a href="https://github.com/Rodreegez/powder" target="_blank">Powder</a>. <a href="http://kickoffapp.com/" target="_blank">Kickoff</a> is my no 1 collaboration tool. <a href="http://apple.com/mac" target="_blank">Mac</a> user.</p>
 	</div>
 
 </div>
