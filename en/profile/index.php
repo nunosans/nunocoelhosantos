@@ -1,4 +1,4 @@
-<? $nav='profile'; $project='NO'; include_once("../header.inc.php"); ?>
+<? $nav='profile'; $project='Profile'; include_once("../header.inc.php"); ?>
 
 <div class="project-nav">
 	<h2>Profile</h2>
@@ -17,8 +17,8 @@
 
 	<div class="clear txt">
 		<p>Since late in 2008 I have been living in London to attend an undergraduate course at <a href="http://www.csm.arts.ac.uk/" target="_blank">Central Saint Martins</a>. From the 14th of June 2012 my work will be exhibited at the CSM Degree Shows. <a href="http://2012.csmgraphicdesign.com/about/planning_your_visit" target="_blank">More information here</a>.</p>
-		<p>I have been doing freelance work since 2009. I started doing branding and websites for friends as I wanted was to apply the things I was been learning by myself on web development. This later became a big passion.</p>
-		<p>My first steps were taken in the company of <a href="http://twitter.com/plaintiago" target="_blank">Tiago Alves</a>, a medicine student, old friend, and passionate hobbyist developer alike. Over time we gathered more people and founded <a href="http://savantstudio.co.uk/" target="_blank">Savant</a> & <a href="http://iterar.co/" target="_blank">Iterar</a>.</p>
+		<p>I have been freelancing since 2009. I started building websites for friends as a way to teach myself web development. Later on this became a big passion and now I can't <i>&thinsp;just&hairsp;</i> design the interface.</p>
+		<p>My first steps were taken in the company of <a href="http://twitter.com/plaintiago" target="_blank">Tiago Alves</a>, a medicine student, old friend, and passionate hobbyist developer alike. Over time we gathered more people and call our teams <a href="http://savantstudio.co.uk/" target="_blank">Savant</a> & <a href="http://iterar.co/" target="_blank">Iterar</a>.</p>
 	</div>
 	<img class="both" src="http://media.nunocoelhosantos.com/images/profile-csm.jpg" width="" height="">
 
@@ -48,7 +48,7 @@
 	</div>
 	<div class="txt">
 		<h2>Workflow</h2>
-		<p>Sketch, write, sketch. I use all the <a href="http://adobe.com/" target="_blank">Adobe</a> tools without preference for any. I code on <a href="http://www.sublimetext.com/2" target="_blank">Sublime Text 2</a>. I backup with <a href="http://dropbox.com/" target="_blank">Dropbox</a>, version my code with <a href="http://git-scm.com" target="_blank">Git</a>, develop <a href="http://rubyonrails.org/" target="_blank">RoR</a> locally with <a href="http://pow.cx/" target="_blank">Pow</a> and <a href="https://github.com/Rodreegez/powder" target="_blank">Powder</a>. <a href="http://kickoffapp.com/" target="_blank">Kickoff</a> is my no 1 collaboration tool. <a href="http://apple.com/mac" target="_blank">Mac</a> user.</p>
+		<p>Sketch, write, sketch. I use all the <a href="http://www.adobe.com/" target="_blank">Adobe</a> tools without preference for any. I code on <a href="http://www.sublimetext.com/2" target="_blank">Sublime Text 2</a>. I backup with <a href="https://www.dropbox.com/" target="_blank">Dropbox</a>, version my code with <a href="http://git-scm.com" target="_blank">Git</a>, develop <a href="http://rubyonrails.org/" target="_blank">RoR</a> locally with <a href="http://pow.cx/" target="_blank">Pow</a> and <a href="https://github.com/Rodreegez/powder" target="_blank">Powder</a>. <a href="http://kickoffapp.com/" target="_blank">Kickoff</a> is my no 1 collaboration tool. <a href="http://www.apple.com/mac/" target="_blank">Mac</a> user.</p>
 	</div>
 
 </div>
