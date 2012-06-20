@@ -3,7 +3,7 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<META http-equiv="cache-control" CONTENT="public">
+	<meta http-equiv="cache-control" CONTENT="public">
 	<meta name="description" content="Nuno Coelho Santos is a Graphic Designer and Front-end Developer based in London. Soon to be graduated from Central Saint Martins, working on freelance projects." />
 	<meta name="keywords" content="nuno, coelho, santos, graphic, web, design, identity, soares, reis, csm, central, saint, martins, london" />
 	<meta name="format-detection" content="telephone=no" >
