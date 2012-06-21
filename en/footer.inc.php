@@ -30,5 +30,6 @@
 	<a id="columns-on">Show Columns</a><a id="columns-off">Hide Columns</a>
 </span>
 
+<script type="text/javascript" src="/javascript/retina.js"></script>
 </body>
 </html>

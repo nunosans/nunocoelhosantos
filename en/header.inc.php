@@ -15,7 +15,9 @@
 	<link   type="text/plain"	href="/humans.txt"				rel="author"							/>
 	
 	<script type="text/javascript" src="http://use.typekit.com/qxu7res.js"></script>
-	<script type="text/javascript" src="/javascript/jquery.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<script type="text/javascript" src="/javascript/localscroll.js"></script>
+	<script type="text/javascript" src="/javascript/scrollto.js"></script>
 	<script type="text/javascript" src="/javascript/scripts.js"></script>
 	
 	<script type="text/javascript" src="http://mint.nunocoelhosantos.com/?js"></script>
@@ -23,7 +25,7 @@
 	<?
 	
 	$project_number = 0; // Initial value to iterate
-	$projects_total = 3; // Total number of projects
+	$projects_total = 4; // Total number of projects
 	
 	switch ($title) {
 	//	case 'Fractures from Anxiety'	: $project_number++;
@@ -45,7 +47,7 @@
 		case 'Expresso Viagens'			: $project_number++;
 	//	case 'Ava Mirabelle'			: $project_number++;
 		case 'Vânia Coelho Santos'		: $project_number++;
-	//	case 'Paul Cocksedge Shop'		: $project_number++;
+		case 'Paul Cocksedge Shop'		: $project_number++;
 	//	case 'Norman Hartnell'			: $project_number++;
 	//	case '#todo'					: $project_number++;
 	//	Add new projects here using the same structure

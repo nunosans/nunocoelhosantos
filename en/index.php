@@ -27,12 +27,14 @@
 			<img src="http://media.nunocoelhosantos.com/images/norman-hartnell-card.png" width="240" height="140" alt="A picture of the Norman Hartnell logo">
 			<p>Development of HM The Queen's dressmaker revival brand website</p>
 		</div>
-		<div class="dev">
-			<h4>Paul Cocksedge Shop</h4>
-			<img src="http://media.nunocoelhosantos.com/images/paul-cocksedge-shop-card.jpg" width="240" height="140" alt="A photograph of the black Bookmark by Paul Cocksedge Studio">
+		<div class="new">
+			<h4><a href="work/paul-cocksedge-shop/">Paul Cocksedge Shop</a></h4>
+			<a href="work/paul-cocksedge-shop/">
+				<img src="http://media.nunocoelhosantos.com/images/paul-cocksedge-shop-card.jpg" width="240" height="140" alt="A photograph of the black Bookmark by Paul Cocksedge Studio">
+			</a>
 			<p>Identity and online store for the <br />London-based design studio</p>
 		</div>
-		<div class="new">
+		<div>
 			<h4><a href="work/vania-coelho-santos/">Vânia Coelho Santos</a></h4>
 			<a href="work/vania-coelho-santos/">
 				<img src="http://media.nunocoelhosantos.com/images/vania-coelho-santos-card.jpg" width="240" height="140" alt="One of the computer generated images representing one Vânia Coelho Santos architectural concepts">
