@@ -1,4 +1,9 @@
-<? $nav='profile'; $project='Profile'; include_once("../header.inc.php"); ?>
+<?
+	$page='Profile';
+	$title='Profile';
+	$description='Profile of Nuno Coelho Santos, Designer & Front-end Developer based in London';
+	require_once('../header.inc.php');
+?>
 
 <div class="project-nav">
 	<h2>Profile</h2>
@@ -21,14 +26,6 @@
 		<p>My first steps were taken in the company of <a href="http://twitter.com/plaintiago" target="_blank">Tiago Alves</a>, a medicine student, old friend, and passionate hobbyist developer alike. Over time we gathered more people and call our teams <a href="http://savantstudio.co.uk/" target="_blank">Savant</a> & <a href="http://iterar.co/" target="_blank">Iterar</a>.</p>
 	</div>
 	<img class="both" src="http://media.nunocoelhosantos.com/images/profile-csm.jpg" width="" height="">
-
-	<!--<div class="clear txt">
-		<h2>Savant & Iterar</h2>
-		<p>Savant takes pride in helping individuals or companies creating an online presence, a timeless identity and more efficient work flow. At Savant, we focus in using the best tools and methods to achive the right goals.</p>
-		<p>Iterar is an independant software company dedicated to conceive crafted aplications or websites. At Iterar, we scratch the itch and get the wildest project to light.</p>
-		<p>Savant & Iterar were co-founded with my great friend Tiago Alves for diferent purposes but with similar values.</p>
-	</div>
-	<img class="side" src="http://media.nunocoelhosantos.com/images/profile-savant-and-iterar.jpg" width="" height="">-->
 
 	<div class="clear txt">
 		<h2>Selected Clients&thinsp;/&thinsp;Friends I worked for</h2>

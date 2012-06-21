@@ -1,7 +1,11 @@
-<? $project='Expresso Viagens'; include_once("../../header.inc.php"); ?>
+<?
+	$title='Expresso Viagens';
+	$description='Identity, print, web design/development and illustrations for the travel agency';
+	require_once('../../header.inc.php');
+?>
 
 <div class="project-nav">
-	<h2><? echo $project ?></h2>
+	<h2><? echo $title ?></h2>
 	<span><? echo $project_number ?> of <? echo $projects_total ?></span>
 	<span><a href="../vania-coelho-santos/">Previous</a> &nbsp;/&nbsp; <a href="../ana-barreira/">Next</a></span>
 </div>
@@ -28,19 +32,9 @@
 		<p class="icon-globe-1"><a href="http://expressoviagens.com" target="_blank">expressoviagens.com</a></p>
 	</div>
 	<img class="side" src="http://media.nunocoelhosantos.com/images/expresso-viagens-screen.png" width="1008" height="965">
-	<!-- Video is still not working propertly on iOS-->
-	<!--<video class="side" poster="http://media.nunocoelhosantos.com/videos/expresso-viagens-website-demo.jpg"
-	autoplay="autoplay" loop="loop" width="1008" height="958" videoWidth="1008" videoHeight="958" onended="this.play()">
-	    <source src="http://media.nunocoelhosantos.com/videos/expresso-viagens-website-demo.mp4" type="video/mp4">
-	    <source src="http://media.nunocoelhosantos.com/videos/expresso-viagens-website-demo.ogg" type="video/ogg">
-	    <source src="http://media.nunocoelhosantos.com/videos/expresso-viagens-website-demo.wmv" type="video/wmv">
-	    <source src="http://media.nunocoelhosantos.com/videos/expresso-viagens-website-demo.mkv" type="video/mkv">
-	    <source src="http://media.nunocoelhosantos.com/videos/expresso-viagens-website-demo.m4v" type="video/m4v">
-	    <source src="http://media.nunocoelhosantos.com/videos/expresso-viagens-website-demo.ogv" type="video/ogv">
-	</video>-->
 	
 	<img class="site-plan" src="http://media.nunocoelhosantos.com/images/expresso-viagens-website-plan.png" width="1166" height="3798">
 	
 </div>
 
-<? include_once("../../footer.inc.php"); ?>
+<? require_once('../../footer.inc.php'); ?>

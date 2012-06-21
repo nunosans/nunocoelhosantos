@@ -412,7 +412,10 @@ Homepage
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	}
-	.featured:hover .featured > div > div {}
+	.featured:hover {
+		/* Add pointing cursor when hovering the featured project */
+		cursor: pointer;
+		}
 	.featured img {
 		min-height: 385px;
 		min-width: 700px;

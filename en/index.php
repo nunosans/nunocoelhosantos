@@ -1,4 +1,9 @@
-<? $nav='home'; $project='NO'; include_once("header.inc.php"); ?>
+<?
+	$page='Home';
+	$title='Designer & Front-end Developer';
+	$description='Nuno Coelho Santos is a Graphic Designer and Front-end Developer based in London.';
+	require_once('header.inc.php');
+?>
 	
 	<div class="featured">
 		<img src="http://media.nunocoelhosantos.com/images/vania-coelho-santos-slide.jpg" width="2000" height="1100" alt="A computer generated image displaying the website for Vânia Coelho Santos on a desktop screen, a tablet and a mobile phone">
@@ -139,4 +144,4 @@
 		</div>
 	</div>
 
-<? include_once("footer.inc.php"); ?>
+<? require_once('footer.inc.php'); ?>

@@ -4,12 +4,12 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta http-equiv="cache-control" CONTENT="public">
-	<meta name="description" content="Nuno Coelho Santos is a Graphic Designer and Front-end Developer based in London. Soon to be graduated from Central Saint Martins, working on freelance projects." />
+	<meta name="description" content="<? echo($description) ?>" />
 	<meta name="keywords" content="nuno, coelho, santos, graphic, web, design, identity, soares, reis, csm, central, saint, martins, london" />
 	<meta name="format-detection" content="telephone=no" >
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
 	
-	<title>Nuno Coelho Santos<? if ($project=='NO') {echo(' &nbsp;—&nbsp; Designer & Front-end Developer');} else {echo(' &nbsp;~&nbsp; '); echo $project;} ?></title>
+	<title>Nuno Coelho Santos<? if ($page=='Home' || $page=='Profile') {echo(' &nbsp;—&nbsp; '); echo $title;} else {echo(' &nbsp;~&nbsp; '); echo $title;} ?></title>
 	 
 	<link   type="text/css"		href="/stylesheets/styles.css"	rel="stylesheet"		media="screen"	/>
 	<link   type="text/plain"	href="/humans.txt"				rel="author"							/>
@@ -25,7 +25,7 @@
 	$project_number = 0; // Initial value to iterate
 	$projects_total = 3; // Total number of projects
 	
-	switch ($project) {
+	switch ($title) {
 	//	case 'Fractures from Anxiety'	: $project_number++;
 	//	case 'Sophie Westerlind'		: $project_number++;
 	//	case 'Miti Ruangkritya'			: $project_number++;
@@ -64,7 +64,7 @@
 			Designer & Front-end Developer
 		</h1>
 		<ul id="nav">
-			<li><a href="<? if ($nav=='home') {echo('#portfolio');} else {echo('/');}?>">Portfolio</a></li>
+			<li><a href="<? if ($page=='Home') {echo('#portfolio');} else {echo('/');}?>">Portfolio</a></li>
 			<li><a href="/en/profile">Profile</a></li>
 		</ul>
 	</div>

@@ -1,7 +1,7 @@
-<? $project='Miti Ruangkritya'; include_once("../../header.inc.php"); ?>
+<? $project='Miti Ruangkritya'; require_once('../../header.inc.php'); ?>
 
 <div class="project-nav">
-	<h2><? echo $project ?></h2>
+	<h2><? echo $title ?></h2>
 	<span><? echo $project_number ?> of <? echo $projects_total ?></span>
 	<span><a href="../ana-barreira/">Previous</a> &nbsp;/&nbsp; <a href="../sophie-westerlind/">Next</a></span>
 </div>
@@ -12,4 +12,4 @@
 	
 </div>
 
-<? include_once("../../footer.inc.php"); ?>
+<? require_once('../../footer.inc.php'); ?>
