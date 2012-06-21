@@ -1190,3 +1190,16 @@ Media Queries
   .txt.col1, .txt.col2, .txt.col3, .txt.col4, .txt.col5,
   .txt.grid1, .txt.grid2, .txt.grid3, .txt.grid4 {
     width: 496px; } }
+/* Retina CSS Graphics */
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) {
+  body {
+    background-image: url("http://media.nunocoelhosantos.com/graphics/spinner-light@2x.gif");
+    background-size: 30px 30px; }
+
+  .featured {
+    background-image: url("http://media.nunocoelhosantos.com/graphics/spinner-dark@2x.gif");
+    background-size: 30px 30px; }
+
+  .featured p {
+    background-image: url("http://media.nunocoelhosantos.com/graphics/arrow@2x.png");
+    background-size: 16px 25px; } }

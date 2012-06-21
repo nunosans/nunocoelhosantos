@@ -1112,7 +1112,21 @@ Media Queries
 		}
 }
 
-
+/* Retina CSS Graphics */
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) {
+	body {
+		background-image: url("http://media.nunocoelhosantos.com/graphics/spinner-light@2x.gif");
+		background-size: 30px 30px;
+		}
+	.featured {
+		background-image: url("http://media.nunocoelhosantos.com/graphics/spinner-dark@2x.gif");
+		background-size: 30px 30px;
+		}
+	.featured p {
+		background-image: url('http://media.nunocoelhosantos.com/graphics/arrow@2x.png');
+		background-size: 16px 25px;
+		}
+}
 
 
 
