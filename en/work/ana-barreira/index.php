@@ -25,7 +25,7 @@
 
 	<div class="clear txt col1">
 		<p>The website was developed by <a href="http://twitter.com/plaintiago" target="_blank">Tiago Alves</a>. I wanted this site to be stunning from the very first page and very easy to navigate around. The design lines follow the angle of the capital “A” and the italicized menu items fit into this trend.</p>
-		<p>This website was built using <a href="http://www.adobe.com/products/photoshop.html" target="_blank">Adobe Photoshop</a>, <a href="http://www.adobe.com/products/illustrator.html" target="_blank">Adobe Illustrator</a>, <a href="" target="_blank">Coda</a>, <a href="http://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>, <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a> and <a href="http://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a>.</p>
+		<p>This website was built using <a href="http://www.adobe.com/uk/products/photoshop.html" target="_blank">Adobe Photoshop</a>, <a href="http://www.adobe.com/uk/products/illustrator.html" target="_blank">Adobe Illustrator</a>, <a href="" target="_blank">Coda</a>, <a href="http://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>, <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a> and <a href="http://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a>.</p>
 		<p class="icon-globe-1"><a href="http://anabarreira.com/" target="_blank">anabarreira.com</a></p>
 
 	</div>

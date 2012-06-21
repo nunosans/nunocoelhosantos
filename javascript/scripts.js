@@ -6,8 +6,9 @@ $(document).ready(function() {
 
     // Apply localScroll to the nav
     $('#nav').localScroll({
-        lock: true,
-        target:'body'
+        lock: stop,
+        target:'body',
+        duration: 350
     });
     
 	// Resize the Featured Project 
