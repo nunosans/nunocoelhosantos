@@ -369,12 +369,12 @@ Nav & Footer
 	#nav li {
 		float:left;
 		display: inline-block;
-		margin-left: 8px;
+		margin-left: 6px;
 		}
 	#nav li:after {
 		content: "/";
-		color: $shade-3;
-		margin-left: 8px;
+		color: $shade-2;
+		margin-left: 6px;
 		}
 		#nav li:last-child:after {
 			content: "";
@@ -563,12 +563,10 @@ h3 {
 		}
 	}
 	
-	.work div.dev h4:after {
-		content: "Coming Soon";
-		background-color: #CCC;
-		background-color: rgba(0,0,0,0.25);
+	.work div.dev h4:after,
+	.work div.new h4:after {
 		position: absolute;
-		top: 152px;
+		top: 151px;
 		right: 8px;
 		border-radius: 3px;
 		text-transform: uppercase;
@@ -579,20 +577,14 @@ h3 {
 		line-height: 14px;
 		z-index: 1;
 		}
+	.work div.dev h4:after {
+		content: "Coming Soon";
+		background-color: #CCC;
+		background-color: rgba(0,0,0,0.25);
+		}
 	.work div.new h4:after {
 		content: "New";
 		background-color: $key-color;
-		position: absolute;
-		top: 152px;
-		right: 8px;
-		border-radius: 3px;
-		text-transform: uppercase;
-		font-size: 9px;
-		letter-spacing: 1.3px;
-		color: white;
-		padding: 0 4px;
-		line-height: 14px;
-		z-index: 1;
 		}
 
 	.work div img,
@@ -852,7 +844,7 @@ Info & Copyright
 
 /*
 ----------------------------------------------------------
-Columns - Dev only
+Columns
 ----------------------------------------------------------
 */
 
@@ -946,7 +938,7 @@ Media Queries
 	.featured > div > * {padding-right: 512px;}
 	.work {width: 768px;}
 	.txt.grid1	{width: 112px;}
-	.txt.grid3	{width: 368px;}
+	.txt.grid4	{width: 368px;}
 	.txt.col5,
 	.txt.col4 {
 		width: 752px;
@@ -983,15 +975,8 @@ Media Queries
 		        transition-duration: 0.0s;
 		}
 	#about, #also {width: 100%;}
-	.txt.col5,
-	.txt.col4,
-	.txt.col3 {
-		width: 496px;
-		-webkit-column-count: 2;
-		   -moz-column-count: 2;
-		     -o-column-count: 2;
-		        column-count: 2;
-		}
+	.txt.grid1	{width: 240px;}
+	.txt.grid4	{width: 496px;}
 	.project .full,
 	.project .side,
 	.project .site-plan,
@@ -1003,6 +988,11 @@ Media Queries
 		margin-left: 0;
 		}
 	.project .txt {
+		width: 368px;
+		-webkit-column-count: 1;
+		   -moz-column-count: 1;
+		     -o-column-count: 1;
+		        column-count: 1;
 		margin-top: 0;
 		margin-bottom: 16px;
 		margin-left: 0;
@@ -1028,6 +1018,8 @@ Media Queries
 			/* Override jQuery resizing  */
 			top: 0 !important;
 		}
+	#nav li {margin-left: 12px;}
+	#nav li:after {margin-left: 12px;}
 
 	.featured > div {background-color: black; background-color: rgba(0,0,0,0.75);}
 	.featured > div > * {padding-right: 0px;}
