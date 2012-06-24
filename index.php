@@ -16,7 +16,7 @@ function redirect() {
 	elseif	(substr($lang, 0, 2) == 'fi')	{header("Location: /en/");} // Finnish
 	elseif	(substr($lang, 0, 2) == 'de')	{header("Location: /en/");} // German
 	elseif	(substr($lang, 0, 2) == 'jp')	{header("Location: /en/");} // Japanese
-	elseif	(substr($lang, 0, 2) == 'pt')	{header("Location: /en/");} // Portuguese
+	elseif	(substr($lang, 0, 2) == 'pt')	{header("Location: /pt/");} // Portuguese
 	elseif	(substr($lang, 0, 2) == 'es')	{header("Location: /en/");} // Spanish
 	else									{header("Location: /en/");} // English (Fallback)
 
