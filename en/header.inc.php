@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" manifest="/text/en.appcache">
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -19,7 +19,7 @@
 	<script type="text/javascript" src="/javascript/localscroll.js"></script>
 	<script type="text/javascript" src="/javascript/scrollto.js"></script>
 	<script type="text/javascript" src="/javascript/scripts.js"></script>
-	
+	<script type="text/javascript" src="/javascript/retina.js"></script>
 	<script type="text/javascript" src="http://mint.nunocoelhosantos.com/?js"></script>
 	
 	<?
