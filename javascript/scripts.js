@@ -44,6 +44,27 @@ function resizeFeaturedProject() {
   };
 };
 
+function gridToggles() {
+  var columns = $('#columns');
+  var columnButtonOn = $('#columns-on');
+  var columnButtonOff = $('#columns-off');
+  columns.hide();
+  columnButtonOn.show();
+  columnButtonOff.hide();
+  
+  columnButtonOn.click(function() {
+    columns.show();
+    columnButtonOn.hide();
+    columnButtonOff.show();
+  });
+  
+  columnButtonOff.click(function() {
+    columns.hide();
+    columnButtonOn.show();
+    columnButtonOff.hide();
+  });
+};
+
 try{Typekit.load();}catch(e){};
 
 $(document).ready(function() {
@@ -57,23 +78,8 @@ $(document).ready(function() {
       duration: 350
   });
 
-  // Grid Toggles.
-  $('#columns').css('display', 'none');
-  $('#columns-on').css('display', 'inline');
-  $('#columns-off').css('display', 'none');
-  
-  $('#columns-on').click(function() {
-    $('#columns').css('display', 'block');
-    $('#columns-on').css('display', 'none');
-    $('#columns-off').css('display', 'inline');
-  });
-  
-  $('#columns-off').click(function() {
-    $('#columns').css('display', 'none');
-    $('#columns-on').css('display', 'inline');
-    $('#columns-off').css('display', 'none');
-  });
 
+  gridToggles();
     
   // Hover effects.
   $('.work div a img').after('<span class="cover"></span>');
@@ -90,7 +96,7 @@ $(document).ready(function() {
   );
 
   // Get elements ready to fade-in.
-  $('img, .featured div, .project, #info, #copyright').fadeTo(0, 0);
+  $('#portfolio, .featured div, .featured img, .project, #info, #copyright').fadeTo(0, 0);
 
   $(window).resize(function() {
     resizeFeaturedProject();
@@ -103,7 +109,7 @@ $(window).load(function() {
     $('body').css('background-image', 'none');
     $('.featured').addClass('ready');
     // Fade elements in.
-    $('img, .featured div, .project, #info, #copyright').fadeTo(500, 1);
+    $('#portfolio, .featured div, .featured img, .project, #info, #copyright').fadeTo(500, 1);
     $('.work .dev img').fadeTo(250, 0.3);
 
     // Make the bar of the featured project clickable.

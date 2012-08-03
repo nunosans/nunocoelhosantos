@@ -796,6 +796,10 @@ video {
 #info .txt p {
   padding-right: 60px;
   }
+  #info .txt.grid1 p,
+  #info .txt.grid2 p {
+    padding-right: 0;
+  }
 
 #copyright {
   display: block;
