@@ -1,34 +1,40 @@
-<div id="info">
-	<div class="txt grid4">
-		<h4>About</h4>
-		<p>
-			This is the online portfolio and archive of Nuno Coelho Santos.
-			I use this website as a way to document the process of each project and my progress as a designer.
-			<? if ($page != 'Profile'): ?><a href="/en/profile">More about me</a>.<? endif; ?>
-		</p>
-	</div>
-	<div class="txt grid2">
-		<h4>Contacts</h4>
-		<ul>
-			<li><a class="tel" href="tel:+447919537622">+44 [0]7919 537 622</a>,</li>
-			<li><a href="mailto:nuno@nunocoelhosantos.com?subject=Question%20about%20your%20work%20/%20Quote%20/%20Work%20proposal&body=Dear%20Nuno,%0D%0A%0D%0A">nuno@nunocoelhosantos.com</a>,</li>
-			<li>and on Skype as <a href="skype:nunocoelhosantos?userinfo">nunocoelhosantos</a></li>
-		</ul>
-	</div>
-		
-	<div class="txt grid1">
-		<h4>Also on</h4>
-		<ul>
-			<li><a href="http://github.com/nunosans" target="_blank">Github</a></li>
-			<li><a href="http://twitter.com/nunosans" target="_blank">Twitter</a></li>
-		</ul>
-	</div>
-</div>
-
-<span id="copyright">
-	© 2008&thinsp;—&thinsp;<?php date_default_timezone_set('Europe/London'); echo date("Y") ?> Nuno Coelho Santos &thinsp;/&thinsp;
-	<a id="columns-on">Show Columns</a><a id="columns-off">Hide Columns</a>
-</span>
-
-</body>
+    <div id="info">
+      <div class="txt grid4">
+        <h4>About</h4>
+        <p>
+          This is the online portfolio and archive of Nuno Coelho Santos.
+          I use this website as a way to document the process of each project
+          and my progress as a designer.
+          <? if ($page != 'Profile'): ?><a href="/en/profile">More about me</a>.<? endif; ?>
+        </p>
+      </div>
+      <div class="txt grid2">
+        <h4>Contacts</h4>
+        <p>
+          <a class="tel" href="tel:+447919537622">+44 [0]7919 537 622</a>,<br>
+          <a href="mailto:nuno@nunocoelhosantos.com?subject=Question%20about%20your%20work%20/%20Quote%20/%20Work%20proposal&body=Dear%20Nuno,%0D%0A%0D%0A">nuno@nunocoelhosantos.com</a>,<br>
+          and on Skype as <a href="skype:nunocoelhosantos?userinfo">nunocoelhosantos</a>
+        </p>
+      </div>
+        
+      <div class="txt grid1">
+        <h4>Also on</h4>
+        <ul>
+          <li>
+            <a href="http://github.com/nunosans" target="_blank">Github</a>
+          </li>
+          <li>
+            <a href="http://twitter.com/nunosans" target="_blank">Twitter</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    
+    <span id="copyright">
+      © 2008&thinsp;—&thinsp;<? date_default_timezone_set('Europe/London');
+      echo date("Y") ?> Nuno Coelho Santos &thinsp;/&thinsp;
+      <a id="columns-on">Show Columns</a><a id="columns-off">Hide Columns</a>
+    </span>
+    <script src="//mint.nunocoelhosantos.com/?js"></script>
+  </body>
 </html>

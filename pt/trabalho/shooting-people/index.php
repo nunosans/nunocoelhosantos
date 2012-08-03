@@ -8,7 +8,7 @@
 
 <div class="project" id="shooting-people">
 	
-	<img class="clear side" src="http://media.nunocoelhosantos.dev/images/shooting-people-business-cards.jpg" width="1008" height="647">
+	<img class="clear side" src="http://media.nunocoelhosantos.com/images/shooting-people-business-cards.jpg" width="1008" height="647">
 	<div class="txt">
 		<h2>Shooting People</h2>
 		<h6>Print & Web Design, Front-end Development</h6>

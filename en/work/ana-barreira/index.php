@@ -12,10 +12,10 @@
 
 <div class="project" id="ana-barreira">
 
-	<img class="full no-margin" src="http://media.nunocoelhosantos.dev/images/ana-barreira-logo-with-background.jpg" width="1264" height="540">
-	<img class="full" src="http://media.nunocoelhosantos.dev/images/ana-barreira-logo.png" width="1264" height="540">
+	<img class="full no-margin" src="http://media.nunocoelhosantos.com/images/ana-barreira-logo-with-background.jpg" width="1264" height="540">
+	<img class="full" src="http://media.nunocoelhosantos.com/images/ana-barreira-logo.png" width="1264" height="540">
 
-	<img class="clear side" src="http://media.nunocoelhosantos.dev/images/ana-barreira-business-cards.jpg" width="1008" height="640">
+	<img class="clear side" src="http://media.nunocoelhosantos.com/images/ana-barreira-business-cards.jpg" width="1008" height="640">
 	<div class="txt col1">
 		<h2>Ana Barreira</h2>
 		<h6>Branding, Print & Web Design.</h6>
@@ -29,7 +29,7 @@
 		<p class="icon-globe-1"><a href="http://anabarreira.com/" target="_blank">anabarreira.com</a></p>
 
 	</div>
-	<img class="side" src="http://media.nunocoelhosantos.dev/images/ana-barreira-screen.png" width="1008" height="917">
+	<img class="side" src="http://media.nunocoelhosantos.com/images/ana-barreira-screen.png" width="1008" height="917">
 
 </div>
 

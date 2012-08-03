@@ -98,7 +98,7 @@ body {
   background-color: #FAFAFA;
   color: #777777;
   /* Add a spinner (to be removed with JS) */
-  background-image: url(//media.nunocoelhosantos.dev/graphics/spinner-light.gif);
+  background-image: url(//media.nunocoelhosantos.com/graphics/spinner-light.gif);
   background-position: 50% 300px;
   background-repeat: no-repeat;
   /* Center the body"s direct children on the page */
@@ -363,30 +363,19 @@ input[type="submit"]:focus {
 .featured {
   display: block;
   width: 100%;
-  min-height: 380px;
   margin: 0 auto 0;
   /* Display background while image loads */
   background-color: #303030;
   overflow: hidden;
   /* Relative position to fix children absolute position*/
   position: relative;
-  background-image: url(//media.nunocoelhosantos.dev/graphics/spinner-dark.gif);
+  background-image: url(//media.nunocoelhosantos.com/graphics/spinner-dark.gif);
   background-position: center;
-  background-repeat: no-repeat;
-  -webkit-transition-property: height;
-  -moz-transition-property: height;
-  -o-transition-property: height;
-  transition-property: height;
-  -webkit-transition-duration: 0.3s;
-  -moz-transition-duration: 0.3s;
-  -o-transition-duration: 0.3s;
-  transition-duration: 0.3s; }
+  background-repeat: no-repeat; }
   .featured :hover {
     /* Add pointing cursor when hovering the featured project */
     cursor: pointer; }
   .featured img {
-    min-height: 385px;
-    min-width: 700px;
     -webkit-transition-property: none;
     -moz-transition-property: none;
     -o-transition-property: none;
@@ -399,7 +388,7 @@ input[type="submit"]:focus {
     display: block;
     overflow: visible;
     padding: 16px 0 40px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.6);
     -webkit-transition-property: background-color;
     -moz-transition-property: background-color;
     -o-transition-property: background-color;
@@ -432,7 +421,7 @@ input[type="submit"]:focus {
     padding-bottom: 8px; }
   .featured p {
     color: rgba(255, 255, 255, 0.6);
-    background-image: url(//media.nunocoelhosantos.dev/graphics/arrow.png);
+    background-image: url(//media.nunocoelhosantos.com/graphics/arrow.png);
     background-repeat: no-repeat;
     background-position: 100% 0; }
   .featured a {
@@ -440,6 +429,17 @@ input[type="submit"]:focus {
     color: inherit;
     text-shadow: none;
     border: none; }
+
+.featured.ready {
+  background-image: none;
+  -webkit-transition-property: height;
+  -moz-transition-property: height;
+  -o-transition-property: height;
+  transition-property: height;
+  -webkit-transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  transition-duration: 0.3s; }
 
 /* Work */
 h3 {
@@ -953,7 +953,8 @@ video {
     padding-right: 256px; }
 
   .work {
-    width: 512px; }
+    width: 512px;
+    padding: 0; }
 
   .work h3 {
     clear: both;
@@ -1003,15 +1004,35 @@ video {
   #special-2 {
     margin-top: 0; } }
 /* One Columns */
-@media only screen and (max-width: 680px) {
+@media only screen and (max-width: 580px) {
   body > * {
     width: 272px; }
+
+  body#home {
+    background-image: none !important; }
 
   #header, .project, .project-nav, .work h3 {
     width: 240px; }
 
-  .featured > div > * {
+  .project-nav {
+    height: 61px; }
+
+  #nav {
+    width: 240px; }
+
+  #nav li:first-child {
+    margin-left: 0; }
+
+  .featured div {
+    padding: 16px 0; }
+
+  .featured div > * {
     padding-right: 0; }
+
+  .featured div p {
+    background-size: 8px 12.5px;
+    width: 224px;
+    padding-right: 16px; }
 
   .work {
     width: 256px; }
@@ -1025,6 +1046,9 @@ video {
 
   #info .txt {
     min-height: 0; }
+
+  #info .txt p {
+    padding-right: 0; }
 
   .project .full,
   .project .side,

@@ -14,7 +14,7 @@ function resizeFeaturedProject() {
   // Declare variables.
   var windowHeight = $(window).height();
   var windowWidth = $(window).width();
-  var margin = $("#header").outerHeight(true);
+  var margin = $('#header').outerHeight(true);
   var container = $('.featured');
   var containerHeight = windowHeight - margin;
   var containerWidth = $('.featured').width();
@@ -22,8 +22,14 @@ function resizeFeaturedProject() {
   var imageRatio = 0.55;
   
   image.css('position', 'relative');
-  
-  if (windowHeight < windowWidth) {
+
+  if (windowHeight > windowWidth || windowHeight < 240) {
+    var containerHeight = containerWidth * 0.75;
+    container.height(containerHeight);
+    image.height(containerHeight);
+    image.width(containerHeight / imageRatio);
+    image.css('left', (containerWidth - image.width()) / 2);
+  } else {
     container.height(containerHeight);
     // Resize the image to fill the container.
     if ((containerHeight / containerWidth) > imageRatio){
@@ -35,11 +41,6 @@ function resizeFeaturedProject() {
     };
     image.css('left', (containerWidth - image.width()) / 2);
     image.css('top', (containerHeight - image.height()) / 2);
-  } else {
-    container.height(containerWidth * imageRatio);
-    image.height(containerWidth * imageRatio);
-    image.width(containerWidth);
-    image.css('left', (containerWidth - image.width()) / 2);
   };
 };
 
@@ -57,20 +58,20 @@ $(document).ready(function() {
   });
 
   // Grid Toggles.
-  $("#columns").css('display', 'none');
-  $("#columns-on").css('display', 'inline');
-  $("#columns-off").css('display', 'none');
+  $('#columns').css('display', 'none');
+  $('#columns-on').css('display', 'inline');
+  $('#columns-off').css('display', 'none');
   
-  $("#columns-on").click(function() {
-    $("#columns").css('display', 'block');
-    $("#columns-on").css('display', 'none');
-    $("#columns-off").css('display', 'inline');
+  $('#columns-on').click(function() {
+    $('#columns').css('display', 'block');
+    $('#columns-on').css('display', 'none');
+    $('#columns-off').css('display', 'inline');
   });
   
-  $("#columns-off").click(function() {
-    $("#columns").css('display', 'none');
-    $("#columns-on").css('display', 'inline');
-    $("#columns-off").css('display', 'none');
+  $('#columns-off').click(function() {
+    $('#columns').css('display', 'none');
+    $('#columns-on').css('display', 'inline');
+    $('#columns-off').css('display', 'none');
   });
 
     
@@ -88,10 +89,8 @@ $(document).ready(function() {
     }
   );
 
-  
-
   // Get elements ready to fade-in.
-  $("img, .featured div, .project, #info, #copyright").fadeTo(0, 0);
+  $('img, .featured div, .project, #info, #copyright').fadeTo(0, 0);
 
   $(window).resize(function() {
     resizeFeaturedProject();
@@ -101,19 +100,19 @@ $(document).ready(function() {
 
 $(window).load(function() {
     // Remove spinners.
-    $("body").css("background-image", "none");
-    $(".featured").css("background-image", "none");
+    $('body').css('background-image', 'none');
+    $('.featured').addClass('ready');
     // Fade elements in.
-    $("img, .featured div, .project, #info, #copyright").fadeTo(500, 1);
-    $(".work .dev img").fadeTo(250, 0.5);
+    $('img, .featured div, .project, #info, #copyright').fadeTo(500, 1);
+    $('.work .dev img').fadeTo(250, 0.3);
 
     // Make the bar of the featured project clickable.
-    $(".featured").click(function() {
+    $('.featured').click(function() {
         $('#.featured h2 a').bind('click', function() {
             window.location.href = this.href;
              return false;
         });
-        $(".featured h2 a").trigger('click').once();
+        $('.featured h2 a').trigger('click').once();
     });
 });
 
