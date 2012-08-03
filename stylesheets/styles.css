@@ -1,4 +1,5 @@
 @charset "UTF-8";
+/* Use UTF-8 on this CSS file */
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p,
 blockquote, pre, a, abbr, address, cite,
@@ -23,24 +24,14 @@ a img, a:link, a:visited, a:hover, a:active {
   -webkit-margin-before: 0;
   -webkit-margin-after: 0; }
 
-/*
-----------------------------------------------------------
-Colors
-----------------------------------------------------------
-*/
+/* Colors */
 /* Special Red */
 /* Headers */
 /* Body Text */
 /* Borders */
-/*
-----------------------------------------------------------
-Typefaces
-----------------------------------------------------------
-*/
-/* Use UTF-8 on this CSS file */
-/* Load the Fontello typeface */
+/* Typefaces */
 @font-face {
-  font-family: 'Fontello Pictograms';
+  font-family: "Fontello Pictograms";
   src: url("../webfonts/fontello.eot");
   src: url("../webfonts/fontello.eot?#iefix") format("embedded-opentype"), url("../webfonts/fontello.woff") format("woff"), url("../webfonts/fontello.ttf") format("truetype"), url("../webfonts/fontello.svg#fontello") format("svg");
   font-weight: normal;
@@ -49,7 +40,7 @@ Typefaces
 /* Turn all elements begining with a class "icon-" into a pictogram */
 [class^="icon-"],
 [class*=" icon-"] {
-  font-family: 'Fontello Pictograms';
+  font-family: "Fontello Pictograms";
   font-style: normal;
   speak: none; }
 
@@ -61,60 +52,56 @@ Typefaces
 .icon-left:before {
   content: "←"; }
 
-/* UTF-8: '\2190' / Arrow Left 		*/
+/* UTF-8: "\2190" / Arrow Left  */
 .icon-up:before {
   content: "↑"; }
 
-/* UTF-8: '\2191' / Arrow Up 		*/
+/* UTF-8: "\2191" / Arrow Up    */
 .icon-right:before {
   content: "→"; }
 
-/* UTF-8: '\2192' / Arrow Right 	*/
+/* UTF-8: "\2192" / Arrow Right */
 .icon-down:before {
   content: "↓"; }
 
-/* UTF-8: '\2193' / Arrow Down 		*/
+/* UTF-8: "\2193" / Arrow Down  */
 .icon-down-circle:before {
   content: ""; }
 
-/* UTF-8: '\e4a4' / Download 		*/
+/* UTF-8: "\e4a4" / Download    */
 .icon-eye:before {
   content: ""; }
 
-/* UTF-8: '\e70a' / Preview 		*/
+/* UTF-8: "\e70a" / Preview     */
 .icon-resize-full:before {
   content: ""; }
 
-/* UTF-8: '\e744' / Full-screen 	*/
+/* UTF-8: "\e744" / Full-screen */
 .icon-twitter-bird:before {
   content: ""; }
 
-/* UTF-8: '\f303' / Twitter 		*/
+/* UTF-8: "\f303" / Twitter     */
 .icon-github:before {
   content: ""; }
 
-/* UTF-8: '\f308' / Github 			*/
+/* UTF-8: "\f308" / Github      */
 .icon-skype:before {
   content: ""; }
 
-/* UTF-8: '\f30b' / Skype 			*/
+/* UTF-8: "\f30b" / Skype       */
 .icon-globe-1:before {
   content: ""; }
 
-/* UTF-8: '\e800' / Website 		*/
-/*
-----------------------------------------------------------
-Base Styles
-----------------------------------------------------------
-*/
+/* UTF-8: "\e800" / Website     */
+/* Base Styles */
 body {
   background-color: #FAFAFA;
   color: #777777;
   /* Add a spinner (to be removed with JS) */
-  background-image: url("http://media.nunocoelhosantos.com/graphics/spinner-light.gif");
+  background-image: url(//media.nunocoelhosantos.dev/graphics/spinner-light.gif);
   background-position: 50% 300px;
   background-repeat: no-repeat;
-  /* Center the body's direct children on the page */
+  /* Center the body"s direct children on the page */
   /* Keep images propotional */
   /* Make these resize gracefully when the window resizes */ }
   body > * {
@@ -176,7 +163,7 @@ a.tel {
   pointer-events: none;
   border: none; }
 
-/* Let's customise the browser's selection color... */
+/* Let"s customise the browser"s selection color... */
 ::selection {
   background-color: #ff1500;
   background-color: rgba(255, 21, 0, 0.2);
@@ -200,18 +187,12 @@ div::selection,
 
 ul.inline li {
   display: inline; }
-
 ul.inline li:after {
   content: ","; }
-
 ul.inline li:last-child:after {
   content: "."; }
 
-/*
-----------------------------------------------------------
-Forms
-----------------------------------------------------------
-*/
+/* Forms */
 input[type="email"] {
   font-family: franklin-gothic-urw-1, franklin-gothic-urw-2, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
@@ -312,11 +293,7 @@ input[type="submit"]:focus {
   transition-duration: 0.15s;
   cursor: pointer; }
 
-/*
-----------------------------------------------------------
-Nav & Footer
-----------------------------------------------------------
-*/
+/* Nav & Footer */
 #header {
   display: block;
   width: 752px;
@@ -330,69 +307,58 @@ Nav & Footer
   -moz-transition-duration: 0.3s;
   -o-transition-duration: 0.3s;
   transition-duration: 0.3s; }
-
-#header h1 {
-  float: left;
-  color: #777777;
-  font-style: normal; }
-
-#header h1 em,
-#header h1 em a {
-  color: #222222 !important;
-  font-style: normal;
-  border: none !important;
-  -webkit-transition-property: color;
-  -moz-transition-property: color;
-  -o-transition-property: color;
-  transition-property: color;
-  -webkit-transition-duration: 1.2s;
-  -moz-transition-duration: 1.2s;
-  -o-transition-duration: 1.2s;
-  transition-duration: 1.2s; }
-
-#header h1 em a:hover,
-#header h1 em a:active,
-#header h1 em a:focus {
-  color: #ff1500 !important;
-  -webkit-transition-duration: 0.0s;
-  -moz-transition-duration: 0.0s;
-  -o-transition-duration: 0.0s;
-  transition-duration: 0.0s; }
+  #header h1 {
+    float: left;
+    color: #777777;
+    font-style: normal; }
+    #header h1 em,
+    #header h1 em a {
+      border: none !important;
+      color: #222222 !important;
+      font-style: normal;
+      -webkit-transition-property: color;
+      -moz-transition-property: color;
+      -o-transition-property: color;
+      transition-property: color;
+      -webkit-transition-duration: 1.2s;
+      -moz-transition-duration: 1.2s;
+      -o-transition-duration: 1.2s;
+      transition-duration: 1.2s; }
+    #header h1 em a:hover,
+    #header h1 em a:active,
+    #header h1 em a:focus {
+      color: #ff1500 !important;
+      -webkit-transition-duration: 0.0s;
+      -moz-transition-duration: 0.0s;
+      -o-transition-duration: 0.0s;
+      transition-duration: 0.0s; }
 
 #nav {
   float: right;
-  width: 248px;
-  margin-top: 18px; }
+  margin-top: 18px;
+  width: 248px; }
+  #nav li {
+    display: inline-block;
+    float: left;
+    margin-left: 6px; }
+  #nav li:after {
+    color: #777777;
+    content: "/";
+    margin-left: 6px; }
+  #nav li:last-child:after {
+    content: ""; }
 
-#nav li {
-  float: left;
-  display: inline-block;
-  margin-left: 6px; }
-
-#nav li:after {
-  content: "/";
-  color: #777777;
-  margin-left: 6px; }
-
-#nav li:last-child:after {
-  content: ""; }
-
-/*
-----------------------------------------------------------
-Homepage
-----------------------------------------------------------
-*/
+/* Homepage */
 #background {
   z-index: -1;
   position: absolute; }
-
-#background img {
-  width: 100%;
-  height: 100%;
-  display: none;
-  position: absolute;
-  top: 0px;
-  left: 0px; }
+  #background img {
+    width: 100%;
+    height: 100%;
+    display: none;
+    position: absolute;
+    top: 0px;
+    left: 0px; }
 
 .featured {
   display: block;
@@ -404,83 +370,78 @@ Homepage
   overflow: hidden;
   /* Relative position to fix children absolute position*/
   position: relative;
-  background-image: url("http://media.nunocoelhosantos.com/graphics/spinner-dark.gif");
-  background-position: 50% 50%;
-  background-repeat: no-repeat; }
-
-.featured:hover {
-  /* Add pointing cursor when hovering the featured project */
-  cursor: pointer; }
-
-.featured img {
-  min-height: 385px;
-  min-width: 700px;
-  -webkit-transition-property: none;
-  -moz-transition-property: none;
-  -o-transition-property: none;
-  transition-property: none; }
-
-.featured > div {
-  width: 100%;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  display: block;
-  overflow: visible;
-  padding: 16px 0 40px;
-  background-color: rgba(0, 0, 0, 0.5);
-  -webkit-transition-property: background-color;
-  -moz-transition-property: background-color;
-  -o-transition-property: background-color;
-  transition-property: background-color;
-  -webkit-transition-duration: 1.2s;
-  -moz-transition-duration: 1.2s;
-  -o-transition-duration: 1.2s;
-  transition-duration: 1.2s; }
-
-.featured > div:hover {
-  background-color: #ff1500;
-  background-color: rgba(255, 21, 0, 0.7);
-  -webkit-transition-duration: 0.0s;
-  -moz-transition-duration: 0.0s;
-  -o-transition-duration: 0.0s;
-  transition-duration: 0.0s;
-  cursor: pointer; }
-
-.featured > div > * {
-  width: 240px;
-  margin: 0 auto;
-  padding-right: 256px;
-  -webkit-transition-property: padding-right, padding-left, width;
-  -moz-transition-property: padding-right, padding-left, width;
-  -o-transition-property: padding-right, padding-left, width;
-  transition-property: padding-right, padding-left, width;
+  background-image: url(//media.nunocoelhosantos.dev/graphics/spinner-dark.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-transition-property: height;
+  -moz-transition-property: height;
+  -o-transition-property: height;
+  transition-property: height;
   -webkit-transition-duration: 0.3s;
   -moz-transition-duration: 0.3s;
   -o-transition-duration: 0.3s;
   transition-duration: 0.3s; }
+  .featured :hover {
+    /* Add pointing cursor when hovering the featured project */
+    cursor: pointer; }
+  .featured img {
+    min-height: 385px;
+    min-width: 700px;
+    -webkit-transition-property: none;
+    -moz-transition-property: none;
+    -o-transition-property: none;
+    transition-property: none; }
+  .featured div {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    display: block;
+    overflow: visible;
+    padding: 16px 0 40px;
+    background-color: rgba(0, 0, 0, 0.5);
+    -webkit-transition-property: background-color;
+    -moz-transition-property: background-color;
+    -o-transition-property: background-color;
+    transition-property: background-color;
+    -webkit-transition-duration: 1.2s;
+    -moz-transition-duration: 1.2s;
+    -o-transition-duration: 1.2s;
+    transition-duration: 1.2s; }
+    .featured div > * {
+      width: 240px;
+      margin: 0 auto;
+      padding-right: 256px;
+      -webkit-transition-property: padding-right, padding-left, width;
+      -moz-transition-property: padding-right, padding-left, width;
+      -o-transition-property: padding-right, padding-left, width;
+      transition-property: padding-right, padding-left, width;
+      -webkit-transition-duration: 0.3s;
+      -moz-transition-duration: 0.3s;
+      -o-transition-duration: 0.3s;
+      transition-duration: 0.3s; }
+  .featured div:hover {
+    background-color: rgba(255, 21, 0, 0.7);
+    cursor: pointer;
+    -webkit-transition-duration: 0.0s;
+    -moz-transition-duration: 0.0s;
+    -o-transition-duration: 0.0s;
+    transition-duration: 0.0s; }
+  .featured h2 {
+    color: white;
+    padding-bottom: 8px; }
+  .featured p {
+    color: rgba(255, 255, 255, 0.6);
+    background-image: url(//media.nunocoelhosantos.dev/graphics/arrow.png);
+    background-repeat: no-repeat;
+    background-position: 100% 0; }
+  .featured a {
+    display: inline;
+    color: inherit;
+    text-shadow: none;
+    border: none; }
 
-.featured h2 {
-  color: white;
-  padding-bottom: 8px; }
-
-.featured p {
-  color: rgba(255, 255, 255, 0.6);
-  background-image: url("http://media.nunocoelhosantos.com/graphics/arrow.png");
-  background-repeat: no-repeat;
-  background-position: 100% 0; }
-
-.featured a {
-  display: inline;
-  color: inherit;
-  text-shadow: none;
-  border: none; }
-
-/*
-----------------------------------------------------------
-Work
-----------------------------------------------------------
-*/
+/* Work */
 h3 {
   color: #777777;
   display: inline-block;
@@ -511,42 +472,41 @@ h3 {
   -moz-transition-duration: 0.3s;
   -o-transition-duration: 0.3s;
   transition-duration: 0.3s; }
-
-.work div {
-  float: left;
-  position: relative;
-  margin: 0;
-  padding: 0;
-  width: 256px;
-  height: 240px; }
-  .work div h4 {
-    color: #222222;
-    padding: 150px 8px 0px;
-    display: inline-block;
-    width: 240px;
+  .work div {
     float: left;
-    clear: left; }
-    .work div h4 a {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    width: 256px;
+    height: 240px; }
+    .work div h4 {
       color: #222222;
+      padding: 150px 8px 0px;
       display: inline-block;
       width: 240px;
-      border: none;
-      -webkit-transition-property: color;
-      -moz-transition-property: color;
-      -o-transition-property: color;
-      transition-property: color;
-      -webkit-transition-duration: 1.2s;
-      -moz-transition-duration: 1.2s;
-      -o-transition-duration: 1.2s;
-      transition-duration: 1.2s; }
-    .work div h4 a.active {
-      color: #ff1500;
-      -webkit-transition-duration: 0.0s;
-      -moz-transition-duration: 0.0s;
-      -o-transition-duration: 0.0s;
-      transition-duration: 0.0s; }
-  .work div > a {
-    display: inline; }
+      float: left;
+      clear: left; }
+      .work div h4 a {
+        color: #222222;
+        display: inline-block;
+        width: 240px;
+        border: none;
+        -webkit-transition-property: color;
+        -moz-transition-property: color;
+        -o-transition-property: color;
+        transition-property: color;
+        -webkit-transition-duration: 1.2s;
+        -moz-transition-duration: 1.2s;
+        -o-transition-duration: 1.2s;
+        transition-duration: 1.2s; }
+      .work div h4 a.active {
+        color: #ff1500;
+        -webkit-transition-duration: 0.0s;
+        -moz-transition-duration: 0.0s;
+        -o-transition-duration: 0.0s;
+        transition-duration: 0.0s; }
+    .work div > a {
+      display: inline; }
 
 .work div.dev h4:after,
 .work div.new h4:after {
@@ -597,11 +557,7 @@ h3 {
   width: 240px;
   float: left; }
 
-/*
-----------------------------------------------------------
-Project
-----------------------------------------------------------
-*/
+/* Project */
 .project-nav {
   width: 1008px;
   border-top: 1px solid #e0e0e0;
@@ -790,11 +746,7 @@ video {
 .no-margin {
   margin-bottom: 15px; }
 
-/*
-----------------------------------------------------------
-Info & Copyright
-----------------------------------------------------------
-*/
+/* Info & Copyright */
 #info {
   overflow: hidden;
   padding-top: 200px;
@@ -847,11 +799,7 @@ Info & Copyright
   #copyright a:hover, #copyright a:active, #copyright a:focus {
     color: #ff1500; }
 
-/*
-----------------------------------------------------------
-Columns
-----------------------------------------------------------
-*/
+/* Columns */
 #columns {
   position: fixed;
   width: 1328px;
@@ -884,11 +832,7 @@ Columns
 #baseline-off:hover {
   cursor: pointer; }
 
-/*
-----------------------------------------------------------
-Media Queries
-----------------------------------------------------------
-*/
+/* Media Queries */
 /* Five Columns */
 @media only screen and (min-width: 1449px) {
   body > * {
@@ -1046,7 +990,7 @@ Media Queries
     margin-left: 0; }
 
   .project .txt {
-    width: 368px;
+    width: 100%;
     -webkit-column-count: 1;
     -moz-column-count: 1;
     -o-column-count: 1;
@@ -1058,148 +1002,42 @@ Media Queries
   #special-1,
   #special-2 {
     margin-top: 0; } }
-/* Mobile Three Column */
+/* One Columns */
 @media only screen and (max-width: 680px) {
-  body {
-    background-position: 50% 400px; }
-
   body > * {
-    width: 784px; }
+    width: 272px; }
 
-  #header, .project, .project-nav, .work h3, .featured > div > * {
-    width: 752px; }
-
-  .featured {
-    min-height: 530px; }
-
-  .featured img {
-    /* Override jQuery resizing  */
-    top: 0 !important; }
-
-  #nav li {
-    margin-left: 12px; }
-
-  #nav li:after {
-    margin-left: 12px; }
-
-  .featured > div {
-    background-color: black;
-    background-color: rgba(0, 0, 0, 0.75); }
+  #header, .project, .project-nav, .work h3 {
+    width: 240px; }
 
   .featured > div > * {
-    padding-right: 0px; }
+    padding-right: 0; }
 
-  /* Have all content full-width  */
   .work {
-    width: 768px; }
+    width: 256px; }
+
+  .txt.grid1,
+  .txt.grid4 {
+    width: 240px; }
+
+  #info {
+    padding-top: 100px; }
+
+  #info .txt {
+    min-height: 0; }
 
   .project .full,
   .project .side,
   .project .site-plan,
   .project .both {
-    width: 752px; }
+    width: 240px; }
 
-  html {
-    zoom: 50%; }
+  #special-1,
+  #special-2 {
+    margin-top: 0; }
 
-  * {
-    font-size: 28px !important;
-    line-height: 34px !important; }
+  #copyright {
+    padding-bottom: 30px; }
 
-  a, a:link, a:visited, a:hover, a:active {
-    height: 31px; }
-
-  #nav li {
-    margin-top: 16px; }
-
-  .featured p {
-    width: 480px;
-    background-position: 100% 0;
-    padding-right: 272px; }
-
-  /* Remove some elements */
-  .work div p {
-    display: none; }
-
-  .work div.dev h4:after,
-  .work div.new h4:after {
-    width: 224px;
-    top: 116px;
-    right: 8px;
-    border-radius: 0px;
-    padding: 4px 8px 6px; }
-
-  .work h3 {
-    height: 40px; }
-
-  .project-nav {
-    height: 75px; }
-
-  .project > * {
-    padding-bottom: 40px; }
-
-  .txt,
-  .txt.col1, .txt.col2, .txt.col3, .txt.col4, .txt.col5,
-  .txt.grid1, .txt.grid2, .txt.grid3, .txt.grid4 {
-    width: 752px;
-    column-count: 1;
-    -webkit-column-count: 1;
-    -moz-column-count: 1;
-    -o-column-count: 1; }
-
-  #info .txt p {
-    padding-right: 0;
-    max-width: 560px; } }
-/* Mobile Two Column */
-@media only screen and (max-width: 440px) {
-  /* Have all content full-width  */
-  body > * {
-    width: 528px; }
-
-  #header, .project, .project-nav, .work h3, .featured > div > * {
-    width: 496px; }
-
-  .featured {
-    min-height: 380px; }
-
-  .work {
-    width: 512px; }
-
-  .project .full,
-  .project .side,
-  .project .site-plan,
-  .project .both {
-    width: 496px; }
-
-  #nav {
-    float: left; }
-
-  #nav li:first-child {
-    margin-left: 0; }
-
-  .featured > div > div > * {
-    padding-right: 0px;
-    width: 496px; }
-
-  .featured p {
-    width: 464px;
-    padding-right: 32px;
-    background-position-x: 100%; }
-
-  .txt,
-  .txt.col1, .txt.col2, .txt.col3, .txt.col4, .txt.col5,
-  .txt.grid1, .txt.grid2, .txt.grid3, .txt.grid4 {
-    width: 496px; } }
-/* Retina CSS Graphics */
-@media only screen and (-webkit-min-device-pixel-ratio: 1.5) {
-  body {
-    background-image: url("http://media.nunocoelhosantos.com/graphics/spinner-light@2x.gif");
-    background-size: 30px 30px; }
-
-  .featured {
-    background-image: url("http://media.nunocoelhosantos.com/graphics/spinner-dark@2x.gif");
-    background-size: 30px 30px; }
-
-  .featured p {
-    background-image: url("http://media.nunocoelhosantos.com/graphics/arrow@2x.png");
-    background-size: 16px 25px; } }
+  #columns-on, #columns-off {
+    float: left; } }

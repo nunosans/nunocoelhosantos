@@ -8,7 +8,7 @@
 
 <div class="project" id="ailara-berdyyeva">
 	
-	<img class="clear side" src="http://media.nunocoelhosantos.com/images/ailara-berdyyeva-screen.png" width="1008" height="917">
+	<img class="clear side" src="http://media.nunocoelhosantos.dev/images/ailara-berdyyeva-screen.png" width="1008" height="917">
 
 </div>
 

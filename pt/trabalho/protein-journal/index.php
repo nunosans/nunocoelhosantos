@@ -8,7 +8,7 @@
 
 <div class="project" id="protein-journal">
 	
-	<img class="full" src="http://media.nunocoelhosantos.com/images/protein-journal-main.png" width="1264" height="833">
+	<img class="full" src="http://media.nunocoelhosantos.dev/images/protein-journal-main.png" width="1264" height="833">
 	
 </div>
 
