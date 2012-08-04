@@ -7,193 +7,276 @@
 ?>
 
 <div class="featured">
-  <img src="http://media.nunocoelhosantos.com/images/vania-coelho-santos-slide.jpg"
+  <img src="//media.nunocoelhosantos.dev/images/vania-coelho-santos-slide.jpg"
   alt="A computer generated image displaying the website for Vânia Coelho Santos on
   a desktop screen, a tablet and a mobile phone" width="2000" height="1100">
   <div>
     <h2>
-      <a href="work/vania-coelho-santos/">Featured: Vânia Coelho Santos</a>
+      <a href="./work/vania-coelho-santos/">Featured: Vânia Coelho Santos</a>
     </h2>
     <p>
-      <a href="work/vania-coelho-santos/">Design and development of my sister's
+      <a href="./work/vania-coelho-santos/">Design and development of my sister's
         architecture digital portfolio</a>
     </p>
   </div>
 </div>
 <div class="work" id="portfolio">
   <h3>2012</h3>
-  <div class="dev">
-    <h4>#todo</h4>
-    <img src="http://media.nunocoelhosantos.com/images/hash-todo-card.jpg"
-      alt="A computer generated image of an iPhone with the #todo app interface on
-      the display" width="480" height="280">
+  <div class="new">
+    <h4>
+      <a href="./work/keepon/">Keepon</a>
+    </h4>
+    <a href="./work/keepon/">
+      <img src="//media.nunocoelhosantos.dev/images/keepon-card.png"
+       alt="App icon of the Keepon app for iOS" width="480" height="280">
+    </a>
+    <p>Design, Architecture and experience of the third-party Kickoff client for iOS</p>
+  </div>
+  <div>
+    <h4>
+      <a href="./work/hash-todo/">#todo</a>
+    </h4>
+    <a href="./work/hash-todo/">
+      <img src="//media.nunocoelhosantos.dev/images/hash-todo-card.jpg"
+        alt="A computer generated image of an iPhone with the #todo app interface on
+        the display" width="480" height="280">
+    </a>
     <p>User interface and experience of the Twitter-powered to-do list app</p>
   </div>
-  <div class="dev">
-    <h4>Norman Hartnell</h4>
-    <img src="http://media.nunocoelhosantos.com/images/norman-hartnell-card.png"
-      alt="A picture of the Norman Hartnell logo"
-      width="480" height="280">
+  <div>
+    <h4>
+      <a href="./work/norman-hartnell/">Norman Hartnell</a>
+    </h4>
+    <a href="./work/norman-hartnell/">
+      <img src="//media.nunocoelhosantos.dev/images/norman-hartnell-card.png"
+        alt="A picture of the Norman Hartnell logo" width="480" height="280">
+    </a>
     <p>Development of HM The Queen's dressmaker revival brand website</p>
   </div>
-  <div class="new">
-    <h4><a href="work/paul-cocksedge-shop/">Paul Cocksedge Shop</a></h4>
-    <a href="work/paul-cocksedge-shop/">
-      <img src="http://media.nunocoelhosantos.com/images/paul-cocksedge-shop-card.jpg"
+  <div>
+    <h4>
+      <a href="./work/paul-cocksedge-shop/">Paul Cocksedge Shop</a>
+    </h4>
+    <a href="./work/paul-cocksedge-shop/">
+      <img src="//media.nunocoelhosantos.dev/images/paul-cocksedge-shop-card.jpg"
         alt="A photograph of the black Bookmark by Paul Cocksedge Studio"
         width="480" height="280">
     </a>
-    <p>Identity and online store for the <br />London-based design studio</p>
+    <p>Identity and online store for the <br>London-based design studio</p>
   </div>
   <div>
-    <h4><a href="work/vania-coelho-santos/">Vânia Coelho Santos</a></h4>
-    <a href="work/vania-coelho-santos/">
-      <img src="http://media.nunocoelhosantos.com/images/vania-coelho-santos-card.jpg"
+    <h4>
+      <a href="./work/vania-coelho-santos/">Vânia Coelho Santos</a>
+    </h4>
+    <a href="./work/vania-coelho-santos/">
+      <img src="//media.nunocoelhosantos.dev/images/vania-coelho-santos-card.jpg"
         alt="One of the computer generated images representing one Vânia Coelho Santos
         architectural concepts" width="480" height="280">
     </a>
     <p>Design and development of my sister's architecture digital portfolio</p>
   </div>
-  <div class="dev">
-    <h4>Ava Mirabelle</h4>
-    <img src="http://media.nunocoelhosantos.com/images/ava-mirabelle-card.png"
-      alt="A picture of the Ava Mirabelle Logo"
-      width="480" height="280">
+  <div>
+    <h4>
+      <a href="./work/ava-mirabelle/">Ava Mirabelle</a>
+    </h4>
+    <a href="./work/ava-mirabelle/">
+      <img src="//media.nunocoelhosantos.dev/images/ava-mirabelle-card.png"
+        alt="A picture of the Ava Mirabelle Logo"
+        width="480" height="280">
+    </a>
     <p>Identity and development of the <br />hand-made online fashion store</p>
   </div>
 
   <h3>2011</h3>
   
   <div>
-    <h4><a href="work/expresso-viagens/">Expresso Viagens</a></h4>
-    <a href="work/expresso-viagens/">
-      <img src="http://media.nunocoelhosantos.com/images/expresso-viagens-card.png"
+    <h4>
+      <a href="./work/expresso-viagens/">Expresso Viagens</a>
+    </h4>
+    <a href="./work/expresso-viagens/">
+      <img src="//media.nunocoelhosantos.dev/images/expresso-viagens-card.png"
         alt="Fraction of one of the illustrations made for the Expresso Viagens rebrand"
         width="480" height="280">
     </a>
     <p>Identity, print, web design&hairsp;/&hairsp;development and illustrations for
       the travel agency</p>
   </div>
-  <div class="dev">
-    <h4>Index 7</h4>
-    <img src="http://media.nunocoelhosantos.com/images/index-7-card.jpg"
-      alt="Image with the Index 7 show logo placed on top of a photograph by Myka Baum"
-      width="480" height="280">
+  <div>
+    <h4>
+      <a href="./work/index-7/">Index 7</a>
+    </h4>
+    <a href="./work/index-7/">
+      <img src="//media.nunocoelhosantos.dev/images/index-7-card.jpg"
+        alt="Image with the Index 7 show logo placed on top of a photograph by Myka Baum"
+        width="480" height="280">
+    </a>
     <p>Identity and print design for the photography exhibition</p>
   </div>
-  <div class="dev">
-    <h4>Protein&reg; Journal</a></h4>
-    <img src="http://media.nunocoelhosantos.com/images/protein-journal-card.jpg"
-      alt="Fraction of the cover for the Protein Journal Issue 3"
-      width="480" height="280">
+  <div>
+    <h4>
+      <a href="./work/protein-journal/">Protein&reg; Journal</a>
+    </h4>
+    <a href="./work/protein-journal/">
+      <img src="//media.nunocoelhosantos.dev/images/protein-journal-card.jpg"
+        alt="Fraction of the cover for the Protein Journal Issue 3"
+        width="480" height="280">
+    </a>
     <p>Development of the Protein’s journal version for the iPad</p>
   </div>
-  <div class="dev">
-    <h4>Shooting People</h4>
-    <img src="http://media.nunocoelhosantos.com/images/shooting-people-card.jpg"
-      alt="Photograph of the buinsess cards designed for Shooting People"
-      width="480" height="280">
+  <div>
+    <h4>
+      <a href="./work/shooting-people/">Shooting People</a>
+    </h4>
+    <a href="./work/shooting-people/">
+      <img src="//media.nunocoelhosantos.dev/images/shooting-people-card.jpg"
+        alt="Photograph of the buinsess cards designed for Shooting People"
+        width="480" height="280">
+    </a>
     <p>Print, web design and development for the filmmakers’ network</p>
   </div>
-  <div class="dev">
-    <h4>Lilias Buchanan</h4>
-    <img src="http://media.nunocoelhosantos.com/images/lilias-buchanan-card.jpg"
-      alt="Fraction of one of the illustrations from the series ‘The Death of Ivan
-      Illych’ by Lilias Buchanan"
-      width="480" height="280">
+  <div>
+    <h4>
+      <a href="./work/lilias-buchanan/">Lilias Buchanan</a>
+    </h4>
+    <a href="./work/lilias-buchanan/">
+      <img src="//media.nunocoelhosantos.dev/images/lilias-buchanan-card.jpg"
+        alt="Fraction of one of the illustrations from the series ‘The Death of Ivan
+        Illych’ by Lilias Buchanan"
+        width="480" height="280">
+    </a>
     <p>Online portfolio for the portraitist illustrator and graphic designer</p>
   </div>
-  <div class="dev">
-    <h4>Jo Phipps</a></h4>
-    <img src="http://media.nunocoelhosantos.com/images/jo-phipps-card.jpg"
-      alt="Placeholder"
-      width="480" height="280">
-    <p>Website for the award-winning photographer</p>
+  <div>
+    <h4>
+      <a href="./work/jo-phipps/">Jo Phipps</a>
+    </h4>
+    <a href="./work/jo-phipps/">
+      <img src="//media.nunocoelhosantos.dev/images/jo-phipps-card.jpg"
+        alt="Fraction of ‘Joseph’ by Jo Phipps" width="480" height="280">
+    </a>
+    <p>Design & Development of the artist online portfolio</p>
   </div>
-  <div class="dev">
-    <h4>Iterar</h4>
-    <img src="http://media.nunocoelhosantos.com/images/iterar-card.png"
-      alt="Placeholder"
-      width="480" height="280">
-    <p>Identity for the starting up portuguese tech company</p>
+  <div>
+    <h4>
+      <a href="./work/iterar/">Iterar</a>
+    </h4>
+    <a href="./work/iterar/">
+      <img src="//media.nunocoelhosantos.dev/images/iterar-card.png"
+        alt="Iterar Logo" width="480" height="280">
+    </a>
+    <p>Identity for the start up portuguese tech company</p>
   </div>
-  <div class="dev">
-    <h4>Nostalgics</h4>
-    <img src="http://media.nunocoelhosantos.com/images/nostalgics-card.jpg"
-      alt="Close up photograph of the  engraved musical notes in the Musical Glass
-      by Nostalgics"
-      width="480" height="280">
+  <div>
+    <h4>
+      <a href="./work/nostalgics/">Nostalgics</a>
+    </h4>
+    <a href="./work/nostalgics/">
+      <img src="//media.nunocoelhosantos.dev/images/nostalgics-card.jpg"
+        alt="Close up photograph of the  engraved musical notes in the Musical Glass
+        by Nostalgics" width="480" height="280">
+    </a>
     <p>Web development for the collection of bespoke curious artefacts</p>
   </div>
-  <div class="dev">
-    <h4>Stethoscore</h4>
-    <img src="http://media.nunocoelhosantos.com/images/stethoscore-card.jpg"
-      alt="Placeholder"
-      width="480" height="280">
+  <div>
+    <h4>
+      <a href="./work/stethoscore/">Stethoscore</a>
+    </h4>
+    <a href="./work/stethoscore/">
+      <img src="//media.nunocoelhosantos.dev/images/stethoscore-card.jpg"
+        alt="Image of the Stethoscore Application running on an iPhone 4"
+        width="480" height="280">
+    </a>
     <p>UI&hairsp;/&hairsp;UX & web development for the medical utility app</p>
   </div>
 
   <h3>2010</h3>
-
-  <div class="dev">
-    <h4>Marili André</h4>
-    <img src="http://media.nunocoelhosantos.com/images/marili-andre-card.jpg"
-      alt="Placeholder"
-      width="480" height="280">
+  <div>
+    <h4>
+      <a href="./work/marili-andre/">Marili André</a>
+    </h4>
+    <a href="./work/marili-andre/">
+      <img src="//media.nunocoelhosantos.dev/images/marili-andre-card.jpg"
+        alt="Frame of one of Marili André videos overlayed by the logo"
+        width="480" height="280">
+    </a>
     <p>Identity for the fashion photographer and filmmaking artist</p>
   </div>
-  <div class="dev">
-    <h4>Ailara Berdyyeva</h4>
-    <img src="http://media.nunocoelhosantos.com/images/ailara-berdyyeva-card.jpg"
-      alt="Placeholder"
-      width="480" height="280">
+  <div>
+    <h4>
+      <a href="./work/ailara-bardyyeva/">Ailara Berdyyeva</a>
+    </h4>
+    <a href="./work/ailara-bardyyeva/">
+      <img src="//media.nunocoelhosantos.dev/images/ailara-berdyyeva-card.jpg"
+        alt="Photo of the ‘Inside/Outsie’ bag by Ailara Berdyyeva"
+        width="480" height="280">
+    </a>
     <p>Identity, print, photography and web design for the textile designer webfolio</p>
   </div>
-  <div class="dev">
-    <h4>Caroline Pera</h4>
-    <img src="http://media.nunocoelhosantos.com/images/caroline-pera-card.jpg"
-      alt="Placeholder"
-      width="480" height="280">
+  <div>
+    <h4>
+      <a href="./work/caroline-pera/">Caroline Pera</a>
+    </h4>
+    <a href="./work/caroline-pera/">
+      <img src="//media.nunocoelhosantos.dev/images/caroline-pera-card.jpg"
+        alt="Photo of one of Caroline Pera’s jewellery pieces"
+        width="480" height="280">
+    </a>
     <p>Identity, print and web design for the jewellery design webfolip</p>
   </div>
-  <div class="dev">
-    <h4>Savant</h4>
-    <img src="http://media.nunocoelhosantos.com/images/savant-card.png"
-      alt="Placeholder"
-      width="480" height="280">
+  <div>
+    <h4>
+      <a href="./work/savant/">Savant</a>
+    </h4>
+    <a href="./work/savant/">
+      <img src="//media.nunocoelhosantos.dev/images/savant-card.png"
+        alt="Savant Studio logo" width="480" height="280">
+    </a>
     <p>Identity, print and website for the collaborative interactive design studio</p>
   </div>
   <div>
-    <h4><a href="work/ana-barreira/">Ana Barreira</a></h4>
-    <a href="work/ana-barreira/">
-      <img src="http://media.nunocoelhosantos.com/images/ana-barreira-card.jpg"
-        alt="Placeholder"
+    <h4>
+      <a href="./work/ana-barreira/">Ana Barreira</a>
+    </h4>
+    <a href="./work/ana-barreira/">
+      <img src="//media.nunocoelhosantos.dev/images/ana-barreira-card.jpg"
+        alt="Fraction of one of Ana Barreira’s photos overlayed by her logo"
         width="480" height="280">
     </a>
     <p>Identity, print and web design of the fashion photography webfolio</p>
   </div>
 
   <h3>2009</h3>
-
-  <div class="dev">
-    <h4>Miti Ruangkritya</h4>
-    <img src="http://media.nunocoelhosantos.com/images/miti-ruangkritya-card.jpg"
-      alt="Placeholder"
-      width="480" height="280">
+  <div>
+    <h4>
+      <a href="./work/miti-ruangkritya/">Miti Ruangkritya</a>
+    </h4>
+    <a href="./work/miti-ruangkritya/">
+      <img src="//media.nunocoelhosantos.dev/images/miti-ruangkritya-card.jpg"
+        alt="Fraction of ‘Bangkok Protest’ by Miti Ruangkritya"
+        width="480" height="280">
+    </a>
     <p>Design of the website for the thai photojournalist</p>
   </div>
-  <div class="dev">
-    <h4>Sophie Westerlind</h4>
-    <img src="http://media.nunocoelhosantos.com/images/sophie-westerlind-card.png"
-      alt="Placeholder"
-      width="480" height="280">
+  <div>
+    <h4>
+      <a href="./work/sophie-westerlind/">Sophie Westerlind</a>
+    </h4>
+    <a href="./work/sophie-westerlind/">
+      <img src="//media.nunocoelhosantos.dev/images/sophie-westerlind-card.png"
+        alt="Fraction of one of Sophie Westerlind’s illustrations"
+        width="480" height="280">
+    </a>
     <p>Design and development for the graphic designer and illustrator</p>
   </div>
-  <div class="dev">
-    <h4>Fractures from Anxiety</h4>
-    <img src="http://media.nunocoelhosantos.com/images/fractures-from-anxiety-card.jpg"
-      alt="Placeholder"
-      width="480" height="280">
+  <div>
+    <h4>
+      <a href="./work/fractures-from-anxiety/">Fractures from Anxiety</a>
+    </h4>
+    <a href="./work/fractures-from-anxiety/">
+      <img src="//media.nunocoelhosantos.dev/images/fractures-from-anxiety-card.jpg"
+        alt="Detail of the cover for ‘Fractures from Anxiety’ designed by
+        Nuno Coelho Santos" width="480" height="280">
+    </a>
     <p>Book and cover design for the short stories of Marcus Bastel</p>
   </div>
 </div>

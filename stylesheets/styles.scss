@@ -77,7 +77,7 @@ body {
   background-color: #FAFAFA;
   color: $shade-2;
   /* Add a spinner (to be removed with JS) */
-  background-image: url(//media.nunocoelhosantos.com/graphics/spinner-light.gif);
+  background-image: url(//media.nunocoelhosantos.dev/graphics/spinner-light.gif);
   background-position: 50% 300px;
   background-repeat: no-repeat;
   /* Center the body"s direct children on the page */
@@ -382,7 +382,7 @@ input[type="submit"]:focus {
   overflow: hidden;
   /* Relative position to fix children absolute position*/
   position: relative;
-  background-image: url(//media.nunocoelhosantos.com/graphics/spinner-dark.gif);
+  background-image: url(//media.nunocoelhosantos.dev/graphics/spinner-dark.gif);
   background-position: center;
   background-repeat: no-repeat;
   :hover {
@@ -442,7 +442,7 @@ input[type="submit"]:focus {
   }
   p {
     color: rgba(255,255,255,0.6);
-    background-image: url(//media.nunocoelhosantos.com/graphics/arrow.png);
+    background-image: url(//media.nunocoelhosantos.dev/graphics/arrow.png);
     background-repeat: no-repeat;
     background-position: 100% 0;
   }
@@ -1002,22 +1002,3 @@ video {
     float: left;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

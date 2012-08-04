@@ -21,10 +21,10 @@
         <h4>Also on</h4>
         <ul>
           <li>
-            <a href="http://github.com/nunosans" target="_blank">Github</a>
+            <a href="//github.com/nunosans" target="_blank">Github</a>
           </li>
           <li>
-            <a href="http://twitter.com/nunosans" target="_blank">Twitter</a>
+            <a href="//twitter.com/nunosans" target="_blank">Twitter</a>
           </li>
         </ul>
       </div>

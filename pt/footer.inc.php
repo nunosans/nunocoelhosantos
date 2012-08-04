@@ -20,8 +20,8 @@
       <div class="txt grid1">
         <h4>Também no</h4>
         <ul>
-          <li><a href="http://github.com/nunosans" target="_blank">Github</a></li>
-          <li><a href="http://twitter.com/nunosans" target="_blank">Twitter</a></li>
+          <li><a href="//github.com/nunosans" target="_blank">Github</a></li>
+          <li><a href="//twitter.com/nunosans" target="_blank">Twitter</a></li>
         </ul>
       </div>
     </div>

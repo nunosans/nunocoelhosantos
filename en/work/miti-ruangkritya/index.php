@@ -1,15 +1,23 @@
-<? $project='Miti Ruangkritya'; require_once('../../header.inc.php'); ?>
+<?
+  $title='Miti Ruangkritya';
+  $description='Design and development of the website for the thai photojournalist';
+  require_once('../../header.inc.php');
+?>
 
 <div class="project-nav">
-	<h2><? echo $title ?></h2>
-	<span><? echo $project_number ?> of <? echo $projects_total ?></span>
-	<span><a href="../ana-barreira/">Previous</a> &thinsp;/&thinsp; <a href="../sophie-westerlind/">Next</a></span>
+  <h2><? echo $title ?></h2>
+  <span><? echo $project_number ?> of <? echo $projects_total ?></span>
+  <span>
+    <a href="../ana-barreira/">Previous</a> &thinsp;/&thinsp;
+    <a href="../sophie-westerlind/">Next</a>
+  </span>
 </div>
 
 <div class="project" id="miti-ruangkritya">
-	
-	<img class="clear side" src="http://media.nunocoelhosantos.com/images/miti-ruangkritya-screen.png" width="1008" height="917">
-	
+  
+  <img class="clear side" width="1008" height="917"
+    src="//media.nunocoelhosantos.dev/images/miti-ruangkritya-screen.png">
+  
 </div>
 
 <? require_once('../../footer.inc.php'); ?>

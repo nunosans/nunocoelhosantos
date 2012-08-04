@@ -8,7 +8,7 @@
 
 <div class="project" id="sophiewesterlind">
 	
-	<img class="clear side" src="http://media.nunocoelhosantos.com/images/sophie-westerlind-screen.png" width="1008" height="917">
+	<img class="clear side" src="//media.nunocoelhosantos.dev/images/sophie-westerlind-screen.png" width="1008" height="917">
 	
 </div>
 

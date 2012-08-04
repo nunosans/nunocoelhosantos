@@ -110,7 +110,7 @@ $(window).load(function() {
   $(".featured").css("background-image", "none");
   // Fade elements in
   $(".work div img, .featured div, img, .project, #info, #copyright").fadeTo(500, 1);
-  $(".work .dev img").fadeTo(250, 0.5);
+  $(".work .dev img").fadeTo(250, 0.33);
 
   // Make the bar of the featured project clickable
   $(".featured").click(function() {

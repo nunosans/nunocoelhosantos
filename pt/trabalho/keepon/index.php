@@ -1,12 +1,12 @@
-<? $project='#todo'; require_once('../../header.inc.php'); ?>
+<? $project='Keepon'; require_once('../../header.inc.php'); ?>
 
 <div class="project-nav">
 	<h2><? echo $title ?></h2>
 	<span><? echo $project_number ?> de <? echo $projects_total ?></span>
-	<span><a href="../keepon/">Anterior</a> &thinsp;/&thinsp; <a href="../paul-cocksedge-shop/">Seguinte</a></span>
+	<span>Anterior &thinsp;/&thinsp; <a href="../hash-todo/">Seguinte</a></span>
 </div>
 
-<div class="project" id="hash-todo">
+<div class="project" id="keepon">
 	
 	<!-- Work goes here -->
 	
