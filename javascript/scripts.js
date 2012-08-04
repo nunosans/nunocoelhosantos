@@ -5,11 +5,10 @@
  * @author nuno@nunocoelhosantos.com (Nuno Coelho Santos).
  */
 
-// Declare variables.
+// Get Typekit Fonts.
+try{Typekit.load();}catch(e){};
 
-/**
- * Resize the Featured Project.
- */
+// Resize the Featured Project.
 function resizeFeaturedProject() {
   // Declare variables.
   var windowHeight = $(window).height();
@@ -44,6 +43,7 @@ function resizeFeaturedProject() {
   };
 };
 
+// Create Grid On/Off Toggle.
 function gridToggles() {
   var columns = $('#columns');
   var columnButtonOn = $('#columns-on');
@@ -65,7 +65,6 @@ function gridToggles() {
   });
 };
 
-try{Typekit.load();}catch(e){};
 
 $(document).ready(function() {
   // Get elements ready to fade-in.
@@ -95,29 +94,30 @@ $(document).ready(function() {
     }
   );
 
-
+  // Resize elements with window
   $(window).resize(function() {
     resizeFeaturedProject();
   });
+
+  // Get elements ready to fade-in
+  // $("img, .featured div, .project, #info, #copyright").fadeTo(0, 0);
 });
 
 
 $(window).load(function() {
-    // Remove spinners.
-    $('body').css('background-image', 'none');
-    $('.featured').addClass('ready');
-    // Fade elements in.
+  // Remove spinners
+  $("body").css("background-image", "none");
+  $(".featured").css("background-image", "none");
+  // Fade elements in
+  $(".work div img, .featured div, img, .project, #info, #copyright").fadeTo(500, 1);
+  $(".work .dev img").fadeTo(250, 0.5);
 
-    $('.project, #info, #copyright, img, .featured div').fadeTo(500, 1);
-    $('.work .dev img').fadeTo(250, 0.3);
-
-    // Make the bar of the featured project clickable.
-    $('.featured').click(function() {
-        $('#.featured h2 a').bind('click', function() {
-            window.location.href = this.href;
-             return false;
-        });
-        $('.featured h2 a').trigger('click').once();
+  // Make the bar of the featured project clickable
+  $(".featured").click(function() {
+    $('#.featured h2 a').bind('click', function() {
+      window.location.href = this.href;
+      return false;
     });
+    $(".featured h2 a").trigger('click').once();
+  });
 });
-

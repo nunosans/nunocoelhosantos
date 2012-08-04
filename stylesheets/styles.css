@@ -376,6 +376,7 @@ input[type="submit"]:focus {
     /* Add pointing cursor when hovering the featured project */
     cursor: pointer; }
   .featured img {
+    opacity: 0.0;
     -webkit-transition-property: none;
     -moz-transition-property: none;
     -o-transition-property: none;
@@ -386,6 +387,7 @@ input[type="submit"]:focus {
     left: 0;
     bottom: 0;
     display: block;
+    opacity: 0.0;
     overflow: visible;
     padding: 16px 0 40px;
     background-color: rgba(0, 0, 0, 0.6);
@@ -543,7 +545,8 @@ h3 {
 
 .work div img {
   padding: 0px 8px 80px;
-  z-index: 0; }
+  z-index: 0;
+  opacity: 0; }
 
 .work div .cover {
   margin: 0px 8px 80px 8px;
@@ -590,6 +593,7 @@ h3 {
 
 .project {
   clear: both;
+  opacity: 0.0;
   overflow: visible; }
 
 .project h2 {
@@ -749,6 +753,7 @@ video {
 /* Info & Copyright */
 #info {
   overflow: hidden;
+  opacity: 0.0;
   padding-top: 200px;
   margin-bottom: 15px;
   clear: both; }
@@ -794,6 +799,7 @@ video {
 #copyright {
   display: block;
   padding-left: 32px;
+  opacity: 0.0;
   margin-bottom: 40px;
   color: #777777;
   clear: both; }
