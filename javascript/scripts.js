@@ -68,8 +68,11 @@ function gridToggles() {
 try{Typekit.load();}catch(e){};
 
 $(document).ready(function() {
+  // Get elements ready to fade-in.
+  $('.project, #info, #copyright, img, .featured div').fadeTo(0, 0);
 
   resizeFeaturedProject();
+  gridToggles();
 
   // Apply localScroll to the nav.
   $('#nav').localScroll({
@@ -77,9 +80,6 @@ $(document).ready(function() {
       target:'body',
       duration: 350
   });
-
-
-  gridToggles();
     
   // Hover effects.
   $('.work div a img').after('<span class="cover"></span>');
@@ -95,8 +95,6 @@ $(document).ready(function() {
     }
   );
 
-  // Get elements ready to fade-in.
-  $('#portfolio, .featured div, .featured img, .project, #info, #copyright').fadeTo(0, 0);
 
   $(window).resize(function() {
     resizeFeaturedProject();
@@ -109,7 +107,8 @@ $(window).load(function() {
     $('body').css('background-image', 'none');
     $('.featured').addClass('ready');
     // Fade elements in.
-    $('#portfolio, .featured div, .featured img, .project, #info, #copyright').fadeTo(500, 1);
+
+    $('.project, #info, #copyright, img, .featured div').fadeTo(500, 1);
     $('.work .dev img').fadeTo(250, 0.3);
 
     // Make the bar of the featured project clickable.

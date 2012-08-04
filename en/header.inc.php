@@ -14,7 +14,7 @@
     Nuno Coelho Santos
     <?
     if ($page=='Home' || $page=='Profile') {
-      echo(' &nbsp;—&nbsp; '); echo $title;
+      echo(' &nbsp;—&nbsp; ');
     } else {
       echo(' &nbsp;~&nbsp; ');
     };
