@@ -16,7 +16,7 @@
 <div class="project" id="paul-cocksedge-shop">
   
   <img class="clear side" width="1008" height="500"
-    src="//media.nunocoelhosantos.dev/images/paul-cocksedge-shop-logo-proposal-sketch.jpg">
+    src="//test.media.nunocoelhosantos.com/images/paul-cocksedge-shop-logo-proposal-sketch.jpg">
   <div class="txt col1">
     <h2>Paul Cocksedge Shop</h2>
     <h6>Branding, Web Design & Development</h6>
@@ -26,7 +26,7 @@
   </div>
   
   <img class="full" width="1264" height="893"
-    src="//media.nunocoelhosantos.dev/images/paul-cocksedge-shop-logo-proposal-1.png">
+    src="//test.media.nunocoelhosantos.com/images/paul-cocksedge-shop-logo-proposal-1.png">
   
   <div class="clear txt col1">
     <p>I begin working with Paul's signature and with the idea of having the Studio vs Shop
@@ -34,10 +34,10 @@
       letterheads, envelopes, catalogues, packaging and to the products themselves.</p>
   </div>
   <img class="side" width="1008" height="530"
-    src="//media.nunocoelhosantos.dev/images/paul-cocksedge-shop-packaging-proposal.jpg">
+    src="//test.media.nunocoelhosantos.com/images/paul-cocksedge-shop-packaging-proposal.jpg">
 
   <img class="clear side" width="1008" height="654"
-    src="//media.nunocoelhosantos.dev/images/paul-cocksedge-shop-stationary-proposal.jpg">
+    src="//test.media.nunocoelhosantos.com/images/paul-cocksedge-shop-stationary-proposal.jpg">
 
   <div class="clear txt col1">
     <p>The final identity was a much safer option, using
@@ -48,13 +48,13 @@
       understand interface.</p>
   </div>
   <img class="side" width="1008" height="801"
-    src="//media.nunocoelhosantos.dev/images/paul-cocksedge-shop-logo.png" >
+    src="//test.media.nunocoelhosantos.com/images/paul-cocksedge-shop-logo.png" >
 
   <img class="full" width="1264" height="765"
-    src="//media.nunocoelhosantos.dev/images/paul-cocksedge-shop-screen.png">
+    src="//test.media.nunocoelhosantos.com/images/paul-cocksedge-shop-screen.png">
   
   <img class="side clear no-margin" width="1008" height="670"
-    src="//media.nunocoelhosantos.dev/images/paul-cocksedge-shop-bookmark-close-up.jpg">
+    src="//test.media.nunocoelhosantos.com/images/paul-cocksedge-shop-bookmark-close-up.jpg">
   <div class="txt col1">
     <p>The store runs on <a href="//www.shopify.com" target="_blank">Shopify</a>.
       Built using <a href="//www.adobe.com/uk/products/photoshop.html" target="_blank">
@@ -76,10 +76,10 @@
   </div>
 
   <img class="side clear no-margin" width="1008" height="713"
-   src="//media.nunocoelhosantos.dev/images/paul-cocksedge-shop-packaging.jpg">
+   src="//test.media.nunocoelhosantos.com/images/paul-cocksedge-shop-packaging.jpg">
   
   <img class="side clear no-margin" width="1008" height="628"
-    src="//media.nunocoelhosantos.dev/images/paul-cocksedge-shop-catalogue-card.jpg">
+    src="//test.media.nunocoelhosantos.com/images/paul-cocksedge-shop-catalogue-card.jpg">
 
 </div>
 

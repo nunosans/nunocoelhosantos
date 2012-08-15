@@ -16,7 +16,7 @@
 <div class="project" id="index-7">
   
   <img class="clear side" width="1008" height="673"
-    src="//media.nunocoelhosantos.dev/images/index-7-flyers.jpg">
+    src="//test.media.nunocoelhosantos.com/images/index-7-flyers.jpg">
   <div class="txt col1">
     <h2>Index 7</h2>
     <h6>Identity</h6>
@@ -32,7 +32,7 @@
   </div>
   
   <img class="full" width="1264" height="400"
-    src="//media.nunocoelhosantos.dev/images/index-7-logo-variations.png">
+    src="//test.media.nunocoelhosantos.com/images/index-7-logo-variations.png">
 
   <div class="clear txt"> 
     <p>Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla
@@ -46,7 +46,7 @@
     </p>
   </div>
   <img class="side" width="1008" height="1110"
-    src="//media.nunocoelhosantos.dev/images/index-7-logo-iterations.png">
+    src="//test.media.nunocoelhosantos.com/images/index-7-logo-iterations.png">
   
 </div>
 

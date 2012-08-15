@@ -9,7 +9,7 @@
 
 <div class="project" id="stethoscore">
 	
-	<img class="full" src="//media.nunocoelhosantos.dev/images/stethoscore-main.jpg" width="1264" height="680">
+	<img class="full" src="//test.media.nunocoelhosantos.com/images/stethoscore-main.jpg" width="1264" height="680">
 	
 </div>
 

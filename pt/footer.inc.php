@@ -1,3 +1,88 @@
+    <div id="columns">
+      <div class="thirty"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="thirty"></div>
+    </div>
     <div id="info">
       <div class="txt grid4">
         <h4>Descrição</h4>
@@ -16,7 +101,6 @@
           e no Skype como <a href="skype:nunocoelhosantos?userinfo">nunocoelhosantos</a>
         </p>
       </div>
-        
       <div class="txt grid1">
         <h4>Também no</h4>
         <ul>
@@ -25,7 +109,6 @@
         </ul>
       </div>
     </div>
-    
     <span id="copyright">
       © 2008&thinsp;—&thinsp;<?php date_default_timezone_set('Europe/London'); echo date("Y") ?> Nuno Coelho Santos &thinsp;/&thinsp;
       <a id="columns-on">Ver Colunas</a><a id="columns-off">Esconder Colunas</a>

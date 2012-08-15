@@ -16,7 +16,7 @@
 <div class="project" id="stethoscore">
   
   <img class="full" width="1264" height="680"
-  	 src="//media.nunocoelhosantos.dev/images/stethoscore-main.jpg">
+  	 src="//test.media.nunocoelhosantos.com/images/stethoscore-main.jpg">
   
 </div>
 

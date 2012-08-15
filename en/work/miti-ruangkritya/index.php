@@ -16,7 +16,7 @@
 <div class="project" id="miti-ruangkritya">
   
   <img class="clear side" width="1008" height="917"
-    src="//media.nunocoelhosantos.dev/images/miti-ruangkritya-screen.png">
+    src="//test.media.nunocoelhosantos.com/images/miti-ruangkritya-screen.png">
   
 </div>
 

@@ -12,9 +12,9 @@
 
 <div class="project" id="vania-coelho-santos">
 	
-	<img class="full" src="//media.nunocoelhosantos.dev/images/vania-coelho-santos-screen-set.jpg" width="1264" height="732">
+	<img class="full" src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-screen-set.jpg" width="1264" height="732">
 	
-	<img class="clear side no-margin" src="//media.nunocoelhosantos.dev/images/vania-coelho-santos-vienna-house-of-music.jpg" width="1008" height="580">
+	<img class="clear side no-margin" src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-vienna-house-of-music.jpg" width="1008" height="580">
 	<div class="txt">	
 		<h2>Vânia Coelho Santos</h2>
 		<h6>Design e Desenvolvimento</h6>
@@ -23,9 +23,9 @@
 		<p>Desenvolvido em <a href="//www.adobe.com/pt/products/photoshop.html" target="_blank">Adobe Photoshop</a>, <a href="//www.adobe.com/pt/products/illustrator.html" target="_blank">Adobe Illustrator</a>, <a href="//typekit.com/" target="_blank">Adobe Typekit</a>, <a href="//www.sublimetext.com/" target="_blank">Sublime Text 2</a>, <a href="//pt.wikipedia.org/wiki/Html" target="_blank">HTML</a>,<a href="//pt.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>, <a href="//pt.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a>, <a href="//jquery.com/" target="_blank">jQuery</a>, <a href="//php.net/" target="_blank">PHP</a> e <a href="//git-scm.com/" target="_blank">Git</a>.</p>
 		<p class="icon-globe-1"><a href="//vaniacoelhosantos.com" target="_blank">vaniacoelhosantos.com</a></p>
 	</div>
-	<img class="clear side" src="//media.nunocoelhosantos.dev/images/vania-coelho-santos-vila-nova-de-gaia-public-library.jpg" width="1008" height="580">
+	<img class="clear side" src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-vila-nova-de-gaia-public-library.jpg" width="1008" height="580">
 	
-	<img class="site-plan" src="//media.nunocoelhosantos.dev/images/vania-coelho-santos-website-plan.jpg" width="1440" height="9947">
+	<img class="site-plan" src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-website-plan.jpg" width="1440" height="9947">
 	
 </div>
 

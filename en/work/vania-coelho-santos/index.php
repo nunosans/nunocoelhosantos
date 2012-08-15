@@ -15,10 +15,10 @@
 <div class="project" id="vania-coelho-santos">
   
   <img class="full" width="1264" height="732"
-    src="//media.nunocoelhosantos.dev/images/vania-coelho-santos-screen-set.jpg">
+    src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-screen-set.jpg">
   
   <img class="clear side no-margin" width="1008" height="580"
-    src="//media.nunocoelhosantos.dev/images/vania-coelho-santos-vienna-house-of-music.jpg">
+    src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-vienna-house-of-music.jpg">
 
   <div class="txt"> 
     <h2>Vânia Coelho Santos</h2>
@@ -50,10 +50,10 @@
   </div>
 
   <img class="clear side" width="1008" height="580"
-    src="//media.nunocoelhosantos.dev/images/vania-coelho-santos-vila-nova-de-gaia-public-library.jpg">
+    src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-vila-nova-de-gaia-public-library.jpg">
   
   <img class="site-plan" width="1440" height="9947"
-    src="//media.nunocoelhosantos.dev/images/vania-coelho-santos-website-plan.jpg">
+    src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-website-plan.jpg">
 
 </div>
 

@@ -16,12 +16,12 @@
 <div class="project" id="ana-barreira">
 
   <img class="full no-margin" width="1264" height="540"
-    src="//media.nunocoelhosantos.dev/images/ana-barreira-logo-with-background.jpg">
+    src="//test.media.nunocoelhosantos.com/images/ana-barreira-logo-with-background.jpg">
   <img class="full" width="1264" height="540"
-    src="//media.nunocoelhosantos.dev/images/ana-barreira-logo.png">
+    src="//test.media.nunocoelhosantos.com/images/ana-barreira-logo.png">
 
   <img class="clear side" width="1008" height="640"
-    src="//media.nunocoelhosantos.dev/images/ana-barreira-business-cards.jpg">
+    src="//test.media.nunocoelhosantos.com/images/ana-barreira-business-cards.jpg">
   <div class="txt col1">
     <h2>Ana Barreira</h2>
     <h6>Branding, Print & Web Design.</h6>
@@ -60,7 +60,7 @@
 
   </div>
   <img class="side" width="1008" height="917"
-    src="//media.nunocoelhosantos.dev/images/ana-barreira-screen.png">
+    src="//test.media.nunocoelhosantos.com/images/ana-barreira-screen.png">
 
 </div>
 

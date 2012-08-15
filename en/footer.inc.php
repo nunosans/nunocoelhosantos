@@ -1,3 +1,89 @@
+
+    <div id="columns">
+      <div class="thirty"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="thirty"></div>
+    </div>
     <div id="info">
       <div class="txt grid4">
         <h4>About</h4>
@@ -29,7 +115,6 @@
         </ul>
       </div>
     </div>
-    
     <span id="copyright">
       © 2008&thinsp;—&thinsp;<? date_default_timezone_set('Europe/London');
       echo date("Y") ?> Nuno Coelho Santos &thinsp;/&thinsp;

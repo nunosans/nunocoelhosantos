@@ -16,7 +16,7 @@
 <div class="project" id="sophie-westerlind">
   
   <img class="clear side" width="1008" height="917"
-    src="//media.nunocoelhosantos.dev/images/sophie-westerlind-screen.png">
+    src="//test.media.nunocoelhosantos.com/images/sophie-westerlind-screen.png">
   
 </div>
 

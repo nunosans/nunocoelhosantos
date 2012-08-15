@@ -16,7 +16,7 @@
 <div class="project" id="shooting-people">
   
   <img class="clear side" width="1008" height="647"
-    src="//media.nunocoelhosantos.dev/images/shooting-people-business-cards.jpg">
+    src="//test.media.nunocoelhosantos.com/images/shooting-people-business-cards.jpg">
   <div class="txt">
     <h2>Shooting People</h2>
     <h6>Print & Web Design, Front-end Development</h6>

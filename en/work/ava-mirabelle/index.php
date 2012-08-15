@@ -16,7 +16,7 @@
 <div class="project" id="ava-mirabelle">
   
   <img class="full" width="1264" height="500"
-    src="//media.nunocoelhosantos.dev/images/ava-mirabelle-logo.png">
+    src="//test.media.nunocoelhosantos.com/images/ava-mirabelle-logo.png">
 
   <div class="clear txt col1">
     <h2>Ava Mirabelle</h2>
@@ -31,16 +31,16 @@
     </p>
   </div>
   <img class="side" width="1008" height="1008"
-    src="//media.nunocoelhosantos.dev/images/ava-mirabelle-logo-in-glass.png">
+    src="//test.media.nunocoelhosantos.com/images/ava-mirabelle-logo-in-glass.png">
 
   <img class="clear side right" width="1008" height="729"
-    src="//media.nunocoelhosantos.dev/images/ava-mirabelle-logo-guidelines.png">
+    src="//test.media.nunocoelhosantos.com/images/ava-mirabelle-logo-guidelines.png">
 
   <img class="full" width="1264" height="540"
-    src="//media.nunocoelhosantos.dev/images/ava-mirabelle-stationary.jpg">
+    src="//test.media.nunocoelhosantos.com/images/ava-mirabelle-stationary.jpg">
 
   <img class="clear side" width="1008" height="917"
-    src="//media.nunocoelhosantos.dev/images/ava-mirabelle-screen.png">
+    src="//test.media.nunocoelhosantos.com/images/ava-mirabelle-screen.png">
   <div class="txt col1">
     <p>Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna 
       donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna,

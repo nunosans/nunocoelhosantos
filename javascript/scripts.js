@@ -5,9 +5,6 @@
  * @author nuno@nunocoelhosantos.com (Nuno Coelho Santos).
  */
 
-// Get Typekit Fonts.
-try{Typekit.load();}catch(e){};
-
 // Resize the Featured Project.
 function resizeFeaturedProject() {
   // Declare variables.
@@ -65,8 +62,11 @@ function gridToggles() {
   });
 };
 
+// Get Typekit Fonts.
+try{Typekit.load();}catch(e){};
 
 $(document).ready(function() {
+
   // Get elements ready to fade-in.
   $('.project, #info, #copyright, img, .featured div').fadeTo(0, 0);
 

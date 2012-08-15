@@ -6,7 +6,7 @@
 ?>
   
 <div class="featured">
-  <img src="//media.nunocoelhosantos.dev/images/vania-coelho-santos-slide.jpg"
+  <img src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-slide.jpg"
     alt="Website da arquitecta Vânia Coelho Santos aprensatado num iMac, iPad e iPhone"
     width="2000" height="1100">
   <div>
@@ -28,7 +28,7 @@
       <a href="./trabalho/keepon/">Keepon</a>
     </h4>
     <a href="./trabalho/keepon/">
-      <img src="//media.nunocoelhosantos.dev/images/keepon-card.png"
+      <img src="//test.media.nunocoelhosantos.com/images/keepon-card.png"
         alt="Icon da aplicação Keepon para iOS" width="240" height="140">
     </a>
     <p>Design, Arquitectura e experiência do cliente para iOS do Kickoff</p>
@@ -38,7 +38,7 @@
       <a href="./trabalho/hash-todo/">#todo</a>
     </h4>
     <a href="./trabalho/hash-todo/">
-      <img src="//media.nunocoelhosantos.dev/images/hash-todo-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/hash-todo-card.jpg"
       alt="Interface da aplicação #todo no ecrã de um iPhone 4" width="240" height="140">
     </a>
     <p>Interface visual e experiência para uma lista de tarefas que corre no Twitter</p>
@@ -48,7 +48,7 @@
       <a href="./trabalho/norman-hartnell/">Norman Hartnell</a>
     </h4>
     <a href="./trabalho/norman-hartnell/">
-      <img src="//media.nunocoelhosantos.dev/images/norman-hartnell-card.png"
+      <img src="//test.media.nunocoelhosantos.com/images/norman-hartnell-card.png"
         alt="Logo da Norman Hartnell" width="240" height="140">
     </a>
     <p>Desenvolvimento do site para a marca do estilista oficial da rainha Elizabete II</p>
@@ -56,7 +56,7 @@
   <div>
     <h4><a href="./trabalho/paul-cocksedge-shop/">Paul Cocksedge Shop</a></h4>
     <a href="./trabalho/paul-cocksedge-shop/">
-      <img src="//media.nunocoelhosantos.dev/images/paul-cocksedge-shop-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/paul-cocksedge-shop-card.jpg"
       alt="Fotografia do Bookmark por Paul Cocksedge Studio"
       width="240" height="140">
     </a>
@@ -65,7 +65,7 @@
   <div>
     <h4><a href="./trabalho/vania-coelho-santos/">Vânia Coelho Santos</a></h4>
     <a href="./trabalho/vania-coelho-santos/">
-      <img src="//media.nunocoelhosantos.dev/images/vania-coelho-santos-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-card.jpg"
       alt="Imagem digital de um dos conceitos arquitectónicos de Vânia Coelho Santos"
       width="240" height="140">
     </a>
@@ -76,7 +76,7 @@
       <a href="./trabalho/ava-mirabelle/">Ava Mirabelle</a>
     </h4>
     <a href="./trabalho/ava-mirabelle/">
-      <img src="//media.nunocoelhosantos.dev/images/ava-mirabelle-card.png"
+      <img src="//test.media.nunocoelhosantos.com/images/ava-mirabelle-card.png"
         alt="Imagem do logo da Ava Mirabelle" width="240" height="140">
     </a>
     <p>Identidade e desenvolvimento da loja de designers de roupa artesanal</p>
@@ -88,7 +88,7 @@
       <a href="./trabalho/expresso-viagens/">Expresso Viagens</a>
     </h4>
     <a href="./trabalho/expresso-viagens/">
-      <img src="//media.nunocoelhosantos.dev/images/expresso-viagens-card.png"
+      <img src="//test.media.nunocoelhosantos.com/images/expresso-viagens-card.png"
       alt="Detalhe de uma das ilustrações para a Expresso Viagens" width="240" height="140">
     </a>
     <p>Identidade, ilustração, design e programação para a agência de viagens</p>
@@ -98,7 +98,7 @@
       <a href="./trabalho/index-7/">Index 7</a>
     </h4>
     <a href="./trabalho/index-7/">
-      <img src="//media.nunocoelhosantos.dev/images/index-7-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/index-7-card.jpg"
         alt="Imagem do logo para a exposição Index 7 sobre uma fotografia de Myka Baum"
         width="240" height="140">
     </a>
@@ -109,7 +109,7 @@
       <a href="./trabalho/protein-journal/">Protein&reg; Journal</a>
     </h4>
     <a href="./trabalho/protein-journal/">
-      <img src="//media.nunocoelhosantos.dev/images/protein-journal-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/protein-journal-card.jpg"
         alt="Detalhe da capa do Protein Journal 3 para iPad" width="240" height="140">
     </a>
     <p>Desenvolvimento da versão do jornal da Protein para iPad</p>
@@ -119,7 +119,7 @@
       <a href="./trabalho/shooting-people/">Shooting People</a>
     </h4>
     <a href="./trabalho/shooting-people/">
-      <img src="//media.nunocoelhosantos.dev/images/shooting-people-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/shooting-people-card.jpg"
         alt="Fotografia dos cartões de visita da Shooting People" width="240" height="140">
     </a>
     <p>Design e desenvolvimento para o a rede de realizadores de cinema</p>
@@ -129,7 +129,7 @@
       <a href="./trabalho/lilias-buchanan/">Lilias Buchanan</a>
     </h4>
     <a href="./trabalho/lilias-buchanan/">
-      <img src="//media.nunocoelhosantos.dev/images/lilias-buchanan-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/lilias-buchanan-card.jpg"
         alt="Detalhe de uma das ilutrações da série ‘The Death of Ivan Illych’ por Lilias Buchanan"
         width="240" height="140">
     </a>
@@ -140,7 +140,7 @@
       <a href="./trabalho/jo-phipps/">Jo Phipps</a>
     </h4>
     <a href="./trabalho/jo-phipps/">
-      <img src="//media.nunocoelhosantos.dev/images/jo-phipps-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/jo-phipps-card.jpg"
         alt="Fotografia ‘Joseph’ por Jo Phipps, 2011" width="240" height="140">
     </a>
     <p>Design e desenvolvimento do portfolio digital da a fotógrafa inglesa</p>
@@ -150,7 +150,7 @@
       <a href="./trabalho/iterar/">Iterar</a>
     </h4>
     <a href="./trabalho/iterar/">
-      <img src="//media.nunocoelhosantos.dev/images/iterar-card.png"
+      <img src="//test.media.nunocoelhosantos.com/images/iterar-card.png"
         alt="Imagem do logo da Iterar" width="240" height="140">
     </a>
     <p>Identidade para a companhia portuguesa de software</p>
@@ -160,7 +160,7 @@
       <a href="./trabalho/nostalgics/">Nostalgics</a>
     </h4>
     <a href="./trabalho/nostalgics/">
-      <img src="//media.nunocoelhosantos.dev/images/nostalgics-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/nostalgics-card.jpg"
         alt="Detalhe do ‘Musical Glass’ (Copo Músical) por Nostalgics"
         width="240" height="140">
     </a>
@@ -171,7 +171,7 @@
       <a href="./trabalho/stethoscore/">Stethoscore</a>
     </h4>
     <a href="./trabalho/stethoscore/">
-      <img src="//media.nunocoelhosantos.dev/images/stethoscore-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/stethoscore-card.jpg"
         alt="Interface da aplicação Stethoscore no ecrã de um iPhone 4"
         width="240" height="140">
     </a>
@@ -184,7 +184,7 @@
       <a href="./trabalho/marili-andre/">Marili André</a>
     </h4>
     <a href="./trabalho/marili-andre/">
-      <img src="//media.nunocoelhosantos.dev/images/marili-andre-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/marili-andre-card.jpg"
         alt="Detalhe de um dos vídeos de Marili André e o seu logo"
         width="240" height="140">
     </a>
@@ -195,7 +195,7 @@
       <a href="./trabalho/ailara-berdyyeva/">Ailara Berdyyeva</a>
     </h4>
     <a href="./trabalho/ailara-berdyyeva/">
-      <img src="//media.nunocoelhosantos.dev/images/ailara-berdyyeva-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/ailara-berdyyeva-card.jpg"
         alt="Detalhe de uma das fotografias de uma das sacolas da collecção ‘Inside/Outsie’"
         width="240" height="140">
     </a>
@@ -206,7 +206,7 @@
       <a href="./trabalho/caroline-pera/">Caroline Pera</a>
     </h4>
     <a href="./trabalho/caroline-pera/">
-      <img src="//media.nunocoelhosantos.dev/images/caroline-pera-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/caroline-pera-card.jpg"
         alt="Detalhe de uma das fotografias do lookbook da colecção de joalharia de
         Caroline Pera e o seu logo" width="240" height="140">
     </a>
@@ -217,7 +217,7 @@
       <a href="./trabalho/savant/">Savant</a>
     </h4>
     <a href="./trabalho/savant/">
-      <img src="//media.nunocoelhosantos.dev/images/savant-card.png"
+      <img src="//test.media.nunocoelhosantos.com/images/savant-card.png"
         alt="Imagem do logo do estúdio Savant" width="240" height="140">
     </a>
     <p>Identidade, material impresso e design do website para o estudo de design</p>
@@ -227,7 +227,7 @@
       <a href="./trabalho/ana-barreira/">Ana Barreira</a>
     </h4>
     <a href="./trabalho/ana-barreira/">
-      <img src="//media.nunocoelhosantos.dev/images/ana-barreira-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/ana-barreira-card.jpg"
       alt="Detalhe de uma das fotografias de Ana Barreira e o seu logo"
       width="240" height="140">
     </a>
@@ -239,7 +239,7 @@
       <a href="./trabalho/miti-ruangkritya/">Miti Ruangkritya</a>
     </h4>
     <a href="./trabalho/miti-ruangkritya/">
-      <img src="//media.nunocoelhosantos.dev/images/miti-ruangkritya-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/miti-ruangkritya-card.jpg"
         alt="Detalhe de uma das fotografias da colecção ‘Bangkok Protest’ por Miti Ruangkritya"
         width="240" height="140">
     </a>
@@ -250,7 +250,7 @@
       <a href="./trabalho/sophie-westerlind/">Sophie Westerlind</a>
     </h4>
     <a href="./trabalho/sophie-westerlind/">
-      <img src="//media.nunocoelhosantos.dev/images/sophie-westerlind-card.png"
+      <img src="//test.media.nunocoelhosantos.com/images/sophie-westerlind-card.png"
         alt="Detalhe da página de abertura do website de Sophie Westerlind"
         width="240" height="140">
     </a>
@@ -261,7 +261,7 @@
       <a href="./trabalho/fractures-from-anxiety/">Fractures from Anxiety</a>
     </h4>
     <a href="./trabalho/fractures-from-anxiety/">
-      <img src="//media.nunocoelhosantos.dev/images/fractures-from-anxiety-card.jpg"
+      <img src="//test.media.nunocoelhosantos.com/images/fractures-from-anxiety-card.jpg"
         alt="Detalhe da capa do livro ‘Fractures from Anxiety’ (Fracturas de Ansiedade) por Marcus Bastel"
         width="240" height="140">
     </a>
