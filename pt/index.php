@@ -4,11 +4,13 @@
   $description='Nuno Coelho Santos é um Designer e Programador para web residente em Londres.';
   require_once('header.inc.php');
 ?>
-  
+
 <div class="featured">
-  <img src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-slide.jpg"
+  <a href="./trabalho/vania-coelho-santos/">
+    <img src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-slide.jpg"
     alt="Website da arquitecta Vânia Coelho Santos aprensatado num iMac, iPad e iPhone"
     width="2000" height="1100">
+  </a>
   <div>
     <h2>
       <a href="./trabalho/vania-coelho-santos/">Em Destaque: Vânia Coelho Santos</a>

@@ -7,9 +7,11 @@
 ?>
 
 <div class="featured">
-  <img src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-slide.jpg"
-  alt="A computer generated image displaying the website for Vânia Coelho Santos on
-  a desktop screen, a tablet and a mobile phone" width="2000" height="1100">
+  <a href="./work/vania-coelho-santos/">
+    <img src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-slide.jpg"
+      alt="A computer generated image displaying the website for Vânia Coelho Santos on
+      a desktop screen, a tablet and a mobile phone" width="2000" height="1100">
+  </a>
   <div>
     <h2>
       <a href="./work/vania-coelho-santos/">Featured: Vânia Coelho Santos</a>
@@ -88,7 +90,7 @@
   </div>
 
   <h3>2011</h3>
-  
+
   <div>
     <h4>
       <a href="./work/expresso-viagens/">Expresso Viagens</a>

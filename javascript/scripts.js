@@ -16,7 +16,7 @@ function resizeFeaturedProject() {
   var containerWidth = $('.featured').width();
   var image = $('.featured img');
   var imageRatio = 0.55;
-  
+
   image.css('position', 'relative');
 
   if (windowHeight > windowWidth || windowHeight < 240) {
@@ -48,13 +48,13 @@ function gridToggles() {
   columns.hide();
   columnButtonOn.show();
   columnButtonOff.hide();
-  
+
   columnButtonOn.click(function() {
     columns.show();
     columnButtonOn.hide();
     columnButtonOff.show();
   });
-  
+
   columnButtonOff.click(function() {
     columns.hide();
     columnButtonOn.show();
@@ -79,7 +79,7 @@ $(document).ready(function() {
       target:'body',
       duration: 350
   });
-    
+
   // Hover effects.
   $('.work div a img').after('<span class="cover"></span>');
   $('.cover').fadeTo(0, 0.0);
@@ -113,11 +113,8 @@ $(window).load(function() {
   $(".work .dev img").fadeTo(250, 0.33);
 
   // Make the bar of the featured project clickable
-  $(".featured").click(function() {
-    $('#.featured h2 a').bind('click', function() {
-      window.location.href = this.href;
-      return false;
-    });
-    $(".featured h2 a").trigger('click').once();
+  $('.featured > div > *').click(function() {
+    var featuredProjectUrl = $('.featured > div > h2 > a').attr('href');
+    window.location.href = featuredProjectUrl;
   });
 });
