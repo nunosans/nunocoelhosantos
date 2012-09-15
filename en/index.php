@@ -1,16 +1,18 @@
 <?
   $page = 'Home';
   $title = 'Designer & Front-end Developer';
-  $description = 'Nuno Coelho Santos is a Graphic Designer and Front-end Developer
-    based in London.';
+  $description = 'Nuno Coelho Santos is a Graphic Designer and Front-end
+    Developer based in London.';
   require_once('header.inc.php');
 ?>
 
+<!-- Featured Project -->
 <div class="featured">
   <a href="./work/vania-coelho-santos/">
-    <img src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-slide.jpg"
-      alt="A computer generated image displaying the website for Vânia Coelho Santos on
-      a desktop screen, a tablet and a mobile phone" width="2000" height="1100">
+    <img width="2000" height="1100"
+      src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-slide.jpg"
+      alt="A computer generated image displaying the website for Vânia
+      Coelho Santos on a desktop screen, a tablet and a mobile phone">
   </a>
   <div>
     <h2>
@@ -22,9 +24,57 @@
     </p>
   </div>
 </div>
+
+<!-- Portfolio -->
 <div class="work" id="portfolio">
+
+  <!-- Projects from 2012 -->
   <h3>2012</h3>
-  <div class="new">
+
+  <div>
+    <h4>
+      <a href="./work/sony-vaio/">Sony Vaio</a>
+    </h4>
+    <a href="./work/sony-vaio/">
+      <img width="480" height="280"
+       src="//test.media.nunocoelhosantos.com/images/sony-vaio-card.png"
+       alt="Photograph of the Sony Vaio’s CMS user interface">
+    </a>
+    <p>Front-end development of Sony Vaio’s news content management system</p>
+  </div>
+  <div>
+    <h4>
+      <a href="./work/stylize-d/">Stylize/d</a>
+    </h4>
+    <a href="./work/stylize-d/">
+      <img width="480" height="280"
+       src="//test.media.nunocoelhosantos.com/images/stylize-d-card.png"
+       alt="Detail of an application of the Stylize/d identity">
+    </a>
+    <p>Identity and web design for the independent fashion blog</p>
+  </div>
+  <div>
+    <h4>
+      <a href="./work/kent-and-curwen/">Kent &amp; Curwen</a>
+    </h4>
+    <a href="./work/kent-and-curwen/">
+      <img width="480" height="280"
+       src="//test.media.nunocoelhosantos.com/images/kent-and-curwen-card.png"
+       alt="Photograph of the Kent &amp; Curwen website seen from an iPad">
+    </a>
+    <p>Development of the Kent &amp; Curwen website</p>
+  </div>
+  <div>
+    <h4>
+      <a href="./work/google-doubleclick/">Google DoubleClick</a>
+    </h4>
+    <a href="./work/google-doubleclick/">
+      <img src="//test.media.nunocoelhosantos.com/images/google-doubleclick-card.png"
+       alt="" width="480" height="280">
+    </a>
+    <p>Front-end development for the Rich Media Gallery mobile site</p>
+  </div>
+  <div>
     <h4>
       <a href="./work/keepon/">Keepon</a>
     </h4>
@@ -89,8 +139,8 @@
     <p>Identity and development of the <br />hand-made online fashion store</p>
   </div>
 
+  <!-- Projects from 2011 -->
   <h3>2011</h3>
-
   <div>
     <h4>
       <a href="./work/expresso-viagens/">Expresso Viagens</a>
@@ -156,7 +206,7 @@
       <img src="//test.media.nunocoelhosantos.com/images/jo-phipps-card.jpg"
         alt="Fraction of ‘Joseph’ by Jo Phipps" width="480" height="280">
     </a>
-    <p>Design & Development of the artist online portfolio</p>
+    <p>Design &amp; Development of the artist online portfolio</p>
   </div>
   <div>
     <h4>
@@ -188,9 +238,10 @@
         alt="Image of the Stethoscore Application running on an iPhone 4"
         width="480" height="280">
     </a>
-    <p>UI&hairsp;/&hairsp;UX & web development for the medical utility app</p>
+    <p>UI/UX &amp; web development for the medical utility app</p>
   </div>
 
+  <!-- Projects from 2010 -->
   <h3>2010</h3>
   <div>
     <h4>
@@ -247,6 +298,7 @@
     <p>Identity, print and web design of the fashion photography webfolio</p>
   </div>
 
+  <!-- Projects from 2009 -->
   <h3>2009</h3>
   <div>
     <h4>
@@ -281,6 +333,7 @@
     </a>
     <p>Book and cover design for the short stories of Marcus Bastel</p>
   </div>
+
 </div>
 
 <? require_once('footer.inc.php'); ?>
