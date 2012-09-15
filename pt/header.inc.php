@@ -1,8 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Nuno Coelho Santos<?if ($page=='Home' || $page=='Perfil') {echo(' &nbsp;—&nbsp; ');
-      } else {echo(' &nbsp;~&nbsp; ');};echo $title;?></title>
+    <title<? echo $title; if ($page=='Home' || $page=='Perfil') {echo(' &nbsp;—&nbsp; '); } else {echo(' &nbsp;~&nbsp; ');}; ?> >Nuno Coelho Santos</title>
     <meta charset="UTF-8">
     <meta name="description" content="<? echo($description) ?>">
     <meta name="keywords" content="nuno, coelho, santos, graphic, web,
