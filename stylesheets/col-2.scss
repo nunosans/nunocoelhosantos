@@ -1,0 +1,47 @@
+/* Two Columns */
+@media only screen and (max-width: 936px) {
+  body > * {width: 528px;}
+  #header, .project, .project-nav, .work h3 {width: 496px;}
+  .featured > div > * {padding-right: 256px;}
+  .work {width: 512px; padding: 0;}
+  .work h3 {
+    clear: both;
+    height: 30px;
+    border: none;
+    border-bottom: 1px solid #E2E2E2;
+    text-align: left;
+    margin: 20px 8px 20px;
+    padding: 0;
+    }
+  img {
+    -webkit-transition-duration: 0.0s;
+       -moz-transition-duration: 0.0s;
+         -o-transition-duration: 0.0s;
+            transition-duration: 0.0s;
+    }
+  #about, #also {width: 100%;}
+  .txt.grid1  {width: 240px;}
+  .txt.grid4  {width: 496px;}
+  .project .full,
+  .project .side,
+  .project .site-plan,
+  .project .both {
+    float: left;
+    width: 496px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-left: 0;
+    }
+  .project .txt {
+    width: 100%;
+    -webkit-column-count: 1;
+       -moz-column-count: 1;
+         -o-column-count: 1;
+            column-count: 1;
+    margin-top: 0;
+    margin-bottom: 16px;
+    margin-left: 0;
+    }
+  #special-1,
+  #special-2 {margin-top: 0;}
+}

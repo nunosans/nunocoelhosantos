@@ -14,9 +14,9 @@
 </div>
 
 <div class="project" id="fractures-from-anxiety">
-  
+
   <img id="special-2" class="clear side" width="1080" height="1080"
-    src="//test.media.nunocoelhosantos.com/images/fractures-from-anxiety-cover-photo.jpg">
+    src="/media/images/fractures-from-anxiety-cover-photo.jpg">
   <div class="txt col1">
     <h2>Fractures from Anxiety</h2>
     <h6>Book and Cover Design</h6>
@@ -31,7 +31,7 @@
       euismod sapien nonummy enim, varius eros ac.
     </p>
   </div>
-  
+
 
 </div>
 

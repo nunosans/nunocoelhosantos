@@ -1,0 +1,20 @@
+/* Four Columns */
+@media only screen and (max-width: 1448px) {
+  body > * {width: 1040px;}
+  #header, .project, .project-nav {width: 1008px;}
+  .featured > div > * {padding-right: 768px;}
+  .work {width: 1024px;}
+  .txt.col5 {
+    width: 1008px;
+    column-count: 4;
+    -webkit-column-count: 4;
+    -moz-column-count: 4;
+    -o-column-count: 4;
+    }
+  .txt.grid1 {width: 240px;}
+  .txt.grid3 {width: 496px;}
+  .project .full {width: 1008px;}
+  .project .side,
+  .project .site-plan {width: 752px;}
+  .project .both {width: 496px;}
+}

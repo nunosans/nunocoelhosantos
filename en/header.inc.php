@@ -4,14 +4,14 @@
     <title><? echo $title; if ($page=='Home' || $page=='Profile') {echo(' &nbsp;—&nbsp; '); } else {echo(' &nbsp;~&nbsp; ');}; ?> Nuno Coelho Santos</title>
     <meta charset="UTF-8">
     <meta name="description" content="<? echo($description) ?>">
-    <meta name="keywords" content="nuno, coelho, santos, graphic,
-      web, design, identity, soares, reis, csm, central, saint, martins, london">
+    <meta name="keywords" content="nuno, coelho, santos, graphic, web, design, identity, soares, reis, csm, central, saint, martins, london">
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
-    <link href="/stylesheets/styles.css" rel="stylesheet">
+    <link href="/stylesheets/main.css" rel="stylesheet">
     <link href="/humans.txt" rel="author">
     <script src="//use.typekit.com/qxu7res.js"></script>
-    <script src="//code.jquery.com/jquery-latest.min.js"></script>
+    <!-- <script src="//code.jquery.com/jquery-latest.min.js"></script> -->
+    <script src="/javascript/jquery.js"></script>
     <script src="/javascript/localscroll.js"></script>
     <script src="/javascript/scrollto.js"></script>
     <script src="/javascript/scripts.js"></script>

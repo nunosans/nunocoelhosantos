@@ -10,9 +10,9 @@
 </div>
 
 <div class="project" id="profile">
-	
-	
-	<img class="clear side" src="//test.media.nunocoelhosantos.com/images/profile-portrait-1.jpg" width="" height="">
+
+
+	<img class="clear side" src="/media/images/profile-portrait-1.jpg" width="" height="">
 	<div class="txt">
 		<h2>Auto-Biography</h2>
 		<p>I am a developer and graphic designer based in London and original from <a href="//vimeo.com/21698583" target="_blank">Porto, Portugal</a>. My work reflects a lot of my personality: organised, tidy, straigh-forward, unpronounced.</p>
@@ -25,7 +25,7 @@
 		<p>I have been freelancing since 2009. I started building websites for friends as a way to teach myself web development. Later on this became a big passion and now I can't <i>&thinsp;just&hairsp;</i> design the interface.</p>
 		<p>My first steps were taken in the company of <a href="//twitter.com/plaintiago" target="_blank">Tiago Alves</a>, a medicine student, old friend, and passionate hobbyist developer alike. Over time we gathered more people and call our teams <a href="//savantstudio.co.uk/" target="_blank">Savant</a> & <a href="//iterar.co/" target="_blank">Iterar</a>.</p>
 	</div>
-	<img class="both" src="//test.media.nunocoelhosantos.com/images/profile-csm.jpg" width="" height="">
+	<img class="both" src="/media/images/profile-csm.jpg" width="" height="">
 
 	<div class="clear txt">
 		<h2>Selected Clients&thinsp;/&thinsp;Friends I worked for</h2>

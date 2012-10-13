@@ -7,9 +7,9 @@
 </div>
 
 <div class="project" id="protein-journal">
-	
-	<img class="full" src="//test.media.nunocoelhosantos.com/images/protein-journal-main.png" width="1264" height="833">
-	
+
+	<img class="full" src="/media/images/protein-journal-main.png" width="1264" height="833">
+
 </div>
 
 <? require_once('../../footer.inc.php'); ?>

@@ -1,0 +1,35 @@
+/* One Column */
+@media only screen and (max-width: 580px) {
+  body > * {width: 272px;}
+  body#home {background-image: none !important;}
+  #header, .project, .project-nav, .work h3 {width: 240px;}
+  .project-nav {height: 61px;}
+  #nav {width: 240px;}
+  #nav li:first-child {margin-left: 0;}
+  .featured div {padding: 16px 0;}
+  .featured div > * {padding-right: 0;}
+  .featured div p {
+    background-size: 8px 12.5px;
+    width: 224px;
+    padding-right: 16px;
+  }
+  .work {width: 256px;}
+  .txt.grid1,
+  .txt.grid4  {width: 240px;}
+  #info {padding-top: 100px;}
+  #info .txt {min-height: 0;}
+  #info .txt p {padding-right: 0;}
+  .project .full,
+  .project .side,
+  .project .site-plan,
+  .project .both {
+    width: 240px;
+    }
+
+  #special-1,
+  #special-2 {margin-top: 0;}
+  #copyright {padding-bottom: 30px;}
+  #columns-on, #columns-off {
+    float: left;
+  }
+}

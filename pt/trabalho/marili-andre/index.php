@@ -7,9 +7,9 @@
 </div>
 
 <div class="project" id="marili-andre">
-	
-	<img class="clear side" src="//test.media.nunocoelhosantos.com/images/marili-andre-screen.png" width="1008" height="917">
-	
+
+	<img class="clear side" src="/media/images/marili-andre-screen.png" width="1008" height="917">
+
 </div>
 
 <? require_once('../../footer.inc.php'); ?>

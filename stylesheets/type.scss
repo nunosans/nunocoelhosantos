@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+/* Typefaces */
+@font-face {
+  font-family: "Fontello Pictograms";
+  src: url("../webfonts/fontello.eot");
+  src: url("../webfonts/fontello.eot?#iefix")   format("embedded-opentype"),
+       url("../webfonts/fontello.woff")         format("woff"),
+       url("../webfonts/fontello.ttf")          format("truetype"),
+       url("../webfonts/fontello.svg#fontello") format("svg");
+  font-weight: normal;
+  font-style:  normal;
+}
+
+/* Icons */
+/* Turn all elements begining with a class "icon-" into a pictogram */
+[class^="icon-"],
+[class*=" icon-"] {
+  font-family: "Fontello Pictograms";
+  font-style: normal;
+  speak: none;
+}
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  margin-right: 3px;
+}
+
+/* Apply the right icon to each icon class element */
+.icon-left:before         {content: "←";}  /* UTF-8: "\2190" / Arrow Left  */
+.icon-up:before           {content: "↑"; }  /* UTF-8: "\2191" / Arrow Up    */
+.icon-right:before        {content: "→"; }  /* UTF-8: "\2192" / Arrow Right */
+.icon-down:before         {content: "↓"; }  /* UTF-8: "\2193" / Arrow Down  */
+.icon-down-circle:before  {content: "";}  /* UTF-8: "\e4a4" / Download    */
+.icon-eye:before          {content: "";}  /* UTF-8: "\e70a" / Preview     */
+.icon-resize-full:before  {content: "";}  /* UTF-8: "\e744" / Full-screen */
+.icon-twitter-bird:before {content: "";}  /* UTF-8: "\f303" / Twitter     */
+.icon-github:before       {content: "";}  /* UTF-8: "\f308" / Github      */
+.icon-skype:before        {content: "";}  /* UTF-8: "\f30b" / Skype       */
+.icon-globe-1:before      {content: "";}  /* UTF-8: "\e800" / Website     */

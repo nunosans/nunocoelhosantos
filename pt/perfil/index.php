@@ -10,9 +10,9 @@
 </div>
 
 <div class="project" id="profile">
-	
-	
-	<img class="clear side" src="//test.media.nunocoelhosantos.com/images/profile-portrait-1.jpg" width="" height="">
+
+
+	<img class="clear side" src="/media/images/profile-portrait-1.jpg" width="" height="">
 	<div class="txt">
 		<h2>Auto-Biografia</h2>
 		<p>Designer gráfico e programador web residente em Londres no Reino Unido, original do <a href="//vimeo.com/21698583" target="_blank">Porto em Portugal</a>. O meu trabalho reflecte muito da minha personalidade: simples, organisado, objectivo e subtil.</p>
@@ -25,7 +25,7 @@
 		<p>Trabalho por conta própria desde 2009. Comecei por desenvolver websites para amigos como uma forma de aprender programação, mas mais tarde isto tornou-se numa paixão. Hoje não consigo <i>apenas</i> desenhar a parte visual.</p>
 		<p>Os meus primeiros passos foram dados na companhia do <a href="//twitter.com/plaintiago" target="_blank">Tiago Alves</a>, estudante de medicina, antigo amigo, e semelhante apaixonado por desenvolvimento. Durante o tempo que trabalhamos juntos reunimos outros afeiçoados às equipas que gostamos de chamar <a href="//savantstudio.co.uk/" target="_blank">Savant</a> e <a href="//iterar.co/" target="_blank">Iterar</a>.</p>
 	</div>
-	<img class="both" src="//test.media.nunocoelhosantos.com/images/profile-csm.jpg" width="" height="">
+	<img class="both" src="/media/images/profile-csm.jpg" width="" height="">
 
 	<div class="clear txt">
 		<h2>Selecção de Clientes</h2>

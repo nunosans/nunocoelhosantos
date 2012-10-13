@@ -1,0 +1,21 @@
+/* Three Columns */
+@media only screen and (max-width: 1192px) {
+  body > * {width: 784px;}
+  #header, .project, .project-nav {width: 752px;}
+  .featured > div > * {padding-right: 512px;}
+  .work {width: 768px;}
+  .txt.grid1  {width: 112px;}
+  .txt.grid4  {width: 368px;}
+  .txt.col5,
+  .txt.col4 {
+    width: 752px;
+    column-count: 3;
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    -o-column-count: 3;
+    }
+  .project .full {width: 752px;}
+  .project .side,
+  .project .site-plan,
+  .project .both {width: 496px;}
+}

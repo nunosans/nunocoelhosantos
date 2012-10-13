@@ -14,9 +14,9 @@
 </div>
 
 <div class="project" id="index-7">
-  
+
   <img class="clear side" width="1008" height="673"
-    src="//test.media.nunocoelhosantos.com/images/index-7-flyers.jpg">
+    src="/media/images/index-7-flyers.jpg">
   <div class="txt col1">
     <h2>Index 7</h2>
     <h6>Identity</h6>
@@ -30,11 +30,11 @@
       Vitae sodales orci euismod sapien nonummy enim, varius eros ac.
     </p>
   </div>
-  
-  <img class="full" width="1264" height="400"
-    src="//test.media.nunocoelhosantos.com/images/index-7-logo-variations.png">
 
-  <div class="clear txt"> 
+  <img class="full" width="1264" height="400"
+    src="/media/images/index-7-logo-variations.png">
+
+  <div class="clear txt">
     <p>Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla
       magna donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper
       elit mi urna, duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc.
@@ -46,8 +46,8 @@
     </p>
   </div>
   <img class="side" width="1008" height="1110"
-    src="//test.media.nunocoelhosantos.com/images/index-7-logo-iterations.png">
-  
+    src="/media/images/index-7-logo-iterations.png">
+
 </div>
 
 <? require_once('../../footer.inc.php'); ?>

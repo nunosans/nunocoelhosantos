@@ -14,9 +14,9 @@
 </div>
 
 <div class="project" id="caroline-pera">
-  
+
   <img class="clear side" width="1008" height="917"
-    src="//test.media.nunocoelhosantos.com/images/caroline-pera-screen.png">
+    src="/media/images/caroline-pera-screen.png">
 
 </div>
 

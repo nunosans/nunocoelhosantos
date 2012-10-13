@@ -14,10 +14,10 @@
 </div>
 
 <div class="project" id="stethoscore">
-  
+
   <img class="full" width="1264" height="680"
-  	 src="//test.media.nunocoelhosantos.com/images/stethoscore-main.jpg">
-  
+  	 src="/media/images/stethoscore-main.jpg">
+
 </div>
 
 <? require_once('../../footer.inc.php'); ?>

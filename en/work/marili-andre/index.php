@@ -8,16 +8,16 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../stethoscore/">Previous</a> &thinsp;/&thinsp; 
+    <a href="../stethoscore/">Previous</a> &thinsp;/&thinsp;
     <a href="../ailara-berdyyeva/">Next</a>
   </span>
 </div>
 
 <div class="project" id="marili-andre">
-  
+
   <img class="clear side" width="1008" height="917"
-    src="//test.media.nunocoelhosantos.com/images/marili-andre-screen.png">
-  
+    src="/media/images/marili-andre-screen.png">
+
 </div>
 
 <? require_once('../../footer.inc.php'); ?>

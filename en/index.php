@@ -10,7 +10,7 @@
 <div class="featured">
   <a href="./work/vania-coelho-santos/">
     <img width="2000" height="1100"
-      src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-slide.jpg"
+      src="/media/images/vania-coelho-santos-slide.jpg"
       alt="A computer generated image displaying the website for Vânia
       Coelho Santos on a desktop screen, a tablet and a mobile phone">
   </a>
@@ -37,7 +37,7 @@
     </h4>
     <a href="./work/sony-vaio/">
       <img width="480" height="280"
-       src="//test.media.nunocoelhosantos.com/images/sony-vaio-card.png"
+       src="/media/images/sony-vaio-card.png"
        alt="Photograph of the Sony Vaio’s CMS user interface">
     </a>
     <p>Front-end development of Sony Vaio’s news content management system</p>
@@ -48,7 +48,7 @@
     </h4>
     <a href="./work/stylize-d/">
       <img width="480" height="280"
-       src="//test.media.nunocoelhosantos.com/images/stylize-d-card.png"
+       src="/media/images/stylize-d-card.png"
        alt="Detail of an application of the Stylize/d identity">
     </a>
     <p>Identity and web design for the independent fashion blog</p>
@@ -59,7 +59,7 @@
     </h4>
     <a href="./work/kent-and-curwen/">
       <img width="480" height="280"
-       src="//test.media.nunocoelhosantos.com/images/kent-and-curwen-card.png"
+       src="/media/images/kent-and-curwen-card.png"
        alt="Photograph of the Kent &amp; Curwen website seen from an iPad">
     </a>
     <p>Development of the Kent &amp; Curwen website</p>
@@ -69,7 +69,7 @@
       <a href="./work/google-doubleclick/">Google DoubleClick</a>
     </h4>
     <a href="./work/google-doubleclick/">
-      <img src="//test.media.nunocoelhosantos.com/images/google-doubleclick-card.png"
+      <img src="/media/images/google-doubleclick-card.png"
        alt="" width="480" height="280">
     </a>
     <p>Front-end development for the Rich Media Gallery mobile site</p>
@@ -79,7 +79,7 @@
       <a href="./work/keepon/">Keepon</a>
     </h4>
     <a href="./work/keepon/">
-      <img src="//test.media.nunocoelhosantos.com/images/keepon-card.png"
+      <img src="/media/images/keepon-card.png"
        alt="App icon of the Keepon app for iOS" width="480" height="280">
     </a>
     <p>Design, Architecture and experience of the third-party Kickoff client for iOS</p>
@@ -89,7 +89,7 @@
       <a href="./work/hash-todo/">#todo</a>
     </h4>
     <a href="./work/hash-todo/">
-      <img src="//test.media.nunocoelhosantos.com/images/hash-todo-card.jpg"
+      <img src="/media/images/hash-todo-card.jpg"
         alt="A computer generated image of an iPhone with the #todo app interface on
         the display" width="480" height="280">
     </a>
@@ -100,7 +100,7 @@
       <a href="./work/norman-hartnell/">Norman Hartnell</a>
     </h4>
     <a href="./work/norman-hartnell/">
-      <img src="//test.media.nunocoelhosantos.com/images/norman-hartnell-card.png"
+      <img src="/media/images/norman-hartnell-card.png"
         alt="A picture of the Norman Hartnell logo" width="480" height="280">
     </a>
     <p>Development of HM The Queen's dressmaker revival brand website</p>
@@ -110,7 +110,7 @@
       <a href="./work/paul-cocksedge-shop/">Paul Cocksedge Shop</a>
     </h4>
     <a href="./work/paul-cocksedge-shop/">
-      <img src="//test.media.nunocoelhosantos.com/images/paul-cocksedge-shop-card.jpg"
+      <img src="/media/images/paul-cocksedge-shop-card.jpg"
         alt="A photograph of the black Bookmark by Paul Cocksedge Studio"
         width="480" height="280">
     </a>
@@ -121,7 +121,7 @@
       <a href="./work/vania-coelho-santos/">Vânia Coelho Santos</a>
     </h4>
     <a href="./work/vania-coelho-santos/">
-      <img src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-card.jpg"
+      <img src="/media/images/vania-coelho-santos-card.jpg"
         alt="One of the computer generated images representing one Vânia Coelho Santos
         architectural concepts" width="480" height="280">
     </a>
@@ -132,7 +132,7 @@
       <a href="./work/ava-mirabelle/">Ava Mirabelle</a>
     </h4>
     <a href="./work/ava-mirabelle/">
-      <img src="//test.media.nunocoelhosantos.com/images/ava-mirabelle-card.png"
+      <img src="/media/images/ava-mirabelle-card.png"
         alt="A picture of the Ava Mirabelle Logo"
         width="480" height="280">
     </a>
@@ -146,7 +146,7 @@
       <a href="./work/expresso-viagens/">Expresso Viagens</a>
     </h4>
     <a href="./work/expresso-viagens/">
-      <img src="//test.media.nunocoelhosantos.com/images/expresso-viagens-card.png"
+      <img src="/media/images/expresso-viagens-card.png"
         alt="Fraction of one of the illustrations made for the Expresso Viagens rebrand"
         width="480" height="280">
     </a>
@@ -158,7 +158,7 @@
       <a href="./work/index-7/">Index 7</a>
     </h4>
     <a href="./work/index-7/">
-      <img src="//test.media.nunocoelhosantos.com/images/index-7-card.jpg"
+      <img src="/media/images/index-7-card.jpg"
         alt="Image with the Index 7 show logo placed on top of a photograph by Myka Baum"
         width="480" height="280">
     </a>
@@ -169,7 +169,7 @@
       <a href="./work/protein-journal/">Protein&reg; Journal</a>
     </h4>
     <a href="./work/protein-journal/">
-      <img src="//test.media.nunocoelhosantos.com/images/protein-journal-card.jpg"
+      <img src="/media/images/protein-journal-card.jpg"
         alt="Fraction of the cover for the Protein Journal Issue 3"
         width="480" height="280">
     </a>
@@ -180,7 +180,7 @@
       <a href="./work/shooting-people/">Shooting People</a>
     </h4>
     <a href="./work/shooting-people/">
-      <img src="//test.media.nunocoelhosantos.com/images/shooting-people-card.jpg"
+      <img src="/media/images/shooting-people-card.jpg"
         alt="Photograph of the buinsess cards designed for Shooting People"
         width="480" height="280">
     </a>
@@ -191,7 +191,7 @@
       <a href="./work/lilias-buchanan/">Lilias Buchanan</a>
     </h4>
     <a href="./work/lilias-buchanan/">
-      <img src="//test.media.nunocoelhosantos.com/images/lilias-buchanan-card.jpg"
+      <img src="/media/images/lilias-buchanan-card.jpg"
         alt="Fraction of one of the illustrations from the series ‘The Death of Ivan
         Illych’ by Lilias Buchanan"
         width="480" height="280">
@@ -203,7 +203,7 @@
       <a href="./work/jo-phipps/">Jo Phipps</a>
     </h4>
     <a href="./work/jo-phipps/">
-      <img src="//test.media.nunocoelhosantos.com/images/jo-phipps-card.jpg"
+      <img src="/media/images/jo-phipps-card.jpg"
         alt="Fraction of ‘Joseph’ by Jo Phipps" width="480" height="280">
     </a>
     <p>Design &amp; Development of the artist online portfolio</p>
@@ -213,7 +213,7 @@
       <a href="./work/iterar/">Iterar</a>
     </h4>
     <a href="./work/iterar/">
-      <img src="//test.media.nunocoelhosantos.com/images/iterar-card.png"
+      <img src="/media/images/iterar-card.png"
         alt="Iterar Logo" width="480" height="280">
     </a>
     <p>Identity for the start up portuguese tech company</p>
@@ -223,7 +223,7 @@
       <a href="./work/nostalgics/">Nostalgics</a>
     </h4>
     <a href="./work/nostalgics/">
-      <img src="//test.media.nunocoelhosantos.com/images/nostalgics-card.jpg"
+      <img src="/media/images/nostalgics-card.jpg"
         alt="Close up photograph of the  engraved musical notes in the Musical Glass
         by Nostalgics" width="480" height="280">
     </a>
@@ -234,7 +234,7 @@
       <a href="./work/stethoscore/">Stethoscore</a>
     </h4>
     <a href="./work/stethoscore/">
-      <img src="//test.media.nunocoelhosantos.com/images/stethoscore-card.jpg"
+      <img src="/media/images/stethoscore-card.jpg"
         alt="Image of the Stethoscore Application running on an iPhone 4"
         width="480" height="280">
     </a>
@@ -248,7 +248,7 @@
       <a href="./work/marili-andre/">Marili André</a>
     </h4>
     <a href="./work/marili-andre/">
-      <img src="//test.media.nunocoelhosantos.com/images/marili-andre-card.jpg"
+      <img src="/media/images/marili-andre-card.jpg"
         alt="Frame of one of Marili André videos overlayed by the logo"
         width="480" height="280">
     </a>
@@ -259,7 +259,7 @@
       <a href="./work/ailara-bardyyeva/">Ailara Berdyyeva</a>
     </h4>
     <a href="./work/ailara-bardyyeva/">
-      <img src="//test.media.nunocoelhosantos.com/images/ailara-berdyyeva-card.jpg"
+      <img src="/media/images/ailara-berdyyeva-card.jpg"
         alt="Photo of the ‘Inside/Outsie’ bag by Ailara Berdyyeva"
         width="480" height="280">
     </a>
@@ -270,7 +270,7 @@
       <a href="./work/caroline-pera/">Caroline Pera</a>
     </h4>
     <a href="./work/caroline-pera/">
-      <img src="//test.media.nunocoelhosantos.com/images/caroline-pera-card.jpg"
+      <img src="/media/images/caroline-pera-card.jpg"
         alt="Photo of one of Caroline Pera’s jewellery pieces"
         width="480" height="280">
     </a>
@@ -281,7 +281,7 @@
       <a href="./work/savant/">Savant</a>
     </h4>
     <a href="./work/savant/">
-      <img src="//test.media.nunocoelhosantos.com/images/savant-card.png"
+      <img src="/media/images/savant-card.png"
         alt="Savant Studio logo" width="480" height="280">
     </a>
     <p>Identity, print and website for the collaborative interactive design studio</p>
@@ -291,7 +291,7 @@
       <a href="./work/ana-barreira/">Ana Barreira</a>
     </h4>
     <a href="./work/ana-barreira/">
-      <img src="//test.media.nunocoelhosantos.com/images/ana-barreira-card.jpg"
+      <img src="/media/images/ana-barreira-card.jpg"
         alt="Fraction of one of Ana Barreira’s photos overlayed by her logo"
         width="480" height="280">
     </a>
@@ -305,7 +305,7 @@
       <a href="./work/miti-ruangkritya/">Miti Ruangkritya</a>
     </h4>
     <a href="./work/miti-ruangkritya/">
-      <img src="//test.media.nunocoelhosantos.com/images/miti-ruangkritya-card.jpg"
+      <img src="/media/images/miti-ruangkritya-card.jpg"
         alt="Fraction of ‘Bangkok Protest’ by Miti Ruangkritya"
         width="480" height="280">
     </a>
@@ -316,7 +316,7 @@
       <a href="./work/sophie-westerlind/">Sophie Westerlind</a>
     </h4>
     <a href="./work/sophie-westerlind/">
-      <img src="//test.media.nunocoelhosantos.com/images/sophie-westerlind-card.png"
+      <img src="/media/images/sophie-westerlind-card.png"
         alt="Fraction of one of Sophie Westerlind’s illustrations"
         width="480" height="280">
     </a>
@@ -327,7 +327,7 @@
       <a href="./work/fractures-from-anxiety/">Fractures from Anxiety</a>
     </h4>
     <a href="./work/fractures-from-anxiety/">
-      <img src="//test.media.nunocoelhosantos.com/images/fractures-from-anxiety-card.jpg"
+      <img src="/media/images/fractures-from-anxiety-card.jpg"
         alt="Detail of the cover for ‘Fractures from Anxiety’ designed by
         Nuno Coelho Santos" width="480" height="280">
     </a>

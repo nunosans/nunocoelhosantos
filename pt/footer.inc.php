@@ -113,6 +113,6 @@
       © 2008&thinsp;—&thinsp;<?php date_default_timezone_set('Europe/London'); echo date("Y") ?> Nuno Coelho Santos &thinsp;/&thinsp;
       <a id="columns-on">Ver Colunas</a><a id="columns-off">Esconder Colunas</a>
     </span>
-    <script src="//mint.nunocoelhosantos.com/?js"></script>
+    <!-- <script src="//mint.nunocoelhosantos.com/?js"></script> -->
   </body>
 </html>

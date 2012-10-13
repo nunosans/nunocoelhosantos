@@ -7,8 +7,8 @@
 </div>
 
 <div class="project" id="ava-mirabelle">
-	
-	<img class="clear side" src="//test.media.nunocoelhosantos.com/images/caroline-pera-screen.png" width="1008" height="917">
+
+	<img class="clear side" src="/media/images/caroline-pera-screen.png" width="1008" height="917">
 
 </div>
 

@@ -102,7 +102,7 @@
           and on Skype as <a href="skype:nunocoelhosantos?userinfo">nunocoelhosantos</a>
         </p>
       </div>
-        
+
       <div class="txt grid1">
         <h4>Also on</h4>
         <ul>
@@ -120,6 +120,6 @@
       echo date("Y") ?> Nuno Coelho Santos &thinsp;/&thinsp;
       <a id="columns-on">Show Columns</a><a id="columns-off">Hide Columns</a>
     </span>
-    <script src="//mint.nunocoelhosantos.com/?js"></script>
+    <!-- <script src="//mint.nunocoelhosantos.com/?js"></script> -->
   </body>
 </html>

@@ -16,13 +16,13 @@
 <div class="project" id="keepon">
 
   <img class="full" width="1700" height="1100"
-    src="//test.media.nunocoelhosantos.com/images/keepon-wireframe-a.png">
+    src="/media/images/keepon-wireframe-a.png">
 
   <img class="full" width="1700" height="1100"
-    src="//test.media.nunocoelhosantos.com/images/keepon-wireframe-b.png">
+    src="/media/images/keepon-wireframe-b.png">
 
   <img class="full" width="1700" height="1100"
-    src="//test.media.nunocoelhosantos.com/images/keepon-wireframe-c.png">
+    src="/media/images/keepon-wireframe-c.png">
 
 </div>
 

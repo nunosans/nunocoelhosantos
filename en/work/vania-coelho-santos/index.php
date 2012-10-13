@@ -8,19 +8,19 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../paul-cocksedge-shop/">Previous</a> &thinsp;/&thinsp; 
+    <a href="../paul-cocksedge-shop/">Previous</a> &thinsp;/&thinsp;
     <a href="../ava-mirabelle/">Next</a></span>
 </div>
 
 <div class="project" id="vania-coelho-santos">
-  
-  <img class="full" width="1264" height="732"
-    src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-screen-set.jpg">
-  
-  <img class="clear side no-margin" width="1008" height="580"
-    src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-vienna-house-of-music.jpg">
 
-  <div class="txt"> 
+  <img class="full" width="1264" height="732"
+    src="/media/images/vania-coelho-santos-screen-set.jpg">
+
+  <img class="clear side no-margin" width="1008" height="580"
+    src="/media/images/vania-coelho-santos-vienna-house-of-music.jpg">
+
+  <div class="txt">
     <h2>Vânia Coelho Santos</h2>
     <h6>Web Design & Development</h6>
     <p>Design and development of my sister’s <a href="//vaniacoelhosantos.com" target="_blank">
@@ -35,11 +35,11 @@
         mostInspired</a> and <a href="//ffffound.com/image/8a941e818eeb38a6ac7bc417983bd765b5e0b510">
         FFFOUND!</a>.
     </p>
-    <p>Built using <a href="//www.adobe.com/uk/products/photoshop.html" target="_blank">Adobe Photoshop</a>, 
-      <a href="//www.adobe.com/uk/products/illustrator.html" target="_blank">Adobe Illustrator</a>, 
+    <p>Built using <a href="//www.adobe.com/uk/products/photoshop.html" target="_blank">Adobe Photoshop</a>,
+      <a href="//www.adobe.com/uk/products/illustrator.html" target="_blank">Adobe Illustrator</a>,
       <a href="//typekit.com/" target="_blank">Adobe Typekit</a>, <a href="//www.sublimetext.com/"
-      target="_blank">Sublime Text 2</a>, <a href="//en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>, 
-      <a href="//en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>, 
+      target="_blank">Sublime Text 2</a>, <a href="//en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>,
+      <a href="//en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>,
       <a href="//en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a>, <a href="//jquery.com/"
       target="_blank">jQuery</a>, <a href="//php.net/" target="_blank">PHP</a> and <a href="//git-scm.com/"
       target="_blank">Git</a>.
@@ -50,10 +50,10 @@
   </div>
 
   <img class="clear side" width="1008" height="580"
-    src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-vila-nova-de-gaia-public-library.jpg">
-  
+    src="/media/images/vania-coelho-santos-vila-nova-de-gaia-public-library.jpg">
+
   <img class="site-plan" width="1440" height="9947"
-    src="//test.media.nunocoelhosantos.com/images/vania-coelho-santos-website-plan.jpg">
+    src="/media/images/vania-coelho-santos-website-plan.jpg">
 
 </div>
 
