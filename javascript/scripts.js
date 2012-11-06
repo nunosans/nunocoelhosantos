@@ -14,8 +14,8 @@ function resizeFeaturedProject() {
   var container = $('.featured');
   var containerHeight = windowHeight - margin;
   var containerWidth = $('.featured').width();
-  var image = $('.featured img');
-  var imageRatio = 0.55;
+  var image = container.find('img, video');
+  var imageRatio = 0.5;
 
   image.css('position', 'relative');
 
@@ -67,9 +67,6 @@ try{Typekit.load();}catch(e){};
 
 $(document).ready(function() {
 
-  // Get elements ready to fade-in.
-  $('.project, #info, #copyright, img, .featured div').fadeTo(0, 0);
-
   resizeFeaturedProject();
   gridToggles();
 
@@ -82,7 +79,7 @@ $(document).ready(function() {
 
   // Hover effects.
   $('.work div a img').after('<span class="cover"></span>');
-  $('.cover').fadeTo(0, 0.0);
+  $('.cover').fadeTo(0, 0);
   $('.work div a').hover(
     function(){
       $(this).children('.cover').stop(true, false).fadeTo(0, 0.7);
@@ -99,18 +96,11 @@ $(document).ready(function() {
     resizeFeaturedProject();
   });
 
-  // Get elements ready to fade-in
-  // $("img, .featured div, .project, #info, #copyright").fadeTo(0, 0);
 });
 
 
 $(window).load(function() {
-  // Remove spinners
-  $("body").css("background-image", "none");
-  $(".featured").css("background-image", "none");
-  // Fade elements in
-  $(".work div img, .featured div, img, .project, #info, #copyright").fadeTo(500, 1);
-  $(".work .dev img").fadeTo(250, 0.33);
+  $('body').addClass('ready');
 
   // Make the bar of the featured project clickable
   $('.featured > div > *').click(function() {

@@ -1,0 +1,122 @@
+// Project List
+h3 {
+  color: $shade-2;
+  display: inline-block;
+  float: left;
+  clear: both;
+  width: 207px;
+  height: 140px;
+  text-align: right;
+  pointer-events: none;
+  padding: 0 16px;
+  margin: 0 8px 100px -248px;
+  border-right: 1px solid $shade-3;
+  line-height: 10px;
+}
+#portfolio {
+  padding-top: 40px;
+}
+.work {
+  width: 768px;
+  margin: 0 auto 20px;
+  padding: 0px 60px;
+  overflow: hidden;
+  -webkit-transition-property: width;
+     -moz-transition-property: width;
+       -o-transition-property: width;
+          transition-property: width;
+  -webkit-transition-duration: 0.3s;
+     -moz-transition-duration: 0.3s;
+       -o-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+  div {
+    float: left;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    width: 256px;
+    height: 240px;
+    h4 {
+      color: $shade-1;
+      padding: 150px 8px 0px;
+      display: inline-block;
+      width: 240px;
+      float: left;
+      clear: left;
+      a {
+        color: $shade-1;
+        display: inline-block;
+        width: 240px;
+        border: none;
+        -webkit-transition-property: color;
+           -moz-transition-property: color;
+             -o-transition-property: color;
+                transition-property: color;
+        -webkit-transition-duration: 1.2s;
+           -moz-transition-duration: 1.2s;
+             -o-transition-duration: 1.2s;
+                transition-duration: 1.2s;
+      }
+      a.active {
+        color: $key-color;
+        -webkit-transition-duration: 0.0s;
+           -moz-transition-duration: 0.0s;
+             -o-transition-duration: 0.0s;
+                transition-duration: 0.0s;
+      }
+    }
+    > a {
+      display: inline;
+    }
+    img,
+    .cover {
+      position: absolute;
+      left: 0;
+      top: 0;
+      display: block;
+      width: 240px;
+      height: 140px;
+      background: transparent;
+    }
+    img {
+      padding: 0px 8px 80px;
+      z-index: 0;
+    }
+    .cover {
+      margin: 0px 8px 80px 8px;
+      pointer-events: none;
+      background-color: $key-color;
+      z-index: 1;
+      box-shadow: 0 1px 3px rgba(0,0,0,.2);
+    }
+    p {
+      color: $shade-2;
+      padding: 0 8px;
+      width: 240px;
+      float: left;
+    }
+  }
+  div.dev h4:after,
+  div.new h4:after {
+    position: absolute;
+    top: 151px;
+    right: 8px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-size: 9px;
+    letter-spacing: 1.3px;
+    color: white;
+    padding: 0 4px;
+    line-height: 14px;
+    z-index: 1;
+  }
+  div.dev h4:after {
+    content: "Coming Soon";
+    background-color: #CCC;
+    background-color: rgba(0,0,0,0.25);
+  }
+  div.new h4:after {
+    content: "New";
+    background-color: $key-color;
+  }
+}

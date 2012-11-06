@@ -1,0 +1,34 @@
+// Copyright
+#copyright {
+  display: block;
+  padding-left: 32px;
+  margin-bottom: 40px;
+  color: $shade-2;
+  clear: both;
+  opacity: 0;
+  -webkit-transition-property: opacity;
+     -moz-transition-property: opacity;
+       -o-transition-property: opacity;
+          transition-property: opacity;
+  -webkit-transition-duration: 1.2s;
+     -moz-transition-duration: 1.2s;
+       -o-transition-duration: 1.2s;
+          transition-duration: 1.2s;
+  a,
+  a:link,
+  a:visited {
+    color: $shade-2;
+    border-bottom: none;
+  }
+  a:hover,
+  a:active,
+  a:focus  {
+    color: $key-color;
+  }
+}
+
+body.ready {
+  #copyright {
+    opacity: 1;
+  }
+}

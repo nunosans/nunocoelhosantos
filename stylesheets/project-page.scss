@@ -1,0 +1,97 @@
+// Project Nav
+.project-nav {
+  width: 1008px;
+  border-top: 1px solid $shade-3;
+  border-bottom: 1px solid $shade-3;
+  height: 45px;
+  margin: 26px auto 60px;
+  padding: 7px 0 5px;
+  clear: both;
+  -webkit-transition-property: width;
+     -moz-transition-property: width;
+       -o-transition-property: width;
+          transition-property: width;
+  -webkit-transition-duration: 0.3s;
+     -moz-transition-duration: 0.3s;
+       -o-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+  > * {
+    display: block;
+    width: 240px;
+    color: $shade-2;
+  }
+  > h2 {
+    float: left;
+    color: #444;
+  }
+  > span {
+    float: right;
+    clear: right;
+  }
+}
+
+// Project Setup
+.project {
+  clear:both;
+  opacity: 0;
+  overflow: visible;
+  -webkit-transition-property: opacity;
+     -moz-transition-property: opacity;
+       -o-transition-property: opacity;
+          transition-property: opacity;
+  -webkit-transition-duration: 1.2s;
+     -moz-transition-duration: 1.2s;
+       -o-transition-duration: 1.2s;
+          transition-duration: 1.2s;
+  img {
+  -webkit-transition-property: width;
+     -moz-transition-property: width;
+       -o-transition-property: width;
+          transition-property: width;
+    -webkit-transition-duration: 0.3s;
+       -moz-transition-duration: 0.3s;
+         -o-transition-duration: 0.3s;
+            transition-duration: 0.3s;
+  }
+  h2 {
+    color: $shade-1;
+    display: block;
+    width: 100%;
+  }
+  h6 {
+    font-style: italic;
+    color: $shade-2;
+    border-bottom: 1px solid $shade-3;
+    padding-bottom: 12px;
+    margin-bottom: 9px;
+  }
+  p + p {
+    padding-top: 9px;
+  }
+}
+.project#profile h2 {
+  margin-bottom: 9px;
+}
+
+.site-plan {
+  float: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #CCC;
+  -webkit-border-radius: 7px;
+     -moz-border-radius: 7px;
+       -o-border-radius: 7px;
+          border-radius: 7px;
+  -webkit-box-shadow: 0 10px 25px rgba(0, 0, 0, .3);
+     -moz-box-shadow: 0 10px 25px rgba(0, 0, 0, .3);
+       -o-box-shadow: 0 10px 25px rgba(0, 0, 0, .3);
+          box-shadow: 0 10px 25px #CCC;
+          box-shadow: 0 10px 25px rgba(0, 0, 0, .3);
+}
+
+body.ready {
+  .project {
+    opacity: 1;
+  }
+}

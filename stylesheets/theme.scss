@@ -1,0 +1,269 @@
+// Theme
+body {
+  background-color: #FAFAFA;
+  color: $shade-2;
+  /* Add a spinner (to be removed with JS) */
+  background-image: url(/media/graphics/spinner-light.gif);
+  background-size: 30px;
+  background-position: 50% 300px;
+  background-repeat: no-repeat;
+  /* Center the body"s direct children on the page */
+  > * {
+    margin: 0 auto 90px;
+  }
+  /* Make these resize gracefully when the window resizes */
+  > * {
+    -webkit-transition-property: width;
+       -moz-transition-property: width;
+         -o-transition-property: width;
+            transition-property: width;
+    -webkit-transition-duration: 0.3s;
+       -moz-transition-duration: 0.3s;
+         -o-transition-duration: 0.3s;
+            transition-duration: 0.3s;
+  }
+}
+
+// Links
+a,
+a:link,
+a:visited {
+  display: inline-block;
+  height: 15px;
+  /* Use text shadow to prevent underline from crossing over the type */
+  text-shadow: 1px 1px 0 #FAFAFA,
+         0   1px 0 #FAFAFA,
+        -1px 1px 0 #FAFAFA,
+         2px 1px 0 #FAFAFA,
+         0   1px 0 #FAFAFA,
+        -2px 1px 0 #FAFAFA;
+  text-decoration: none;
+  border-bottom-width: 1px;
+  border-bottom-style: dotted;
+  border-bottom-color: $shade-2;
+  color: inherit;
+  outline: none;
+  -webkit-transition-property: color, border-bottom-color;
+     -moz-transition-property: color, border-bottom-color;
+       -o-transition-property: color, border-bottom-color;
+          transition-property: color, border-bottom-color;
+  -webkit-transition-duration: 1.2s;
+     -moz-transition-duration: 1.2s;
+       -o-transition-duration: 1.2s;
+          transition-duration: 1.2s;
+}
+
+/* Hack to fix link height on Firefox */
+@-moz-document url-prefix() {
+  a,
+  a:link,
+  a:visited,
+  a:hover,
+  a:active,
+  a:focus {
+    height: 16px;
+  }
+}
+
+a:hover,
+a:active,
+a:focus {
+  border-bottom-width: 1px;
+  border-bottom-style: dotted;
+  border-bottom-color: $key-color;
+  color: $key-color;
+  -webkit-transition-duration: 0.0s;
+     -moz-transition-duration: 0.0s;
+       -o-transition-duration: 0.0s;
+          transition-duration: 0.0s;
+}
+
+/* Disable clicking on the phone number when on a desktop */
+a.tel {
+  pointer-events: none;
+  border: none;
+}
+
+// Images and videos
+/* Keep images propotional */
+img {
+  width: auto;
+  height: auto;
+}
+img,
+video {
+  display: inline-block;
+  float: left;
+  background-color: #FAFAFA;
+  opacity: 0;
+  -webkit-transition-duration: 1.2s;
+     -moz-transition-duration: 1.2s;
+       -o-transition-duration: 1.2s;
+          transition-duration: 1.2s;
+}
+img {
+  -webkit-transition-property: opacity, width;
+     -moz-transition-property: opacity, width;
+       -o-transition-property: opacity, width;
+          transition-property: opacity, width;
+}
+video {
+  -webkit-transition-property: opacity;
+     -moz-transition-property: opacity;
+       -o-transition-property: opacity;
+          transition-property: opacity;
+}
+body.ready {
+  img,
+  video {
+    opacity: 1;
+  }
+}
+
+/* Let"s customise the browser"s selection color... */
+::selection {
+  background-color: $key-color;
+  background-color: rgba(255, 21, 0, 0.2);
+  text-shadow: none;
+  }
+/* ...but hide it for some elements */
+html::selection,
+body::selection,
+div::selection,
+.slider::selection,
+.slider::selection li,
+.slider::selection li img,
+.slider::selection li div,
+.slider::selection
+.flex-control-nav::selection,
+.work h4::selection,
+.work h4 a::selection,
+.work p::selection {
+  background-color: transparent;
+  text-shadow: none;
+}
+
+ul.inline {
+  li {
+    display: inline;
+  }
+  li:after {
+    content: ",";
+  }
+  li:last-child:after {
+    content: ".";
+  }
+}
+
+/* Forms */
+input[type="email"] {
+  font-family: franklin-gothic-urw-1,
+         franklin-gothic-urw-2,
+         "Helvetica Neue",
+         Helvetica,
+         Arial,
+         sans-serif;
+  font-size: 14px;
+  color: $shade-1;
+  width: 239px;
+  height: 31px;
+  margin-top: 8px;
+  padding: 0 8px;
+  display: inline-block;
+  float: left;
+  /* Remove Firefox dotted outline */
+  outline: none;
+  /* Standard box color and no glow */
+  border: 1px solid #E6E6E6;
+  border-top: 1px solid #CCC;
+  border-right: none;
+  border-radius: none;
+  box-shadow: 0 0 0 rgba(0,0,0,0.0);
+  -webkit-transition-property: box-shadow, border-color;
+     -moz-transition-property: box-shadow, border-color;
+       -o-transition-property: box-shadow, border-color;
+          transition-property: box-shadow, border-color;
+  -webkit-transition-duration: 1.2s;
+     -moz-transition-duration: 1.2s;
+       -o-transition-duration: 1.2s;
+          transition-duration: 1.2s;
+  /* Override iOS input styles */
+  -webkit-appearance: none;
+  -webkit-border-radius: 0px;
+}
+input[type="email"]:active,
+input[type="email"]:focus {
+  /* Animate box color and make it glow */
+  border: 1px solid $key-color;
+  border-right: none;
+  box-shadow: 0 0 6px rgba(255,33,0,0.75);
+  -webkit-transition-property: box-shadow, border-color;
+     -moz-transition-property: box-shadow, border-color;
+       -o-transition-property: box-shadow, border-color;
+          transition-property: box-shadow, border-color;
+  -webkit-transition-duration: 0.15s;
+     -moz-transition-duration: 0.15s;
+       -o-transition-duration: 0.15s;
+          transition-duration: 0.15s;
+}
+/* Hide placeholder text when the email box is active... */
+input[type="email"]:active::-webkit-input-placeholder,
+input[type="email"]:focus::-webkit-input-placeholder {
+  color: transparent;
+}
+/* ...and display it in a nice shade of grey when not. */
+input::-webkit-input-placeholder {
+  color: $shade-2;
+}
+::-webkit-input-placeholder {
+  color: $shade-2;
+}
+:-moz-placeholder {
+  color: $shade-2;
+}
+
+input[type="submit"] {
+  font-family: franklin-gothic-urw-1, franklin-gothic-urw-2,
+    "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: white;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
+  width: 70px;
+  height: 33px;
+  margin-top: 8px;
+  padding: 0 8px;
+  display: inline-block;
+  float: left;
+  background-color: #BBB;
+  border: 1px solid #BBB;
+  border-bottom: 1px solid #999;
+  box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.2) inset;
+  border-radius: none;
+  /* Animate button color */
+  -webkit-transition-property: background-color, border-color;
+     -moz-transition-property: background-color, border-color;
+       -o-transition-property: background-color, border-color;
+          transition-property: background-color, border-color;
+  -webkit-transition-duration: 1.2s;
+     -moz-transition-duration: 1.2s;
+       -o-transition-duration: 1.2s;
+          transition-duration: 1.2s;
+  /* Override iOS input styles */
+  -webkit-appearance: none;
+  -webkit-border-radius: 0px;
+}
+input[type="submit"]:hover,
+input[type="submit"]:focus {
+  background-color: #999;
+  border: 1px solid #999;
+  border-bottom: 1px solid #777;
+  -webkit-transition-duration: 0.15s;
+     -moz-transition-duration: 0.15s;
+       -o-transition-duration: 0.15s;
+          transition-duration: 0.15s;
+  cursor: pointer;
+}
+
+body.ready {
+  background-image: none;
+}

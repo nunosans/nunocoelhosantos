@@ -1,6 +1,6 @@
 <?
-  $title='Sony Vaio';
-  $description='Front-end development of Sony Vaio’s news content management system';
+  $title='Sony VAIO Message Center';
+  $description='Front-end development of Sony VAIO’s news content management system';
   require_once('../../header.inc.php');
 ?>
 

@@ -1,0 +1,51 @@
+// Images Grid System
+.full,
+.side,
+.both {
+  height: auto;
+  margin-bottom: 60px;
+}
+.side,
+.both {
+  margin-left: 16px;
+}
+
+
+.full {
+  width: 1264px;
+}
+.side {
+  width: 1008px;
+}
+.both {
+  width:  752px;
+}
+
+.right {
+  float: right;
+}
+.left {
+  float: left;
+}
+.clear {
+  clear: both;
+  margin-left: 0px;
+}
+
+.center {
+  float: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#special-1 {
+  /* Expresso Viagens / Align caption with display */
+  margin-top: 150px;
+}
+#special-2 {
+  margin-top: -60px;
+}
+.no-margin {
+  margin-bottom: 15px;
+}

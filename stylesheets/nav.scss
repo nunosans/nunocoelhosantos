@@ -1,0 +1,19 @@
+// Nav
+#nav {
+  float: right;
+  margin-top: 18px;
+  width: 248px;
+  li {
+    display: inline-block;
+    float:left;
+    margin-left: 6px;
+  }
+  li:after {
+    color: $shade-2;
+    content: "/";
+    margin-left: 6px;
+  }
+  li:last-child:after {
+    content: "";
+  }
+}

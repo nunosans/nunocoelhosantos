@@ -1,0 +1,60 @@
+// Info
+#info {
+  overflow: hidden;
+  padding-top: 200px;
+  margin-bottom: 15px;
+  clear: both;
+  opacity: 0;
+  -webkit-transition-property: opacity;
+     -moz-transition-property: opacity;
+       -o-transition-property: opacity;
+          transition-property: opacity;
+  -webkit-transition-duration: 1.2s;
+     -moz-transition-duration: 1.2s;
+       -o-transition-duration: 1.2s;
+          transition-duration: 1.2s;
+  .txt {
+    border-top: 1px solid $shade-3;
+    min-height: 140px;
+    padding-top: 14px;
+    margin-top: 0;
+    margin-bottom: 45px;
+    p {
+      padding-right: 60px;
+    }
+  }
+  .txt.grid1 p,
+  .txt.grid2 p {
+    padding-right: 0;
+  }
+  h4,
+  h4 a {
+    color: $shade-1;
+    border: none;
+    -webkit-transition-property: color;
+       -moz-transition-property: color;
+         -o-transition-property: color;
+            transition-property: color;
+    -webkit-transition-duration: 1.2s;
+       -moz-transition-duration: 1.2s;
+         -o-transition-duration: 1.2s;
+            transition-duration: 1.2s;
+  }
+  h4 a:hover {
+    color: $key-color;
+    -webkit-transition-duration: 0.0s;
+       -moz-transition-duration: 0.0s;
+         -o-transition-duration: 0.0s;
+            transition-duration: 0.0s;
+  }
+  p,
+  li {
+    color: $shade-2;
+  }
+}
+
+body.ready {
+  #info {
+    opacity: 1;
+  }
+}

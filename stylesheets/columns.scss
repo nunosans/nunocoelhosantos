@@ -1,0 +1,39 @@
+/* Columns */
+#columns {
+  position: fixed;
+  width: 1328px;
+  height: 100%;
+  top: 0;
+  left: 50%;
+  padding: 0;
+  margin-left: -664px;
+  display: none;
+  z-index: 10;
+  pointer-events: none;
+  * {
+    display: block;
+    float: left;
+    width: 16px;
+    height: 100%;
+    background-color: #C1272D;
+  }
+  *.thirty {
+    opacity: .3;
+  }
+  *.twenty {
+    opacity: .2;
+  }
+  *.three  {
+    opacity: .03;
+  }
+  *.zero   {
+    opacity: 0;
+  }
+}
+
+#columns-on:hover,
+#columns-off:hover,
+#baseline-on:hover,
+#baseline-off:hover {
+  cursor: pointer;
+}
