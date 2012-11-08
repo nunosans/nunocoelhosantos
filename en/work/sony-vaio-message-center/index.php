@@ -15,7 +15,23 @@
 
 <div class="project" id="sony-vaio-message-center">
 
-  <!-- Work goes here -->
+  <img class="clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-chrome-1.png">
+  <img class="half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-chrome-2.png">
+  <img class="clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-safari-1.png">
+  <img class="half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-safari-2.png">
+  <img class="clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-firefox-1.png">
+  <img class="half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-firefox-2.png">
+  <img class="clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie9-1.png">
+  <img class="half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie9-2.png">
+  <img class="clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie8-1.png">
+  <img class="half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie8-2.png">
+
+
+
+
+
+
+
 
 </div>
 

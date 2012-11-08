@@ -1,24 +1,32 @@
 // Images Grid System
 .full,
 .side,
+.half,
 .both {
   height: auto;
   margin-bottom: 60px;
 }
 .side,
+.half,
 .both {
   margin-left: 16px;
 }
 
 
 .full {
-  width: 1264px;
+  // width: 1264px;
+  width: 752px;
 }
 .side {
-  width: 1008px;
+  // width: 1008px;
+  width: 496px;
+}
+.half {
+  width: 368px;
 }
 .both {
-  width:  752px;
+  // width:  752px;
+  width: 496px;
 }
 
 .right {
