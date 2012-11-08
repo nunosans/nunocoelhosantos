@@ -55,7 +55,7 @@
   <img class="right side" width="1008" height="672" src="/media/images/stylize-d-facebook-page.jpg">
   <img class="right side" width="1008" height="672" src="/media/images/stylize-d-twitter-page.jpg">
 
-  <img class="site-plan" width="1166" height="4056" src="/media/images/stylize-d-website-plan.jpg">
+  <img class="site-plan" width="755" height="4056" src="/media/images/stylize-d-website-plan.jpg">
 
 
 </div>
