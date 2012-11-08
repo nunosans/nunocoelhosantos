@@ -487,6 +487,12 @@ body.ready .featured {
   body.ready .featured div {
     opacity: 1; }
 
+body.mobile-os .featured > a > video {
+  display: none; }
+
+body.desktop-os .featured > a > img {
+  display: none; }
+
 h3 {
   color: #777777;
   display: inline-block;

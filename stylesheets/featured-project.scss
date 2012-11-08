@@ -102,3 +102,15 @@ body.ready {
     }
   }
 }
+
+body.mobile-os {
+  .featured > a > video {
+    display: none;
+  }
+}
+
+body.desktop-os {
+  .featured > a > img {
+    display: none;
+  }
+}

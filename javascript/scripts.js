@@ -20,7 +20,7 @@ function resizeFeaturedProject() {
   image.css('position', 'relative');
 
   if (windowHeight > windowWidth || windowHeight < 240) {
-    var containerHeight = containerWidth * 0.75;
+    var containerHeight = containerWidth * 0.9;
     container.height(containerHeight);
     image.height(containerHeight);
     image.width(containerHeight / imageRatio);
@@ -90,6 +90,14 @@ $(document).ready(function() {
       $(this).siblings('h4').children('a').removeClass('active');
     }
   );
+
+  // Add mobile or desktop class.
+  if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+    $('body').addClass('mobile-os');
+  } else {
+    $('body').addClass('desktop-os');
+  };
+
 
   // Resize elements with window
   $(window).resize(function() {
