@@ -13,7 +13,7 @@
   </span>
 </div>
 
-<div class="project" id="sony-vaio">
+<div class="project" id="sony-vaio-message-center">
 
   <!-- Work goes here -->
 

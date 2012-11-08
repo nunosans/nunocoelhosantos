@@ -9,7 +9,7 @@
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
     <a href="../stylize-d/">Previous</a> &thinsp;/&thinsp;
-    <a href="../google-doubleclick/">Next</a>
+    <a href="../auria/">Next</a>
   </span>
 </div>
 

@@ -8,7 +8,7 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../sony-vaio/">Previous</a> &thinsp;/&thinsp;
+    <a href="../sony-vaio-message-center/">Previous</a> &thinsp;/&thinsp;
     <a href="../kent-and-curwen/">Next</a>
   </span>
 </div>

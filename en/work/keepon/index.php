@@ -8,7 +8,7 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../google-doubleclick/">Previous</a> &thinsp;/&thinsp;
+    <a href="../google-doubleclick-rich-media-gallery/">Previous</a> &thinsp;/&thinsp;
     <a href="../hash-todo/">Next</a>
   </span>
 </div>

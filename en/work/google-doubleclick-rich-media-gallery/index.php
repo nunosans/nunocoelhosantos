@@ -8,12 +8,12 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../kent-and-curwen/">Previous</a> &thinsp;/&thinsp;
+    <a href="../auria/">Previous</a> &thinsp;/&thinsp;
     <a href="../keepon/">Next</a>
   </span>
 </div>
 
-<div class="project" id="google-doubleclick">
+<div class="project" id="google-doubleclick-rich-media-gallery">
 
   <!-- Work goes here -->
 

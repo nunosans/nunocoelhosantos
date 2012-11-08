@@ -1,6 +1,6 @@
 <?
-  $title='Sony VAIO Message Center';
-  $description='Front-end development of Sony VAIO’s news content management system';
+  $title='Auria';
+  $description='Coming soon page for the Auria swimswear design website';
   require_once('../../header.inc.php');
 ?>
 
@@ -8,12 +8,12 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    Previous &thinsp;/&thinsp;
-    <a href="../stylize-d/">Next</a>
+    <a href="../kent-and-curwen/">Previous</a> &thinsp;/&thinsp;
+    <a href="../google-doubleclick-rich-media-gallery/">Next</a>
   </span>
 </div>
 
-<div class="project" id="sony-vaio">
+<div class="project" id="auria">
 
   <!-- Work goes here -->
 
