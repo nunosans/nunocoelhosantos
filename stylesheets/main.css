@@ -99,6 +99,7 @@ body {
   color: #777777;
   /* Add a spinner (to be removed with JS) */
   background-image: url(/media/graphics/spinner-light.gif);
+  background-size: 30px;
   background-position: 50% 300px;
   background-repeat: no-repeat;
   /* Center the body"s direct children on the page */
@@ -407,6 +408,7 @@ body#home {
   width: 100%;
   background-color: #303030;
   background-image: url(/media/graphics/spinner-dark.gif);
+  background-size: 30px;
   background-position: center;
   background-repeat: no-repeat; }
   .featured img,
@@ -445,7 +447,7 @@ body#home {
     transition-property: background-color, opacity; }
     .featured div > * {
       margin: 0 auto;
-      padding-right: 256px;
+      padding-right: 512px;
       width: 240px;
       -webkit-transition-duration: 0.3s;
       -moz-transition-duration: 0.3s;
@@ -794,6 +796,7 @@ body.ready .project {
   margin-bottom: 15px;
   clear: both;
   opacity: 0;
+  width: 784px;
   -webkit-transition-property: opacity;
   -moz-transition-property: opacity;
   -o-transition-property: opacity;
@@ -813,6 +816,8 @@ body.ready .project {
   #info .txt.grid1 p,
   #info .txt.grid2 p {
     padding-right: 0; }
+  #info .txt.grid4 {
+    width: 368px; }
   #info h4,
   #info h4 a {
     color: #222222;
@@ -845,6 +850,7 @@ body.ready #info {
   color: #777777;
   clear: both;
   opacity: 0;
+  width: 784px;
   -webkit-transition-property: opacity;
   -moz-transition-property: opacity;
   -o-transition-property: opacity;
@@ -958,10 +964,17 @@ body.ready #copyright {
     -moz-column-count: 4;
     -o-column-count: 4; }
 
+  #info,
+  #copyright {
+    width: 1040px; }
+
   .txt.grid1 {
     width: 240px; }
 
   .txt.grid3 {
+    width: 496px; }
+
+  #info .txt.grid4 {
     width: 496px; }
 
   .project .full {
@@ -1000,6 +1013,12 @@ body.ready #copyright {
     -webkit-column-count: 3;
     -moz-column-count: 3;
     -o-column-count: 3; }
+
+  #info, #copyright {
+    width: 784px; }
+
+  #info .txt.grid4 {
+    width: 368px; }
 
   .project .full {
     width: 752px; }
@@ -1067,6 +1086,12 @@ body.ready #copyright {
     margin-bottom: 16px;
     margin-left: 0; }
 
+  #info, #copyright {
+    width: 528px; }
+
+  #info .txt.grid4 {
+    width: 496px; }
+
   #special-1,
   #special-2 {
     margin-top: 0; } }
@@ -1123,6 +1148,12 @@ body.ready #copyright {
   .project .site-plan,
   .project .both {
     width: 240px; }
+
+  #info, #copyright {
+    width: 272px; }
+
+  #info .txt.grid4 {
+    width: 256px; }
 
   #special-1,
   #special-2 {

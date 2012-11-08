@@ -11,8 +11,11 @@
     -moz-column-count: 4;
     -o-column-count: 4;
     }
+  #info,
+  #copyright {width: 1040px;}
   .txt.grid1 {width: 240px;}
   .txt.grid3 {width: 496px;}
+  #info .txt.grid4 {width: 496px;}
   .project .full {width: 1008px;}
   .project .side,
   .project .site-plan {width: 752px;}

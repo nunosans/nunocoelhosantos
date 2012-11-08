@@ -5,6 +5,7 @@
   margin-bottom: 15px;
   clear: both;
   opacity: 0;
+  width: 784px;
   -webkit-transition-property: opacity;
      -moz-transition-property: opacity;
        -o-transition-property: opacity;
@@ -26,6 +27,9 @@
   .txt.grid1 p,
   .txt.grid2 p {
     padding-right: 0;
+  }
+  .txt.grid4 {
+    width: 368px;
   }
   h4,
   h4 a {
