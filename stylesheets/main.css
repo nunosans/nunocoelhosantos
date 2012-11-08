@@ -642,6 +642,7 @@ h3 {
   -o-transition-duration: 1.2s;
   transition-duration: 1.2s; }
   .project img {
+    opacity: 1;
     -webkit-transition-property: width;
     -moz-transition-property: width;
     -o-transition-property: width;
@@ -929,12 +930,13 @@ body.ready #copyright {
     width: 1264px;
     max-height: 695px; }
 
-  .featured img {
+  .featured img,
+  .featured video {
     /* Override JS */
     top: 0 !important;
-    left: 0 !important;
+    left: -131px !important;
     height: 695px !important;
-    width: 1264px !important; }
+    width: 1527px !important; }
 
   .featured > div > * {
     padding-left: 16px;

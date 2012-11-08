@@ -21,7 +21,8 @@
   <div class="clear txt col1">
     <h2>Ava Mirabelle</h2>
     <h6>Branding, Web Design & Development</h6>
-    <p>Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
+    <p>
+      Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
       donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna,
       duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc. Arcu feugiat amet
       mattis vulputate. Non leo lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus
@@ -42,7 +43,8 @@
   <img class="clear side" width="1008" height="917"
     src="/media/images/ava-mirabelle-screen.png">
   <div class="txt col1">
-    <p>Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
+    <p>
+      Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
       donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna,
       duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc. Arcu feugiat amet
       mattis vulputate. Non leo lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus
