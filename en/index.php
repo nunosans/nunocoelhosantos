@@ -70,13 +70,13 @@
   </div>
   <div>
     <h4>
-      <a href="./work/auria/">Auria</a>
+      <a href="./work/auria-x-margot/">Auria × Margot</a>
     </h4>
-    <a href="./work/auria/">
-      <img src="/media/images/auria-card.jpg"
+    <a href="./work/auria-x-margot/">
+      <img src="/media/images/auria-x-margot-card.jpg"
        alt="" width="240" height="140">
     </a>
-    <p>Coming soon page for the Auria swimswear design website</p>
+    <p>Coming soon page for the swimswear designer’s website</p>
   </div>
   <div>
     <h4>

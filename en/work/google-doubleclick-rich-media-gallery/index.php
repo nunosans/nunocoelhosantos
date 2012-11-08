@@ -8,7 +8,7 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../auria/">Previous</a> &thinsp;/&thinsp;
+    <a href="../auria-x-margot/">Previous</a> &thinsp;/&thinsp;
     <a href="../keepon/">Next</a>
   </span>
 </div>

@@ -1,5 +1,5 @@
 <?
-  $title='Auria';
+  $title='Auria × Margot';
   $description='Coming soon page for the Auria swimswear design website';
   require_once('../../header.inc.php');
 ?>
@@ -16,7 +16,7 @@
 <div class="project" id="auria">
 
   <div class="clear txt">
-    <h2>Auria</h2>
+    <h2>Auria × Margot</h2>
     <h6>Front-end Development</h6>
     <p>
       Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
@@ -28,11 +28,14 @@
       maecenas tortor sed, a potenti. Vitae sodales orci euismod sapien nonummy enim, varius eros ac.
     </p>
   </div>
-  <img class="side" width="1008" height="902" src="/media/images/">
+  <img class="side" width="1008" height="902" src="/media/images/auria-x-margot-photo-3.jpg">
 
-  <img class="full" width="1264" height="732" src="/media/images/auria-screen-1.jpg">
-  <img class="full" width="1264" height="732" src="/media/images/auria-screen-2.jpg">
-  <img class="full" width="1264" height="732" src="/media/images/auria-screen-3.jpg">
+  <img class="clear half" width="624" height="902" src="/media/images/auria-x-margot-photo-1.jpg">
+  <img class="half"       width="624" height="902" src="/media/images/auria-x-margot-photo-2.jpg">
+
+  <img class="full" width="1264" height="732" src="/media/images/auria-x-margot-screen-1.jpg">
+  <img class="full" width="1264" height="732" src="/media/images/auria-x-margot-screen-2.jpg">
+  <img class="full" width="1264" height="732" src="/media/images/auria-x-margot-screen-3.jpg">
 
 </div>
 

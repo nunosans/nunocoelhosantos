@@ -43,7 +43,7 @@
       case '#todo'                    : $project_number++;
       case 'Keepon'                   : $project_number++;
       case 'Google DoubleClick'       : $project_number++;
-      case 'Auria'                    : $project_number++;
+      case 'Auria × Margot'           : $project_number++;
       case 'Kent & Curwen'            : $project_number++;
       case 'Stylize/d'                : $project_number++;
       case 'Sony VAIO Message Center' : $project_number++;
