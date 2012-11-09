@@ -800,6 +800,10 @@ body.ready .project {
   /* Fractures from Anxiety / Move the books up */
   margin-top: -50px; }
 
+#special-3 {
+  /* Index 7 / Move the iterations up */
+  margin-top: -10px; }
+
 .no-margin {
   margin-bottom: 15px; }
 
@@ -1126,7 +1130,8 @@ body.ready #copyright {
     width: 496px; }
 
   #special-1,
-  #special-2 {
+  #special-2,
+  #special-3 {
     margin-top: 0; } }
 /* One Column */
 @media only screen and (max-width: 580px) {

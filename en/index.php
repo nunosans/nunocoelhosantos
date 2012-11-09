@@ -70,7 +70,7 @@
   </div>
   <div>
     <h4>
-      <a href="./work/auria-x-margot-bowman/">Auria × Margot</a>
+      <a href="./work/auria-x-margot-bowman/">Auria × Margot Bowman</a>
     </h4>
     <a href="./work/auria-x-margot-bowman/">
       <img src="/media/images/auria-x-margot-card.jpg"

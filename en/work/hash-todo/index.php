@@ -14,9 +14,9 @@
 </div>
 
 <div class="project" id="hash-todo">
-  
-  <!-- Work goes here -->
-  
+
+  <img class="full" width="1080" height="1080" src="/media/images/hash-todo-main.jpg">
+
 </div>
 
 <? require_once('../../footer.inc.php'); ?>
