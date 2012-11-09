@@ -41,13 +41,6 @@
   <img class="clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie8-1.png">
   <img class="half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie8-2.png">
 
-
-
-
-
-
-
-
 </div>
 
 <? require_once('../../footer.inc.php'); ?>

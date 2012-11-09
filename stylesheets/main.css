@@ -797,7 +797,8 @@ body.ready .project {
   margin-top: 150px; }
 
 #special-2 {
-  margin-top: -60px; }
+  /* Fractures from Anxiety / Move the books up */
+  margin-top: -50px; }
 
 .no-margin {
   margin-bottom: 15px; }
