@@ -93,7 +93,7 @@
       <a href="./work/keepon/">Keepon</a>
     </h4>
     <a href="./work/keepon/">
-      <img src="/media/images/keepon-card.png"
+      <img src="/media/images/keepon-card.jpg"
        alt="App icon of the Keepon app for iOS" width="240" height="140">
     </a>
     <p>Design, Architecture and experience of the third-party Kickoff client for iOS</p>

@@ -32,6 +32,9 @@
 
   <img class="clear half" width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-1.jpg">
   <img class="half"       width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-2.jpg">
+
+  <img class="full"       width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-5.jpg">
+
   <img class="clear half" width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-3.jpg">
   <img class="half"       width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-4.jpg">
 

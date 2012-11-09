@@ -18,7 +18,7 @@
   <img class="clear side" width="1264" height="800" src="/media/images/">
   <div class="txt">
     <h2>Sony VAIO Message Center</h2>
-    <h6>Front-end Development & Web Design.</h6>
+    <h6>Front-end Development & Web Design</h6>
     <p>
       Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
       donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna,
