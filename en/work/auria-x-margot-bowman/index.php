@@ -1,6 +1,6 @@
 <?
-  $title='Auria × Margot';
-  $description='Coming soon page for the Auria swimswear design website';
+  $title='Auria × Margot Bowman';
+  $description='Coming soon page for the swimswear designer’s website';
   require_once('../../header.inc.php');
 ?>
 
@@ -16,7 +16,7 @@
 <div class="project" id="auria">
 
   <div class="clear txt">
-    <h2>Auria × Margot</h2>
+    <h2>Auria × Margot Bowman</h2>
     <h6>Front-end Development</h6>
     <p>
       Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna

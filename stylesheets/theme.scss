@@ -157,12 +157,16 @@ ul.inline {
 
 /* Forms */
 input[type="email"] {
-  font-family: franklin-gothic-urw-1,
-         franklin-gothic-urw-2,
-         "Helvetica Neue",
-         Helvetica,
-         Arial,
-         sans-serif;
+  font-family: "franklin-gothic-urw-1",
+               "franklin-gothic-urw-2",
+               "Franklin Gothic",
+               "Franklin Gothic LT",
+               "Franklin Gothic LT Com",
+               "Franklin Gothic BT",
+               "Helvetica Neue",
+               Helvetica,
+               Arial,
+               sans-serif;
   font-size: 14px;
   color: $shade-1;
   width: 239px;
@@ -223,8 +227,16 @@ input::-webkit-input-placeholder {
 }
 
 input[type="submit"] {
-  font-family: franklin-gothic-urw-1, franklin-gothic-urw-2,
-    "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "franklin-gothic-urw-1",
+               "franklin-gothic-urw-2",
+               "Franklin Gothic",
+               "Franklin Gothic LT",
+               "Franklin Gothic LT Com",
+               "Franklin Gothic BT",
+               "Helvetica Neue",
+               Helvetica,
+               Arial,
+               sans-serif;
   font-size: 14px;
   color: white;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);

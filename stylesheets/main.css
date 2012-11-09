@@ -14,7 +14,7 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 a img, a:link, a:visited, a:hover, a:active {
-  font-family: franklin-gothic-urw-1, franklin-gothic-urw-2, "Franklin Gothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "franklin-gothic-urw-1", "franklin-gothic-urw-2", "Franklin Gothic", "Franklin Gothic LT", "Franklin Gothic LT Com", "Franklin Gothic BT", "Helvetica Neue", Helvetica, Arial, sans-serif;
   border: 0;
   outline: 0;
   margin: 0;
@@ -228,7 +228,7 @@ ul.inline li:last-child:after {
 
 /* Forms */
 input[type="email"] {
-  font-family: franklin-gothic-urw-1, franklin-gothic-urw-2, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "franklin-gothic-urw-1", "franklin-gothic-urw-2", "Franklin Gothic", "Franklin Gothic LT", "Franklin Gothic LT Com", "Franklin Gothic BT", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   color: #222222;
   width: 239px;
@@ -288,7 +288,7 @@ input::-webkit-input-placeholder {
   color: #777777; }
 
 input[type="submit"] {
-  font-family: franklin-gothic-urw-1, franklin-gothic-urw-2, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "franklin-gothic-urw-1", "franklin-gothic-urw-2", "Franklin Gothic", "Franklin Gothic LT", "Franklin Gothic LT Com", "Franklin Gothic BT", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   color: white;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);

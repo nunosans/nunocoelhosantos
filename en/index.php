@@ -24,7 +24,7 @@
       <a href="./work/kent-and-curwen/">Featured: Kent &amp; Curwen</a>
     </h2>
     <p>
-      <a href="./work/kent-and-curwen/">A modern website to celebrate almost a century of luxury menswear</a>
+      <a href="./work/kent-and-curwen/">A modern website to celebrate a century of luxury menswear</a>
     </p>
   </div>
 </div>
@@ -66,13 +66,13 @@
        src="/media/images/kent-and-curwen-card.jpg"
        alt="Photograph of the Kent &amp; Curwen website seen from an iPad">
     </a>
-    <p>Responsive website to celebrate almost a century of Kent &amp; Curwen</p>
+    <p>Responsive website for the luxury meanswear brand</p>
   </div>
   <div>
     <h4>
-      <a href="./work/auria-x-margot/">Auria × Margot</a>
+      <a href="./work/auria-x-margot-bowman/">Auria × Margot</a>
     </h4>
-    <a href="./work/auria-x-margot/">
+    <a href="./work/auria-x-margot-bowman/">
       <img src="/media/images/auria-x-margot-card.jpg"
        alt="" width="240" height="140">
     </a>
