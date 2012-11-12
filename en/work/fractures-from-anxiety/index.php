@@ -19,7 +19,8 @@
   <div class="txt col1">
     <h2>Fractures from Anxiety</h2>
     <h6>Book and Cover Design</h6>
-    <p>Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in
+    <p>
+      Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in
       nulla magna donec. Sed per et, orci nulla platea quisque, vestibulum ut
       integer semper elit mi urna, duis wisi cras nulla metus ea. Sem odio
       pellentesque wisi arcu nunc. Arcu feugiat amet mattis vulputate. Non leo
