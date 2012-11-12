@@ -113,6 +113,16 @@
       © 2008&thinsp;—&thinsp;<?php date_default_timezone_set('Europe/London'); echo date("Y") ?> Nuno Coelho Santos &thinsp;/&thinsp;
       <a id="columns-on">Ver Colunas</a><a id="columns-off">Esconder Colunas</a>
     </span>
-    <!-- <script src="//mint.nunocoelhosantos.com/?js"></script> -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-35923540-10']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
   </body>
 </html>
