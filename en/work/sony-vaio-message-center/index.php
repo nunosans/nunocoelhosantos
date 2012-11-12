@@ -15,7 +15,7 @@
 
 <div class="project" id="sony-vaio-message-center">
 
-  <img class="clear side" width="1264" height="800" src="/media/images/">
+  <img class="clear side" width="1008" height="475" src="/media/images/sony-vaio-message-center-laptop.jpg">
   <div class="txt">
     <h2>Sony VAIO Message Center</h2>
     <h6>Front-end Development & Web Design</h6>
@@ -30,16 +30,16 @@
     </p>
   </div>
 
-  <img class="clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-chrome-1.png">
-  <img class="half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-chrome-2.png">
-  <img class="clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-safari-1.png">
-  <img class="half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-safari-2.png">
-  <img class="clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-firefox-1.png">
-  <img class="half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-firefox-2.png">
-  <img class="clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie9-1.png">
-  <img class="half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie9-2.png">
-  <img class="clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie8-1.png">
-  <img class="half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie8-2.png">
+  <img class="no-margin clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-chrome-1.png">
+  <img class="no-margin half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-chrome-2.png">
+  <img class="no-margin clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-safari-1.png">
+  <img class="no-margin half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-safari-2.png">
+  <img class="no-margin clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-firefox-1.png">
+  <img class="no-margin half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-firefox-2.png">
+  <img class="no-margin clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie9-1.png">
+  <img class="no-margin half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie9-2.png">
+  <img class="no-margin clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie8-1.png">
+  <img class="no-margin half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie8-2.png">
 
 </div>
 

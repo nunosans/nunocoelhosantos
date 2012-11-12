@@ -32,6 +32,8 @@
     </p>
   </div>
 
+  <img class="full" width="1264" height="902" src="/media/images/kent-and-curwen-iphone.jpg">
+
   <img class="site-plan" width="1166" height="4056" src="/media/images/kent-and-curwen-website-plan.jpg">
 
 </div>
