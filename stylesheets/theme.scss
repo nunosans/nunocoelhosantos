@@ -155,6 +155,16 @@ ul.inline {
   }
 }
 
+abbr:after,
+acronym:after {
+  content: "?";
+  vertical-align: super;
+  font-size: 50%;
+  opacity: 0.5;
+  margin-left: 1px;
+  line-height: 50%;
+}
+
 /* Forms */
 input[type="email"] {
   font-family: "franklin-gothic-urw-1",

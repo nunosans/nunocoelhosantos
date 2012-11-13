@@ -23,13 +23,14 @@
       This was a project done as a freelancer for <a href="http://ustwo.co.uk/"
       target="_blank">ustwo™, the studio of dreams</a>. The Sony VAIO Message Center is
       an internal website for Sony to administrate messages sent to Sony VAIO computer
-      owners all around the world running Windows 8.
+      owners all around the world running <a href="http://windows.microsoft.com/en-US/windows-8/meet" target="_blank">Windows 8</a>.
     </p>
     <p>
       My responsibility was to develop the website front-end after friends from
       ustwo™ conceived the wireframes and visual design. The end result was a website
-      with excellent support of IE8 and semantic mark-up, while at the same time
-      using several customised UI elements like radio buttons, input fields and
+      with excellent support of <a href="http://en.wikipedia.org/wiki/Internet_Explorer_8" target="_blank">IE8</a>
+      and <a href="http://en.wikipedia.org/wiki/Semantic_HTML" target="_blank">semantic mark-up</a>, while at the same time
+      using several customised <acronym title="User Interface">UI</acronym> elements like radio buttons, input fields and
       dropdown menus.
     </p>
   </div>
@@ -39,7 +40,7 @@
       The most notable elements of the website were the live editing views,
       where the user enters the message directly in preview mode with the text
       and images layed-out precisely the same way they will be layed-out on the
-      Windows 8 Operating System.
+      <a href="http://windows.microsoft.com/en-US/windows-8/meet" target="_blank">Windows 8</a> operating system.
     </p>
   </div>
   <img class="side" width="624" height="500" src="/media/images/sony-vaio-message-center-frame.jpg">

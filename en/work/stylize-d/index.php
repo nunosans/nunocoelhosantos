@@ -20,7 +20,7 @@
   <img class="clear side" width="1264" height="481" src="/media/images/stylize-d-logo-as-masking-shape.jpg">
   <div class="txt">
     <h2>Stylize/d</h2>
-    <h6>Branding</h6>
+    <h6>Branding &amp; Web Design</h6>
     <p>
       Identity and Web Design done collaboratively with Marta Dos Santos.
       Stylize/d is a fashion blog eager to show the final fashion editorials and

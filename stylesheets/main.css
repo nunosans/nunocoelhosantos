@@ -226,6 +226,15 @@ ul.inline li:after {
 ul.inline li:last-child:after {
   content: "."; }
 
+abbr:after,
+acronym:after {
+  content: "?";
+  vertical-align: super;
+  font-size: 50%;
+  opacity: 0.5;
+  margin-left: 1px;
+  line-height: 50%; }
+
 /* Forms */
 input[type="email"] {
   font-family: "franklin-gothic-urw-1", "franklin-gothic-urw-2", "Franklin Gothic", "Franklin Gothic LT", "Franklin Gothic LT Com", "Franklin Gothic BT", "Helvetica Neue", Helvetica, Arial, sans-serif;
