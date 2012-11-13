@@ -22,13 +22,19 @@
     <h2>Stylize/d</h2>
     <h6>Branding</h6>
     <p>
-      Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
-      donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna,
-      duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc. Arcu feugiat amet
-      mattis vulputate. Non leo lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus
-      placerat fringilla dapibus vel mollis. Voluptas donec proin, sed quis, sit sed faucibus
-      lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien justo. Nisl porttitor,
-      maecenas tortor sed, a potenti. Vitae sodales orci euismod sapien nonummy enim, varius eros ac.
+      Identity and Web Design done collaboratively with Marta Dos Santos.
+      Stylize/d is a fashion blog eager to show the final fashion editorials and
+      the proccess in making them. The identity had to radically stay from
+      mainstream fashion blogs with pink/yellow tones and cursive typefaces. The
+      logo was designed to stand out with it's geometric, clean, and monochrome
+      approach.
+    </p>
+    <p>
+      The logotype was designed in a variation of outline and fill, both intended to
+      be used on top of an image or as a masking shape. The typefaces chosen were
+      <a href="http://www.houseind.com/fonts/neutraface2" target="blank">Neturaface 2
+      Display</a> and <a href="http://store1.adobe.com/cfusion/store/html/index.cfm?store=OLS-US&event=displayFontPackage&code=1703"
+      target="_blank">Adobe Garamond Pro</a>.
     </p>
   </div>
 
@@ -43,13 +49,12 @@
 
   <div class="clear txt">
     <p>
-      Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
-      donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna,
-      duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc. Arcu feugiat amet
-      mattis vulputate. Non leo lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus
-      placerat fringilla dapibus vel mollis. Voluptas donec proin, sed quis, sit sed faucibus
-      lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien justo. Nisl porttitor,
-      maecenas tortor sed, a potenti. Vitae sodales orci euismod sapien nonummy enim, varius eros ac.
+      This forward connects the word stylize to the word stylized as a parallel to the
+      approach of documenting the process of fashion rather than just its outcome.
+      This was established with the briefing and we deciced to use the curious
+      forward slash as an element of the brand, the symbol. This symbol was also
+      designed to combined with photography and resulted in suitable avatar for
+      social networks.
     </p>
   </div>
   <img class="right side" width="1008" height="672" src="/media/images/stylize-d-facebook-page.jpg">

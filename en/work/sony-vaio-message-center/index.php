@@ -15,20 +15,34 @@
 
 <div class="project" id="sony-vaio-message-center">
 
-  <img class="clear side" width="1008" height="475" src="/media/images/sony-vaio-message-center-laptop.jpg">
+  <img class="clear side" width="1008" height="533" src="/media/images/sony-vaio-message-center-laptop.jpg">
   <div class="txt">
     <h2>Sony VAIO Message Center</h2>
     <h6>Front-end Development & Web Design</h6>
     <p>
-      Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
-      donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna,
-      duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc. Arcu feugiat amet
-      mattis vulputate. Non leo lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus
-      placerat fringilla dapibus vel mollis. Voluptas donec proin, sed quis, sit sed faucibus
-      lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien justo. Nisl porttitor,
-      maecenas tortor sed, a potenti. Vitae sodales orci euismod sapien nonummy enim, varius eros ac.
+      This was a project done as a freelancer for <a href="http://ustwo.co.uk/"
+      target="_blank">ustwo™, the studio of dreams</a>. The Sony VAIO Message Center is
+      an internal website for Sony to administrate messages sent to Sony VAIO computer
+      owners all around the world running Windows 8.
+    </p>
+    <p>
+      My responsibility was to develop the website front-end after friends from
+      ustwo™ conceived the wireframes and visual design. The end result was a website
+      with excellent support of IE8 and semantic mark-up, while at the same time
+      using several customised UI elements like radio buttons, input fields and
+      dropdown menus.
     </p>
   </div>
+
+  <div class="clear txt">
+    <p>
+      The most notable elements of the website were the live editing views,
+      where the user enters the message directly in preview mode with the text
+      and images layed-out precisely the same way they will be layed-out on the
+      Windows 8 Operating System.
+    </p>
+  </div>
+  <img class="side" width="624" height="500" src="/media/images/sony-vaio-message-center-frame.jpg">
 
   <img class="no-margin clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-chrome-1.png">
   <img class="no-margin half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-chrome-2.png">
