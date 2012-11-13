@@ -17,22 +17,31 @@
 
   <img class="full" width="1264" height="902" src="/media/images/kent-and-curwen-on-an-ipad.jpg">
 
-  <img class="clear side" width="1264" height="481" src="/media/images/kent-and-curwen-logo-animation.gif">
+  <img class="clear side" width="1264" height="902" src="/media/images/kent-and-curwen-iphone.jpg">
+
+
   <div class="txt">
     <h2>Kent & Curwen</h2>
-    <h6>Resposive Design and Front-end Development</h6>
+    <h6>Front-end Development</h6>
     <p>
-      Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
-      donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna,
-      duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc. Arcu feugiat amet
-      mattis vulputate. Non leo lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus
-      placerat fringilla dapibus vel mollis. Voluptas donec proin, sed quis, sit sed faucibus
-      lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien justo. Nisl porttitor,
-      maecenas tortor sed, a potenti. Vitae sodales orci euismod sapien nonummy enim, varius eros ac.
+      Kent &amp; Curwen is a British Gentleman's Club Sports wear brand established
+      in 1926. As part of their brand refresh and campaign for a new collection, I
+      built the website designed by Jasmine Lau and Douglas Potts and adjusted it
+      to work as a responsive website. The relaunch of Kent & Curwen seeks to present
+      the brand with it's original and classic style, but present that in a modern
+      and updated format. That is the main reason why the website assumed a minimal
+      look and feel with interesting scroll effects and complex animations.
     </p>
   </div>
 
-  <img class="full" width="1264" height="902" src="/media/images/kent-and-curwen-iphone.jpg">
+  <div class="clear txt">
+    <p>
+      The logo on the landing page was animated using CSS3 keyframe animations.
+      JavaScript was an option for animating this title, but in despite of a better
+      support, CSS3 results in a smoother and quicker animation.
+    </p>
+  </div>
+  <img class="side" width="1264" height="481" src="/media/images/kent-and-curwen-logo-animation.gif">
 
   <img class="site-plan" width="1166" height="4056" src="/media/images/kent-and-curwen-website-plan.jpg">
 
