@@ -37,17 +37,6 @@
 
   <div>
     <h4>
-      <a href="./work/sony-vaio-message-center/">Sony VAIO Message Center</a>
-    </h4>
-    <a href="./work/sony-vaio-message-center/">
-      <img width="240" height="140"
-       src="/media/images/sony-vaio-message-center-card.jpg"
-       alt="Photograph of the Sony VAIO’s CMS user interface">
-    </a>
-    <p>Front-end development of Sony VAIO’s news management system</p>
-  </div>
-  <div>
-    <h4>
       <a href="./work/stylize-d/">Stylize/d</a>
     </h4>
     <a href="./work/stylize-d/">
@@ -77,16 +66,6 @@
        alt="" width="240" height="140">
     </a>
     <p>Coming soon page for the swimswear designer’s website</p>
-  </div>
-  <div>
-    <h4>
-      <a href="./work/google-doubleclick-rich-media-gallery/">Google DoubleClick</a>
-    </h4>
-    <a href="./work/google-doubleclick-rich-media-gallery/">
-      <img src="/media/images/google-doubleclick-rich-media-gallery-card.jpg"
-       alt="" width="240" height="140">
-    </a>
-    <p>Front-end development for the Rich Media Gallery mobile site</p>
   </div>
   <div>
     <h4>

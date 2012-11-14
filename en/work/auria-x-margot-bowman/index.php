@@ -9,7 +9,7 @@
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
     <a href="../kent-and-curwen/">Previous</a> &thinsp;/&thinsp;
-    <a href="../google-doubleclick-rich-media-gallery/">Next</a>
+    <a href="../keepon/">Next</a>
   </span>
 </div>
 

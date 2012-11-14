@@ -17,7 +17,7 @@
     <script src="/javascript/scripts.js"></script>
     <?
     $project_number = 0; // Initial value to iterate
-    $projects_total = 17; // Total number of projects
+    $projects_total = 15; // Total number of projects
     switch ($title) {
       case 'Fractures from Anxiety'   : $project_number++;
       // case 'Sophie Westerlind'        : $project_number++;
@@ -40,11 +40,10 @@
       case 'Norman Hartnell'          : $project_number++;
       case '#todo'                    : $project_number++;
       case 'Keepon'                   : $project_number++;
-      case 'Google DoubleClick'       : $project_number++;
+      // case 'Google DoubleClick'       : $project_number++;
       case 'Auria × Margot Bowman'    : $project_number++;
       case 'Kent & Curwen'            : $project_number++;
       case 'Stylize/d'                : $project_number++;
-      case 'Sony VAIO Message Center' : $project_number++;
       //Add new projects here using the same structure
     }
     ?>

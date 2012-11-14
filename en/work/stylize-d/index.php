@@ -8,14 +8,14 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../sony-vaio-message-center/">Previous</a> &thinsp;/&thinsp;
+    Previous &thinsp;/&thinsp;
     <a href="../kent-and-curwen/">Next</a>
   </span>
 </div>
 
 <div class="project" id="stylize-d">
 
-  <img class="full" width="1264" height="902" src="/media/images/stylize-d-white-on-picture.jpg">
+  <img class="full" width="1264" height="902" src="/media/images/stylize-d-white-on-image.jpg">
 
   <img class="clear side" width="1264" height="481" src="/media/images/stylize-d-logo-as-masking-shape.jpg">
   <div class="txt">
