@@ -109,6 +109,7 @@ $(document).ready(function() {
 
 $(window).load(function() {
   $('body').addClass('ready');
+  $('.project').fadeIn('slow');
 
   // Make the bar of the featured project clickable
   $('.featured > div > *').click(function() {

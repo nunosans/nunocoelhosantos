@@ -636,16 +636,12 @@ h3 {
 
 .project {
   clear: both;
-  opacity: 0;
+  display: none;
   overflow: visible;
-  -webkit-transition-property: opacity;
-  -moz-transition-property: opacity;
-  -o-transition-property: opacity;
-  transition-property: opacity;
-  -webkit-transition-duration: 1.2s;
-  -moz-transition-duration: 1.2s;
-  -o-transition-duration: 1.2s;
-  transition-duration: 1.2s; }
+  -webkit-transition-property: width;
+  -moz-transition-property: width;
+  -o-transition-property: width;
+  transition-property: width; }
   .project img {
     opacity: 1;
     -webkit-transition-property: width;
@@ -687,9 +683,6 @@ h3 {
   -o-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
   box-shadow: 0 10px 25px #CCC;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3); }
-
-body.ready .project {
-  opacity: 1; }
 
 .txt {
   display: inline-block;
