@@ -27,6 +27,9 @@
       lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien justo. Nisl porttitor,
       maecenas tortor sed, a potenti. Vitae sodales orci euismod sapien nonummy enim, varius eros ac.
     </p>
+    <p class="icon-globe-1">
+      <a href="http://keepon.iterar.co/" target="_blank">keepon.iterar.co</a>
+    </p>
   </div>
   <img class="side" width="1450" height="1100" src="/media/images/keepon-app-icon.jpg">
 

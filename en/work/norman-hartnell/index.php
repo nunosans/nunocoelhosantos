@@ -34,6 +34,8 @@
 
   <img class="full" width="1264" height="1080" src="/media/images/norman-hartnell-set.jpg">
 
+  <img class="site-plan" width="755" height="6899" src="/media/images/norman-hartnell-website-plan.jpg">
+
 </div>
 
 <? require_once('../../footer.inc.php'); ?>
