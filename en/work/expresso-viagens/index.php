@@ -23,10 +23,10 @@
   <div class="txt">
     <h2>Expresso Viagens</h2>
     <h6>Branding, Front-end Development, Illustration, Print & Web Design.</h6>
-    <p>For this project I had to rebrand the travel agency <a href="//expressoviagens.com/" target="_blank">
+    <p>For this project I had to rebrand the travel agency <a href="http://expressoviagens.com/" target="_blank">
       Expresso Viagens</a> and create a new online presence for itself. To do so I worked with
-      <a href="//twitter.com/plaintiago" target="_blank">Tiago Alves</a> who developed the Ruby
-      on Rails backend for the site and specially the blog, and with <a href="//twitter.com/jackveiga"
+      <a href="http://twitter.com/plaintiago" target="_blank">Tiago Alves</a> who developed the Ruby
+      on Rails backend for the site and specially the blog, and with <a href="http://twitter.com/jackveiga"
       target="_blank">Jack Veiga</a> who presented the work to the client and did systems administration.
       My role was to design the new identity, design the website and develop the front-end for it.
     </p>
@@ -57,18 +57,18 @@
       to find. 25% of the visits are made from Internet Explorer browsers so this also renders perfectly
       on any version above 6. Half of the visitors to the site are using a system in english and a
       third one in portuguese therefor we made this site bilingual and the language is detected
-      automatically. Built using <a href="//www.adobe.com/uk/products/photoshop.html" target="_blank">
-      Adobe Photoshop</a>, <a href="//www.adobe.com/uk/products/illustrator.html" target="_blank">Adobe
-      Illustrator</a>, <a href="//typekit.com/" target="_blank">Adobe Typekit</a>,
-      <a href="//www.sublimetext.com/" target="_blank">Sublime Text 2</a>,
-      <a href="//en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>,
-      <a href="//en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>,
-      <a href="//en.wikipedia.org/wiki/JavaScript" target="_blank">JS</a>, <a href="//jquery.com/"
-      target="_blank">jQuery</a>, <a href="//rubyonrails.org/" target="_blank">RoR</a> and
-      <a href="//git-scm.com/" target="_blank">Git</a>.
+      automatically. Built using <a href="http://www.adobe.com/uk/products/photoshop.html" target="_blank">
+      Adobe Photoshop</a>, <a href="http://www.adobe.com/uk/products/illustrator.html" target="_blank">Adobe
+      Illustrator</a>, <a href="http://typekit.com/" target="_blank">Adobe Typekit</a>,
+      <a href="http://www.sublimetext.com/" target="_blank">Sublime Text 2</a>,
+      <a href="http://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>,
+      <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>,
+      <a href="http://en.wikipedia.org/wiki/JavaScript" target="_blank">JS</a>, <a href="http://jquery.com/"
+      target="_blank">jQuery</a>, <a href="http://rubyonrails.org/" target="_blank">RoR</a> and
+      <a href="http://git-scm.com/" target="_blank">Git</a>.
     </p>
     <p class="icon-globe-1">
-      <a href="//expressoviagens.com" target="_blank">expressoviagens.com</a>
+      <a href="http://expressoviagens.com" target="_blank">expressoviagens.com</a>
     </p>
   </div>
   <img class="side" width="1008" height="965"

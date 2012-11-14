@@ -20,13 +20,13 @@
     <h2>Google DoubleClick</h2>
     <h6>Front-end Development</h6>
     <p>
-      Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
-      donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna,
-      duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc. Arcu feugiat amet
-      mattis vulputate. Non leo lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus
-      placerat fringilla dapibus vel mollis. Voluptas donec proin, sed quis, sit sed faucibus
-      lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien justo. Nisl porttitor,
-      maecenas tortor sed, a potenti. Vitae sodales orci euismod sapien nonummy enim, varius eros ac.
+      Front-end development of the Google DoubleClick Rich Media Gallery while
+      working as a freelance web developer for ustwo. For this project we had to
+      build a mobile optimised and touch optimised responsive website with great
+      efficiency in speed and battery life performance. Google provided us with a
+      great set of resources on how to build a website that uses less battery power,
+      how assets should be build, JavaScript closure methods; HTML, CSS and JavaScript
+      style guides.
     </p>
   </div>
 

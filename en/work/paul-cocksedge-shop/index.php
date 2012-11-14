@@ -41,7 +41,7 @@
 
   <div class="clear txt col1">
     <p>The final identity was a much safer option, using
-      <a href="//www.typography.com/fonts/font_overview.php?productLineID=100008" target="_blank">
+      <a href="http://www.typography.com/fonts/font_overview.php?productLineID=100008" target="_blank">
       Gotham by Hoefler &amp; Frere-Jones</a> in a white on black variant for the studio and black
       on white variant for the shop.</p>
     <p>The online store shows the simplicity and minimalism of the brand in a clean and easy to
@@ -56,21 +56,21 @@
   <img class="side clear no-margin" width="1008" height="670"
     src="/media/images/paul-cocksedge-shop-bookmark-close-up.jpg">
   <div class="txt col1">
-    <p>The store runs on <a href="//www.shopify.com" target="_blank">Shopify</a>.
-      Built using <a href="//www.adobe.com/uk/products/photoshop.html" target="_blank">
-      Adobe Photoshop</a>, <a href="//www.adobe.com/uk/products/illustrator.html" target="_blank">
-      Adobe Illustrator</a>, <a href="//www.adobe.com/uk/products/aftereffects.html" target="_blank">
-      Adobe AfterEffects</a>, <a href="//macromates.com" target="_blank">TextMate</a>,
-      <a href="//en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>,
-      <a href="//en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>,
-      <a href="//en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a>,
-      <a href="//jquery.com/" target="_blank">jQuery</a>, <a href="//php.net/" target="_blank">
-      PHP</a> and <a href="//git-scm.com/" target="_blank">Git</a>.
+    <p>The store runs on <a href="http://www.shopify.com" target="_blank">Shopify</a>.
+      Built using <a href="http://www.adobe.com/uk/products/photoshop.html" target="_blank">
+      Adobe Photoshop</a>, <a href="http://www.adobe.com/uk/products/illustrator.html" target="_blank">
+      Adobe Illustrator</a>, <a href="http://www.adobe.com/uk/products/aftereffects.html" target="_blank">
+      Adobe AfterEffects</a>, <a href="http://macromates.com" target="_blank">TextMate</a>,
+      <a href="http://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a>,
+      <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>,
+      <a href="http://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a>,
+      <a href="http://jquery.com/" target="_blank">jQuery</a>, <a href="http://php.net/" target="_blank">
+      PHP</a> and <a href="http://git-scm.com/" target="_blank">Git</a>.
     </p>
-    <p>The white Bookmark photo is copyright of <a href="//www.markcocksedge.co.uk"
+    <p>The white Bookmark photo is copyright of <a href="http://www.markcocksedge.co.uk"
       target="_blank">Mark Cocksedge</a>.
     </p>
-    <p class="icon-globe-1"><a href="//paulcocksedgeshop.com" target="_blank">
+    <p class="icon-globe-1"><a href="http://paulcocksedgeshop.com" target="_blank">
       paulcocksedgeshop.com</a>
     </p>
   </div>

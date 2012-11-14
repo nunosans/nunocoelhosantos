@@ -1,4 +1,3 @@
-
     <div id="columns">
       <div class="thirty"></div>
       <div class="twenty"></div>
@@ -102,15 +101,14 @@
           and on Skype as <a href="skype:nunocoelhosantos?userinfo">nunocoelhosantos</a>
         </p>
       </div>
-
       <div class="txt grid1">
         <h4>Also on</h4>
         <ul>
           <li>
-            <a href="//github.com/nunosans" target="_blank">Github</a>
+            <a href="http://github.com/nunosans" target="_blank">Github</a>
           </li>
           <li>
-            <a href="//twitter.com/nunosans" target="_blank">Twitter</a>
+            <a href="http://twitter.com/nunosans" target="_blank">Twitter</a>
           </li>
         </ul>
       </div>

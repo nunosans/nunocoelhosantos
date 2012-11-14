@@ -63,7 +63,7 @@
           <a href="/en/profile">Profile</a>
         </li>
         <!-- <li>
-          <a href="//blog.nunocoelhosantos.com/">Blog</a>
+          <a href="http://blog.nunocoelhosantos.com/">Blog</a>
         </li> -->
       </ul>
     </div>

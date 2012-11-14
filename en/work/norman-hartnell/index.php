@@ -17,8 +17,8 @@
 
   <img class="clear side" width="1080" height="1080" src="/media/images/norman-hartnell-screen-2.jpg">
   <div class="txt">
-    <h2>#todo</h2>
-    <h6>UI, UX, Icon Design</h6>
+    <h2>Norman Hartnell</h2>
+    <h6>Front-end Development</h6>
     <p>
       Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in
       nulla magna donec. Sed per et, orci nulla platea quisque, vestibulum ut

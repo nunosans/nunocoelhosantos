@@ -28,8 +28,8 @@
 	</div>
 
 	<div class="clear txt">
-		<p id="special-1">Desenvolvido em <a href="//www.adobe.com/pt/products/photoshop.html" target="_blank">Adobe Photoshop</a>, <a href="//www.adobe.com/pt/products/illustrator.html" target="_blank">Adobe Illustrator</a>, <a href="//typekit.com/" target="_blank">Adobe Typekit</a>, <a href="//www.sublimetext.com/" target="_blank">Sublime Text 2</a>, <a href="//pt.wikipedia.org/wiki/Html" target="_blank">HTML</a>, <a href="//pt.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>, <a href="//pt.wikipedia.org/wiki/JavaScript" target="_blank">JS</a>, <a href="//jquery.com/" target="_blank">jQuery</a>, <a href="//rubyonrails.org/" target="_blank">RoR</a> e <a href="//git-scm.com/" target="_blank">Git</a>.</p>
-		<p class="icon-globe-1"><a href="//expressoviagens.com" target="_blank">expressoviagens.com</a></p>
+		<p id="special-1">Desenvolvido em <a href="http://www.adobe.com/pt/products/photoshop.html" target="_blank">Adobe Photoshop</a>, <a href="http://www.adobe.com/pt/products/illustrator.html" target="_blank">Adobe Illustrator</a>, <a href="http://typekit.com/" target="_blank">Adobe Typekit</a>, <a href="http://www.sublimetext.com/" target="_blank">Sublime Text 2</a>, <a href="http://pt.wikipedia.org/wiki/Html" target="_blank">HTML</a>, <a href="http://pt.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a>, <a href="http://pt.wikipedia.org/wiki/JavaScript" target="_blank">JS</a>, <a href="http://jquery.com/" target="_blank">jQuery</a>, <a href="http://rubyonrails.org/" target="_blank">RoR</a> e <a href="http://git-scm.com/" target="_blank">Git</a>.</p>
+		<p class="icon-globe-1"><a href="http://expressoviagens.com" target="_blank">expressoviagens.com</a></p>
 	</div>
 	<img class="side" src="/media/images/expresso-viagens-screen.png" width="1008" height="965">
 
