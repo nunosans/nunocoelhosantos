@@ -21,16 +21,19 @@
     <h2>#todo</h2>
     <h6>UI, UX, Icon Design</h6>
     <p>
-      Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in
-      nulla magna donec. Sed per et, orci nulla platea quisque, vestibulum ut
-      integer semper elit mi urna, duis wisi cras nulla metus ea. Sem odio
-      pellentesque wisi arcu nunc. Arcu feugiat amet mattis vulputate. Non leo
-      lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus placerat
-      fringilla dapibus vel mollis. Voluptas donec proin, sed quis, sit sed
-      faucibus lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien
-      justo. Nisl porttitor, maecenas tortor sed, a potenti. Vitae sodales orci
-      euismod sapien nonummy enim, varius eros ac.
+      Interface design for the Twitter-powered to-do list. #todo, pronounced "hash to-do",
+      is an utility app that let's you share things you always wanted to do with your
+      twitter network and keeps all your dreams, tasks or wishes in one single view.
+      This application was developed for iOS and Android.
     </p>
+    <p class="icon-globe-1">
+      <a href="https://itunes.apple.com/us/app/todo-twitter-powered-to-do/id538969906?mt=8"
+      target="_blank">#todo on the App Store</a>
+    </p>
+    <!--<p class="icon-globe-1">
+      <a href=""
+      target="_blank">#todo on the Android Market</a>
+    </p>-->
   </div>
 
   <img class="no-margin right half" width="624" height="870" src="/media/images/hash-todo-ios-screen-1.jpg">

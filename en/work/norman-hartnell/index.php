@@ -18,17 +18,19 @@
   <img class="clear side" width="1080" height="1080" src="/media/images/norman-hartnell-screen-2.jpg">
   <div class="txt">
     <h2>Norman Hartnell</h2>
-    <h6>Front-end Development</h6>
+    <h6>Development</h6>
     <p>
-      Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in
-      nulla magna donec. Sed per et, orci nulla platea quisque, vestibulum ut
-      integer semper elit mi urna, duis wisi cras nulla metus ea. Sem odio
-      pellentesque wisi arcu nunc. Arcu feugiat amet mattis vulputate. Non leo
-      lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus placerat
-      fringilla dapibus vel mollis. Voluptas donec proin, sed quis, sit sed
-      faucibus lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien
-      justo. Nisl porttitor, maecenas tortor sed, a potenti. Vitae sodales orci
-      euismod sapien nonummy enim, varius eros ac.
+      Sir Norman Hartnell was best known for his designs for the Queen Elizabeth’s
+      wedding dress in 1947. As a relaunch of the brand, the new Norman Hartnell
+      website seeked to tell the story of the designer and the brand. The single-scroll
+      design grabs the attention of the user to navigate through the years. Small
+      details like body text height and image height matching make the design
+      unique and special. This website is optimised for mobile devices and desktop
+      computers; touch-screen, mouse and keyboard input; and supports Internet Explorer 8.
+      Design credit goes to <a href="http://nostalgics.co.uk/" target="_blank">Nostalgics</a>.
+    </p>
+    <p class="icon-globe-1">
+      <a href="http://normanhartnell.com/" target="_blank">normanhartnell.com</a>
     </p>
   </div>
 

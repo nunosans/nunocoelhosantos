@@ -19,18 +19,18 @@
 
   <div class="clear txt">
     <h2>Stethoscore</h2>
-    <h6>UI Design</h6>
+    <h6>Interface Design</h6>
     <p>
-      Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
-      donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna,
-      duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc. Arcu feugiat amet
-      mattis vulputate. Non leo lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus
-      placerat fringilla dapibus vel mollis. Voluptas donec proin, sed quis, sit sed faucibus
-      lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien justo. Nisl porttitor,
-      maecenas tortor sed, a potenti. Vitae sodales orci euismod sapien nonummy enim, varius eros ac.
+      This is an idependent project to build medical utility app that could to calculate the risk of a
+      fatal heart disease. The app is meant to be dramically simpler and easier to use
+      than any other medical apps in order to appeal to a wider audience. This was
+      my first software interface design project, done using <a href="http://www.adobe.com/uk/products/photoshop.html"
+      target="_blank">Adobe Photoshop</a> and <a href="http://www.adobe.com/uk/products/illustrator.html"
+      target="_blank">Adobe Illustrator</a>.
     </p>
     <p class="icon-globe-1">
-      <a href="http://stethoscore.iterar.co/" target="_blank">stethoscore.iterar.co</a>
+      <a href="https://itunes.apple.com/uk/app/stethoscore-cardiovascular/id502639495?ls=1&mt=8"
+      target="_blank">Stethoscore on the App Store</a>
     </p>
   </div>
   <img class="side" width="1264" height="680" src="/media/images/stethoscore-overview.jpg">

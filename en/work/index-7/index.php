@@ -19,28 +19,21 @@
   <div class="txt col1">
     <h2>Index 7</h2>
     <h6>Identity</h6>
-    <p>Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla
-      magna donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper
-      elit mi urna, duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc.
-      Arcu feugiat amet mattis vulputate. Non leo lacinia, est ipsum, ac eros elit,
-      potenti donec in, cum cursus placerat fringilla dapibus vel mollis. Voluptas
-      donec proin, sed quis, sit sed faucibus lectus viverra wisi. Mi a ac, sapien
-      blandit sem tincidunt sapien justo. Nisl porttitor, maecenas tortor sed, a potenti.
-      Vitae sodales orci euismod sapien nonummy enim, varius eros ac.
+    <p>
+      Identity for a photography exhibition hosted at Protein® Gallery. There was
+      no running theme across the exhibition and the identity should not mirror
+      or represent any of the type of art exhibited. The result was then a simple
+      logo, with the focus on the small space and number of artists showcasing.
     </p>
   </div>
 
   <img class="full" width="1264" height="400" src="/media/images/index-7-logo-variations.png">
 
   <div class="clear txt">
-    <p>Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla
-      magna donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper
-      elit mi urna, duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc.
-      Arcu feugiat amet mattis vulputate. Non leo lacinia, est ipsum, ac eros elit,
-      potenti donec in, cum cursus placerat fringilla dapibus vel mollis. Voluptas donec
-      proin, sed quis, sit sed faucibus lectus viverra wisi. Mi a ac, sapien blandit sem
-      tincidunt sapien justo. Nisl porttitor, maecenas tortor sed, a potenti. Vitae sodales
-      orci euismod sapien nonummy enim, varius eros ac.
+    <p>
+      The logo was designed with future iterations in mind, for when the exhibition
+      got larger and the index number longer. The sides of the polygon would
+      also increase the number of its sides to reflect this trend.
     </p>
   </div>
   <img id="special-3" class="side" width="1008" height="1110" src="/media/images/index-7-logo-iterations.png">

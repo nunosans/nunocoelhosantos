@@ -20,15 +20,8 @@
     <h2>Fractures from Anxiety</h2>
     <h6>Book and Cover Design</h6>
     <p>
-      Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in
-      nulla magna donec. Sed per et, orci nulla platea quisque, vestibulum ut
-      integer semper elit mi urna, duis wisi cras nulla metus ea. Sem odio
-      pellentesque wisi arcu nunc. Arcu feugiat amet mattis vulputate. Non leo
-      lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus placerat
-      fringilla dapibus vel mollis. Voluptas donec proin, sed quis, sit sed
-      faucibus lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien
-      justo. Nisl porttitor, maecenas tortor sed, a potenti. Vitae sodales orci
-      euismod sapien nonummy enim, varius eros ac.
+      This was a university brief to design a book interior and its cover for the
+      collection of short stories by Marcus Bastel named “Fractures from Anxiety”.
     </p>
   </div>
 

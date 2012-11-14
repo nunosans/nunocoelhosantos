@@ -29,9 +29,9 @@
       logo was designed to stand out with it's geometric, clean, and monochrome
       approach.
     </p>
-    <p class="icon-globe-1">
+    <!--<p class="icon-globe-1">
       <a href="http://stylize-d.com" target="_blank">stylize-d.com</a>
-    </p>
+    </p>-->
   </div>
 
   <img class="full" width="1264" height="894" src="/media/images/stylize-d-magazine-covers.jpg">

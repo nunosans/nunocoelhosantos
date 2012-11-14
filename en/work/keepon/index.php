@@ -17,18 +17,16 @@
 
   <div class="clear txt">
     <h2>Keepon</h2>
-    <h6>Information Architecture, Iconography</h6>
+    <h6>Icon design and app architecture</h6>
     <p>
-      Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
-      donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna,
-      duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc. Arcu feugiat amet
-      mattis vulputate. Non leo lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus
-      placerat fringilla dapibus vel mollis. Voluptas donec proin, sed quis, sit sed faucibus
-      lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien justo. Nisl porttitor,
-      maecenas tortor sed, a potenti. Vitae sodales orci euismod sapien nonummy enim, varius eros ac.
+      This is a app built to allow users of Kickoff for Mac to stay updated on their
+      projects on their iPhones. Kickoff is an app me and a group of friends use
+      to collaborate on projects and Keepon was born out of our own need for a
+      custom iOS client.
     </p>
     <p class="icon-globe-1">
-      <a href="http://keepon.iterar.co/" target="_blank">keepon.iterar.co</a>
+      <a href="https://itunes.apple.com/us/app/keepon/id533319825?ls=1&mt=8"
+      target="_blank">Keepon on the App Store</a>
     </p>
   </div>
   <img class="side" width="1450" height="1100" src="/media/images/keepon-app-icon.jpg">

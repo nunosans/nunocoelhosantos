@@ -21,13 +21,19 @@
     <h2>Ava Mirabelle</h2>
     <h6>Branding, Web Design & Development</h6>
     <p>
-      Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
-      donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna,
-      duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc. Arcu feugiat amet
-      mattis vulputate. Non leo lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus
-      placerat fringilla dapibus vel mollis. Voluptas donec proin, sed quis, sit sed faucibus
-      lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien justo. Nisl porttitor,
-      maecenas tortor sed, a potenti. Vitae sodales orci euismod sapien nonummy enim, varius eros ac.
+      Ava Mirabelle is duo of fashion designers focused on hand-made high-quality
+      textile products. Her products contain vibrant geometric patterns. This
+      branding project proved to be a challenge given the pre-established
+      concepts of the client. With research and testing I created a brand
+      that would show confident, style, sophistication, making it a complete
+      contrast from brands with similar products that use cursive typefaces
+      and pink or yellow colour palletes.
+    </p>
+    <p>
+      The "A" and the "V" in "Ava" merge into
+      a single symbol. If the logo is cut in half horizontally the shape left
+      will resemble an "M". This overlap and feeling of tridimensionality
+      leaves space for the logo to be used in animations of interactive mediums.
     </p>
   </div>
   <img class="side" width="1008" height="1008" src="/media/images/ava-mirabelle-logo.png">
@@ -37,17 +43,11 @@
   <img class="full" width="1264" height="540" src="/media/images/ava-mirabelle-stationary.jpg">
 
   <img class="clear side" width="1008" height="917" src="/media/images/ava-mirabelle-screen.png">
-  <div class="txt col1">
+  <!--<div class="txt col1">
     <p>
-      Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
-      donec. Sed per et, orci nulla platea quisque, vestibulum ut integer semper elit mi urna,
-      duis wisi cras nulla metus ea. Sem odio pellentesque wisi arcu nunc. Arcu feugiat amet
-      mattis vulputate. Non leo lacinia, est ipsum, ac eros elit, potenti donec in, cum cursus
-      placerat fringilla dapibus vel mollis. Voluptas donec proin, sed quis, sit sed faucibus
-      lectus viverra wisi. Mi a ac, sapien blandit sem tincidunt sapien justo. Nisl porttitor,
-      maecenas tortor sed, a potenti. Vitae sodales orci euismod sapien nonummy enim, varius eros ac.
+      The online store runs on Shopify and was tested
     </p>
-  </div>
+  </div>-->
 
 </div>
 
