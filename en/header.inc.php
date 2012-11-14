@@ -17,21 +17,21 @@
     <script src="/javascript/scripts.js"></script>
     <?
     $project_number = 0; // Initial value to iterate
-    $projects_total = 26; // Total number of projects
+    $projects_total = 17; // Total number of projects
     switch ($title) {
       case 'Fractures from Anxiety'   : $project_number++;
-      case 'Sophie Westerlind'        : $project_number++;
-      case 'Miti Ruangkritya'         : $project_number++;
+      // case 'Sophie Westerlind'        : $project_number++;
+      // case 'Miti Ruangkritya'         : $project_number++;
       case 'Ana Barreira'             : $project_number++;
       case 'Caroline Pera'            : $project_number++;
-      case 'Ailara Berdyyeva'         : $project_number++;
-      case 'Marili André'             : $project_number++;
+      // case 'Ailara Berdyyeva'         : $project_number++;
+      // case 'Marili André'             : $project_number++;
       case 'Stethoscore'              : $project_number++;
-      case 'Nostalgics'               : $project_number++;
-      case 'Jo Phipps'                : $project_number++;
-      case 'Lilias Buchanan'          : $project_number++;
-      case 'Shooting People'          : $project_number++;
-      case 'Protein Journal'          : $project_number++;
+      // case 'Nostalgics'               : $project_number++;
+      // case 'Jo Phipps'                : $project_number++;
+      // case 'Lilias Buchanan'          : $project_number++;
+      // case 'Shooting People'          : $project_number++;
+      // case 'Protein Journal'          : $project_number++;
       case 'Index 7'                  : $project_number++;
       case 'Expresso Viagens'         : $project_number++;
       case 'Ava Mirabelle'            : $project_number++;

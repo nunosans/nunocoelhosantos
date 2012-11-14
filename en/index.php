@@ -178,59 +178,49 @@
     </a>
     <p>Identity and print design for the photography exhibition</p>
   </div>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/protein-journal/">Protein&reg; Journal</a>
+      Protein&reg; Journal
     </h4>
-    <a href="./work/protein-journal/">
-      <img src="/media/images/protein-journal-card.jpg"
-        alt="Fraction of the cover for the Protein Journal Issue 3"
-        width="240" height="140">
-    </a>
+    <img src="/media/images/protein-journal-card.jpg"
+      alt="Fraction of the cover for the Protein Journal Issue 3"
+      width="240" height="140">
     <p>Development of the Protein’s journal version for the iPad</p>
   </div>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/shooting-people/">Shooting People</a>
+      Shooting People
     </h4>
-    <a href="./work/shooting-people/">
-      <img src="/media/images/shooting-people-card.jpg"
-        alt="Photograph of the buinsess cards designed for Shooting People"
-        width="240" height="140">
-    </a>
+    <img src="/media/images/shooting-people-card.jpg"
+      alt="Photograph of the buinsess cards designed for Shooting People"
+      width="240" height="140">
     <p>Print, web design and development for the filmmakers’ network</p>
   </div>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/lilias-buchanan/">Lilias Buchanan</a>
+      Lilias Buchanan
     </h4>
-    <a href="./work/lilias-buchanan/">
-      <img src="/media/images/lilias-buchanan-card.jpg"
-        alt="Fraction of one of the illustrations from the series ‘The Death of Ivan
-        Illych’ by Lilias Buchanan"
-        width="240" height="140">
+    <img src="/media/images/lilias-buchanan-card.jpg"
+      alt="Fraction of one of the illustrations from the series ‘The Death of Ivan
+      Illych’ by Lilias Buchanan"idth="240" height="140">
     </a>
     <p>Online portfolio for the portraitist illustrator and graphic designer</p>
   </div>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/jo-phipps/">Jo Phipps</a>
+      Jo Phipps
     </h4>
-    <a href="./work/jo-phipps/">
-      <img src="/media/images/jo-phipps-card.jpg"
-        alt="Fraction of ‘Joseph’ by Jo Phipps" width="240" height="140">
-    </a>
-    <p>Design &amp; Development of the artist online portfolio</p>
+    <img src="/media/images/jo-phipps-card.jpg"
+      alt="Fraction of ‘Joseph’ by Jo Phipps" width="240" height="140">
+    <p>Design and development of the artist online portfolio</p>
   </div>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/nostalgics/">Nostalgics</a>
+      Nostalgics
     </h4>
-    <a href="./work/nostalgics/">
-      <img src="/media/images/nostalgics-card.jpg"
-        alt="Close up photograph of the  engraved musical notes in the Musical Glass
-        by Nostalgics" width="240" height="140">
-    </a>
+    <img src="/media/images/nostalgics-card.jpg"
+      alt="Close up photograph of the  engraved musical notes in the Musical Glass
+      by Nostalgics" width="240" height="140">
     <p>Web development for the collection of bespoke curious artefacts</p>
   </div>
   <div>
@@ -247,26 +237,22 @@
 
   <!-- Projects from 2010 -->
   <h3>2010</h3>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/marili-andre/">Marili André</a>
+      Marili André
     </h4>
-    <a href="./work/marili-andre/">
-      <img src="/media/images/marili-andre-card.jpg"
-        alt="Frame of one of Marili André videos overlayed by the logo"
-        width="240" height="140">
-    </a>
+    <img src="/media/images/marili-andre-card.jpg"
+      alt="Frame of one of Marili André videos overlayed by the logo"
+      width="240" height="140">
     <p>Identity for the fashion photographer and filmmaking artist</p>
   </div>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/ailara-bardyyeva/">Ailara Berdyyeva</a>
+      Ailara Berdyyeva
     </h4>
-    <a href="./work/ailara-berdyyeva/">
-      <img src="/media/images/ailara-berdyyeva-card.jpg"
-        alt="Photo of the ‘Inside/Outsie’ bag by Ailara Berdyyeva"
-        width="240" height="140">
-    </a>
+    <img src="/media/images/ailara-berdyyeva-card.jpg"
+      alt="Photo of the ‘Inside/Outsie’ bag by Ailara Berdyyeva"
+      width="240" height="140">
     <p>Identity, print, photography and web design for the textile designer webfolio</p>
   </div>
   <div>
@@ -294,26 +280,22 @@
 
   <!-- Projects from 2009 -->
   <h3>2009</h3>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/miti-ruangkritya/">Miti Ruangkritya</a>
+      Miti Ruangkritya
     </h4>
-    <a href="./work/miti-ruangkritya/">
-      <img src="/media/images/miti-ruangkritya-card.jpg"
-        alt="Fraction of ‘Bangkok Protest’ by Miti Ruangkritya"
-        width="240" height="140">
-    </a>
+    <img src="/media/images/miti-ruangkritya-card.jpg"
+      alt="Fraction of ‘Bangkok Protest’ by Miti Ruangkritya"
+      width="240" height="140">
     <p>Design of the website for the thai photojournalist</p>
   </div>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/sophie-westerlind/">Sophie Westerlind</a>
+      Sophie Westerlind
     </h4>
-    <a href="./work/sophie-westerlind/">
-      <img src="/media/images/sophie-westerlind-card.png"
-        alt="Fraction of one of Sophie Westerlind’s illustrations"
-        width="240" height="140">
-    </a>
+    <img src="/media/images/sophie-westerlind-card.png"
+      alt="Fraction of one of Sophie Westerlind’s illustrations"
+      width="240" height="140">
     <p>Design and development for the graphic designer and illustrator</p>
   </div>
   <div>

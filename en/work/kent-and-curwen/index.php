@@ -32,6 +32,9 @@
       and updated format. That is the main reason why the website assumed a minimal
       look and feel with interesting scroll effects and complex animations.
     </p>
+    <p class="icon-globe-1">
+      <a href="http://kentandcurwen.co.uk/" target="_blank">kentandcurwen.co.uk</a>
+    </p>
   </div>
 
   <div class="clear txt">

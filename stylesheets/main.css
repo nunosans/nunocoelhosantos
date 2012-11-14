@@ -584,6 +584,8 @@ h3 {
       padding: 0 8px;
       width: 240px;
       float: left; }
+  .work div.dev img {
+    opacity: 0.35; }
   .work div.dev h4:after,
   .work div.new h4:after {
     position: absolute;

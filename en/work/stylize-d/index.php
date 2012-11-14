@@ -29,12 +29,8 @@
       logo was designed to stand out with it's geometric, clean, and monochrome
       approach.
     </p>
-    <p>
-      The logotype was designed in a variation of outline and fill, both intended to
-      be used on top of an image or as a masking shape. The typefaces chosen were
-      <a href="http://www.houseind.com/fonts/neutraface2" target="blank">Neturaface 2
-      Display</a> and <a href="http://store1.adobe.com/cfusion/store/html/index.cfm?store=OLS-US&event=displayFontPackage&code=1703"
-      target="_blank">Adobe Garamond Pro</a>.
+    <p class="icon-globe-1">
+      <a href="http://stylize-d.com" target="_blank">stylize-d.com</a>
     </p>
   </div>
 
@@ -48,6 +44,13 @@
   <img class="clear side" width="1008" height="303" src="/media/images/stylize-d-symbol-as-masking-shape.png">
 
   <div class="clear txt">
+    <p>
+      The logotype was designed in a variation of outline and fill, both intended to
+      be used on top of an image or as a masking shape. The typefaces chosen were
+      <a href="http://www.houseind.com/fonts/neutraface2" target="blank">Neturaface 2
+      Display</a> and <a href="http://store1.adobe.com/cfusion/store/html/index.cfm?store=OLS-US&event=displayFontPackage&code=1703"
+      target="_blank">Adobe Garamond Pro</a>.
+    </p>
     <p>
       This forward connects the word stylize to the word stylized as a parallel to the
       approach of documenting the process of fashion rather than just its outcome.
