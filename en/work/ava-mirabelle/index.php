@@ -15,8 +15,7 @@
 
 <div class="project" id="ava-mirabelle">
 
-  <img class="full" width="1264" height="500"
-    src="/media/images/ava-mirabelle-logo.png">
+  <img class="full" width="1264" height="500" src="/media/images/ava-mirabelle-logo-on-an-image.jpg">
 
   <div class="clear txt col1">
     <h2>Ava Mirabelle</h2>
@@ -31,17 +30,13 @@
       maecenas tortor sed, a potenti. Vitae sodales orci euismod sapien nonummy enim, varius eros ac.
     </p>
   </div>
-  <img class="side" width="1008" height="1008"
-    src="/media/images/ava-mirabelle-logo-in-glass.png">
+  <img class="side" width="1008" height="1008" src="/media/images/ava-mirabelle-logo.png">
 
-  <img class="clear side right" width="1008" height="729"
-    src="/media/images/ava-mirabelle-logo-guidelines.png">
+  <img class="clear side right" width="1008" height="729" src="/media/images/ava-mirabelle-logo-guidelines.png">
 
-  <img class="full" width="1264" height="540"
-    src="/media/images/ava-mirabelle-stationary.jpg">
+  <img class="full" width="1264" height="540" src="/media/images/ava-mirabelle-stationary.jpg">
 
-  <img class="clear side" width="1008" height="917"
-    src="/media/images/ava-mirabelle-screen.png">
+  <img class="clear side" width="1008" height="917" src="/media/images/ava-mirabelle-screen.png">
   <div class="txt col1">
     <p>
       Lorem ipsum dolor sit amet, lobortis id nam erat, in minim vestibulum in nulla magna
