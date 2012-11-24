@@ -1,36 +1,82 @@
 <?
   $page='Home';
   $title='Design Gráfico e Programação';
-  $description='Nuno Coelho Santos é um Designer e Programador para web residente em Londres.';
+  $description='Nuno Coelho Santos é um Designer e Programador para web
+    residente em Londres.';
   require_once('header.inc.php');
 ?>
 
+<!-- Featured Project -->
 <div class="featured">
-  <a href="./trabalho/vania-coelho-santos/">
-    <img src="/media/images/vania-coelho-santos-slide.jpg"
-    alt="Website da arquitecta Vânia Coelho Santos aprensatado num iMac, iPad e iPhone"
-    width="2000" height="1100">
+  <a href="./trabalho/kent-and-curwen/">
+    <img width="3000" height="1500"
+      src="/media/images/kent-and-curwen-slide.jpg"
+      alt="Página de abertura do website para a Kent &amp; Curwen desenvolvido
+        por Nuno Coelho Santos a num iPad 2 preto">
+    <video width="3000" height="1500" autoplay
+      alt="Página de abertura do website para a Kent &amp; Curwen desenvolvido
+      por Nuno Coelho Santos a num iPad 2 preto">
+      <source src="/media/videos/kent-and-curwen-slide.webm" type="video/webm">
+      <source src="/media/videos/kent-and-curwen-slide.mp4"  type="video/mp4">
+      <source src="/media/videos/kent-and-curwen-slide.ogg"  type="video/ogg">
+    </video>
   </a>
   <div>
     <h2>
-      <a href="./trabalho/vania-coelho-santos/">Em Destaque: Vânia Coelho Santos</a>
+      <a href="./trabalho/kent-and-curwen/">Em Destaque: Kent &amp; Curwen</a>
     </h2>
     <p>
-      <a href="./trabalho/vania-coelho-santos/">Design e desenvolvimento do portfólio online de
-        arquitectura da minha irmã</a>
+      <a href="./trabalho/kent-and-curwen/">Website para uma das mais
+        históricas marcas de moda inglesa masculina</a>
     </p>
   </div>
 </div>
 
+<!-- Portfolio -->
 <div class="work" id="portfolio">
 
+  <!-- Projects from 2012 -->
   <h3>2012</h3>
+
   <div class="new">
+    <h4>
+      <a href="./trabalho/stylize-d/">Stylize/d</a>
+    </h4>
+    <a href="./trabalho/stylize-d/">
+      <img width="240" height="140"
+       src="/media/images/stylize-d-card.jpg"
+       alt="Detalhe de uma aplicação da identidade da Stylize/d">
+    </a>
+    <p>Identidade e web design para o blog de moda independente</p>
+  </div>
+  <div>
+    <h4>
+      <a href="./trabalho/kent-and-curwen/">Kent &amp; Curwen</a>
+    </h4>
+    <a href="./trabalho/kent-and-curwen/">
+      <img width="240" height="140"
+       src="/media/images/kent-and-curwen-card.jpg"
+       alt="Logo da Kent &amp; Curwen e detalhe de uma fotografia da
+       campanha Outono/Inverno 2012">
+    </a>
+    <p>Website para uma das mais importantes marcas de moda britânica dos ultimos 100 anos</p>
+  </div>
+  <div>
+    <h4>
+      <a href="./trabalho/auria-x-margot-bowman/">Auria × Margot Bowman</a>
+    </h4>
+    <a href="./trabalho/auria-x-margot-bowman/">
+      <img src="/media/images/auria-x-margot-card.jpg"
+       alt="" width="240" height="140">
+    </a>
+    <p>Coming soon page for the swimswear designer’s website</p>
+  </div>
+  <div>
     <h4>
       <a href="./trabalho/keepon/">Keepon</a>
     </h4>
     <a href="./trabalho/keepon/">
-      <img src="/media/images/keepon-card.png"
+      <img src="/media/images/keepon-card.jpg"
         alt="Icon da aplicação Keepon para iOS" width="240" height="140">
     </a>
     <p>Design, Arquitectura e experiência do cliente para iOS do Kickoff</p>
@@ -67,7 +113,7 @@
   <div>
     <h4><a href="./trabalho/vania-coelho-santos/">Vânia Coelho Santos</a></h4>
     <a href="./trabalho/vania-coelho-santos/">
-      <img src="/media/images/vania-coelho-santos-card.jpg"
+      <img src="/media/images/vania-coelho-santos-card.png"
       alt="Imagem digital de um dos conceitos arquitectónicos de Vânia Coelho Santos"
       width="240" height="140">
     </a>
@@ -78,7 +124,7 @@
       <a href="./trabalho/ava-mirabelle/">Ava Mirabelle</a>
     </h4>
     <a href="./trabalho/ava-mirabelle/">
-      <img src="/media/images/ava-mirabelle-card.png"
+      <img src="/media/images/ava-mirabelle-card.jpg"
         alt="Imagem do logo da Ava Mirabelle" width="240" height="140">
     </a>
     <p>Identidade e desenvolvimento da loja de designers de roupa artesanal</p>
@@ -106,66 +152,46 @@
     </a>
     <p>Identidade e material impresso para a exposição de fotografia</p>
   </div>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./trabalho/protein-journal/">Protein&reg; Journal</a>
+      Protein&reg; Journal
     </h4>
-    <a href="./trabalho/protein-journal/">
-      <img src="/media/images/protein-journal-card.jpg"
-        alt="Detalhe da capa do Protein Journal 3 para iPad" width="240" height="140">
-    </a>
+    <img src="/media/images/protein-journal-card.jpg"
+      alt="Detalhe da capa do Protein Journal 3 para iPad" width="240" height="140">
     <p>Desenvolvimento da versão do jornal da Protein para iPad</p>
   </div>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./trabalho/shooting-people/">Shooting People</a>
+      Shooting People
     </h4>
-    <a href="./trabalho/shooting-people/">
-      <img src="/media/images/shooting-people-card.jpg"
-        alt="Fotografia dos cartões de visita da Shooting People" width="240" height="140">
-    </a>
+    <img src="/media/images/shooting-people-card.jpg"
+      alt="Fotografia dos cartões de visita da Shooting People" width="240" height="140">
     <p>Design e desenvolvimento para o a rede de realizadores de cinema</p>
   </div>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./trabalho/lilias-buchanan/">Lilias Buchanan</a>
+      Lilias Buchanan
     </h4>
-    <a href="./trabalho/lilias-buchanan/">
-      <img src="/media/images/lilias-buchanan-card.jpg"
-        alt="Detalhe de uma das ilutrações da série ‘The Death of Ivan Illych’ por Lilias Buchanan"
-        width="240" height="140">
-    </a>
+    <img src="/media/images/lilias-buchanan-card.jpg"
+      alt="Detalhe de uma das ilutrações da série ‘The Death of Ivan Illych’ por Lilias Buchanan"
+      width="240" height="140">
     <p>Design e desenvolvimento do portfólio digital da ilustradora escocesa</p>
   </div>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./trabalho/jo-phipps/">Jo Phipps</a>
+      Jo Phipps
     </h4>
-    <a href="./trabalho/jo-phipps/">
-      <img src="/media/images/jo-phipps-card.jpg"
-        alt="Fotografia ‘Joseph’ por Jo Phipps, 2011" width="240" height="140">
-    </a>
+    <img src="/media/images/jo-phipps-card.jpg"
+      alt="Fotografia ‘Joseph’ por Jo Phipps, 2011" width="240" height="140">
     <p>Design e desenvolvimento do portfolio digital da a fotógrafa inglesa</p>
   </div>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./trabalho/iterar/">Iterar</a>
+      Nostalgics
     </h4>
-    <a href="./trabalho/iterar/">
-      <img src="/media/images/iterar-card.png"
-        alt="Imagem do logo da Iterar" width="240" height="140">
-    </a>
-    <p>Identidade para a companhia portuguesa de software</p>
-  </div>
-  <div>
-    <h4>
-      <a href="./trabalho/nostalgics/">Nostalgics</a>
-    </h4>
-    <a href="./trabalho/nostalgics/">
-      <img src="/media/images/nostalgics-card.jpg"
-        alt="Detalhe do ‘Musical Glass’ (Copo Músical) por Nostalgics"
-        width="240" height="140">
-    </a>
+    <img src="/media/images/nostalgics-card.jpg"
+      alt="Detalhe do ‘Musical Glass’ (Copo Músical) por Nostalgics"
+      width="240" height="140">
     <p>Desenvolvimento do site para produtores de artifactos únicos</p>
   </div>
   <div>
@@ -181,26 +207,22 @@
   </div>
 
   <h3>2010</h3>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./trabalho/marili-andre/">Marili André</a>
+      Marili André
     </h4>
-    <a href="./trabalho/marili-andre/">
-      <img src="/media/images/marili-andre-card.jpg"
-        alt="Detalhe de um dos vídeos de Marili André e o seu logo"
-        width="240" height="140">
-    </a>
+    <img src="/media/images/marili-andre-card.jpg"
+      alt="Detalhe de um dos vídeos de Marili André e o seu logo"
+      width="240" height="140">
     <p>Identidade para a fotógrafa de moda e cineasta independente grega</p>
   </div>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./trabalho/ailara-berdyyeva/">Ailara Berdyyeva</a>
+      Ailara Berdyyeva
     </h4>
-    <a href="./trabalho/ailara-berdyyeva/">
-      <img src="/media/images/ailara-berdyyeva-card.jpg"
-        alt="Detalhe de uma das fotografias de uma das sacolas da collecção ‘Inside/Outsie’"
-        width="240" height="140">
-    </a>
+    <img src="/media/images/ailara-berdyyeva-card.jpg"
+      alt="Detalhe de uma das fotografias de uma das sacolas da collecção ‘Inside/Outsie’"
+      width="240" height="140">
     <p>Identidade, material impresso, fotografia e website para a designer de texteis</p>
   </div>
   <div>
@@ -216,16 +238,6 @@
   </div>
   <div>
     <h4>
-      <a href="./trabalho/savant/">Savant</a>
-    </h4>
-    <a href="./trabalho/savant/">
-      <img src="/media/images/savant-card.png"
-        alt="Imagem do logo do estúdio Savant" width="240" height="140">
-    </a>
-    <p>Identidade, material impresso e design do website para o estudo de design</p>
-  </div>
-  <div>
-    <h4>
       <a href="./trabalho/ana-barreira/">Ana Barreira</a>
     </h4>
     <a href="./trabalho/ana-barreira/">
@@ -236,26 +248,22 @@
     <p>Identidade, material impresso e design do website para a fotógrafa de moda</p>
   </div>
   <h3>2009</h3>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./trabalho/miti-ruangkritya/">Miti Ruangkritya</a>
+      Miti Ruangkritya
     </h4>
-    <a href="./trabalho/miti-ruangkritya/">
-      <img src="/media/images/miti-ruangkritya-card.jpg"
-        alt="Detalhe de uma das fotografias da colecção ‘Bangkok Protest’ por Miti Ruangkritya"
-        width="240" height="140">
-    </a>
+    <img src="/media/images/miti-ruangkritya-card.jpg"
+      alt="Detalhe de uma das fotografias da colecção ‘Bangkok Protest’ por Miti Ruangkritya"
+      width="240" height="140">
     <p>Identidade visual e design do website para o fotojornalista tailandês</p>
   </div>
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./trabalho/sophie-westerlind/">Sophie Westerlind</a>
+      Sophie Westerlind
     </h4>
-    <a href="./trabalho/sophie-westerlind/">
-      <img src="/media/images/sophie-westerlind-card.png"
-        alt="Detalhe da página de abertura do website de Sophie Westerlind"
-        width="240" height="140">
-    </a>
+    <img src="/media/images/sophie-westerlind-card.png"
+      alt="Detalhe da página de abertura do website de Sophie Westerlind"
+      width="240" height="140">
     <p>Design e desenvolvimento do website para a designer e ilustradora suéca</p>
   </div>
   <div>

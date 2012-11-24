@@ -83,6 +83,7 @@
       <div class="twenty"></div>
       <div class="thirty"></div>
     </div>
+
     <div id="info">
       <div class="txt grid4">
         <h4>Descrição</h4>
@@ -104,15 +105,24 @@
       <div class="txt grid1">
         <h4>Também no</h4>
         <ul>
+          <li><a href="http://dribbble.com/nunosans" target="_blank">Dribbble</a></li>
           <li><a href="http://github.com/nunosans" target="_blank">Github</a></li>
           <li><a href="http://twitter.com/nunosans" target="_blank">Twitter</a></li>
         </ul>
       </div>
     </div>
+
     <span id="copyright">
       © 2008&thinsp;—&thinsp;<?php date_default_timezone_set('Europe/London'); echo date("Y") ?> Nuno Coelho Santos &thinsp;/&thinsp;
       <a id="columns-on">Ver Colunas</a><a id="columns-off">Esconder Colunas</a>
     </span>
+
+    <!-- Scripts -->
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="/javascript/localscroll.js"></script>
+    <script src="/javascript/scrollto.js"></script>
+    <script src="/javascript/scripts.js"></script>
+
     <!-- Google Analytics -->
     <script type="text/javascript">
       var _gaq = _gaq || [];

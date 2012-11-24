@@ -1,14 +1,17 @@
-<? $project='Miti Ruangkritya'; require_once('../../header.inc.php'); ?>
+<?
+  $title='Miti Ruangkritya';
+  $description='Design and development of the website for the thai photojournalist';
+  require_once('../../header.inc.php');
+?>
 
 <div class="project-nav">
-	<h2><? echo $title ?></h2>
-	<span><? echo $project_number ?> de <? echo $projects_total ?></span>
-	<span><a href="../ana-barreira/">Anterior</a> &thinsp;/&thinsp; <a href="../sophie-westerlind/">Seguinte</a></span>
+  <h2><? echo $title ?></h2>
 </div>
 
 <div class="project" id="miti-ruangkritya">
 
-	<img class="clear side" src="/media/images/miti-ruangkritya-screen.png" width="1008" height="917">
+  <img class="clear side" width="1008" height="917"
+    src="/media/images/miti-ruangkritya-screen.png">
 
 </div>
 

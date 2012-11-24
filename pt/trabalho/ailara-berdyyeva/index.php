@@ -1,14 +1,18 @@
-<? $project='Ailara Berdyyeva'; require_once('../../header.inc.php'); ?>
+<?
+  $title='Ailara Berdyyeva';
+  $description='Identidade, material impresso, fotografia e web design
+  para o portfólio da designer de têxteis';
+  require_once('../../header.inc.php');
+?>
 
 <div class="project-nav">
-	<h2><? echo $title ?></h2>
-	<span><? echo $project_number ?> de <? echo $projects_total ?></span>
-	<span><a href="../marili-andre/">Anterior</a> &thinsp;/&thinsp; <a href="../caroline-pera/">Seguinte</a></span>
+  <h2><? echo $title ?></h2>
 </div>
 
 <div class="project" id="ailara-berdyyeva">
 
-	<img class="clear side" src="/media/images/ailara-berdyyeva-screen.png" width="1008" height="917">
+  <img class="clear side" width="1008" height="917"
+    src="/media/images/ailara-berdyyeva-screen.png" >
 
 </div>
 

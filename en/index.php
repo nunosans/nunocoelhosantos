@@ -24,7 +24,8 @@
       <a href="./work/kent-and-curwen/">Featured: Kent &amp; Curwen</a>
     </h2>
     <p>
-      <a href="./work/kent-and-curwen/">A modern website to celebrate a century of luxury menswear</a>
+      <a href="./work/kent-and-curwen/">A modern website to celebrate almost a
+      century of luxury menswear</a>
     </p>
   </div>
 </div>
@@ -35,7 +36,7 @@
   <!-- Projects from 2012 -->
   <h3>2012</h3>
 
-  <div>
+  <div class="new">
     <h4>
       <a href="./work/stylize-d/">Stylize/d</a>
     </h4>
@@ -53,7 +54,8 @@
     <a href="./work/kent-and-curwen/">
       <img width="240" height="140"
        src="/media/images/kent-and-curwen-card.jpg"
-       alt="Photograph of the Kent &amp; Curwen website seen from an iPad">
+       alt="Kent &amp; Curwen Logo on an image from the Fall/Winter 2012
+       campaign">
     </a>
     <p>Responsive website for the luxury meanswear brand</p>
   </div>

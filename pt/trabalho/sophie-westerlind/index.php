@@ -1,14 +1,17 @@
-<? $project='Sophie Westerlind'; require_once('../../header.inc.php'); ?>
+<?
+  $title='Sophie Westerlind';
+  $description='Design and development for the graphic designer and illustrator';
+  require_once('../../header.inc.php');
+?>
 
 <div class="project-nav">
-	<h2><? echo $title ?></h2>
-	<span><? echo $project_number ?> de <? echo $projects_total ?></span>
-	<span><a href="../miti-ruangkritya/">Anterior</a> &thinsp;/&thinsp; <a href="../fractures-from-anxiety/">Seguinte</a></span>
+  <h2><? echo $title ?></h2>
 </div>
 
-<div class="project" id="sophiewesterlind">
+<div class="project" id="sophie-westerlind">
 
-	<img class="clear side" src="/media/images/sophie-westerlind-screen.png" width="1008" height="917">
+  <img class="clear side" width="1008" height="917"
+    src="/media/images/sophie-westerlind-screen.png">
 
 </div>
 

@@ -1,15 +1,17 @@
-<? $project='Savant'; require_once('../../header.inc.php'); ?>
+<?
+  $title='Savant';
+  $description='Identity, print and website for the collaborative interactive design studio';
+  require_once('../../header.inc.php');
+?>
 
 <div class="project-nav">
-	<h2><? echo $title ?></h2>
-	<span><? echo $project_number ?> de <? echo $projects_total ?></span>
-	<span><a href="../caroline-pera/">Anterior</a> &thinsp;/&thinsp; <a href="../ana-barreira/">Seguinte</a></span>
+  <h2><? echo $title ?></h2>
 </div>
 
 <div class="project" id="savant">
-	
-	<!-- Work goes here -->
-	
+
+  <!-- Work goes here -->
+
 </div>
 
 <? require_once('../../footer.inc.php'); ?>

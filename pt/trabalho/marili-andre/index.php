@@ -1,14 +1,17 @@
-<? $project='Marili André'; require_once('../../header.inc.php'); ?>
+<?
+  $title='Marili André';
+  $description='Identity for the fashion photographer and filmmaking artist';
+  require_once('../../header.inc.php');
+?>
 
 <div class="project-nav">
-	<h2><? echo $title ?></h2>
-	<span><? echo $project_number ?> de <? echo $projects_total ?></span>
-	<span><a href="../stethoscore/">Anterior</a> &thinsp;/&thinsp; <a href="../ailara-berdyyeva/">Seguinte</a></span>
+  <h2><? echo $title ?></h2>
 </div>
 
 <div class="project" id="marili-andre">
 
-	<img class="clear side" src="/media/images/marili-andre-screen.png" width="1008" height="917">
+  <img class="clear side" width="1008" height="917"
+    src="/media/images/marili-andre-screen.png">
 
 </div>
 

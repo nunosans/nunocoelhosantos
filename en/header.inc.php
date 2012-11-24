@@ -1,5 +1,5 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html lang="en-GB">
   <head>
     <title>Nuno Coelho Santos <? if ($page=='Home' || $page=='Profile') {echo(' &nbsp;—&nbsp; '); } else {echo(' &nbsp;~&nbsp; ');}; echo $title; ?></title>
     <meta charset="UTF-8">
@@ -8,15 +8,11 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
     <link href="/stylesheets/main.css" rel="stylesheet">
-    <link href="/humans.txt" rel="author">
     <script src="http://use.typekit.com/qxu7res.js"></script>
-    <!--<script src="http://code.jquery.com/jquery-latest.min.js"></script>-->
-    <script src="/javascript/jquery.js"></script>
-    <script src="/javascript/localscroll.js"></script>
-    <script src="/javascript/scrollto.js"></script>
-    <script src="/javascript/scripts.js"></script>
+    <script>try{Typekit.load();}catch(e){};</script>
+    <link href="/humans.txt" rel="author">
     <?
-    $project_number = 0; // Initial value to iterate
+    $project_number = 0;  // Initial value to iterate
     $projects_total = 15; // Total number of projects
     switch ($title) {
       case 'Fractures from Anxiety'   : $project_number++;
@@ -52,7 +48,7 @@
     <div id="header">
       <h1>
         <em><a href="/en/">Nuno Coelho Santos</a></em><br>
-        Designer & Front-end Developer
+        Designer &amp; Front-end Developer
       </h1>
       <ul id="nav">
         <li>

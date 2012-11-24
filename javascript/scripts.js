@@ -42,9 +42,11 @@ function resizeFeaturedProject() {
 
 // Create Grid On/Off Toggle.
 function gridToggles() {
+  // Declare variables.
   var columns = $('#columns');
   var columnButtonOn = $('#columns-on');
   var columnButtonOff = $('#columns-off');
+
   columns.hide();
   columnButtonOn.show();
   columnButtonOff.hide();
@@ -62,25 +64,16 @@ function gridToggles() {
   });
 };
 
-// Get Typekit Fonts.
-try{Typekit.load();}catch(e){};
+// Hover effects.
+function hoverEffects() {
+  // Declare variables.
+  var projects = $('.work div a');
+  var images = projects.find('img');
 
-$(document).ready(function() {
+  images.after('<span class="cover"></span>');
+  projects.find('.cover').fadeTo(0, 0);
 
-  resizeFeaturedProject();
-  gridToggles();
-
-  // Apply localScroll to the nav.
-  $('#nav').localScroll({
-      lock: stop,
-      target:'body',
-      duration: 350
-  });
-
-  // Hover effects.
-  $('.work div a img').after('<span class="cover"></span>');
-  $('.cover').fadeTo(0, 0);
-  $('.work div a').hover(
+  projects.hover(
     function(){
       $(this).children('.cover').stop(true, false).fadeTo(0, 0.7);
       $(this).siblings('h4').children('a').addClass('active');
@@ -90,6 +83,20 @@ $(document).ready(function() {
       $(this).siblings('h4').children('a').removeClass('active');
     }
   );
+};
+
+$(document).ready(function() {
+
+  resizeFeaturedProject();
+  gridToggles();
+  hoverEffects();
+
+  // Apply localScroll to the nav.
+  $('#nav').localScroll({
+      lock: stop,
+      target:'body',
+      duration: 350
+  });
 
   // Add mobile or desktop class.
   if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {

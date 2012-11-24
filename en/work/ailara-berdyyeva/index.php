@@ -1,6 +1,7 @@
 <?
   $title='Ailara Berdyyeva';
-  $description='Identity, print, photography and web design for the textile designer webfolio';
+  $description='Identity, print, photography and web design for the textile
+  designer webfolio';
   require_once('../../header.inc.php');
 ?>
 
