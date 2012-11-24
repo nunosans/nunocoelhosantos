@@ -12,7 +12,7 @@
 <div class="project" id="ailara-berdyyeva">
 
   <img class="clear side" width="1008" height="917"
-    src="/media/images/ailara-berdyyeva-screen.png" >
+    src="http://media.nunocoelhosantos.com/images/ailara-berdyyeva-screen.png" >
 
 </div>
 

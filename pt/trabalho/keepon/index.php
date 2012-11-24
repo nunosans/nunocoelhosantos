@@ -29,11 +29,11 @@
       target="_blank">Keepon on the App Store</a>
     </p>
   </div>
-  <img class="side" width="1450" height="1100" src="/media/images/keepon-app-icon.jpg">
+  <img class="side" width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/keepon-app-icon.jpg">
 
-  <img class="full" width="1700" height="1100" src="/media/images/keepon-wireframe-a.png">
-  <img class="full" width="1700" height="1100" src="/media/images/keepon-wireframe-b.png">
-  <img class="full" width="1700" height="1100" src="/media/images/keepon-wireframe-c.png">
+  <img class="full" width="1700" height="1100" src="http://media.nunocoelhosantos.com/images/keepon-wireframe-a.png">
+  <img class="full" width="1700" height="1100" src="http://media.nunocoelhosantos.com/images/keepon-wireframe-b.png">
+  <img class="full" width="1700" height="1100" src="http://media.nunocoelhosantos.com/images/keepon-wireframe-c.png">
 
 </div>
 

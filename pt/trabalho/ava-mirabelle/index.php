@@ -15,7 +15,7 @@
 
 <div class="project" id="ava-mirabelle">
 
-  <img class="full" width="1264" height="500" src="/media/images/ava-mirabelle-logo-on-an-image.jpg">
+  <img class="full" width="1264" height="500" src="http://media.nunocoelhosantos.com/images/ava-mirabelle-logo-on-an-image.jpg">
 
   <div class="clear txt col1">
     <h2>Ava Mirabelle</h2>
@@ -32,24 +32,19 @@
       marcas rivais.
     </p>
     <p>
-      In the symbol, the "A" and the "V" in "Ava" are united into a single element.
-      The brand was applyed to invoices, business cards, lookbooks, videos,
-      clothing labels and the online store.
-    </p>
-    <p>
       No símbolo, o “A” e o “V” de “Ava” combinam-se num único elemento. A marca
       foi aplicada a facturas, cartões de visita, editoriais, videos,
       etiquetas e na loja online.
     </p>
   </div>
 
-  <img class="side" width="1008" height="1008" src="/media/images/ava-mirabelle-logo.png">
+  <img class="side" width="1008" height="1008" src="http://media.nunocoelhosantos.com/images/ava-mirabelle-logo.png">
 
-  <img class="clear side right" width="1008" height="729" src="/media/images/ava-mirabelle-logo-guidelines.png">
+  <img class="clear side right" width="1008" height="729" src="http://media.nunocoelhosantos.com/images/ava-mirabelle-logo-guidelines.png">
 
-  <img class="full" width="1264" height="540" src="/media/images/ava-mirabelle-stationary.jpg">
+  <img class="full" width="1264" height="540" src="http://media.nunocoelhosantos.com/images/ava-mirabelle-stationary.jpg">
 
-  <img class="clear side" width="1008" height="917" src="/media/images/ava-mirabelle-screen.png">
+  <img class="clear side" width="1008" height="917" src="http://media.nunocoelhosantos.com/images/ava-mirabelle-screen.png">
 
   <div class="txt col1">
     <p>

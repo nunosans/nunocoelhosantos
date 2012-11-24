@@ -15,9 +15,9 @@
 
 <div class="project" id="stylize-d">
 
-  <img class="full" width="1264" height="902" src="/media/images/stylize-d-white-on-image.jpg">
+  <img class="full" width="1264" height="902" src="http://media.nunocoelhosantos.com/images/stylize-d-white-on-image.jpg">
 
-  <img class="clear side" width="1264" height="481" src="/media/images/stylize-d-logo-as-masking-shape.jpg">
+  <img class="clear side" width="1264" height="481" src="http://media.nunocoelhosantos.com/images/stylize-d-logo-as-masking-shape.jpg">
   <div class="txt">
     <h2>Stylize/d</h2>
     <h6>Branding &amp; Web Design</h6>
@@ -34,14 +34,14 @@
     </p>-->
   </div>
 
-  <img class="full" width="1264" height="894" src="/media/images/stylize-d-magazine-covers.jpg">
+  <img class="full" width="1264" height="894" src="http://media.nunocoelhosantos.com/images/stylize-d-magazine-covers.jpg">
 
-  <img class="clear half" width="624" height="471" src="/media/images/stylize-d-type-1.png">
-  <img class="half"       width="624" height="471" src="/media/images/stylize-d-type-2.png">
+  <img class="clear half" width="624" height="471" src="http://media.nunocoelhosantos.com/images/stylize-d-type-1.png">
+  <img class="half"       width="624" height="471" src="http://media.nunocoelhosantos.com/images/stylize-d-type-2.png">
 
-  <img class="full" width="1264" height="906" src="/media/images/stylize-d-stationary.jpg">
+  <img class="full" width="1264" height="906" src="http://media.nunocoelhosantos.com/images/stylize-d-stationary.jpg">
 
-  <img class="clear side" width="1008" height="303" src="/media/images/stylize-d-symbol-as-masking-shape.png">
+  <img class="clear side" width="1008" height="303" src="http://media.nunocoelhosantos.com/images/stylize-d-symbol-as-masking-shape.png">
 
   <div class="clear txt">
     <p>
@@ -60,10 +60,10 @@
       social networks.
     </p>
   </div>
-  <img class="right side" width="1008" height="672" src="/media/images/stylize-d-facebook-page.jpg">
-  <img class="right side" width="1008" height="672" src="/media/images/stylize-d-twitter-page.jpg">
+  <img class="right side" width="1008" height="672" src="http://media.nunocoelhosantos.com/images/stylize-d-facebook-page.jpg">
+  <img class="right side" width="1008" height="672" src="http://media.nunocoelhosantos.com/images/stylize-d-twitter-page.jpg">
 
-  <img class="site-plan" width="755" height="4056" src="/media/images/stylize-d-website-plan.jpg">
+  <img class="site-plan" width="755" height="4056" src="http://media.nunocoelhosantos.com/images/stylize-d-website-plan.jpg">
 
 
 </div>

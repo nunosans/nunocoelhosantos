@@ -42,14 +42,14 @@
       <a href="http://auria-london.com/" target="_blank">auria-london.com</a>
     </p>
   </div>
-  <img class="side" width="1008" height="902" src="/media/images/auria-x-margot-photo-3.jpg">
+  <img class="side" width="1008" height="902" src="http://media.nunocoelhosantos.com/images/auria-x-margot-photo-3.jpg">
 
-  <img class="clear half" width="624" height="902" src="/media/images/auria-x-margot-photo-1.jpg">
-  <img class="half"       width="624" height="902" src="/media/images/auria-x-margot-photo-2.jpg">
+  <img class="clear half" width="624" height="902" src="http://media.nunocoelhosantos.com/images/auria-x-margot-photo-1.jpg">
+  <img class="half"       width="624" height="902" src="http://media.nunocoelhosantos.com/images/auria-x-margot-photo-2.jpg">
 
-  <img class="full" width="1264" height="732" src="/media/images/auria-x-margot-screen-1.jpg">
-  <img class="full" width="1264" height="732" src="/media/images/auria-x-margot-screen-2.jpg">
-  <img class="full" width="1264" height="732" src="/media/images/auria-x-margot-screen-3.jpg">
+  <img class="full" width="1264" height="732" src="http://media.nunocoelhosantos.com/images/auria-x-margot-screen-1.jpg">
+  <img class="full" width="1264" height="732" src="http://media.nunocoelhosantos.com/images/auria-x-margot-screen-2.jpg">
+  <img class="full" width="1264" height="732" src="http://media.nunocoelhosantos.com/images/auria-x-margot-screen-3.jpg">
 
 </div>
 

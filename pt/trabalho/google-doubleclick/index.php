@@ -10,7 +10,7 @@
 
 <div class="project" id="google-doubleclick-rich-media-gallery">
 
-  <img class="clear side" width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-7.jpg">
+  <img class="clear side" width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/google-doubleclick-rich-media-gallery-display-7.jpg">
   <div class="txt">
     <h2>Google DoubleClick</h2>
     <h6>Front-end Development</h6>
@@ -41,13 +41,13 @@
     </p>
   </div>
 
-  <img class="clear half" width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-1.jpg">
-  <img class="half"       width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-2.jpg">
+  <img class="clear half" width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/google-doubleclick-rich-media-gallery-display-1.jpg">
+  <img class="half"       width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/google-doubleclick-rich-media-gallery-display-2.jpg">
 
-  <img class="full"       width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-5.jpg">
+  <img class="full"       width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/google-doubleclick-rich-media-gallery-display-5.jpg">
 
-  <img class="clear half" width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-3.jpg">
-  <img class="half"       width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-4.jpg">
+  <img class="clear half" width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/google-doubleclick-rich-media-gallery-display-3.jpg">
+  <img class="half"       width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/google-doubleclick-rich-media-gallery-display-4.jpg">
 
 
 </div>

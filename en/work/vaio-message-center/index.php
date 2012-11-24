@@ -10,7 +10,7 @@
 
 <div class="project" id="sony-vaio-message-center">
 
-  <img class="clear side" width="1008" height="533" src="/media/images/sony-vaio-message-center-laptop.jpg">
+  <img class="clear side" width="1008" height="533" src="http://media.nunocoelhosantos.com/images/sony-vaio-message-center-laptop.jpg">
   <div class="txt">
     <h2>Sony VAIO Message Center</h2>
     <h6>Front-end Development & Web Design</h6>
@@ -38,18 +38,18 @@
       <a href="http://windows.microsoft.com/en-US/windows-8/meet" target="_blank">Windows 8</a> operating system.
     </p>
   </div>
-  <img class="side" width="624" height="500" src="/media/images/sony-vaio-message-center-frame.jpg">
+  <img class="side" width="624" height="500" src="http://media.nunocoelhosantos.com/images/sony-vaio-message-center-frame.jpg">
 
-  <img class="no-margin clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-chrome-1.png">
-  <img class="no-margin half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-chrome-2.png">
-  <img class="no-margin clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-safari-1.png">
-  <img class="no-margin half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-safari-2.png">
-  <img class="no-margin clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-firefox-1.png">
-  <img class="no-margin half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-firefox-2.png">
-  <img class="no-margin clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie9-1.png">
-  <img class="no-margin half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie9-2.png">
-  <img class="no-margin clear half" width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie8-1.png">
-  <img class="no-margin half"       width="1450" height="1100" src="/media/images/sony-vaio-message-center-screen-ie8-2.png">
+  <img class="no-margin clear half" width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/sony-vaio-message-center-screen-chrome-1.png">
+  <img class="no-margin half"       width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/sony-vaio-message-center-screen-chrome-2.png">
+  <img class="no-margin clear half" width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/sony-vaio-message-center-screen-safari-1.png">
+  <img class="no-margin half"       width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/sony-vaio-message-center-screen-safari-2.png">
+  <img class="no-margin clear half" width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/sony-vaio-message-center-screen-firefox-1.png">
+  <img class="no-margin half"       width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/sony-vaio-message-center-screen-firefox-2.png">
+  <img class="no-margin clear half" width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/sony-vaio-message-center-screen-ie9-1.png">
+  <img class="no-margin half"       width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/sony-vaio-message-center-screen-ie9-2.png">
+  <img class="no-margin clear half" width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/sony-vaio-message-center-screen-ie8-1.png">
+  <img class="no-margin half"       width="1450" height="1100" src="http://media.nunocoelhosantos.com/images/sony-vaio-message-center-screen-ie8-2.png">
 
 </div>
 

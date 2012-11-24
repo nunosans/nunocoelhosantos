@@ -11,7 +11,7 @@
 <div class="project" id="protein-journal">
 
   <img class="full" width="1264" height="833"
-    src="/media/images/protein-journal-main.png" >
+    src="http://media.nunocoelhosantos.com/images/protein-journal-main.png" >
 
 </div>
 

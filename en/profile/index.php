@@ -12,7 +12,7 @@
 <div class="project" id="profile">
 
 
-	<img class="clear side" src="/media/images/profile-portrait-1.jpg" width="" height="">
+	<img class="clear side" src="http://media.nunocoelhosantos.com/images/profile-portrait-1.jpg" width="" height="">
 	<div class="txt">
 		<h2>Auto-Biography</h2>
 		<p>
@@ -50,7 +50,7 @@
 			<a href="http://iterar.co/" target="_blank">Iterar</a>.
 		</p>
 	</div>
-	<img class="both" src="/media/images/profile-csm.jpg" width="" height="">
+	<img class="both" src="http://media.nunocoelhosantos.com/images/profile-csm.jpg" width="" height="">
 
 	<div class="clear txt">
 		<h2>Selected Clients/Friends I worked for</h2>
