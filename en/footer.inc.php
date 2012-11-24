@@ -119,10 +119,10 @@
     </span>
 
     <!-- Scripts -->
-    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
     <script src="/javascript/localscroll.js"></script>
     <script src="/javascript/scrollto.js"></script>
-    <script src="/javascript/scripts.js"></script>
+    <script src="/javascript/scripts-min.js"></script>
 
     <!-- Google Analytics -->
     <script type="text/javascript">

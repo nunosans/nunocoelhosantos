@@ -7,7 +7,7 @@
     <meta name="keywords" content="nuno, coelho, santos, graphic, web, design, identity, soares, reis, csm, central, saint, martins, london">
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
-    <link href="/stylesheets/main.css" rel="stylesheet">
+    <link href="/stylesheets/main-min.css" rel="stylesheet">
     <script src="http://use.typekit.com/qxu7res.js"></script>
     <script>try{Typekit.load();}catch(e){};</script>
     <link href="/humans.txt" rel="author">
