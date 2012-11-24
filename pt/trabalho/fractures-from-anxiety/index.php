@@ -1,6 +1,6 @@
 <?
   $title='Fractures from Anxiety';
-  $description='Book and cover design for the short stories of Marcus Bastel';
+  $description='Design da capa e interior do livro de contos de Marcus Bastel';
   require_once('../../header.inc.php');
 ?>
 
@@ -8,8 +8,8 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../ana-barreira/">Previous</a> &thinsp;/&thinsp;
-    Next
+    <a href="../ana-barreira/">Anterior</a> &thinsp;/&thinsp;
+    Seguinte
   </span>
 </div>
 

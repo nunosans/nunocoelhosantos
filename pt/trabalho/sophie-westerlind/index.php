@@ -1,6 +1,6 @@
 <?
   $title='Sophie Westerlind';
-  $description='Design and development for the graphic designer and illustrator';
+  $description='Design e programação para a designer e ilustradora';
   require_once('../../header.inc.php');
 ?>
 

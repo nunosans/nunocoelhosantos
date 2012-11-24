@@ -1,13 +1,17 @@
 <?
 	$title='Expresso Viagens';
-	$description='Identity, print, web design/development and illustrations for the travel agency';
+	$description='Identidade, impressão, web design, programação e Ilustração
+	para o website da agência de viagens';
 	require_once('../../header.inc.php');
 ?>
 
 <div class="project-nav">
 	<h2><? echo $title ?></h2>
 	<span><? echo $project_number ?> de <? echo $projects_total ?></span>
-	<span><a href="../vania-coelho-santos/">Anterior</a> &thinsp;/&thinsp; <a href="../ana-barreira/">Seguinte</a></span>
+	<span>
+		<a href="../ava-mirabelle/">Anterior</a> &thinsp;/&thinsp;
+		<a href="../index-7/">Seguinte</a>
+	</span>
 </div>
 
 <div class="project" id="expresso-viagens">

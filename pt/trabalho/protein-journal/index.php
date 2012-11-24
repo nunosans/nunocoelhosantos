@@ -1,6 +1,6 @@
 <?
   $title='Protein Journal';
-  $description='Development of the Protein’s journal version for the iPad';
+  $description='Programação do jornal da Protein® para iPad';
   require_once('../../header.inc.php');
 ?>
 

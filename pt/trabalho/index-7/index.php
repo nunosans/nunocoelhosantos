@@ -1,6 +1,6 @@
 <?
   $title='Index 7';
-  $description='Identity and print design for the photography exhibition';
+  $description='Identidade e material impresso para a exposição de fotografia';
   require_once('../../header.inc.php');
 ?>
 
@@ -8,8 +8,8 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../expresso-viagens/">Previous</a> &thinsp;/&thinsp;
-    <a href="../stethoscore/">Next</a>
+    <a href="../expresso-viagens/">Anterior</a> &thinsp;/&thinsp;
+    <a href="../stethoscore/">Seguinte</a>
   </span>
 </div>
 

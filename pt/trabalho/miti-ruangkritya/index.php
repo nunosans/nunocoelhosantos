@@ -1,6 +1,6 @@
 <?
   $title='Miti Ruangkritya';
-  $description='Design and development of the website for the thai photojournalist';
+  $description='Design e programação do webiste para o fotojornalista tailandês';
   require_once('../../header.inc.php');
 ?>
 

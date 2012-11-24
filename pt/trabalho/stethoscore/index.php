@@ -1,6 +1,6 @@
 <?
   $title='Stethoscore';
-  $description='User interface, user experience & web development for the medical utility app';
+  $description='Design da interface e experiência para o utilitário médico para iPhone';
   require_once('../../header.inc.php');
 ?>
 
@@ -8,8 +8,8 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../index-7/">Previous</a> &thinsp;/&thinsp;
-    <a href="../caroline-pera/">Next</a>
+    <a href="../index-7/">Anterior</a> &thinsp;/&thinsp;
+    <a href="../caroline-pera/">Seguinte</a>
   </span>
 </div>
 

@@ -1,13 +1,16 @@
 <?
 	$title='Vânia Coelho Santos';
-	$description='Design and development of my sister’s architecture digital portfolio';
+	$description='Design e programação do portfólio digital da minha irmã';
 	require_once('../../header.inc.php');
 ?>
 
 <div class="project-nav">
 	<h2><? echo $title ?></h2>
 	<span><? echo $project_number ?> de <? echo $projects_total ?></span>
-	<span><a href="../paul-cocksedge-shop/">Anterior</a> &thinsp;/&thinsp; <a href="../expresso-viagens/">Seguinte</a></span>
+	<span>
+    <a href="../paul-cocksedge-shop/">Anterior</a> &thinsp;/&thinsp;
+    <a href="../ava-mirabelle/">Seguinte</a>
+  </span>
 </div>
 
 <div class="project" id="vania-coelho-santos">

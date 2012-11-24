@@ -1,6 +1,7 @@
 <?
   $title='Caroline Pera';
-  $description='Identity, print and web design for the jewellery design webfolio';
+  $description='Identidade, material impresso e web design para o porfólio da
+  joalheira';
   require_once('../../header.inc.php');
 ?>
 
@@ -8,8 +9,8 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../stethoscore/">Previous</a> &thinsp;/&thinsp;
-    <a href="../ana-barreira/">Next</a>
+    <a href="../stethoscore/">Anterior</a> &thinsp;/&thinsp;
+    <a href="../ana-barreira/">Seguinte</a>
   </span>
 </div>
 

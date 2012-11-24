@@ -1,6 +1,6 @@
 <?
   $title='Iterar';
-  $description='Identity for the start up portuguese tech company';
+  $description='Identidade para a start-up portuguesa';
   require_once('../../header.inc.php');
 ?>
 

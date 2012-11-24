@@ -1,6 +1,6 @@
 <?
   $title='Savant';
-  $description='Identity, print and website for the collaborative interactive design studio';
+  $description='Identidade, material impresso e website para a colectiva de designers e programadores';
   require_once('../../header.inc.php');
 ?>
 

@@ -1,6 +1,6 @@
 <?
   $title='Shooting People';
-  $description='Print, web design and development for the independent filmmakers’ network';
+  $description='Design e programação para a rede de realizadores de cinema independentes';
   require_once('../../header.inc.php');
 ?>
 

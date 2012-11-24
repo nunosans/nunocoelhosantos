@@ -1,6 +1,7 @@
 <?
   $title='Norman Hartnell';
-  $description='Development of HM The Queen’s dressmaker revival brand website';
+  $description='Desenvolvimento do website da Norman Hartnell como parte do
+  relançamento da marca do estilista oficial da Rainha Elizabete';
   require_once('../../header.inc.php');
 ?>
 
@@ -8,8 +9,8 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../hash-todo/">Previous</a> &thinsp;/&thinsp;
-    <a href="../paul-cocksedge-shop/">Next</a>
+    <a href="../hash-todo/">Anterior</a> &thinsp;/&thinsp;
+    <a href="../paul-cocksedge-shop/">Seguinte</a>
   </span>
 </div>
 

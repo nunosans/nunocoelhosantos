@@ -1,6 +1,6 @@
 <?
   $title='#todo';
-  $description='User interface and experience of the Twitter-powered to-do list app';
+  $description='Interface e experiência da aplicação de tarefas gerida pelo Twitter';
   require_once('../../header.inc.php');
 ?>
 
@@ -8,8 +8,8 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../keepon/">Previous</a> &thinsp;/&thinsp;
-    <a href="../norman-hartnell/">Next</a>
+    <a href="../keepon/">Anterior</a> &thinsp;/&thinsp;
+    <a href="../norman-hartnell/">Seguinte</a>
   </span>
 </div>
 

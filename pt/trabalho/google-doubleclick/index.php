@@ -1,6 +1,7 @@
 <?
   $title='Google DoubleClick';
-  $description='Front-end development for the Rich Media Gallery mobile site';
+  $description='Programação do site optimisado para touchscreen da DoubleClick
+  Rich Media Gallery da Google';
   require_once('../../header.inc.php');
 ?>
 

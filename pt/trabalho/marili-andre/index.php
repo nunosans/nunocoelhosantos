@@ -1,6 +1,6 @@
 <?
   $title='Marili André';
-  $description='Identity for the fashion photographer and filmmaking artist';
+  $description='Identidade para a fotógrafa de moda e realizadora independente';
   require_once('../../header.inc.php');
 ?>
 

@@ -1,6 +1,7 @@
 <?
   $title='Nostalgics';
-  $description='Web development for the collection of bespoke curious artefacts';
+  $description='Programação do website para os criadores de productos
+  artesanais';
   require_once('../../header.inc.php');
 ?>
 

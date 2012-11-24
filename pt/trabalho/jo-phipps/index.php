@@ -1,6 +1,6 @@
 <?
   $title='Jo Phipps';
-  $description='Design & Development of the artist online portfolio';
+  $description='Design e programação do porfolio online da artista';
   require_once('../../header.inc.php');
 ?>
 

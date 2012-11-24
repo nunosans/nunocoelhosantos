@@ -9,7 +9,8 @@
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
     <a href="../paul-cocksedge-shop/">Previous</a> &thinsp;/&thinsp;
-    <a href="../ava-mirabelle/">Next</a></span>
+    <a href="../ava-mirabelle/">Next</a>
+  </span>
 </div>
 
 <div class="project" id="vania-coelho-santos">

@@ -1,6 +1,7 @@
 <?
   $title='Keepon';
-  $description='Design, Architecture and experience of the third-party Kickoff client for iOS';
+  $description='Design, arquitectura de informação e experiência do cliente de
+  Kickoff para iOS';
   require_once('../../header.inc.php');
 ?>
 
@@ -8,8 +9,8 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../auria-x-margot-bowman/">Previous</a> &thinsp;/&thinsp;
-    <a href="../hash-todo/">Next</a>
+    <a href="../auria-x-margot-bowman/">Anterior</a> &thinsp;/&thinsp;
+    <a href="../hash-todo/">Seguinte</a>
   </span>
 </div>
 

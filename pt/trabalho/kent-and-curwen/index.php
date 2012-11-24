@@ -1,6 +1,6 @@
 <?
   $title='Kent & Curwen';
-  $description='Development of the Kent & Curwen website';
+  $description='Programação do website para a Kent &amp; Curwen';
   require_once('../../header.inc.php');
 ?>
 
@@ -8,8 +8,8 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../stylize-d/">Previous</a> &thinsp;/&thinsp;
-    <a href="../auria-x-margot-bowman/">Next</a>
+    <a href="../stylize-d/">Anterior</a> &thinsp;/&thinsp;
+    <a href="../auria-x-margot-bowman/">Seguinte</a>
   </span>
 </div>
 

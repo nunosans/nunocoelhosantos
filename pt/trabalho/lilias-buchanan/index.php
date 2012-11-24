@@ -1,6 +1,6 @@
 <?
   $title='Lilias Buchanan';
-  $description='Online portfolio for the portraitist illustrator and graphic designer';
+  $description='Portfolio online para a ilustradora e designer gráfica';
   require_once('../../header.inc.php');
 ?>
 
