@@ -18,29 +18,44 @@
   <img class="clear side" width="1008" height="673" src="http://media.nunocoelhosantos.com/images/index-7-flyers.jpg">
   <div class="txt col1">
     <h2>Index 7</h2>
-    <h6>Identity</h6>
+    <h6>Identidade</h6>
     <p>
-      Identity for a photography exhibition hosted at Protein® Gallery. There was
-      no running theme across the exhibition and the identity should not mirror
-      or represent any of the type of art exhibited. The result was then a simple
-      logo, with the focus on the small space and number of artists showcasing.
+      Identidade para a exposição de fotografia na <a href="http://prote.in/"
+      target="_blank">Protein®</a> Gallery. Não havia um tema que englobasse
+      a exposição e a identidade procura não establecer um nem representar
+      nenhum formato de arte ou estilo que podesse comprometer futuras variações
+      da exposição. O logo foca-se no espaço e no número de artistas a apresentar
+      o seu trabalho e ao mesmo tempo  combinação com uma das peças de arte.
     </p>
   </div>
 
-  <img class="full" width="1264" height="400" src="http://media.nunocoelhosantos.com/images/index-7-logo-variations.png">
+  <img class="full" width="1264" height="400"
+    src="http://media.nunocoelhosantos.com/images/index-7-logo-variations.png"
+    alt="">
 
   <div class="clear txt">
     <p>
-      The logo was designed with future iterations in mind, for when the exhibition
-      got larger and the index number longer. The sides of the polygon would
-      also increase the number of its sides to reflect this trend.
-    </p>
+      O logo foi desenhado com futuras iterações da exposição em mente, onde o
+      número de artistas apresentados e o número no logo fosse mais alto. O
+      polígono que acolhe a marca aumentaria também o numero dos seus lados
+      para acompanhar o crescimento da exposição.
   </div>
-  <img id="special-3" class="side" width="1008" height="1110" src="http://media.nunocoelhosantos.com/images/index-7-logo-iterations.png">
+  <img id="special-3" class="side" width="1008" height="1110"
+    src="http://media.nunocoelhosantos.com/images/index-7-logo-iterations.png"
+    alt="Variações do logo Index 7 para futuras iterações da exposição">
 
-  <img class="clear half" width="624" height="390" src="http://media.nunocoelhosantos.com/images/index-7-card-1.jpg">
-  <img class="half"       width="624" height="390" src="http://media.nunocoelhosantos.com/images/index-7-card-2.jpg">
-  <img class="clear half" width="624" height="390" src="http://media.nunocoelhosantos.com/images/index-7-card-3.jpg">
+  <img class="clear half" width="624" height="390"
+    src="http://media.nunocoelhosantos.com/images/index-7-card-1.jpg"
+    alt="Logo da exposição Index 7 aplicada sobre uma fotografia dos artistas em
+    exibição">
+  <img class="half" width="624" height="390"
+    src="http://media.nunocoelhosantos.com/images/index-7-card-2.jpg"
+    alt="Logo da exposição Index 7 aplicada sobre uma fotografia dos artistas em
+    exibição">
+  <img class="clear half" width="624" height="390"
+    src="http://media.nunocoelhosantos.com/images/index-7-card-3.jpg"
+    alt="Logo da exposição Index 7 aplicada sobre uma fotografia dos artistas em
+    exibição">
 
 </div>
 
