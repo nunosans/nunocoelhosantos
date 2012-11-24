@@ -21,15 +21,12 @@
     <h2>Caroline Pera</h2>
     <h6>Identity, Web Design, Print Design, Photography direction</h6>
     <p>
-      Caroline is an artist and jewellery designer interesting in merging fine art
-      and jewellery. For this portfolio webiste I worked on the identity that revolves
-      mainly around the logo with the dot inside the "O" resembling a jewel and
-      aiding the typeface balance. For the website I organised a photoshoot
-      to create appealing imagery to present the jewellery pieces, and built a website
-      that would make the content king.
-    </p>
-    <p class="icon-globe-1">
-      <a href="http://carolinepera.com/" target="_blank">carolinepera.com</a>
+      Caroline is a fine artist and jewellery designer interesting in merging
+      the two fields. For this webisite I created a simple logo that
+      illustrates the reflexion on a pearl with a dot inside the “o” in
+      ”Caroline”. In this project I also organised a photoshoot that would
+      result in imagery specifically to be used on the website and designed
+      a minimal website that would make use of that content.
     </p>
   </div>
   <img class="side" width="1008" height="917" src="http://media.nunocoelhosantos.com/images/caroline-pera-screen.png">
@@ -37,12 +34,14 @@
   <img class="clear side" width="1008" height="917" src="http://media.nunocoelhosantos.com/images/caroline-pera-ipad-screen.jpg">
   <div class="txt">
     <p>
-      Photography credits:<br>
-      Jewellery: <a href="http://carolinepera.com/" target="_blank">Caroline Pera</a> /<br>
-      Photography and PP: <a href="http://anabarreira.com/" target="_blank">Ana Barreira</a> /<br>
-      Styling: <a href="http://gabrielasplendore.com" target="_blank">Gabriela Splendore</a> /<br>
-      Hair and Make Up: Marina Keri /<br>
+      Jewellery: <a href="http://carolinepera.com/" target="_blank">Caroline Pera</a><br>
+      Photography and PP: <a href="http://anabarreira.com/" target="_blank">Ana Barreira</a><br>
+      Styling: <a href="http://gabrielasplendore.com" target="_blank">Gabriela Splendore</a><br>
+      Hair and Make Up: Marina Keri<br>
       Model: Natalia K.
+    </p>
+    <p class="icon-globe-1">
+      <a href="http://carolinepera.com/" target="_blank">carolinepera.com</a>
     </p>
   </div>
   <img class="clear side" width="1008" height="917" src="http://media.nunocoelhosantos.com/images/caroline-pera-business-cards.jpg">

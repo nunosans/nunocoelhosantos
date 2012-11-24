@@ -16,37 +16,41 @@
 
 <div class="project" id="caroline-pera">
 
-  <img class="full" width="1008" height="917" src="http://media.nunocoelhosantos.com/images/caroline-pera-logo-on-an-image.jpg">
+  <img class="full" width="1008" height="917"
+    src="http://media.nunocoelhosantos.com/images/caroline-pera-logo-on-an-image.jpg">
 
   <div class="clear txt">
     <h2>Caroline Pera</h2>
-    <h6>Identity, Web Design, Print Design, Photography direction</h6>
+    <h6>Identidade, Design para Web e Impressão, Direcção de Fotografia</h6>
     <p>
-      Caroline is an artist and jewellery designer interesting in merging fine art
-      and jewellery. For this portfolio webiste I worked on the identity that revolves
-      mainly around the logo with the dot inside the "O" resembling a jewel and
-      aiding the typeface balance. For the website I organised a photoshoot
-      to create appealing imagery to present the jewellery pieces, and built a website
-      that would make the content king.
+      A <a href="http://carolinepera.com" target="">Caroline</a> é uma artista
+      e joalheira interessada em convergir as duas
+      práticas. Para este portfólio digital eu trabalhei num simples logo
+      que procura ilustrar o reflexo numa pérola com o ponto dentro do “o” de
+      “Caroline”. Neste projecto estive também responsável por organisar uma
+      sessão fotográfica que apresentasse as peças da melhor forma possível
+      e desenhei um website que desse espaço a esse material para se manifestar.
+    </p>
+  </div>
+  <img class="side" width="1008" height="917"
+    src="http://media.nunocoelhosantos.com/images/caroline-pera-screen.png">
+
+  <img class="clear side" width="1008" height="917"
+    src="http://media.nunocoelhosantos.com/images/caroline-pera-ipad-screen.jpg">
+  <div class="txt">
+    <p>
+      Jóias: <a href="http://carolinepera.com/" target="_blank">Caroline Pera</a><br>
+      Fotografia e Pós-produção: <a href="http://anabarreira.com/" target="_blank">Ana Barreira</a><br>
+      Estilista: <a href="http://gabrielasplendore.com" target="_blank">Gabriela Splendore</a><br>
+      Cabelo e maquilhagem: Marina Keri<br>
+      Modelo: Natalia K.
     </p>
     <p class="icon-globe-1">
       <a href="http://carolinepera.com/" target="_blank">carolinepera.com</a>
     </p>
   </div>
-  <img class="side" width="1008" height="917" src="http://media.nunocoelhosantos.com/images/caroline-pera-screen.png">
-
-  <img class="clear side" width="1008" height="917" src="http://media.nunocoelhosantos.com/images/caroline-pera-ipad-screen.jpg">
-  <div class="txt">
-    <p>
-      Photography credits:<br>
-      Jewellery: <a href="http://carolinepera.com/" target="_blank">Caroline Pera</a> /<br>
-      Photography and PP: <a href="http://anabarreira.com/" target="_blank">Ana Barreira</a> /<br>
-      Styling: <a href="http://gabrielasplendore.com" target="_blank">Gabriela Splendore</a> /<br>
-      Hair and Make Up: Marina Keri /<br>
-      Model: Natalia K.
-    </p>
-  </div>
-  <img class="clear side" width="1008" height="917" src="http://media.nunocoelhosantos.com/images/caroline-pera-business-cards.jpg">
+  <img class="clear side" width="1008" height="917"
+    src="http://media.nunocoelhosantos.com/images/caroline-pera-business-cards.jpg">
 
 </div>
 
