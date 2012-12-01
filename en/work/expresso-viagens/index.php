@@ -25,7 +25,7 @@
     <h6>Branding, Front-end Development, Illustration, Print & Web Design.</h6>
     <p>For this project I had to rebrand the travel agency <a href="http://expressoviagens.com/" target="_blank">
       Expresso Viagens</a> and create a new online presence for itself. To do so I worked with
-      <a href="http://twitter.com/plaintiago" target="_blank">Tiago Alves</a> who developed the Ruby
+      <a href="http://twitter.com/alvesjtiago" target="_blank">Tiago Alves</a> who developed the Ruby
       on Rails backend for the site and specially the blog, and with <a href="http://twitter.com/jackveiga"
       target="_blank">Jack Veiga</a> who presented the work to the client and did systems administration.
       My role was to design the new identity, design the website and develop the front-end for it.

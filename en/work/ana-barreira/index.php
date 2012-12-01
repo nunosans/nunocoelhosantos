@@ -46,7 +46,7 @@
 
   <div class="clear txt col1">
     <p>
-      The website was developed by <a href="http://twitter.com/plaintiago"
+      The website was developed by <a href="http://twitter.com/alvesjtiago"
       target="_blank">Tiago Alves</a>. I wanted this site to be stunning from
       the very first page and very easy to navigate around. The design lines
       follow the angle of the capital “A” and the italicized menu items fit into

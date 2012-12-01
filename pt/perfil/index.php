@@ -23,7 +23,7 @@
 	<div class="clear txt">
 		<p>Desde finais de 2008 vivo em Londres para estudar no curso de Design Gráfico da <a href="http://www.csm.arts.ac.uk/" target="_blank">Central Saint Martins</a>. A minha cerimónia de graduação será no dia 18 de Julho de 2012.</p>
 		<p>Trabalho por conta própria desde 2009. Comecei por desenvolver websites para amigos como uma forma de aprender programação, mas mais tarde isto tornou-se numa paixão. Hoje não consigo <i>apenas</i> desenhar a parte visual.</p>
-		<p>Os meus primeiros passos foram dados na companhia do <a href="http://twitter.com/plaintiago" target="_blank">Tiago Alves</a>, estudante de medicina, antigo amigo, e semelhante apaixonado por desenvolvimento. Durante o tempo que trabalhamos juntos reunimos outros afeiçoados às equipas que gostamos de chamar <a href="http://savantstudio.co.uk/" target="_blank">Savant</a> e <a href="http://iterar.co/" target="_blank">Iterar</a>.</p>
+		<p>Os meus primeiros passos foram dados na companhia do <a href="http://twitter.com/alvesjtiago" target="_blank">Tiago Alves</a>, estudante de medicina, antigo amigo, e semelhante apaixonado por desenvolvimento. Durante o tempo que trabalhamos juntos reunimos outros afeiçoados às equipas que gostamos de chamar <a href="http://savantstudio.co.uk/" target="_blank">Savant</a> e <a href="http://iterar.co/" target="_blank">Iterar</a>.</p>
 	</div>
 	<img class="both" src="http://media.nunocoelhosantos.com/images/profile-csm.jpg" width="" height="">
 

@@ -43,7 +43,7 @@
 		</p>
 		<p>
 			My first steps were taken in the company of
-			<a href="http://twitter.com/plaintiago" target="_blank">Tiago Alves</a>, a
+			<a href="http://twitter.com/alvesjtiago" target="_blank">Tiago Alves</a>, a
 			medicine student, old friend, and passionate hobbyist developer alike.
 			Over time we gathered more people and call our teams
 			<a href="http://savantstudio.co.uk/" target="_blank">Savant</a> &amp;

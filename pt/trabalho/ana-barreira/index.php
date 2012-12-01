@@ -47,7 +47,7 @@
 
   <div class="clear txt col1">
     <p>
-      Este website for desenvolvido pelo <a href="http://twitter.com/plaintiago"
+      Este website for desenvolvido pelo <a href="http://twitter.com/alvesjtiago"
       target="_blank">Tiago Alves</a>. Eu quiz que a experiência fosse
       impressionante deste a primeira página e ao mesmo tempo muito simples de
       navegar. As linhas do design seguem o mesmo angulo da maiúscula “A” e os
