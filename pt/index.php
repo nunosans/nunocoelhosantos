@@ -13,13 +13,13 @@
       src="http://media.nunocoelhosantos.com/images/kent-and-curwen-slide.jpg"
       alt="Página de abertura do website para a Kent &amp; Curwen desenvolvido
         por Nuno Coelho Santos a num iPad 2 preto">
-    <video width="3000" height="1500" autoplay
+    <!-- <video width="3000" height="1500" autoplay
       alt="Página de abertura do website para a Kent &amp; Curwen desenvolvido
       por Nuno Coelho Santos a num iPad 2 preto">
-      <source src="http://media.nunocoelhosantos.com/videos/kent-and-curwen-slide.webm" type="video/webm">
-      <source src="http://media.nunocoelhosantos.com/videos/kent-and-curwen-slide.mp4"  type="video/mp4">
-      <source src="http://media.nunocoelhosantos.com/videos/kent-and-curwen-slide.ogg"  type="video/ogg">
-    </video>
+      <source src="/media/videos/kent-and-curwen-slide.webm" type="video/webm">
+      <source src="/media/videos/kent-and-curwen-slide.mp4"  type="video/mp4">
+      <source src="/media/videos/kent-and-curwen-slide.ogg"  type="video/ogg">
+    </video> -->
   </a>
   <div>
     <h2>

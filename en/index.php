@@ -13,11 +13,11 @@
       src="http://media.nunocoelhosantos.com/images/kent-and-curwen-slide.jpg"
       alt="A computer generated image of the Kent &amp; Curwen website
       as seen on an iPad screen">
-    <video width="3000" height="1500" autoplay>
-      <source src="http://media.nunocoelhosantos.com/videos/kent-and-curwen-slide.webm" type="video/webm">
-      <source src="http://media.nunocoelhosantos.com/videos/kent-and-curwen-slide.mp4"  type="video/mp4">
-      <source src="http://media.nunocoelhosantos.com/videos/kent-and-curwen-slide.ogg"  type="video/ogg">
-    </video>
+    <!-- <video width="3000" height="1500" autoplay>
+      <source src="/media/videos/kent-and-curwen-slide.webm" type="video/webm">
+      <source src="/media/videos/kent-and-curwen-slide.mp4"  type="video/mp4">
+      <source src="/media/videos/kent-and-curwen-slide.ogg"  type="video/ogg">
+    </video> -->
   </a>
   <div>
     <h2>
