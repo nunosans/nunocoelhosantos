@@ -22,7 +22,8 @@
     <h2>Stylize/d</h2>
     <h6>Branding &amp; Web Design</h6>
     <p>
-      Identity and Web Design done collaboratively with Marta Dos Santos.
+      Identity and Web Design done collaboratively with
+      <a href="http://twitter.com/mraquelsantos" target="_blank">Marta Dos Santos</a>.
       Stylize/d is a fashion blog eager to show the final fashion editorials and
       the proccess in making them. The identity had to radically stay from
       mainstream fashion blogs with pink/yellow tones and cursive typefaces. The

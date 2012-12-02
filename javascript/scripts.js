@@ -98,14 +98,6 @@ $(document).ready(function() {
       duration: 350
   });
 
-  // Add mobile or desktop class.
-  // if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
-  //   $('body').addClass('mobile-os');
-  // } else {
-  //   $('body').addClass('desktop-os');
-  // };
-
-
   // Resize elements with window
   $(window).resize(function() {
     resizeFeaturedProject();

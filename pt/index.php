@@ -27,7 +27,7 @@
     </h2>
     <p>
       <a href="./trabalho/kent-and-curwen/">Website para uma das mais
-        históricas marcas de moda inglesa masculina</a>
+        históricas marcas de moda britânica masculina</a>
     </p>
   </div>
 </div>
@@ -59,7 +59,7 @@
        alt="Logo da Kent &amp; Curwen e detalhe de uma fotografia da
        campanha Outono/Inverno 2012">
     </a>
-    <p>Website para uma das mais importantes marcas de moda britânica dos ultimos 100 anos</p>
+    <p>Website para uma das mais históricas marcas de moda britânica masculina</p>
   </div>
   <div>
     <h4>
