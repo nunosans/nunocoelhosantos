@@ -28,7 +28,7 @@
       Twitter</a>-powered to-do list developed for <a href="http://apple.com/iphone"
       target="_blank">iPhone</a> and <a href="http://www.android.com/"
       target="_blank"> Android</a>. #todo, pronounced "hash to-do",
-      is an utility app that let’s you share dreams, tasks and ambitions with
+      is an utility app that lets you share dreams, tasks and ambitions with
       your Twitter network automatically.
     </p>
     <p class="icon-globe-1">

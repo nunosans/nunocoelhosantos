@@ -32,9 +32,6 @@
       and updated format. That is the main reason why the website assumed a minimal
       look and feel with interesting scroll effects and complex animations.
     </p>
-    <p class="icon-globe-1">
-      <a href="http://kentandcurwen.co.uk/" target="_blank">kentandcurwen.co.uk</a>
-    </p>
   </div>
 
   <div class="clear txt">
@@ -42,6 +39,9 @@
       The logo on the landing page was animated using CSS3 keyframe animations.
       JavaScript was an option for animating this title, but in despite of a better
       support, CSS3 results in a smoother and quicker animation.
+    </p>
+    <p class="icon-globe-1">
+      <a href="http://kentandcurwen.co.uk/" target="_blank">kentandcurwen.co.uk</a>
     </p>
   </div>
   <img class="side" width="1264" height="481" src="http://media.nunocoelhosantos.com/images/kent-and-curwen-logo-animation.gif">

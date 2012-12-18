@@ -21,8 +21,8 @@
     <h2>Stethoscore</h2>
     <h6>Interface Design</h6>
     <p>
-      This is an idependent project to build medical utility app that could to calculate the risk of a
-      fatal heart disease. The app is meant to be dramically simpler and easier to use
+      This is an independent project to build medical utility app that could to calculate the risk of a
+      fatal heart disease. The app is meant to be drastically simpler and easier to use
       than any other medical apps in order to appeal to a wider audience. This was
       my first software interface design project, done using <a href="http://www.adobe.com/uk/products/photoshop.html"
       target="_blank">Adobe Photoshop</a> and <a href="http://www.adobe.com/uk/products/illustrator.html"

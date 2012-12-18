@@ -25,8 +25,8 @@
       Identity and Web Design done collaboratively with
       <a href="http://twitter.com/mraquelsantos" target="_blank">Marta Dos Santos</a>.
       Stylize/d is a fashion blog eager to show the final fashion editorials and
-      the proccess in making them. The identity had to radically stay from
-      mainstream fashion blogs with pink/yellow tones and cursive typefaces. The
+      the process in making them. The identity had to radically stay from
+      mainstream fashion blogs with pink or yellow tones and cursive typefaces. The
       logo was designed to stand out with it's geometric, clean, and monochrome
       approach.
     </p>
@@ -55,7 +55,7 @@
     <p>
       This forward connects the word stylize to the word stylized as a parallel to the
       approach of documenting the process of fashion rather than just its outcome.
-      This was established with the briefing and we deciced to use the curious
+      This was established with the briefing and we decided to use the curious
       forward slash as an element of the brand, the symbol. This symbol was also
       designed to combined with photography and resulted in suitable avatar for
       social networks.

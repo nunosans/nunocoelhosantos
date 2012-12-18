@@ -22,7 +22,7 @@
     <p>
       Sir Norman Hartnell was best known for his designs for the Queen Elizabeth’s
       wedding dress in 1947. As a relaunch of the brand, the new Norman Hartnell
-      website seeked to tell the story of the designer and the brand. The single-scroll
+      website seeks to tell the story of the designer and the brand. The single-scroll
       design grabs the attention of the user to navigate through the years. Small
       details like body text height and image height matching make the design
       unique and special. This website is optimised for mobile devices and desktop

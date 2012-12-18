@@ -19,10 +19,10 @@
       I am a developer and graphic designer based in London and original from
       <a href="http://vimeo.com/21698583" target="_blank">Porto, Portugal</a>.
       My work reflects a lot of my personality: organised, tidy,
-      straigh-forward, unpronounced.
+      straight-forward, unpronounced.
     </p>
     <p>
-      I attented <acronym title="Escola Secundária Artística de Soares dos Reis">
+      I attended <acronym title="Escola Secundária Artística de Soares dos Reis">
       <a href="http://pt.wikipedia.org/wiki/Escola_Art%C3%ADstica_de_Soares_dos_Reis"
       target="_blank">ESSR</a></acronym> back in Porto from 2004 to 2008. At
       this vocational arts school I had my first contact with design, print,
@@ -37,7 +37,7 @@
       Saint Martins</a>.
     </p>
     <p>
-      I have been working as an idenpendent designer since 2009. I started
+      I have been working as an independent designer since 2009. I started
       building websites for friends as a way to teach myself web development.
       Later on this became a big passion and now I can't
       <i>&thinsp;just&hairsp;</i> design the interface.

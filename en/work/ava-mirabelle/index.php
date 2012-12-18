@@ -22,7 +22,7 @@
     <h6>Branding, Web Design &amp; Development</h6>
     <p>
       <a href="http://avamirabelle.com/" target="_blank">Ava Mirabelle</a> is a
-      duo of fashion designers delivering hand-made luxourious
+      duo of fashion designers delivering hand-made luxurious
       garments. Their clothes vary from a style with vibrant geometric patterns
       and simple classic designs. After research on the market and future of
       the brand I created an identity that would show confidence, taste and
@@ -32,7 +32,7 @@
     </p>
     <p>
       In the symbol, the “A” and the “V” in “Ava” are united into a single element.
-      The brand was applyed to invoices, business cards, lookbooks, videos,
+      The brand was applied to invoices, business cards, lookbooks, videos,
       clothing labels and the online store.
     </p>
   </div>

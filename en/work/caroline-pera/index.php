@@ -23,7 +23,7 @@
     <p>
       Caroline is a fine artist and jewellery designer interesting in merging
       the two fields. For this webisite I created a simple logo that
-      illustrates the reflexion on a pearl with a dot inside the “o” in
+      illustrates the reflection on a pearl with a dot inside the “o” in
       ”Caroline”. In this project I also organised a photoshoot that would
       result in imagery specifically to be used on the website and designed
       a minimal website that would make use of that content.

@@ -33,9 +33,9 @@
     <p>The new identity focuses on Expresso's personal assistance, simplification of procedures and
       wide range of services. The brand is illustrated by the icon of a suitcase: a travellers most
       valuable asset. Two proposals were developed, one with an approach to represent simplicity and
-      one to represent familiarity. Alongside my coworkers we decided to go for the familiar identity,
-      basing all elemnts on existing references to travelling and creating a brand that makes people
-      connect easily with it. The typeface used on the logo brings serousness and reliability to it
+      one to represent familiarity. Alongside my co-workers we decided to go for the familiar identity,
+      basing all elements on existing references to travelling and creating a brand that makes people
+      connect easily with it. The typeface used on the logo brings seriousness and reliability to it
       while keeping a modern look. The airport inspired colours are used to inspire nostalgia from
       travelling.
     </p>
@@ -55,8 +55,8 @@
     <p id="special-1">The website was designed to be as simple and as engaging as possible. The focus
       was to display the services offered by the agency and make the phone number and email very easy
       to find. 25% of the visits are made from Internet Explorer browsers so this also renders perfectly
-      on any version above 6. Half of the visitors to the site are using a system in english and a
-      third one in portuguese therefor we made this site bilingual and the language is detected
+      on any version above 6. Half of the visitors to the site are using a system in English and a
+      third one in Portuguese therefore we made this site bilingual and the language is detected
       automatically. Built using <a href="http://www.adobe.com/uk/products/photoshop.html" target="_blank">
       Adobe Photoshop</a>, <a href="http://www.adobe.com/uk/products/illustrator.html" target="_blank">Adobe
       Illustrator</a>, <a href="http://typekit.com/" target="_blank">Adobe Typekit</a>,

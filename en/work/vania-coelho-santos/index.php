@@ -26,14 +26,14 @@
     <h6>Web Design & Development</h6>
     <p>
       Design and development of my sister’s <a href="http://vaniacoelhosantos.com" target="_blank">
-      digital portfolio</a>. With this project I wanted to recreate her livelyhood adding colour
+      digital portfolio</a>. With this project I wanted to recreate her livelihood adding colour
       to her work. To me, it was equally important to display each project’s thinking process as
       well as final outcome in a clean and simple responsive website.
     </p>
     <p>
       This portfolio is part of <a href="http://siteinspire.com/showcase/view/2824/vnia-coelho-santos"
       target="_blank">siteInspire</a>’s <a href="http://siteinspire.com/showcase/view/2824/vnia-coelho-santos"
-      target="_blank">selected sites</a> and made an appearence on
+      target="_blank">selected sites</a> and made an appearance on
       <a href="http://www.mostinspired.com/sites/view/f1d0f2b30bf1c343dab434ba62dfc010" target="_blank">
       mostInspired</a> and <a href="http://ffffound.com/image/8a941e818eeb38a6ac7bc417983bd765b5e0b510">
       FFFOUND!</a>.

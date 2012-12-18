@@ -20,14 +20,14 @@
       working as a freelance web developer for <a href="http://ustwo.co.uk"
       target="_blank">ustwo™</a>. For this project I had to
       build a mobile optimised and touch optimised responsive website with great
-      efficiency in speed and battery life performance. I applyied good practices
+      efficiency in speed and battery life performance. I applied good practices
       like having all assets in the <acronym title="Joint Photographic Experts Group">
       <a href="http://en.wikipedia.org/wiki/JPEG" target="_blank">JPEG</a></acronym>
       format rather than <acronym title="Portable Network Graphics"><a
       href="http://en.wikipedia.org/wiki/Portable_Network_Graphics" target="_blank">
       PNG</a></acronym> format which is
       <a href="http://f.cl.ly/items/0E3q151m1b333C2N3c2w/who-killed-my-battery.pdf"
-      target="_blank">proved</a> to save up to 30% of battery life. Appart from
+      target="_blank">proved</a> to save up to 30% of battery life. Apart from
       this, the front-end code had to comply to the web application
       <a href="http://f.cl.ly/items/0w3Y2s1Z3z473X3d2a3V/web-application-security-requirements.pdf"
       target="_blank">security requirements</a> and follow

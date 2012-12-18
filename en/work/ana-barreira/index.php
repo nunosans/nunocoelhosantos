@@ -30,12 +30,12 @@
       This was my first fashion related project, which is now a big subject of
       my work. Ana Barreira is a talented fashion photographer graduated from
       the <a href="http://www.fashion.arts.ac.uk/" target="_blank">London
-      College of Fashion</a> with an impessive portfolio. I approached her to
+      College of Fashion</a> with an impressive portfolio. I approached her to
       help promote her work.
     </p>
     <p>
       It was not a requirement, and certainly not a straight-forward task, to
-      come up with an idenity for Ana. She would describe herself as belonging
+      come up with an identity for Ana. She would describe herself as belonging
       to the fashion world, but at the same time against it. The concept
       explores this characteristic and uses the capital “V” from
       <a href="http://www.vogue.co.uk/" target="_blank">Vogue</a> magazine

@@ -21,8 +21,8 @@
     <h2>Paul Cocksedge Shop</h2>
     <h6>Branding, Web Design & Development</h6>
     <p>For this project I had a look at the previous Paul Cocksedge Studio identity and designed
-      a new identity for it's upcoming online store. After the Paul Cocksedge Shop idenity
-      was designed I applyed it to all of its material and developed the online store.</p>
+      a new identity for it's upcoming online store. After the Paul Cocksedge Shop identity
+      was designed I applied it to all of its material and developed the online store.</p>
   </div>
 
   <img class="full" width="1264" height="893"
@@ -30,7 +30,7 @@
 
   <div class="clear txt col1">
     <p>I begin working with Paul's signature and with the idea of having the Studio vs Shop
-      brands as two sides of the same face. These were to be applyed to the business cards,
+      brands as two sides of the same face. These were to be applied to the business cards,
       letterheads, envelopes, catalogues, packaging and to the products themselves.</p>
   </div>
   <img class="side" width="1008" height="530"
