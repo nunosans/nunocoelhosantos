@@ -21,7 +21,7 @@
 
 
   <div class="txt">
-    <h2>Kent & Curwen</h2>
+    <h2>Kent &amp; Curwen</h2>
     <h6>Front-end Development</h6>
     <p>
       Kent &amp; Curwen is a British Gentleman's Club Sports wear brand established
@@ -41,7 +41,7 @@
       support, CSS3 results in a smoother and quicker animation.
     </p>
     <p class="icon-globe-1">
-      <a href="http://kentandcurwen.co.uk/" target="_blank">kentandcurwen.co.uk</a>
+      <a href="http://v1.kentandcurwen.co.uk/" target="_blank">kentandcurwen.co.uk</a>
     </p>
   </div>
   <img class="side" width="1264" height="481" src="http://media.nunocoelhosantos.com/images/kent-and-curwen-logo-animation.gif">
