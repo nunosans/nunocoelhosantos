@@ -97,7 +97,7 @@
       <div class="txt grid2">
         <h4>Contacts</h4>
         <p>
-          <a class="tel" href="tel:+447919537622">+44 [0]7919 537 622</a>,<br>
+          <a class="tel" href="tel:+447919537622">+44 [0]787 434 9672</a>,<br>
           <a href="mailto:nuno@nunocoelhosantos.com?subject=Question%20about%20your%20work%20/%20Quote%20/%20Work%20proposal&body=Dear%20Nuno,%0D%0A%0D%0A">nuno@nunocoelhosantos.com</a>,<br>
           and on Skype as <a href="skype:nunocoelhosantos?userinfo">nunocoelhosantos</a>
         </p>
