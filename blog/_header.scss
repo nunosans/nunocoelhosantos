@@ -1,0 +1,43 @@
+// Header
+#header {
+  display: block;
+  width: 752px;
+  margin: 25px auto 35px;
+  overflow: hidden;
+  -webkit-transition-property: width;
+     -moz-transition-property: width;
+       -o-transition-property: width;
+          transition-property: width;
+  -webkit-transition-duration: 0.3s;
+     -moz-transition-duration: 0.3s;
+       -o-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+   h1 {
+    float: left;
+    color: $shade-2;
+    font-style: normal;
+    em,
+    em a {
+      border: none !important;
+      color: $shade-1 !important;
+      font-style: normal;
+      -webkit-transition-property: color;
+         -moz-transition-property: color;
+           -o-transition-property: color;
+              transition-property: color;
+      -webkit-transition-duration: 1.2s;
+         -moz-transition-duration: 1.2s;
+           -o-transition-duration: 1.2s;
+              transition-duration: 1.2s;
+    }
+    em a:hover,
+    em a:active,
+    em a:focus {
+      color: $key-color !important;
+      -webkit-transition-duration: 0.0s;
+         -moz-transition-duration: 0.0s;
+           -o-transition-duration: 0.0s;
+              transition-duration: 0.0s;
+    }
+  }
+}

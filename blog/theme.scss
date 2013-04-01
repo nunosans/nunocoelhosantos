@@ -1,0 +1,16 @@
+/* Variables */
+$key-color: #FF1500;  /* Special Red */
+$shade-1:   #222;     /* Headers */
+$shade-2:   #777;     /* Body Text */
+$shade-3:   #E0E0E0;  /* Borders */
+
+body {
+  background-image: none;
+}
+
+#posts {
+  p {
+    font-size: 18px;
+    line-height: 22px;
+  }
+}
