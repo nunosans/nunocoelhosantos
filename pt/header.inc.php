@@ -4,7 +4,9 @@
     <title>Nuno Coelho Santos <? if ($page=='Home' || $page=='Perfil') {echo(' &nbsp;—&nbsp; '); } else {echo(' &nbsp;~&nbsp; ');}; echo $title; ?></title>
     <meta charset="UTF-8">
     <meta name="description" content="<? echo($description) ?>">
-    <meta name="keywords" content="nuno, coelho, santos, graphic, web, design, identity, soares, reis, csm, central, saint, martins, london">
+    <meta name="keywords"    content="nuno, coelho, santos, graphic, web,
+      design, identity, soares, reis, csm, central, saint, martins, london,
+      fontend, font, end, developer, ustwo, us, two">
     <link rel="icon"          href="http://nunocoelhosantos.com/media/graphics/favicon.png">
     <link rel="shortcut icon" href="http://nunocoelhosantos.com/media/graphics/favicon.png">
     <meta name="format-detection" content="telephone=no">
@@ -15,7 +17,7 @@
     <link href="/humans.txt" rel="author">
     <?
     $project_number = 0;  // Initial value to iterate
-    $projects_total = 15; // Total number of projects
+    $projects_total = 19; // Total number of projects
     switch ($title) {
       case 'Fractures from Anxiety'   : $project_number++;
       // case 'Sophie Westerlind'        : $project_number++;
@@ -39,9 +41,14 @@
       case '#todo'                    : $project_number++;
       case 'Keepon'                   : $project_number++;
       // case 'Google DoubleClick'       : $project_number++;
-      case 'Auria × Margot Bowman'    : $project_number++;
       case 'Kent & Curwen'            : $project_number++;
       case 'Stylize/d'                : $project_number++;
+      case 'Instagram Redesign Brief' : $project_number++;
+      // case 'Jenkins Dashboad'         : $project_number++;
+      case 'Creative Space'           : $project_number++;
+      case 'The Scientist'            : $project_number++;
+      case 'Auria'                    : $project_number++;
+      case 'Kerbside'                 : $project_number++;
       //Add new projects here using the same structure
     }
     ?>

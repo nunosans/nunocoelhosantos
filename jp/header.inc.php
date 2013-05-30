@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-GB">
+<html lang="ja">
   <head>
     <title>Nuno Coelho Santos <? if ($page=='Home' || $page=='Profile') {echo(' &nbsp;—&nbsp; '); } else {echo(' &nbsp;~&nbsp; ');}; echo $title; ?></title>
     <meta charset="UTF-8">
@@ -52,19 +52,24 @@
       //Add new projects here using the same structure
     }
     ?>
+    <style type="text/css">
+      /* Translate labels to Japanese */
+      .work div.dev h4:after {content: "すぐに来る";}
+      .work div.new h4:after {content: "新た";}
+    </style>
   </head>
   <body <? if ($page=='Home') {echo('id="home"');} ?>>
     <div id="header">
       <h1>
-        <em><a href="/en/">Nuno Coelho Santos</a></em><br>
-        Designer &amp; Front-end Developer
+        <em><a href="/jp/">Nuno Coelho Santos</a></em><br>
+        デザイナー＆フロントエンド開発
       </h1>
       <ul id="nav">
         <li>
-          <a href="<? if ($page=='Home') {echo('#portfolio');} else {echo('/en/');}?>">Portfolio</a>
+          <a href="<? if ($page=='Home') {echo('#portfolio');} else {echo('/jp/');}?>">ポートフォリオ</a>
         </li>
         <li>
-          <a href="/en/profile">Profile</a>
+          <a href="/jp/プロファイル/">プロファイル</a>
         </li>
         <!-- <li>
           <a href="http://blog.nunocoelhosantos.com/">Blog</a>
