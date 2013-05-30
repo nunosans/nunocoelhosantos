@@ -99,27 +99,33 @@
         <p>
           <a class="tel" href="tel:+447919537622">+44 [0]787 434 9672</a>,<br>
           <a href="mailto:nuno@nunocoelhosantos.com?subject=Question%20about%20your%20work%20/%20Quote%20/%20Work%20proposal&body=Dear%20Nuno,%0D%0A%0D%0A">nuno@nunocoelhosantos.com</a>,<br>
-          and on Skype as <a href="skype:nunocoelhosantos?userinfo">nunocoelhosantos</a>
+          and also via <a href="https://plus.google.com/u/2/107460739591542528882">Google+ Hangouts</a>.
         </p>
       </div>
       <div class="txt grid1">
         <h4>Also on</h4>
         <ul>
-          <li><a href="http://dribbble.com/nunosans" target="_blank">Dribbble</a></li>
-          <li><a href="http://github.com/nunosans" target="_blank">Github</a></li>
-          <li><a href="http://twitter.com/nunosans" target="_blank">Twitter</a></li>
+          <li>
+            <a href="http://dribbble.com/nunosans" target="_blank">Dribbble</a>
+          </li>
+          <li>
+            <a href="http://github.com/nunosans" target="_blank">Github</a>
+          </li>
+          <li>
+            <a href="http://twitter.com/nunosans" target="_blank">Twitter</a>
+          </li>
         </ul>
       </div>
     </div>
 
     <span id="copyright">
-      © 2008&thinsp;—&thinsp;<? date_default_timezone_set('Europe/London');
+      © 2008&thinsp;—&thinsp;<?php date_default_timezone_set('Europe/London');
       echo date("Y") ?> Nuno Coelho Santos &thinsp;/&thinsp;
       <a id="columns-on">Show Columns</a><a id="columns-off">Hide Columns</a>
     </span>
 
     <!-- Scripts -->
-    <script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
     <script src="/javascript/localscroll.js"></script>
     <script src="/javascript/scrollto.js"></script>
     <script src="/javascript/scripts.js"></script>
@@ -130,10 +136,15 @@
       _gaq.push(['_setAccount', 'UA-35923540-10']);
       _gaq.push(['_trackPageview']);
       (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl':'http://www')
+          + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
       })();
     </script>
+
   </body>
 </html>
