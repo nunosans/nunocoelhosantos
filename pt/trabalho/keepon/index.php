@@ -7,9 +7,9 @@
 
 <div class="project-nav">
   <h2><? echo $title ?></h2>
-  <span><? echo $project_number ?> of <? echo $projects_total ?></span>
+  <span><? echo $project_number ?> de <? echo $projects_total ?></span>
   <span>
-    <a href="../auria-x-margot-bowman/">Anterior</a> &thinsp;/&thinsp;
+    <a href="../kent-and-curwen/">Anterior</a> &thinsp;/&thinsp;
     <a href="../hash-todo/">Seguinte</a>
   </span>
 </div>
@@ -18,7 +18,7 @@
 
   <div class="clear txt">
     <h2>Keepon</h2>
-    <h6>Icon design and app architecture</h6>
+    <h6>Icon design e arquitectura</h6>
     <p>
       This iPhone application is a client for the Mac application
       <a href="http://v1.kickoffapp.com/" target="_blank">Kickoff</a>. Kickoff
@@ -55,17 +55,17 @@
     </p>
   </div>
   <img class="side" width="1450" height="1100"
-    src="http://media.nunocoelhosantos.com/images/keepon-app-icon.jpg"
+    src="/media/images/keepon-app-icon.jpg"
     alt="">
 
   <img class="full" width="1700" height="1100"
-    src="http://media.nunocoelhosantos.com/images/keepon-wireframe-a.png"
+    src="/media/images/keepon-wireframe-a.png"
     alt="">
   <img class="full" width="1700" height="1100"
-    src="http://media.nunocoelhosantos.com/images/keepon-wireframe-b.png"
+    src="/media/images/keepon-wireframe-b.png"
     alt="">
   <img class="full" width="1700" height="1100"
-    src="http://media.nunocoelhosantos.com/images/keepon-wireframe-c.png"
+    src="/media/images/keepon-wireframe-c.png"
     alt="">
 
 </div>

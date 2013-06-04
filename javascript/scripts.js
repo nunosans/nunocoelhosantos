@@ -1,43 +1,69 @@
-// Copyright 2012 Nuno Coelho Santos™. All Rights Reserved.
+// Copyright 2013 Nuno Coelho Santos (nuno@nunocoelhosantos.com).
+// All Rights Reserved.
 
 /**
  * @fileoverview Scripts for the Nuno Coelho Santos personal website.
  * @author nuno@nunocoelhosantos.com (Nuno Coelho Santos).
  */
 
-// Resize the Featured Project.
+// Global Variables.
+var mobileDevice = false;
+
+// Function to resize the Featured Project image and video.
 function resizeFeaturedProject() {
-  // Declare variables.
-  var windowHeight = $(window).height();
-  var windowWidth = $(window).width();
+
+  // Constant variables.
   var margin = $('#header').outerHeight(true);
   var container = $('.featured');
-  var containerHeight = windowHeight - margin;
-  var containerWidth = $('.featured').width();
-  var image = container.find('img, video');
-  var imageRatio = 0.5;
+  var elementRatio = 0.5;
 
-  image.css('position', 'relative');
-
-  if (windowHeight > windowWidth || windowHeight < 240) {
-    var containerHeight = containerWidth * 0.9;
-    container.height(containerHeight);
-    image.height(containerHeight);
-    image.width(containerHeight / imageRatio);
-    image.css('left', (containerWidth - image.width()) / 2);
+  if (mobileDevice) {
+    var element = container.find('img');
+    container.find('video').remove();
   } else {
-    container.height(containerHeight);
-    // Resize the image to fill the container.
-    if ((containerHeight / containerWidth) > imageRatio){
-      image.height(containerHeight - imageRatio + 1);
-      image.width(containerHeight / imageRatio + 1);
+    var element = container.find('video');
+    container.find('img').remove();
+  }
+
+  // Apply required styles.
+  element.css('position', 'relative');
+
+  // Resize the right element.
+  function resizeElement() {
+    // Declare variables.
+    var windowHeight = $(window).height();
+    var windowWidth = $(window).width();
+    var containerHeight = windowHeight - margin;
+    var containerWidth = container.width();
+
+    if (windowHeight > windowWidth || windowHeight < 240) {
+      var containerHeight = containerWidth * 0.9;
+      container.height(containerHeight);
+      element.height(containerHeight)
+        .width(containerHeight / elementRatio)
+        .css('left', (containerWidth - element.width()) / 2);
     } else {
-      image.width(containerWidth - imageRatio + 1);
-      image.height(containerWidth * imageRatio + 1);
+      container.height(containerHeight);
+      if ((containerHeight / containerWidth) > elementRatio){
+        element.height(containerHeight - elementRatio + 1)
+          .width(containerHeight / elementRatio + 1)
+          .css('left', (containerWidth - element.width()) / 2)
+          .css('top', (containerHeight - element.height()) / 2);
+      } else {
+        element.height(containerWidth * elementRatio + 1)
+          .width(containerWidth - elementRatio + 1)
+          .css('left', (containerWidth - element.width()) / 2)
+          .css('top', (containerHeight - element.height()) / 2);
+      };
     };
-    image.css('left', (containerWidth - image.width()) / 2);
-    image.css('top', (containerHeight - image.height()) / 2);
   };
+
+  resizeElement();
+
+  $(window).resize(function() {
+    resizeElement();
+  });
+
 };
 
 // Create Grid On/Off Toggle.
@@ -87,39 +113,34 @@ function hoverEffects() {
 
 $(document).ready(function() {
 
-  resizeFeaturedProject();
-  gridToggles();
-  hoverEffects();
+  // Add mobile or desktop class.
+  if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+    mobileDevice = true;
+  } else {
+    mobileDevice = false;
+  }
 
   // Apply localScroll to the nav.
   $('#nav').localScroll({
-      lock: stop,
-      target:'body',
+      target:  'body',
       duration: 350
   });
 
-  // Add mobile or desktop class.
-  if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
-    $('body').addClass('mobile-os');
-  } else {
-    $('body').addClass('desktop-os');
-  };
+  gridToggles();
+  hoverEffects();
+  resizeFeaturedProject();
 
-  // Resize elements with window
-  $(window).resize(function() {
-    resizeFeaturedProject();
+  // Add classes once the body is ready.
+  $(window).load(function() {
+    $('body').addClass('ready');
+    $('.project').fadeIn('slow');
+
+    // Make the bar of the featured project clickable
+    $('.featured > div > *').click(function() {
+      var featuredProjectUrl = $('.featured > div > h2 > a').attr('href');
+      window.location.href = featuredProjectUrl;
+    });
   });
 
-});
 
-
-$(window).load(function() {
-  $('body').addClass('ready');
-  $('.project').fadeIn('slow');
-
-  // Make the bar of the featured project clickable
-  $('.featured > div > *').click(function() {
-    var featuredProjectUrl = $('.featured > div > h2 > a').attr('href');
-    window.location.href = featuredProjectUrl;
-  });
 });

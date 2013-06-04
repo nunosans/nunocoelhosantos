@@ -6,18 +6,18 @@
 
 <div class="project-nav">
   <h2><? echo $title ?></h2>
-  <span><? echo $project_number ?> of <? echo $projects_total ?></span>
+  <span><? echo $project_number ?> de <? echo $projects_total ?></span>
   <span>
     <a href="../stylize-d/">Anterior</a> &thinsp;/&thinsp;
-    <a href="../auria-x-margot-bowman/">Seguinte</a>
+    <a href="../keepon/">Seguinte</a>
   </span>
 </div>
 
 <div class="project" id="kent-and-curwen">
 
-  <img class="full" width="1264" height="902" src="http://media.nunocoelhosantos.com/images/kent-and-curwen-on-an-ipad.jpg">
+  <img class="full" width="1264" height="902" src="/media/images/kent-and-curwen-on-an-ipad.jpg">
 
-  <img class="clear side" width="1264" height="902" src="http://media.nunocoelhosantos.com/images/kent-and-curwen-iphone.jpg">
+  <img class="clear side" width="1264" height="902" src="/media/images/kent-and-curwen-iphone.jpg">
 
 
   <div class="txt">
@@ -44,9 +44,9 @@
       support, CSS3 results in a smoother and quicker animation.
     </p>
   </div>
-  <img class="side" width="1264" height="481" src="http://media.nunocoelhosantos.com/images/kent-and-curwen-logo-animation.gif">
+  <img class="side" width="1264" height="481" src="/media/images/kent-and-curwen-logo-animation.gif">
 
-  <img class="site-plan" width="1166" height="4056" src="http://media.nunocoelhosantos.com/images/kent-and-curwen-website-plan.jpg">
+  <img class="site-plan" width="1166" height="4056" src="/media/images/kent-and-curwen-website-plan.jpg">
 
 </div>
 

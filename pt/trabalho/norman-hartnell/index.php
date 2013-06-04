@@ -7,7 +7,7 @@
 
 <div class="project-nav">
   <h2><? echo $title ?></h2>
-  <span><? echo $project_number ?> of <? echo $projects_total ?></span>
+  <span><? echo $project_number ?> de <? echo $projects_total ?></span>
   <span>
     <a href="../hash-todo/">Anterior</a> &thinsp;/&thinsp;
     <a href="../paul-cocksedge-shop/">Seguinte</a>
@@ -16,7 +16,7 @@
 
 <div class="project" id="norman-hartnell">
 
-  <img class="clear side" width="1080" height="1080" src="http://media.nunocoelhosantos.com/images/norman-hartnell-screen-2.jpg">
+  <img class="clear side" width="1080" height="1080" src="/media/images/norman-hartnell-screen-2.jpg">
   <div class="txt">
     <h2>Norman Hartnell</h2>
     <h6>Development</h6>
@@ -35,9 +35,9 @@
     </p>
   </div>
 
-  <img class="full" width="1264" height="1080" src="http://media.nunocoelhosantos.com/images/norman-hartnell-set.jpg">
+  <img class="full" width="1264" height="1080" src="/media/images/norman-hartnell-set.jpg">
 
-  <img class="site-plan" width="755" height="6899" src="http://media.nunocoelhosantos.com/images/norman-hartnell-website-plan.jpg">
+  <img class="site-plan" width="755" height="6899" src="/media/images/norman-hartnell-website-plan.jpg">
 
 </div>
 

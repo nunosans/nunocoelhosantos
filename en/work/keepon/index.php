@@ -8,7 +8,7 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../auria-x-margot-bowman/">Previous</a> &thinsp;/&thinsp;
+    <a href="../kent-and-curwen/">Previous</a> &thinsp;/&thinsp;
     <a href="../hash-todo/">Next</a>
   </span>
 </div>
@@ -38,16 +38,16 @@
     </p>
   </div>
   <img class="side" width="1450" height="1100"
-    src="http://media.nunocoelhosantos.com/images/keepon-app-icon.jpg">
+    src="/media/images/keepon-app-icon.jpg">
 
   <img class="full" width="1700" height="1100"
-    src="http://media.nunocoelhosantos.com/images/keepon-wireframe-a.png"
+    src="/media/images/keepon-wireframe-a.png"
     alt="">
   <img class="full" width="1700" height="1100"
-    src="http://media.nunocoelhosantos.com/images/keepon-wireframe-b.png"
+    src="/media/images/keepon-wireframe-b.png"
     alt="">
   <img class="full" width="1700" height="1100"
-    src="http://media.nunocoelhosantos.com/images/keepon-wireframe-c.png"
+    src="/media/images/keepon-wireframe-c.png"
     alt="">
 
 </div>

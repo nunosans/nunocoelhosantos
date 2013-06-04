@@ -6,7 +6,7 @@
 
 <div class="project-nav">
   <h2><? echo $title ?></h2>
-  <span><? echo $project_number ?> of <? echo $projects_total ?></span>
+  <span><? echo $project_number ?> de <? echo $projects_total ?></span>
   <span>
     <a href="../ana-barreira/">Anterior</a> &thinsp;/&thinsp;
     Seguinte
@@ -15,7 +15,7 @@
 
 <div class="project" id="fractures-from-anxiety">
 
-  <img id="special-2" class="clear side" width="1080" height="1080" src="http://media.nunocoelhosantos.com/images/fractures-from-anxiety-cover-photo.jpg">
+  <img id="special-2" class="clear side" width="1080" height="1080" src="/media/images/fractures-from-anxiety-cover-photo.jpg">
   <div class="txt col1">
     <h2>Fractures from Anxiety</h2>
     <h6>Book and Cover Design</h6>
@@ -25,7 +25,7 @@
     </p>
   </div>
 
-  <img class="full" width="1264" height="6268" src="http://media.nunocoelhosantos.com/images/fractures-from-anxiety-plans.jpg">
+  <img class="full" width="1264" height="6268" src="/media/images/fractures-from-anxiety-plans.jpg">
 
 
 </div>

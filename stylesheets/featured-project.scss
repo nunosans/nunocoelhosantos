@@ -86,6 +86,7 @@
     border: none;
     color: inherit;
     text-shadow: none;
+    -webkit-font-smoothing: antialiased;
   }
 }
 
@@ -100,17 +101,5 @@ body.ready {
     div {
       opacity: 1;
     }
-  }
-}
-
-body.mobile-os {
-  .featured > a > video {
-    display: none;
-  }
-}
-
-body.desktop-os {
-  .featured > a > img {
-    display: none;
   }
 }

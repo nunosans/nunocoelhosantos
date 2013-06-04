@@ -7,7 +7,7 @@
 
 <div class="project-nav">
   <h2><? echo $title ?></h2>
-  <span><? echo $project_number ?> of <? echo $projects_total ?></span>
+  <span><? echo $project_number ?> de <? echo $projects_total ?></span>
   <span>
     <a href="../stethoscore/">Anterior</a> &thinsp;/&thinsp;
     <a href="../ana-barreira/">Seguinte</a>
@@ -17,7 +17,7 @@
 <div class="project" id="caroline-pera">
 
   <img class="full" width="1008" height="917"
-    src="http://media.nunocoelhosantos.com/images/caroline-pera-logo-on-an-image.jpg">
+    src="/media/images/caroline-pera-logo-on-an-image.jpg">
 
   <div class="clear txt">
     <h2>Caroline Pera</h2>
@@ -33,10 +33,10 @@
     </p>
   </div>
   <img class="side" width="1008" height="917"
-    src="http://media.nunocoelhosantos.com/images/caroline-pera-screen.png">
+    src="/media/images/caroline-pera-screen.png">
 
   <img class="clear side" width="1008" height="917"
-    src="http://media.nunocoelhosantos.com/images/caroline-pera-ipad-screen.jpg">
+    src="/media/images/caroline-pera-ipad-screen.jpg">
   <div class="txt">
     <p>
       Jóias: <a href="http://carolinepera.com/" target="_blank">Caroline Pera</a><br>
@@ -50,7 +50,7 @@
     </p>
   </div>
   <img class="clear side" width="1008" height="917"
-    src="http://media.nunocoelhosantos.com/images/caroline-pera-business-cards.jpg">
+    src="/media/images/caroline-pera-business-cards.jpg">
 
 </div>
 

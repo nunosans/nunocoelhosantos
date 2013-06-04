@@ -122,7 +122,7 @@ a:visited {
   display: inline-block;
   height: 15px;
   /* Use text shadow to prevent underline from crossing over the type */
-  text-shadow: 1px 1px 0 #fafafa, 0 1px 0 #fafafa, -1px 1px 0 #fafafa, 2px 1px 0 #fafafa, 0 1px 0 #fafafa, -2px 1px 0 #fafafa;
+  text-shadow: 1px 1px 0 #FAFAFA, 0   1px 0 #FAFAFA, -1px 1px 0 #FAFAFA, 2px 1px 0 #FAFAFA, 0   1px 0 #FAFAFA, -2px 1px 0 #FAFAFA;
   text-decoration: none;
   border-bottom-width: 1px;
   border-bottom-style: dotted;
@@ -249,8 +249,8 @@ input[type="email"] {
   /* Remove Firefox dotted outline */
   outline: none;
   /* Standard box color and no glow */
-  border: 1px solid #e6e6e6;
-  border-top: 1px solid #cccccc;
+  border: 1px solid #E6E6E6;
+  border-top: 1px solid #CCC;
   border-right: none;
   border-radius: none;
   box-shadow: 0 0 0 rgba(0, 0, 0, 0);
@@ -308,8 +308,8 @@ input[type="submit"] {
   display: inline-block;
   float: left;
   background-color: #BBB;
-  border: 1px solid #bbbbbb;
-  border-bottom: 1px solid #999999;
+  border: 1px solid #BBB;
+  border-bottom: 1px solid #999;
   box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.2) inset;
   border-radius: none;
   /* Animate button color */
@@ -328,8 +328,8 @@ input[type="submit"] {
 input[type="submit"]:hover,
 input[type="submit"]:focus {
   background-color: #999;
-  border: 1px solid #999999;
-  border-bottom: 1px solid #777777;
+  border: 1px solid #999;
+  border-bottom: 1px solid #777;
   -webkit-transition-duration: 0.15s;
   -moz-transition-duration: 0.15s;
   -o-transition-duration: 0.15s;
@@ -485,7 +485,8 @@ body#home {
     display: inline;
     border: none;
     color: inherit;
-    text-shadow: none; }
+    text-shadow: none;
+    -webkit-font-smoothing: antialiased; }
 
 .featured:hover {
   /* Add pointing cursor when hovering the featured project */
@@ -495,12 +496,6 @@ body.ready .featured {
   background-image: none; }
   body.ready .featured div {
     opacity: 1; }
-
-body.mobile-os .featured > a > video {
-  display: none; }
-
-body.desktop-os .featured > a > img {
-  display: none; }
 
 h3 {
   color: #777777;
@@ -679,7 +674,7 @@ h3 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border: 1px solid #cccccc;
+  border: 1px solid #CCC;
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
   -o-border-radius: 7px;
@@ -687,7 +682,7 @@ h3 {
   -webkit-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
   -moz-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
   -o-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
-  box-shadow: 0 10px 25px #cccccc;
+  box-shadow: 0 10px 25px #CCC;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3); }
 
 .txt {
@@ -1086,7 +1081,7 @@ body.ready #copyright {
     clear: both;
     height: 30px;
     border: none;
-    border-bottom: 1px solid #e2e2e2;
+    border-bottom: 1px solid #E2E2E2;
     text-align: left;
     margin: 20px 8px 20px;
     padding: 0; }

@@ -15,7 +15,7 @@
 
 <div class="project" id="caroline-pera">
 
-  <img class="full" width="1008" height="917" src="http://media.nunocoelhosantos.com/images/caroline-pera-logo-on-an-image.jpg">
+  <img class="full" width="1008" height="917" src="/media/images/caroline-pera-logo-on-an-image.jpg">
 
   <div class="clear txt">
     <h2>Caroline Pera</h2>
@@ -29,9 +29,9 @@
       a minimal website that would make use of that content.
     </p>
   </div>
-  <img class="side" width="1008" height="917" src="http://media.nunocoelhosantos.com/images/caroline-pera-screen.png">
+  <img class="side" width="1008" height="917" src="/media/images/caroline-pera-screen.png">
 
-  <img class="clear side" width="1008" height="917" src="http://media.nunocoelhosantos.com/images/caroline-pera-ipad-screen.jpg">
+  <img class="clear side" width="1008" height="917" src="/media/images/caroline-pera-ipad-screen.jpg">
   <div class="txt">
     <p>
       Jewellery: <a href="http://carolinepera.com/" target="_blank">Caroline Pera</a><br>
@@ -44,7 +44,7 @@
       <a href="http://carolinepera.com/" target="_blank">carolinepera.com</a>
     </p>
   </div>
-  <img class="clear side" width="1008" height="917" src="http://media.nunocoelhosantos.com/images/caroline-pera-business-cards.jpg">
+  <img class="clear side" width="1008" height="917" src="/media/images/caroline-pera-business-cards.jpg">
 
 </div>
 

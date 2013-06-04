@@ -43,6 +43,7 @@
     <a href="./work/kerbside/">
       <img width="240" height="140"
        src="/media/images/kerbside-card.jpg"
+       srcset="/media/images/kerbside-card@2x.jpg 2x"
        alt="">
     </a>
     <p>Design of the app that lets you give and collect items
@@ -53,8 +54,10 @@
       <a href="./work/auria/">Auria</a>
     </h4>
     <a href="./work/auria/">
-      <img src="/media/images/auria-card.jpg"
-       alt="" width="240" height="140">
+      <img width="240" height="140"
+        src="/media/images/auria-card.jpg"
+        srcset="/media/images/auria-card@2x.jpg 2x"
+        alt="" >
     </a>
     <p>Website for Auria, the London-based swimwear designer</p>
   </div>
@@ -65,6 +68,7 @@
     <a href="./work/the-scientist/">
       <img width="240" height="140"
        src="/media/images/the-scientist-card.jpg"
+       srcset="/media/images/the-scientist-card@2x.jpg 2x"
        alt="">
     </a>
     <p>Design of the official scientific articles aggregate for iPhone</p>
@@ -76,6 +80,7 @@
     <a href="./work/creative-space/">
       <img width="240" height="140"
        src="/media/images/the-creative-space.jpg"
+       srcset="/media/images/the-creative-space@2x.jpg 2x"
        alt="">
     </a>
     <p>Website for the real estate company that transforms offices into homes</p>
@@ -87,6 +92,7 @@
     <a href="./work/instagram-redesign-brief/">
       <img width="240" height="140"
        src="/media/images/instagram-redesign-brief-card.jpg"
+       srcset="/media/images/instagram-redesign-brief-card@2x.jpg 2x"
        alt="">
     </a>
     <p>A re-imagination of the popular photo sharing app, Instagram</p>
@@ -102,6 +108,7 @@
     <a href="./work/stylize-d/">
       <img width="240" height="140"
        src="/media/images/stylize-d-card.jpg"
+       srcset="/media/images/stylize-d-card@2x.jpg 2x"
        alt="Detail of an application of the Stylize/d identity">
     </a>
     <p>Identity and web design for the independent fashion blog</p>
@@ -113,6 +120,7 @@
     <a href="./work/kent-and-curwen/">
       <img width="240" height="140"
        src="/media/images/kent-and-curwen-card.jpg"
+       srcset="/media/images/kent-and-curwen-card@2x.jpg 2x"
        alt="Kent &amp; Curwen Logo on an image from the Fall/Winter 2012
        campaign">
     </a>
@@ -123,8 +131,10 @@
       <a href="./work/keepon/">Keepon</a>
     </h4>
     <a href="./work/keepon/">
-      <img src="/media/images/keepon-card.jpg"
-       alt="App icon of the Keepon app for iOS" width="240" height="140">
+      <img width="240" height="140"
+       src="/media/images/keepon-card.jpg"
+       srcset="/media/images/keepon-card@2x.jpg 2x"
+       alt="App icon of the Keepon app for iOS">
     </a>
     <p>Design, Architecture and experience of the third-party Kickoff client for iOS</p>
   </div>
@@ -133,9 +143,11 @@
       <a href="./work/hash-todo/">#todo</a>
     </h4>
     <a href="./work/hash-todo/">
-      <img src="/media/images/hash-todo-card.jpg"
-        alt="A computer generated image of an iPhone with the #todo app interface on
-        the display" width="240" height="140">
+      <img width="240" height="140"
+        src="/media/images/hash-todo-card.jpg"
+        srcset="/media/images/hash-todo-card@2x.jpg 2x"
+        alt="A computer generated image of an iPhone with the #todo app interface
+        on the display" >
     </a>
     <p>User interface and experience of the Twitter-powered to-do list app</p>
   </div>
@@ -144,8 +156,10 @@
       <a href="./work/norman-hartnell/">Norman Hartnell</a>
     </h4>
     <a href="./work/norman-hartnell/">
-      <img src="/media/images/norman-hartnell-card.jpg"
-        alt="A picture of the Norman Hartnell logo" width="240" height="140">
+      <img width="240" height="140"
+        src="/media/images/norman-hartnell-card.jpg"
+        srcset="/media/images/norman-hartnell-card@2x.jpg 2x"
+        alt="A picture of the Norman Hartnell logo">
     </a>
     <p>Development of HM The Queen's dressmaker revival brand website</p>
   </div>
@@ -154,9 +168,10 @@
       <a href="./work/paul-cocksedge-shop/">Paul Cocksedge Shop</a>
     </h4>
     <a href="./work/paul-cocksedge-shop/">
-      <img src="/media/images/paul-cocksedge-shop-card.jpg"
-        alt="A photograph of the black Bookmark by Paul Cocksedge Studio"
-        width="240" height="140">
+      <img width="240" height="140"
+        src="/media/images/paul-cocksedge-shop-card.jpg"
+        srcset="/media/images/paul-cocksedge-shop-card@2x.jpg 2x"
+        alt="A photograph of the black Bookmark by Paul Cocksedge Studio">
     </a>
     <p>Identity and online store for the <br>London-based design studio</p>
   </div>
@@ -165,9 +180,11 @@
       <a href="./work/vania-coelho-santos/">Vânia Coelho Santos</a>
     </h4>
     <a href="./work/vania-coelho-santos/">
-      <img src="/media/images/vania-coelho-santos-card.png"
-        alt="One of the computer generated images representing one Vânia Coelho Santos
-        architectural concepts" width="240" height="140">
+      <img width="240" height="140"
+        src="/media/images/vania-coelho-santos-card.png"
+        srcset="/media/images/vania-coelho-santos-card@2x.png 2x"
+        alt="One of the computer generated images representing one Vânia Coelho
+        Santos architectural concepts" >
     </a>
     <p>Design and development of my sister's architecture digital portfolio</p>
   </div>
@@ -176,9 +193,10 @@
       <a href="./work/ava-mirabelle/">Ava Mirabelle</a>
     </h4>
     <a href="./work/ava-mirabelle/">
-      <img src="/media/images/ava-mirabelle-card.jpg"
-        alt="A picture of the Ava Mirabelle Logo"
-        width="240" height="140">
+      <img width="240" height="140"
+        src="/media/images/ava-mirabelle-card.jpg"
+        srcset="/media/images/ava-mirabelle-card@2x.jpg 2x"
+        alt="A picture of the Ava Mirabelle Logo">
     </a>
     <p>Identity and development of the <br />hand-made online fashion store</p>
   </div>
@@ -190,9 +208,11 @@
       <a href="./work/expresso-viagens/">Expresso Viagens</a>
     </h4>
     <a href="./work/expresso-viagens/">
-      <img src="/media/images/expresso-viagens-card.png"
-        alt="Fraction of one of the illustrations made for the Expresso Viagens rebrand"
-        width="240" height="140">
+      <img width="240" height="140"
+        src="/media/images/expresso-viagens-card.png"
+        srcset="/media/images/expresso-viagens-card@2x.png 2x"
+        alt="Fraction of one of the illustrations made for the Expresso Viagens
+        rebrand">
     </a>
     <p>Identity, print, web design&hairsp;/&hairsp;development and illustrations for
       the travel agency</p>
@@ -202,9 +222,11 @@
       <a href="./work/index-7/">Index 7</a>
     </h4>
     <a href="./work/index-7/">
-      <img src="/media/images/index-7-card.jpg"
-        alt="Image with the Index 7 show logo placed on top of a photograph by Myka Baum"
-        width="240" height="140">
+      <img width="240" height="140"
+        src="/media/images/index-7-card.jpg"
+        srcset="/media/images/index-7-card@2x.jpg 2x"
+        alt="Image with the Index 7 show logo placed on top of a photograph by
+        Myka Baum">
     </a>
     <p>Identity and print design for the photography exhibition</p>
   </div>
@@ -212,27 +234,31 @@
     <h4>
       Protein&reg; Journal
     </h4>
-    <img src="/media/images/protein-journal-card.jpg"
-      alt="Fraction of the cover for the Protein Journal Issue 3"
-      width="240" height="140">
+    <img width="240" height="140"
+      src="/media/images/protein-journal-card.jpg"
+      srcset="/media/images/protein-journal-card@2x.jpg 2x"
+      alt="Fraction of the cover for the Protein Journal Issue 3">
     <p>Development of the Protein’s journal version for the iPad</p>
   </div>
   <div class="dev">
     <h4>
       Shooting People
     </h4>
-    <img src="/media/images/shooting-people-card.jpg"
-      alt="Photograph of the buinsess cards designed for Shooting People"
-      width="240" height="140">
+    <img width="240" height="140"
+      src="/media/images/shooting-people-card.jpg"
+      srcset="/media/images/shooting-people-card@2x.jpg 2x"
+      alt="Photograph of the buinsess cards designed for Shooting People">
     <p>Print, web design and development for the filmmakers’ network</p>
   </div>
   <div class="dev">
     <h4>
       Lilias Buchanan
     </h4>
-    <img src="/media/images/lilias-buchanan-card.jpg"
-      alt="Fraction of one of the illustrations from the series ‘The Death of Ivan
-      Illych’ by Lilias Buchanan"idth="240" height="140">
+    <img width="240" height="140"
+      src="/media/images/lilias-buchanan-card.jpg"
+      srcset="/media/images/lilias-buchanan-card@2x.jpg 2x"
+      alt="Fraction of one of the illustrations from the series ‘The Death of
+      Ivan Illych’ by Lilias Buchanan">
     </a>
     <p>Online portfolio for the portraitist illustrator and graphic designer</p>
   </div>
@@ -240,27 +266,32 @@
     <h4>
       Jo Phipps
     </h4>
-    <img src="/media/images/jo-phipps-card.jpg"
-      alt="Fraction of ‘Joseph’ by Jo Phipps" width="240" height="140">
+    <img width="240" height="140"
+      src="/media/images/jo-phipps-card.jpg"
+      srcset="/media/images/jo-phipps-card@2x.jpg 2x"
+      alt="Fraction of ‘Joseph’ by Jo Phipps">
     <p>Design and development of the artist online portfolio</p>
   </div>
   <div class="dev">
     <h4>
       Nostalgics
     </h4>
-    <img src="/media/images/nostalgics-card.jpg"
-      alt="Close up photograph of the  engraved musical notes in the Musical Glass
-      by Nostalgics" width="240" height="140">
-    <p>Web development for the collection of bespoke curious artefacts</p>
+    <img width="240" height="140"
+      src="/media/images/nostalgics-card.jpg"
+      srcset="/media/images/nostalgics-card@2x.jpg 2x"
+      alt="Close up photograph of the  engraved musical notes in the Musical
+      Glass by Nostalgics">
+    <p>Web development for the collection of bespoke curious artifacts</p>
   </div>
   <div>
     <h4>
       <a href="./work/stethoscore/">Stethoscore</a>
     </h4>
     <a href="./work/stethoscore/">
-      <img src="/media/images/stethoscore-card.jpg"
-        alt="Image of the Stethoscore Application running on an iPhone 4"
-        width="240" height="140">
+      <img width="240" height="140"
+        src="/media/images/stethoscore-card.jpg"
+        srcset="/media/images/stethoscore-card@2x.jpg 2x"
+        alt="Image of the Stethoscore Application running on an iPhone 4">
     </a>
     <p>UI/UX &amp; web development for the medical utility app</p>
   </div>
@@ -271,18 +302,20 @@
     <h4>
       Marili André
     </h4>
-    <img src="/media/images/marili-andre-card.jpg"
-      alt="Frame of one of Marili André videos overlayed by the logo"
-      width="240" height="140">
+    <img width="240" height="140"
+      src="/media/images/marili-andre-card.jpg"
+      srcset="/media/images/marili-andre-card@2x.jpg 2x"
+      alt="Frame of one of Marili André videos overlayed by the logo">
     <p>Identity for the fashion photographer and filmmaking artist</p>
   </div>
   <div class="dev">
     <h4>
       Ailara Berdyyeva
     </h4>
-    <img src="/media/images/ailara-berdyyeva-card.jpg"
-      alt="Photo of the ‘Inside/Outsie’ bag by Ailara Berdyyeva"
-      width="240" height="140">
+    <img width="240" height="140"
+      src="/media/images/ailara-berdyyeva-card.jpg"
+      srcset="/media/images/ailara-berdyyeva-card@2x.jpg 2x"
+      alt="Photo of the ‘Inside/Outsie’ bag by Ailara Berdyyeva">
     <p>Identity, print, photography and web design for the textile designer webfolio</p>
   </div>
   <div>
@@ -290,20 +323,22 @@
       <a href="./work/caroline-pera/">Caroline Pera</a>
     </h4>
     <a href="./work/caroline-pera/">
-      <img src="/media/images/caroline-pera-card.jpg"
-        alt="Photo of one of Caroline Pera’s jewellery pieces"
-        width="240" height="140">
+      <img width="240" height="140"
+        src="/media/images/caroline-pera-card.jpg"
+        srcset="/media/images/caroline-pera-card@2x.jpg 2x"
+        alt="Photo of one of Caroline Pera’s jewellery pieces">
     </a>
-    <p>Identity, print and web design for the jewellery design webfolip</p>
+    <p>Identity, print and web design for the jewelery design webfolio</p>
   </div>
   <div>
     <h4>
       <a href="./work/ana-barreira/">Ana Barreira</a>
     </h4>
     <a href="./work/ana-barreira/">
-      <img src="/media/images/ana-barreira-card.jpg"
-        alt="Fraction of one of Ana Barreira’s photos overlayed by her logo"
-        width="240" height="140">
+      <img width="240" height="140"
+        src="/media/images/ana-barreira-card.jpg"
+        srcset="/media/images/ana-barreira-card@2x.jpg 2x"
+        alt="Fraction of one of Ana Barreira’s photos overlayed by her logo">
     </a>
     <p>Identity, print and web design of the fashion photography webfolio</p>
   </div>
@@ -314,18 +349,20 @@
     <h4>
       Miti Ruangkritya
     </h4>
-    <img src="/media/images/miti-ruangkritya-card.jpg"
-      alt="Fraction of ‘Bangkok Protest’ by Miti Ruangkritya"
-      width="240" height="140">
-    <p>Design of the website for the thai photojournalist</p>
+    <img width="240" height="140"
+      src="/media/images/miti-ruangkritya-card.jpg"
+      srcset="/media/images/miti-ruangkritya-card@2x.jpg 2x"
+      alt="Fraction of ‘Bangkok Protest’ by Miti Ruangkritya">
+    <p>Design of the website for the Thai photojournalist</p>
   </div>
   <div class="dev">
     <h4>
       Sophie Westerlind
     </h4>
-    <img src="/media/images/sophie-westerlind-card.png"
-      alt="Fraction of one of Sophie Westerlind’s illustrations"
-      width="240" height="140">
+    <img width="240" height="140"
+      src="/media/images/sophie-westerlind-card.png"
+      srcset="/media/images/sophie-westerlind-card@2x.png 2x"
+      alt="Fraction of one of Sophie Westerlind’s illustrations">
     <p>Design and development for the graphic designer and illustrator</p>
   </div>
   <div>
@@ -333,9 +370,11 @@
       <a href="./work/fractures-from-anxiety/">Fractures from Anxiety</a>
     </h4>
     <a href="./work/fractures-from-anxiety/">
-      <img src="/media/images/fractures-from-anxiety-card.jpg"
+      <img width="240" height="140"
+        src="/media/images/fractures-from-anxiety-card.jpg"
+        srcset="/media/images/fractures-from-anxiety-card@2x.jpg 2x"
         alt="Detail of the cover for ‘Fractures from Anxiety’ designed by
-        Nuno Coelho Santos" width="240" height="140">
+        Nuno Coelho Santos">
     </a>
     <p>Book and cover design for the short stories of Marcus Bastel</p>
   </div>

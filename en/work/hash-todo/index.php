@@ -17,7 +17,7 @@
 <div class="project" id="hash-todo">
 
   <img class="full" width="1080" height="1080"
-    src="http://media.nunocoelhosantos.com/images/hash-todo-main.jpg"
+    src="/media/images/hash-todo-main.jpg"
     alt="">
 
   <div class="clear txt">
@@ -38,26 +38,26 @@
   </div>
 
   <img class="no-margin right half" width="624" height="870"
-    src="http://media.nunocoelhosantos.com/images/hash-todo-ios-screen-1.jpg"
+    src="/media/images/hash-todo-ios-screen-1.jpg"
     alt="">
   <img class="no-margin clear half" width="624" height="870"
-    src="http://media.nunocoelhosantos.com/images/hash-todo-ios-screen-2.jpg"
+    src="/media/images/hash-todo-ios-screen-2.jpg"
     alt="">
   <img class="no-margin half" width="624" height="870"
-    src="http://media.nunocoelhosantos.com/images/hash-todo-ios-screen-3.jpg"
+    src="/media/images/hash-todo-ios-screen-3.jpg"
     alt="">
   <img class="no-margin clear half" width="624" height="870"
-    src="http://media.nunocoelhosantos.com/images/hash-todo-ios-screen-4.jpg"
+    src="/media/images/hash-todo-ios-screen-4.jpg"
     alt="">
   <img class="half" width="624" height="870"
-    src="http://media.nunocoelhosantos.com/images/hash-todo-ios-screen-5.jpg"
+    src="/media/images/hash-todo-ios-screen-5.jpg"
     alt="">
 
   <img class="no-margin clear half" width="624" height="1000"
-    src="http://media.nunocoelhosantos.com/images/hash-todo-android-screen-1.jpg"
+    src="/media/images/hash-todo-android-screen-1.jpg"
     alt="">
   <img class="no-margin half" width="624" height="1000"
-    src="http://media.nunocoelhosantos.com/images/hash-todo-android-screen-2.jpg"
+    src="/media/images/hash-todo-android-screen-2.jpg"
     alt="">
 
 </div>

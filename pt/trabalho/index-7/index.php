@@ -6,7 +6,7 @@
 
 <div class="project-nav">
   <h2><? echo $title ?></h2>
-  <span><? echo $project_number ?> of <? echo $projects_total ?></span>
+  <span><? echo $project_number ?> de <? echo $projects_total ?></span>
   <span>
     <a href="../expresso-viagens/">Anterior</a> &thinsp;/&thinsp;
     <a href="../stethoscore/">Seguinte</a>
@@ -15,7 +15,7 @@
 
 <div class="project" id="index-7">
 
-  <img class="clear side" width="1008" height="673" src="http://media.nunocoelhosantos.com/images/index-7-flyers.jpg">
+  <img class="clear side" width="1008" height="673" src="/media/images/index-7-flyers.jpg">
   <div class="txt col1">
     <h2>Index 7</h2>
     <h6>Identidade</h6>
@@ -30,7 +30,7 @@
   </div>
 
   <img class="full" width="1264" height="400"
-    src="http://media.nunocoelhosantos.com/images/index-7-logo-variations.png"
+    src="/media/images/index-7-logo-variations.png"
     alt="">
 
   <div class="clear txt">
@@ -41,19 +41,19 @@
       para acompanhar o crescimento da exposição.
   </div>
   <img id="special-3" class="side" width="1008" height="1110"
-    src="http://media.nunocoelhosantos.com/images/index-7-logo-iterations.png"
+    src="/media/images/index-7-logo-iterations.png"
     alt="Variações do logo Index 7 para futuras iterações da exposição">
 
   <img class="clear half" width="624" height="390"
-    src="http://media.nunocoelhosantos.com/images/index-7-card-1.jpg"
+    src="/media/images/index-7-card-1.jpg"
     alt="Logo da exposição Index 7 aplicada sobre uma fotografia dos artistas em
     exibição">
   <img class="half" width="624" height="390"
-    src="http://media.nunocoelhosantos.com/images/index-7-card-2.jpg"
+    src="/media/images/index-7-card-2.jpg"
     alt="Logo da exposição Index 7 aplicada sobre uma fotografia dos artistas em
     exibição">
   <img class="clear half" width="624" height="390"
-    src="http://media.nunocoelhosantos.com/images/index-7-card-3.jpg"
+    src="/media/images/index-7-card-3.jpg"
     alt="Logo da exposição Index 7 aplicada sobre uma fotografia dos artistas em
     exibição">
 

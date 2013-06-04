@@ -6,7 +6,7 @@
 
 <div class="project-nav">
   <h2><? echo $title ?></h2>
-  <span><? echo $project_number ?> of <? echo $projects_total ?></span>
+  <span><? echo $project_number ?> de <? echo $projects_total ?></span>
   <span>
     <a href="../index-7/">Anterior</a> &thinsp;/&thinsp;
     <a href="../caroline-pera/">Seguinte</a>
@@ -15,7 +15,7 @@
 
 <div class="project" id="stethoscore">
 
-  <img class="full" width="1264" height="680" src="http://media.nunocoelhosantos.com/images/stethoscore-main.jpg">
+  <img class="full" width="1264" height="680" src="/media/images/stethoscore-main.jpg">
 
   <div class="clear txt">
     <h2>Stethoscore</h2>
@@ -33,13 +33,13 @@
       target="_blank">Stethoscore on the App Store</a>
     </p>
   </div>
-  <img class="side" width="1264" height="680" src="http://media.nunocoelhosantos.com/images/stethoscore-overview.jpg">
+  <img class="side" width="1264" height="680" src="/media/images/stethoscore-overview.jpg">
 
-  <img class="clear half" width="624" height="624" src="http://media.nunocoelhosantos.com/images/stethoscore-detail-1-2x.png">
-  <img class="half"       width="624" height="624" src="http://media.nunocoelhosantos.com/images/stethoscore-detail-1-1x.png">
+  <img class="clear half" width="624" height="624" src="/media/images/stethoscore-detail-1-2x.png">
+  <img class="half"       width="624" height="624" src="/media/images/stethoscore-detail-1-1x.png">
 
-  <img class="clear half" width="624" height="624" src="http://media.nunocoelhosantos.com/images/stethoscore-detail-2-2x.png">
-  <img class="half"       width="624" height="624" src="http://media.nunocoelhosantos.com/images/stethoscore-detail-2-1x.png">
+  <img class="clear half" width="624" height="624" src="/media/images/stethoscore-detail-2-2x.png">
+  <img class="half"       width="624" height="624" src="/media/images/stethoscore-detail-2-1x.png">
 
 </div>
 

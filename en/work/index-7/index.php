@@ -15,7 +15,7 @@
 
 <div class="project" id="index-7">
 
-  <img class="clear side" width="1008" height="673" src="http://media.nunocoelhosantos.com/images/index-7-flyers.jpg">
+  <img class="clear side" width="1008" height="673" src="/media/images/index-7-flyers.jpg">
   <div class="txt col1">
     <h2>Index 7</h2>
     <h6>Identity</h6>
@@ -29,7 +29,7 @@
   </div>
 
   <img class="full" width="1264" height="400"
-    src="http://media.nunocoelhosantos.com/images/index-7-logo-variations.png"
+    src="/media/images/index-7-logo-variations.png"
     alt="">
 
   <div class="clear txt">
@@ -40,19 +40,19 @@
     </p>
   </div>
   <img id="special-3" class="side" width="1008" height="1110"
-    src="http://media.nunocoelhosantos.com/images/index-7-logo-iterations.png"
+    src="/media/images/index-7-logo-iterations.png"
     alt="Variations of the Index 7 logo for future iterations of the exhibition">
 
   <img class="clear half" width="624" height="390"
-    src="http://media.nunocoelhosantos.com/images/index-7-card-1.jpg"
+    src="/media/images/index-7-card-1.jpg"
     alt="Logo for the Index 7 exhibition overlaying a photograph by one of the
     artists showcased">
   <img class="half" width="624" height="390"
-    src="http://media.nunocoelhosantos.com/images/index-7-card-2.jpg"
+    src="/media/images/index-7-card-2.jpg"
     alt="Logo for the Index 7 exhibition overlaying a photograph by one of the
     artists showcased">
   <img class="clear half" width="624" height="390"
-    src="http://media.nunocoelhosantos.com/images/index-7-card-3.jpg"
+    src="/media/images/index-7-card-3.jpg"
     alt="Logo for the Index 7 exhibition overlaying a photograph by one of the
     artists showcased">
 

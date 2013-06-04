@@ -16,10 +16,10 @@
 <div class="project" id="expresso-viagens">
 
   <img class="full" width="1264" height="550"
-    src="http://media.nunocoelhosantos.com/images/expresso-viagens-logo.png">
+    src="/media/images/expresso-viagens-logo.png">
 
   <img class="clear side" width="1008" height="1008"
-    src="http://media.nunocoelhosantos.com/images/expresso-viagens-stationary.jpg">
+    src="/media/images/expresso-viagens-stationary.jpg">
   <div class="txt">
     <h2>Expresso Viagens</h2>
     <h6>Branding, Front-end Development, Illustration, Print & Web Design.</h6>
@@ -42,7 +42,7 @@
   </div>
 
   <img class="clear side" width="1008" height="795"
-    src="http://media.nunocoelhosantos.com/images/expresso-viagens-illustrations.png">
+    src="/media/images/expresso-viagens-illustrations.png">
   <div class="txt">
     <p>The illustrations on the website help not only the understanding of the text but are also a
       key element to make the visitor connect with the brand. In the end, these will be the most
@@ -72,10 +72,10 @@
     </p>
   </div>
   <img class="side" width="1008" height="965"
-    src="http://media.nunocoelhosantos.com/images/expresso-viagens-screen.png">
+    src="/media/images/expresso-viagens-screen.png">
 
   <img class="site-plan" width="1166" height="3798"
-    src="http://media.nunocoelhosantos.com/images/expresso-viagens-website-plan.png">
+    src="/media/images/expresso-viagens-website-plan.png">
 
 </div>
 

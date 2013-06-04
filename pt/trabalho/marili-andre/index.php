@@ -11,7 +11,7 @@
 <div class="project" id="marili-andre">
 
   <img class="clear side" width="1008" height="917"
-    src="http://media.nunocoelhosantos.com/images/marili-andre-screen.png">
+    src="/media/images/marili-andre-screen.png">
 
 </div>
 
