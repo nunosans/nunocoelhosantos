@@ -1,16 +1,19 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html>
   <head>
     <title>Nuno Coelho Santos <? if ($page=='Home' || $page=='Profile') {echo(' &nbsp;—&nbsp; '); } else {echo(' &nbsp;~&nbsp; ');}; echo $title; ?></title>
     <meta charset="UTF-8">
+    <meta http-equiv="content-type"     content="charset=utf-8">
+    <meta http-equiv="content-language" content="ja">
+    <meta http-equiv="expires"          content="Mon, 30 Dev 2013 00:00:00 GMT">
     <meta name="description" content="<? echo($description) ?>">
     <meta name="keywords"    content="nuno, coelho, santos, graphic, web,
       design, identity, soares, reis, csm, central, saint, martins, london,
       fontend, font, end, developer, ustwo, us, two">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
     <link rel="icon"          href="http://nunocoelhosantos.com/media/graphics/favicon.png">
     <link rel="shortcut icon" href="http://nunocoelhosantos.com/media/graphics/favicon.png">
-    <meta name="format-detection" content="telephone=no">
-    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
     <link href="/stylesheets/main.css" rel="stylesheet">
     <script src="http://use.typekit.com/qxu7res.js"></script>
     <script>try{Typekit.load();}catch(e){};</script>
