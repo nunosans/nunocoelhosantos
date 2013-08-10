@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="content-type"     content="charset=utf-8">
     <meta http-equiv="content-language" content="pt-pt">
-    <meta http-equiv="expires"          content="Mon, 30 Dev 2013 00:00:00 GMT">
+    <meta http-equiv="expires"          content="Mon, 30 Dec 2013 00:00:00 GMT">
     <meta name="description" content="<? echo($description) ?>">
     <meta name="keywords"    content="nuno, coelho, santos, graphic, web,
       design, identity, soares, reis, csm, central, saint, martins, london,
@@ -65,7 +65,7 @@
     <div id="header">
       <h1>
         <em><a href="/pt/">Nuno Coelho Santos</a></em><br>
-        Design Gráfico e Programação
+        Designer Gráfico e Programador
       </h1>
       <ul id="nav">
         <li>

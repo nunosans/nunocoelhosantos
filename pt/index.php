@@ -1,6 +1,6 @@
 <?
   $page='Home';
-  $title='Design Gráfico e Programação';
+  $title='Designer Gráfico e Programador';
   $description='Nuno Coelho Santos é um Designer e Programador para web
     residente em Londres.';
   require_once('header.inc.php');

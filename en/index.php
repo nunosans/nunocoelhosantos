@@ -38,12 +38,23 @@
 
   <div class="new">
     <h4>
+      <a href="./work/ustwo-rebrand/">ustwo™ Rebrand</a>
+    </h4>
+    <a href="./work/ustwo-rebrand/">
+      <img width="240" height="140"
+       src="/media/images/ustwo-rebrand-card.jpg"
+       alt="">
+    </a>
+    <p>Design of the app that lets you give and collect items
+      close to you</p>
+  </div>
+  <div class="new">
+    <h4>
       <a href="./work/kerbside/">Kerbside</a>
     </h4>
     <a href="./work/kerbside/">
       <img width="240" height="140"
        src="/media/images/kerbside-card.jpg"
-       srcset="/media/images/kerbside-card@2x.jpg 2x"
        alt="">
     </a>
     <p>Design of the app that lets you give and collect items
@@ -56,7 +67,6 @@
     <a href="./work/auria/">
       <img width="240" height="140"
         src="/media/images/auria-card.jpg"
-        srcset="/media/images/auria-card@2x.jpg 2x"
         alt="" >
     </a>
     <p>Website for Auria, the London-based swimwear designer</p>
@@ -68,7 +78,6 @@
     <a href="./work/the-scientist/">
       <img width="240" height="140"
        src="/media/images/the-scientist-card.jpg"
-       srcset="/media/images/the-scientist-card@2x.jpg 2x"
        alt="">
     </a>
     <p>Design of the official scientific articles aggregate for iPhone</p>
@@ -80,7 +89,6 @@
     <a href="./work/creative-space/">
       <img width="240" height="140"
        src="/media/images/the-creative-space.jpg"
-       srcset="/media/images/the-creative-space@2x.jpg 2x"
        alt="">
     </a>
     <p>Website for the real estate company that transforms offices into homes</p>
@@ -92,7 +100,6 @@
     <a href="./work/instagram-redesign-brief/">
       <img width="240" height="140"
        src="/media/images/instagram-redesign-brief-card.jpg"
-       srcset="/media/images/instagram-redesign-brief-card@2x.jpg 2x"
        alt="">
     </a>
     <p>A re-imagination of the popular photo sharing app, Instagram</p>
@@ -108,7 +115,6 @@
     <a href="./work/stylize-d/">
       <img width="240" height="140"
        src="/media/images/stylize-d-card.jpg"
-       srcset="/media/images/stylize-d-card@2x.jpg 2x"
        alt="Detail of an application of the Stylize/d identity">
     </a>
     <p>Identity and web design for the independent fashion blog</p>
@@ -120,7 +126,6 @@
     <a href="./work/kent-and-curwen/">
       <img width="240" height="140"
        src="/media/images/kent-and-curwen-card.jpg"
-       srcset="/media/images/kent-and-curwen-card@2x.jpg 2x"
        alt="Kent &amp; Curwen Logo on an image from the Fall/Winter 2012
        campaign">
     </a>
@@ -133,7 +138,6 @@
     <a href="./work/keepon/">
       <img width="240" height="140"
        src="/media/images/keepon-card.jpg"
-       srcset="/media/images/keepon-card@2x.jpg 2x"
        alt="App icon of the Keepon app for iOS">
     </a>
     <p>Design, Architecture and experience of the third-party Kickoff client for iOS</p>
@@ -145,7 +149,6 @@
     <a href="./work/hash-todo/">
       <img width="240" height="140"
         src="/media/images/hash-todo-card.jpg"
-        srcset="/media/images/hash-todo-card@2x.jpg 2x"
         alt="A computer generated image of an iPhone with the #todo app interface
         on the display" >
     </a>
@@ -158,7 +161,6 @@
     <a href="./work/norman-hartnell/">
       <img width="240" height="140"
         src="/media/images/norman-hartnell-card.jpg"
-        srcset="/media/images/norman-hartnell-card@2x.jpg 2x"
         alt="A picture of the Norman Hartnell logo">
     </a>
     <p>Development of HM The Queen's dressmaker revival brand website</p>
@@ -170,7 +172,6 @@
     <a href="./work/paul-cocksedge-shop/">
       <img width="240" height="140"
         src="/media/images/paul-cocksedge-shop-card.jpg"
-        srcset="/media/images/paul-cocksedge-shop-card@2x.jpg 2x"
         alt="A photograph of the black Bookmark by Paul Cocksedge Studio">
     </a>
     <p>Identity and online store for the <br>London-based design studio</p>
@@ -182,7 +183,6 @@
     <a href="./work/vania-coelho-santos/">
       <img width="240" height="140"
         src="/media/images/vania-coelho-santos-card.png"
-        srcset="/media/images/vania-coelho-santos-card@2x.png 2x"
         alt="One of the computer generated images representing one Vânia Coelho
         Santos architectural concepts" >
     </a>
@@ -195,7 +195,6 @@
     <a href="./work/ava-mirabelle/">
       <img width="240" height="140"
         src="/media/images/ava-mirabelle-card.jpg"
-        srcset="/media/images/ava-mirabelle-card@2x.jpg 2x"
         alt="A picture of the Ava Mirabelle Logo">
     </a>
     <p>Identity and development of the <br />hand-made online fashion store</p>
@@ -210,7 +209,6 @@
     <a href="./work/expresso-viagens/">
       <img width="240" height="140"
         src="/media/images/expresso-viagens-card.png"
-        srcset="/media/images/expresso-viagens-card@2x.png 2x"
         alt="Fraction of one of the illustrations made for the Expresso Viagens
         rebrand">
     </a>
@@ -224,7 +222,6 @@
     <a href="./work/index-7/">
       <img width="240" height="140"
         src="/media/images/index-7-card.jpg"
-        srcset="/media/images/index-7-card@2x.jpg 2x"
         alt="Image with the Index 7 show logo placed on top of a photograph by
         Myka Baum">
     </a>
@@ -236,7 +233,6 @@
     </h4>
     <img width="240" height="140"
       src="/media/images/protein-journal-card.jpg"
-      srcset="/media/images/protein-journal-card@2x.jpg 2x"
       alt="Fraction of the cover for the Protein Journal Issue 3">
     <p>Development of the Protein’s journal version for the iPad</p>
   </div>
@@ -246,7 +242,6 @@
     </h4>
     <img width="240" height="140"
       src="/media/images/shooting-people-card.jpg"
-      srcset="/media/images/shooting-people-card@2x.jpg 2x"
       alt="Photograph of the buinsess cards designed for Shooting People">
     <p>Print, web design and development for the filmmakers’ network</p>
   </div>
@@ -256,7 +251,6 @@
     </h4>
     <img width="240" height="140"
       src="/media/images/lilias-buchanan-card.jpg"
-      srcset="/media/images/lilias-buchanan-card@2x.jpg 2x"
       alt="Fraction of one of the illustrations from the series ‘The Death of
       Ivan Illych’ by Lilias Buchanan">
     </a>
@@ -268,7 +262,6 @@
     </h4>
     <img width="240" height="140"
       src="/media/images/jo-phipps-card.jpg"
-      srcset="/media/images/jo-phipps-card@2x.jpg 2x"
       alt="Fraction of ‘Joseph’ by Jo Phipps">
     <p>Design and development of the artist online portfolio</p>
   </div>
@@ -278,7 +271,6 @@
     </h4>
     <img width="240" height="140"
       src="/media/images/nostalgics-card.jpg"
-      srcset="/media/images/nostalgics-card@2x.jpg 2x"
       alt="Close up photograph of the  engraved musical notes in the Musical
       Glass by Nostalgics">
     <p>Web development for the collection of bespoke curious artifacts</p>
@@ -290,7 +282,6 @@
     <a href="./work/stethoscore/">
       <img width="240" height="140"
         src="/media/images/stethoscore-card.jpg"
-        srcset="/media/images/stethoscore-card@2x.jpg 2x"
         alt="Image of the Stethoscore Application running on an iPhone 4">
     </a>
     <p>UI/UX &amp; web development for the medical utility app</p>
@@ -304,7 +295,6 @@
     </h4>
     <img width="240" height="140"
       src="/media/images/marili-andre-card.jpg"
-      srcset="/media/images/marili-andre-card@2x.jpg 2x"
       alt="Frame of one of Marili André videos overlayed by the logo">
     <p>Identity for the fashion photographer and filmmaking artist</p>
   </div>
@@ -314,7 +304,6 @@
     </h4>
     <img width="240" height="140"
       src="/media/images/ailara-berdyyeva-card.jpg"
-      srcset="/media/images/ailara-berdyyeva-card@2x.jpg 2x"
       alt="Photo of the ‘Inside/Outsie’ bag by Ailara Berdyyeva">
     <p>Identity, print, photography and web design for the textile designer webfolio</p>
   </div>
@@ -325,7 +314,6 @@
     <a href="./work/caroline-pera/">
       <img width="240" height="140"
         src="/media/images/caroline-pera-card.jpg"
-        srcset="/media/images/caroline-pera-card@2x.jpg 2x"
         alt="Photo of one of Caroline Pera’s jewellery pieces">
     </a>
     <p>Identity, print and web design for the jewelery design webfolio</p>
@@ -337,7 +325,6 @@
     <a href="./work/ana-barreira/">
       <img width="240" height="140"
         src="/media/images/ana-barreira-card.jpg"
-        srcset="/media/images/ana-barreira-card@2x.jpg 2x"
         alt="Fraction of one of Ana Barreira’s photos overlayed by her logo">
     </a>
     <p>Identity, print and web design of the fashion photography webfolio</p>
@@ -351,7 +338,6 @@
     </h4>
     <img width="240" height="140"
       src="/media/images/miti-ruangkritya-card.jpg"
-      srcset="/media/images/miti-ruangkritya-card@2x.jpg 2x"
       alt="Fraction of ‘Bangkok Protest’ by Miti Ruangkritya">
     <p>Design of the website for the Thai photojournalist</p>
   </div>
@@ -361,7 +347,6 @@
     </h4>
     <img width="240" height="140"
       src="/media/images/sophie-westerlind-card.png"
-      srcset="/media/images/sophie-westerlind-card@2x.png 2x"
       alt="Fraction of one of Sophie Westerlind’s illustrations">
     <p>Design and development for the graphic designer and illustrator</p>
   </div>
@@ -372,7 +357,6 @@
     <a href="./work/fractures-from-anxiety/">
       <img width="240" height="140"
         src="/media/images/fractures-from-anxiety-card.jpg"
-        srcset="/media/images/fractures-from-anxiety-card@2x.jpg 2x"
         alt="Detail of the cover for ‘Fractures from Anxiety’ designed by
         Nuno Coelho Santos">
     </a>

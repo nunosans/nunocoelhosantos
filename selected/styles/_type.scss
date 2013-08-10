@@ -1,0 +1,47 @@
+// "tablet-gothic-semi-condensed" 400
+// "tablet-gothic" 400, 700
+// "tablet-gothic-wide" 800
+
+body {
+  font-family: "tablet-gothic", sans-serif;
+  font-weight: 400;
+  padding: 1%;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "tablet-gothic", sans-serif;
+  margin: 20px 5px 20px -5px;
+}
+
+h1 {
+  font-size: 70px;
+  line-height: 80px;
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+ol {
+  list-style-type: decimal;
+  padding: 10px 0 10px 5%;
+}
+
+article {
+
+}
+
+section {
+
+}
+
+footer {
+  padding: 40px 0;
+}
