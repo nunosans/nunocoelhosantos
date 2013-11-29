@@ -121,6 +121,17 @@
   </div>
   <div>
     <h4>
+      <a href="./work/vaio-message-center/">Sony VAIO Message Center</a>
+    </h4>
+    <a href="./work/vaio-message-center/">
+      <img width="240" height="140"
+       src="/media/images/vaio-message-center-card.jpg"
+       alt="">
+    </a>
+    <p></p>
+  </div>
+  <div>
+    <h4>
       <a href="./work/kent-and-curwen/">Kent &amp; Curwen</a>
     </h4>
     <a href="./work/kent-and-curwen/">
@@ -130,6 +141,17 @@
        campaign">
     </a>
     <p>Responsive website for the luxury menswear brand</p>
+  </div>
+  <div>
+    <h4>
+      <a href="./work/google-doubleclick/">Google DoubleClick</a>
+    </h4>
+    <a href="./work/google-doubleclick/">
+      <img width="240" height="140"
+       src="/media/images/google-doubleclick-card.jpg"
+       alt="">
+    </a>
+    <p></p>
   </div>
   <div>
     <h4>

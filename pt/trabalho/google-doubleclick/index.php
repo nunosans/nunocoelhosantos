@@ -9,9 +9,9 @@
   <h2><? echo $title ?></h2>
 </div>
 
-<div class="project" id="google-doubleclick-rich-media-gallery">
+<div class="project" id="google-doubleclick">
 
-  <img class="clear side" width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-7.jpg">
+  <img class="clear side" width="1450" height="1100" src="/media/images/google-doubleclick-display-7.jpg">
   <div class="txt">
     <h2>Google DoubleClick</h2>
     <h6>Front-end Development</h6>
@@ -42,13 +42,13 @@
     </p>
   </div>
 
-  <img class="clear half" width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-1.jpg">
-  <img class="half"       width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-2.jpg">
+  <img class="clear half" width="1450" height="1100" src="/media/images/google-doubleclick-display-1.jpg">
+  <img class="half"       width="1450" height="1100" src="/media/images/google-doubleclick-display-2.jpg">
 
-  <img class="full"       width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-5.jpg">
+  <img class="full"       width="1450" height="1100" src="/media/images/google-doubleclick-display-5.jpg">
 
-  <img class="clear half" width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-3.jpg">
-  <img class="half"       width="1450" height="1100" src="/media/images/google-doubleclick-rich-media-gallery-display-4.jpg">
+  <img class="clear half" width="1450" height="1100" src="/media/images/google-doubleclick-display-3.jpg">
+  <img class="half"       width="1450" height="1100" src="/media/images/google-doubleclick-display-4.jpg">
 
 
 </div>

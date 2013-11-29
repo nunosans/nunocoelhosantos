@@ -1,7 +1,7 @@
 <?
-  $page='Home';
-  $title='Designer Gráfico e Programador';
-  $description='Nuno Coelho Santos é um Designer e Programador para web
+  $page = 'Home';
+  $title = 'Designer Gráfico e Programador';
+  $description = 'Nuno Coelho Santos é um Designer e Programador para web
     residente em Londres.';
   require_once('header.inc.php');
 ?>
@@ -108,6 +108,17 @@
   </div>
   <div>
     <h4>
+      <a href="./trabalho/vaio-message-center/">Sony VAIO Message Center</a>
+    </h4>
+    <a href="./trabalho/vaio-message-center/">
+      <img width="240" height="140"
+       src="/media/images/vaio-message-center-card.jpg"
+       alt="">
+    </a>
+    <p></p>
+  </div>
+  <div>
+    <h4>
       <a href="./trabalho/kent-and-curwen/">Kent &amp; Curwen</a>
     </h4>
     <a href="./trabalho/kent-and-curwen/">
@@ -117,6 +128,17 @@
        campanha Outono/Inverno 2012">
     </a>
     <p>Website para uma das mais históricas marcas de moda britânica masculina</p>
+  </div>
+  <div>
+    <h4>
+      <a href="./trabalho/google-doubleclick/">Google DoubleClick</a>
+    </h4>
+    <a href="./trabalho/google-doubleclick/">
+      <img width="240" height="140"
+       src="/media/images/google-doubleclick-card.jpg"
+       alt="">
+    </a>
+    <p></p>
   </div>
   <div>
     <h4>
@@ -143,7 +165,7 @@
       <a href="./trabalho/norman-hartnell/">Norman Hartnell</a>
     </h4>
     <a href="./trabalho/norman-hartnell/">
-      <img src="/media/images/norman-hartnell-card.png"
+      <img src="/media/images/norman-hartnell-card.jpg"
         alt="Logo da Norman Hartnell" width="240" height="140">
     </a>
     <p>Desenvolvimento do site para a marca do estilista oficial da rainha Elizabete II</p>
