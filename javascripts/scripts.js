@@ -1,4 +1,4 @@
-// Copyright 2013 Nuno Coelho Santos (nuno@nunocoelhosantos.com).
+// Copyright 2014 Nuno Coelho Santos (nuno@nunocoelhosantos.com).
 // All Rights Reserved.
 
 /**
@@ -17,13 +17,13 @@ function resizeFeaturedProject() {
   var container = $('.featured');
   var elementRatio = 0.5;
 
-  if (mobileDevice) {
+  // if (mobileDevice) {
     var element = container.find('img');
-    container.find('video').remove();
-  } else {
-    var element = container.find('video');
-    container.find('img').remove();
-  }
+    // container.find('video').remove();
+  // } else {
+    // var element = container.find('video');
+    // container.find('img').remove();
+  // }
 
   // Apply required styles.
   element.css('position', 'relative');
@@ -122,8 +122,8 @@ $(document).ready(function() {
 
   // Apply localScroll to the nav.
   $('#nav').localScroll({
-      target:  'body',
-      duration: 350
+    target:  'body',
+    duration: 350
   });
 
   gridToggles();

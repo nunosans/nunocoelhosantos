@@ -9,8 +9,8 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../index-7/">Previous</a> &thinsp;/&thinsp;
-    <a href="../caroline-pera/">Next</a>
+    <a href="../jo-phipps/">Previous</a> &thinsp;/&thinsp;
+    <a href="../marili-andre/">Next</a>
   </span>
 </div>
 

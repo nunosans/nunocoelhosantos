@@ -1,7 +1,10 @@
 /* Five Columns */
 @media only screen and (min-width: 1449px) {
+
   body > * {width: 1296px;}
+
   #header, .project, .project-nav {width: 1264px;}
+
   .featured {width: 1264px; max-height: 695px;}
   .featured img,
   .featured video {
@@ -10,22 +13,23 @@
     left: -131px !important;
     height: 695px !important;
     width: 1527px !important;
-    }
+  }
   .featured > div > * {
     padding-left: 16px;
     padding-right: 1008px;
-    }
-  .featured p {
-    background-position: 1224px 0;
-    }
+  }
+
   .work {width: 1280px;}
+
   .project .full      {width: 1280px;}
   .project .side      {width: 1008px;}
   .project .half      {width: 624px;}
   .project .site-plan {width: 752px;}
+
   #info,
   #copyright {width: 1296px;}
   #info .txt.grid4 {width: 496px;}
   #info .txt.grid1,
   #info .txt.grid2 {width: 368px;}
+
 }

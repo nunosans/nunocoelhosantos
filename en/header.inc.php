@@ -14,27 +14,26 @@
     <meta name="format-detection" content="telephone=no">
     <link rel="icon"          href="http://nunocoelhosantos.com/media/graphics/favicon.png">
     <link rel="shortcut icon" href="http://nunocoelhosantos.com/media/graphics/favicon.png">
-    <link href="/stylesheets/main.css" rel="stylesheet">
+    <link href="/stylesheets/all.css" rel="stylesheet">
     <script src="http://use.typekit.com/qxu7res.js"></script>
     <script>try{Typekit.load();}catch(e){};</script>
     <link href="/humans.txt" rel="author">
     <?
     $project_number = 0;  // Initial value to iterate
-    $projects_total = 19; // Total number of projects
+    $projects_total = 28; // Total number of projects
     switch ($title) {
       case 'Fractures from Anxiety'   : $project_number++;
-      // case 'Sophie Westerlind'        : $project_number++;
-      // case 'Miti Ruangkritya'         : $project_number++;
+      case 'Sophie Westerlind'        : $project_number++;
+      case 'Miti Ruangkritya'         : $project_number++;
       case 'Ana Barreira'             : $project_number++;
       case 'Caroline Pera'            : $project_number++;
-      // case 'Ailara Berdyyeva'         : $project_number++;
-      // case 'Marili André'             : $project_number++;
+      case 'Ailara Berdyyeva'         : $project_number++;
+      case 'Marili André'             : $project_number++;
       case 'Stethoscore'              : $project_number++;
-      // case 'Nostalgics'               : $project_number++;
-      // case 'Jo Phipps'                : $project_number++;
-      // case 'Lilias Buchanan'          : $project_number++;
-      // case 'Shooting People'          : $project_number++;
-      // case 'Protein Journal'          : $project_number++;
+      case 'Jo Phipps'                : $project_number++;
+      case 'Lilias Buchanan'          : $project_number++;
+      case 'Shooting People'          : $project_number++;
+      case 'Protein Journal'          : $project_number++;
       case 'Index 7'                  : $project_number++;
       case 'Expresso Viagens'         : $project_number++;
       case 'Ava Mirabelle'            : $project_number++;
@@ -45,13 +44,16 @@
       case 'Keepon'                   : $project_number++;
       // case 'Google DoubleClick'       : $project_number++;
       case 'Kent & Curwen'            : $project_number++;
+      // case 'Sony VAIO Message Center' : $project_number++;
       case 'Stylize/d'                : $project_number++;
       case 'Instagram Redesign Brief' : $project_number++;
-      // case 'Jenkins Dashboad'         : $project_number++;
       case 'Creative Space'           : $project_number++;
       case 'The Scientist'            : $project_number++;
       case 'Auria'                    : $project_number++;
-      case 'Kerbside'                 : $project_number++;
+      // case 'Kerbside'                 : $project_number++;
+      // case 'Plenti'                   : $project_number++;
+      case '15 Days in Japan'         : $project_number++;
+      // case 'ustwo Identity'           : $project_number++;
       //Add new projects here using the same structure
     }
     ?>
@@ -60,7 +62,7 @@
     <div id="header">
       <h1>
         <em><a href="/en/">Nuno Coelho Santos</a></em><br>
-        Designer &amp; Front-end Developer
+        London-based Designer <br>&amp; Web Developer
       </h1>
       <ul id="nav">
         <li>

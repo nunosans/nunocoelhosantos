@@ -39,5 +39,8 @@
            -o-transition-duration: 0.0s;
               transition-duration: 0.0s;
     }
+    br + br {
+      display: none;
+    }
   }
 }

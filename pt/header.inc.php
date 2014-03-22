@@ -14,7 +14,7 @@
     <meta name="format-detection" content="telephone=no">
     <link rel="icon"          href="http://nunocoelhosantos.com/media/graphics/favicon.png">
     <link rel="shortcut icon" href="http://nunocoelhosantos.com/media/graphics/favicon.png">
-    <link href="/stylesheets/main.css" rel="stylesheet">
+    <link href="/stylesheets/all.css" rel="stylesheet">
     <script src="//use.typekit.com/qxu7res.js"></script>
     <script>try{Typekit.load();}catch(e){};</script>
     <link href="/humans.txt" rel="author">

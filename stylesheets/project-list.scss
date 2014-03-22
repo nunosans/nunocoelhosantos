@@ -99,8 +99,12 @@ h3 {
   div.dev img {
     opacity: 0.35;
   }
+  div.private {
+    display: none;
+  }
   div.dev h4:after,
-  div.new h4:after {
+  div.new h4:after,
+  div.private h4:after {
     position: absolute;
     top: 151px;
     right: 8px;
@@ -121,5 +125,9 @@ h3 {
   div.new h4:after {
     content: "New";
     background-color: $key-color;
+  }
+  div.private h4:after {
+    content: "Private";
+    background-color: #CCC;
   }
 }

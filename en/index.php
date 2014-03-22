@@ -1,31 +1,26 @@
 <?
   $page = 'Home';
-  $title = 'Designer & Front-end Developer';
-  $description = 'Nuno Coelho Santos is a Graphic Designer and Front-end
+  $title = 'Designer & Web Developer';
+  $description = 'Nuno Coelho Santos is a Graphic Designer and Web
     Developer based in London.';
   require_once('header.inc.php');
 ?>
 
 <!-- Featured Project -->
 <div class="featured">
-  <a href="./work/instagram-redesign-brief/">
-    <!--<img width="3000" height="1500"
-      src="/media/images/instagram-redesign-brief-slide.jpg"
-      alt="">
-    <video width="3000" height="1500" autoplay>
-      <source src="/media/videos/instagram-redesign-brief.webm" type="video/webm">
-      <source src="/media/videos/instagram-redesign-brief.mp4"  type="video/mp4">
-      <source src="/media/videos/instagram-redesign-brief.ogg"  type="video/ogg">
-    </video>-->
+  <a href="./work/15-days-in-japan/">
+    <img width="3000" height="1500"
+      src="/media/images/15-days-in-japan-slide.jpg"
   </a>
   <div>
     <h2>
-      <a href="./work/instagram-redesign-brief/">Featured: Instagram Redesign
-        Brief</a>
+      <a href="./work/15-days-in-japan/">Featured: 15 Days in Japan</a>
     </h2>
     <p>
-      <a href="./work/instagram-redesign-brief/">As part of my training, I was
-        asked to re-imagine the Instagram app</a>
+      <a href="./work/15-days-in-japan/">
+        A photo journal documenting the
+        <br>day-to-day of my first trip to Japan
+      </a>
     </p>
   </div>
 </div>
@@ -36,19 +31,45 @@
   <!-- Projects from 2013 -->
   <h3>2013</h3>
 
-  <div class="new">
+  <div class="new private">
     <h4>
-      <a href="./work/ustwo-rebrand/">ustwo™ Rebrand</a>
+      <a href="./work/ustwo-identity/">ustwo Identity</a>
     </h4>
-    <a href="./work/ustwo-rebrand/">
+    <a href="./work/ustwo-identity/">
       <img width="240" height="140"
-       src="/media/images/ustwo-rebrand-card.jpg"
+       src="/media/images/ustwo-identity-card.jpg"
        alt="">
     </a>
-    <p>Design of the app that lets you give and collect items
-      close to you</p>
+    <p></p>
   </div>
+
   <div class="new">
+    <h4>
+      <a href="./work/15-days-in-japan/">15 Days in Japan</a>
+    </h4>
+    <a href="./work/15-days-in-japan/">
+      <img width="240" height="140"
+       src="/media/images/15-days-in-japan-card.jpg"
+       alt="">
+    </a>
+    <p>
+      A custom built travel blog documenting my first trip to Japan.
+    </p>
+  </div>
+
+  <div class="new private">
+    <h4>
+      <a href="./work/plenti/">Plenti</a>
+    </h4>
+    <a href="./work/plenti/">
+      <img width="240" height="140"
+       src="/media/images/plenti-card.jpg"
+       alt="">
+    </a>
+    <p></p>
+  </div>
+
+  <div class="new private">
     <h4>
       <a href="./work/kerbside/">Kerbside</a>
     </h4>
@@ -60,6 +81,7 @@
     <p>Design of the app that lets you give and collect items
       close to you</p>
   </div>
+
   <div class="new">
     <h4>
       <a href="./work/auria/">Auria</a>
@@ -69,8 +91,9 @@
         src="/media/images/auria-card.jpg"
         alt="" >
     </a>
-    <p>Website for Auria, the London-based swimwear designer</p>
+    <p>Website for Auria, the british luxery swimwear brand</p>
   </div>
+
   <div class="new">
     <h4>
       <a href="./work/the-scientist/">The Scientist</a>
@@ -82,6 +105,7 @@
     </a>
     <p>Design of the official scientific articles aggregate for iPhone</p>
   </div>
+
   <div class="new">
     <h4>
       <a href="./work/creative-space/">Creative Space</a>
@@ -93,6 +117,7 @@
     </a>
     <p>Website for the real estate company that transforms offices into homes</p>
   </div>
+
   <div class="new">
     <h4>
       <a href="./work/instagram-redesign-brief/">Instagram Redesign Brief</a>
@@ -102,7 +127,7 @@
        src="/media/images/instagram-redesign-brief-card.jpg"
        alt="">
     </a>
-    <p>A re-imagination of the popular photo sharing app, Instagram</p>
+    <p>A re-imagination of the popular photo sharing app</p>
   </div>
 
   <!-- Projects from 2012 -->
@@ -119,7 +144,8 @@
     </a>
     <p>Identity and web design for the independent fashion blog</p>
   </div>
-  <div>
+
+  <div class="new private">
     <h4>
       <a href="./work/vaio-message-center/">Sony VAIO Message Center</a>
     </h4>
@@ -130,6 +156,7 @@
     </a>
     <p></p>
   </div>
+
   <div>
     <h4>
       <a href="./work/kent-and-curwen/">Kent &amp; Curwen</a>
@@ -142,7 +169,8 @@
     </a>
     <p>Responsive website for the luxury menswear brand</p>
   </div>
-  <div>
+
+  <div class="private">
     <h4>
       <a href="./work/google-doubleclick/">Google DoubleClick</a>
     </h4>
@@ -153,6 +181,7 @@
     </a>
     <p></p>
   </div>
+
   <div>
     <h4>
       <a href="./work/keepon/">Keepon</a>
@@ -164,6 +193,7 @@
     </a>
     <p>Design, Architecture and experience of the third-party Kickoff client for iOS</p>
   </div>
+
   <div>
     <h4>
       <a href="./work/hash-todo/">#todo</a>
@@ -176,6 +206,7 @@
     </a>
     <p>User interface and experience of the Twitter-powered to-do list app</p>
   </div>
+
   <div>
     <h4>
       <a href="./work/norman-hartnell/">Norman Hartnell</a>
@@ -187,6 +218,7 @@
     </a>
     <p>Development of HM The Queen's dressmaker revival brand website</p>
   </div>
+
   <div>
     <h4>
       <a href="./work/paul-cocksedge-shop/">Paul Cocksedge Shop</a>
@@ -198,6 +230,7 @@
     </a>
     <p>Identity and online store for the <br>London-based design studio</p>
   </div>
+
   <div>
     <h4>
       <a href="./work/vania-coelho-santos/">Vânia Coelho Santos</a>
@@ -210,6 +243,7 @@
     </a>
     <p>Design and development of my sister's architecture digital portfolio</p>
   </div>
+
   <div>
     <h4>
       <a href="./work/ava-mirabelle/">Ava Mirabelle</a>
@@ -224,6 +258,7 @@
 
   <!-- Projects from 2011 -->
   <h3>2011</h3>
+
   <div>
     <h4>
       <a href="./work/expresso-viagens/">Expresso Viagens</a>
@@ -237,6 +272,7 @@
     <p>Identity, print, web design&hairsp;/&hairsp;development and illustrations for
       the travel agency</p>
   </div>
+
   <div>
     <h4>
       <a href="./work/index-7/">Index 7</a>
@@ -249,54 +285,56 @@
     </a>
     <p>Identity and print design for the photography exhibition</p>
   </div>
-  <div class="dev">
+
+  <div>
     <h4>
-      Protein&reg; Journal
+      <a href="./work/protein-journal">Protein&reg; Journal</a>
     </h4>
-    <img width="240" height="140"
-      src="/media/images/protein-journal-card.jpg"
-      alt="Fraction of the cover for the Protein Journal Issue 3">
+    <a href="./work/protein-journal">
+      <img width="240" height="140"
+        src="/media/images/protein-journal-card.jpg"
+        alt="Fraction of the cover for the Protein Journal Issue 3">
+    </a>
     <p>Development of the Protein’s journal version for the iPad</p>
   </div>
-  <div class="dev">
+
+  <div>
     <h4>
-      Shooting People
+      <a href="./work/shooting-people">Shooting People</a>
     </h4>
-    <img width="240" height="140"
-      src="/media/images/shooting-people-card.jpg"
-      alt="Photograph of the buinsess cards designed for Shooting People">
+    <a href="./work/shooting-people">
+      <img width="240" height="140"
+        src="/media/images/shooting-people-card.jpg"
+        alt="Photograph of the buinsess cards designed for Shooting People">
+    </a>
     <p>Print, web design and development for the filmmakers’ network</p>
   </div>
-  <div class="dev">
+
+  <div>
     <h4>
-      Lilias Buchanan
+      <a href="./work/lilias-buchanan">Lilias Buchanan</a>
     </h4>
-    <img width="240" height="140"
-      src="/media/images/lilias-buchanan-card.jpg"
-      alt="Fraction of one of the illustrations from the series ‘The Death of
-      Ivan Illych’ by Lilias Buchanan">
+    <a href="./work/lilias-buchanan">
+      <img width="240" height="140"
+        src="/media/images/lilias-buchanan-card.jpg"
+        alt="Fraction of one of the illustrations from the series ‘The Death of
+        Ivan Illych’ by Lilias Buchanan">
     </a>
     <p>Online portfolio for the portraitist illustrator and graphic designer</p>
   </div>
-  <div class="dev">
+
+  <div>
     <h4>
-      Jo Phipps
+      <a href="./work/jo-phipps">Jo Phipps</a>
     </h4>
-    <img width="240" height="140"
-      src="/media/images/jo-phipps-card.jpg"
-      alt="Fraction of ‘Joseph’ by Jo Phipps">
+    <a href="./work/jo-phipps">
+      <img width="240" height="140"
+        src="/media/images/jo-phipps-card.jpg"
+        alt="Fraction of ‘Joseph’ by Jo Phipps">
+    </a>
     <p>Design and development of the artist online portfolio</p>
   </div>
-  <div class="dev">
-    <h4>
-      Nostalgics
-    </h4>
-    <img width="240" height="140"
-      src="/media/images/nostalgics-card.jpg"
-      alt="Close up photograph of the  engraved musical notes in the Musical
-      Glass by Nostalgics">
-    <p>Web development for the collection of bespoke curious artifacts</p>
-  </div>
+
   <div>
     <h4>
       <a href="./work/stethoscore/">Stethoscore</a>
@@ -311,24 +349,31 @@
 
   <!-- Projects from 2010 -->
   <h3>2010</h3>
-  <div class="dev">
+
+  <div>
     <h4>
-      Marili André
+      <a href="./work/marili-andre">Marili André</a>
     </h4>
-    <img width="240" height="140"
-      src="/media/images/marili-andre-card.jpg"
-      alt="Frame of one of Marili André videos overlayed by the logo">
+    <a href="./work/marili-andre">
+      <img width="240" height="140"
+        src="/media/images/marili-andre-card.jpg"
+        alt="Frame of one of Marili André videos overlayed by the logo">
+    </a>
     <p>Identity for the fashion photographer and filmmaking artist</p>
   </div>
-  <div class="dev">
+
+  <div>
     <h4>
-      Ailara Berdyyeva
+      <a href="./work/ailara-berdyyeva">Ailara Berdyyeva</a>
     </h4>
-    <img width="240" height="140"
-      src="/media/images/ailara-berdyyeva-card.jpg"
-      alt="Photo of the ‘Inside/Outsie’ bag by Ailara Berdyyeva">
+    <a href="./work/ailara-berdyyeva">
+      <img width="240" height="140"
+        src="/media/images/ailara-berdyyeva-card.jpg"
+        alt="Photo of the ‘Inside/Outsie’ bag by Ailara Berdyyeva">
+    </a>
     <p>Identity, print, photography and web design for the textile designer webfolio</p>
   </div>
+
   <div>
     <h4>
       <a href="./work/caroline-pera/">Caroline Pera</a>
@@ -340,6 +385,7 @@
     </a>
     <p>Identity, print and web design for the jewelery design webfolio</p>
   </div>
+
   <div>
     <h4>
       <a href="./work/ana-barreira/">Ana Barreira</a>
@@ -354,24 +400,31 @@
 
   <!-- Projects from 2009 -->
   <h3>2009</h3>
-  <div class="dev">
+
+  <div>
     <h4>
-      Miti Ruangkritya
+      <a href="./work/miti-ruangkritya">Miti Ruangkritya</a>
     </h4>
-    <img width="240" height="140"
-      src="/media/images/miti-ruangkritya-card.jpg"
-      alt="Fraction of ‘Bangkok Protest’ by Miti Ruangkritya">
+    <a href="./work/miti-ruangkritya">
+      <img width="240" height="140"
+        src="/media/images/miti-ruangkritya-card.jpg"
+        alt="Fraction of ‘Bangkok Protest’ by Miti Ruangkritya">
+    </a>
     <p>Design of the website for the Thai photojournalist</p>
   </div>
-  <div class="dev">
+
+  <div>
     <h4>
-      Sophie Westerlind
+      <a href="./work/sophie-westerlind">Sophie Westerlind</a>
     </h4>
-    <img width="240" height="140"
-      src="/media/images/sophie-westerlind-card.png"
-      alt="Fraction of one of Sophie Westerlind’s illustrations">
+    <a href="./work/sophie-westerlind">
+      <img width="240" height="140"
+        src="/media/images/sophie-westerlind-card.png"
+        alt="Fraction of one of Sophie Westerlind’s illustrations">
+    </a>
     <p>Design and development for the graphic designer and illustrator</p>
   </div>
+
   <div>
     <h4>
       <a href="./work/fractures-from-anxiety/">Fractures from Anxiety</a>

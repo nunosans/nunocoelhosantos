@@ -9,7 +9,7 @@
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
     <a href="../expresso-viagens/">Previous</a> &thinsp;/&thinsp;
-    <a href="../stethoscore/">Next</a>
+    <a href="../protein-journal/">Next</a>
   </span>
 </div>
 

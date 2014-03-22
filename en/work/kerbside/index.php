@@ -7,10 +7,6 @@
 <div class="project-nav">
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
-  <span>
-    Previous &thinsp;/&thinsp;
-    <a href="../auria/">Next</a>
-  </span>
 </div>
 
 <div class="project" id="kerbside">

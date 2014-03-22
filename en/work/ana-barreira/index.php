@@ -10,7 +10,7 @@
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
     <a href="../caroline-pera/">Previous</a> &thinsp;/&thinsp;
-    <a href="../fractures-from-anxiety/">Next</a>
+    <a href="../miti-ruangkritya/">Next</a>
   </span>
 </div>
 

@@ -1,7 +1,6 @@
 <?
   $title='Instagram Redesign Brief';
-  $description='Identity, print, photography and web design for the textile
-  designer webfolio';
+  $description='';
   require_once('../../header.inc.php');
 ?>
 

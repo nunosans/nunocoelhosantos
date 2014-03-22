@@ -98,18 +98,17 @@
         <h4>Contacts</h4>
         <p>
           <a class="tel" href="tel:+447919537622">+44 [0]787 434 9672</a>,<br>
-          <a href="mailto:nuno@nunocoelhosantos.com?subject=Question%20about%20your%20work%20/%20Quote%20/%20Work%20proposal&body=Dear%20Nuno,%0D%0A%0D%0A">nuno@nunocoelhosantos.com</a>,<br>
-          and also via <a href="https://plus.google.com/u/2/107460739591542528882">Google+ Hangouts</a>.
+          or <a href="mailto:nuno@nunocoelhosantos.com?subject=Question%20about%20your%20work%20/%20Quote%20/%20Work%20proposal&body=Dear%20Nuno,%0D%0A%0D%0A">nuno@nunocoelhosantos.com</a>.
         </p>
       </div>
       <div class="txt grid1">
         <h4>Also on</h4>
         <ul>
           <li>
-            <a href="http://dribbble.com/nunosans" target="_blank">Dribbble</a>
+            <a href="http://github.com/nunosans" target="_blank">Github</a>
           </li>
           <li>
-            <a href="http://github.com/nunosans" target="_blank">Github</a>
+            <a href="http://instagram.com/nunosans" target="_blank">Instagram</a>
           </li>
           <li>
             <a href="http://twitter.com/nunosans" target="_blank">Twitter</a>
@@ -125,10 +124,11 @@
     </span>
 
     <!-- Scripts -->
-    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
-    <script src="/javascript/localscroll.js"></script>
-    <script src="/javascript/scrollto.js"></script>
-    <script src="/javascript/scripts.js"></script>
+    <!--<script src="http://code.jquery.com/jquery-latest.min.js"></script>-->
+    <script src="/javascripts/jquery-2.0.3.min.js"></script>
+    <script src="/javascripts/localscroll.js"></script>
+    <script src="/javascripts/scrollto.js"></script>
+    <script src="/javascripts/scripts.js"></script>
 
     <!-- Google Analytics -->
     <script type="text/javascript">

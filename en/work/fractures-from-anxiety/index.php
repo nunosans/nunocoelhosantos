@@ -8,7 +8,7 @@
   <h2><? echo $title ?></h2>
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
   <span>
-    <a href="../ana-barreira/">Previous</a> &thinsp;/&thinsp;
+    <a href="../sophie-westerlind/">Previous</a> &thinsp;/&thinsp;
     Next
   </span>
 </div>
