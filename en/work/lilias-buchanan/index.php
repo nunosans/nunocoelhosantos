@@ -13,6 +13,8 @@
   </span>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="lilias-buchanan">
 
   <!-- Work goes here -->

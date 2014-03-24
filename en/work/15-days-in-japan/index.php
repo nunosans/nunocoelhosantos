@@ -14,6 +14,8 @@
   </span>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="15-days-in-japan">
 
   <!-- Header image on ipad -->

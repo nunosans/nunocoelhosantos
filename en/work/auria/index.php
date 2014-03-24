@@ -13,6 +13,8 @@
   </span>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="auria">
 
   <video class="full" width="1264" height="711" autoplay="autoplay" loop="loop">
@@ -37,14 +39,16 @@
       young and vibrand style as well as their ecological atitude by using only
       recycled materials and environmentally friendly means of production.
     </p>
-  </div>
-
-  <div class="txt clear">
     <p>
       The work on the logo was a small improvement over the original work by
       <a href="http://lucyverrechia.com" target="_blank">Lucy Verrechia</a>
       to bring thicker lines and better readability.
     </p>
+  </div>
+
+  <? require_once('../../../_spinner.html'); ?>
+
+  <div class="txt clear">
     <p>
       This project had a small budget and a goal of showcasing the
       photography at its best. The website aims to draw in the user with a

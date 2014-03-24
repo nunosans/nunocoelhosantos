@@ -6,9 +6,9 @@
   .project-nav {height: 61px;}
   #nav {width: 240px;}
   #nav li:first-child {margin-left: 0;}
-  .featured div {padding: 16px 0;}
-  .featured div > * {padding-right: 0;}
-  .featured div p {
+  .featured .featured-description {padding: 16px 0;}
+  .featured .featured-description > * {padding-right: 0;}
+  .featured .featured-description p {
     background-size: 8px 12.5px;
     width: 224px;
     padding-right: 32px;

@@ -13,6 +13,8 @@
   </span>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="protein-journal">
 
   <img class="full" width="1264" height="833"

@@ -8,6 +8,8 @@
   <h2><? echo $title ?></h2>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="plenti">
 
 </div>

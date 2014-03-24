@@ -2,7 +2,7 @@
 @media only screen and (max-width: 936px) {
   body > * {width: 528px;}
   #header, .project, .project-nav, .work h3 {width: 496px;}
-  .featured > div > * {padding-right: 256px;}
+  .featured > .featured-description > * {padding-right: 256px;}
   .work {width: 512px; padding: 0;}
   .work h3 {
     clear: both;

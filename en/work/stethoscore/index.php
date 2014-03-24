@@ -14,6 +14,8 @@
   </span>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="stethoscore">
 
   <img class="full" width="1264" height="680"

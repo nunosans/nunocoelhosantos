@@ -13,6 +13,8 @@
   </span>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="expresso-viagens">
 
   <img class="full" width="1264" height="550"

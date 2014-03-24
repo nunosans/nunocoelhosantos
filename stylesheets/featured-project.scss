@@ -8,7 +8,7 @@
   /* Display background while image loads */
   width: 100%;
   background-color: #303030;
-  background-image: url(/media/graphics/spinner-dark.gif);
+  // background-image: url(/media/graphics/spinner-dark.gif);
   background-size: 30px;
   background-position: center;
   background-repeat: no-repeat;
@@ -30,7 +30,7 @@
   video {
     z-index: 2;
   }
-  div {
+  .featured-description {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -96,11 +96,22 @@
   cursor: pointer;
 }
 
+.featured .spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -12px 0 0 -12px;
+  width: 24px;
+  height: 24px;
+  .container1 > div,
+  .container2 > div,
+  .container3 > div {
+    background-color: $shade-3;
+  }
+}
+
 body.ready {
-  .featured {
-    background-image: none;
-    div {
-      opacity: 1;
-    }
+  .featured-description {
+    opacity: 1;
   }
 }

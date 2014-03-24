@@ -14,6 +14,8 @@
   </span>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="ana-barreira">
 
   <img class="full no-margin" width="1264" height="540"

@@ -9,6 +9,8 @@
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="google-doubleclick">
 
   <img class="clear side" width="1450" height="1100" src="/media/images/google-doubleclick-display-7.jpg">

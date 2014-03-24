@@ -8,11 +8,12 @@
 
 <!-- Featured Project -->
 <div class="featured">
-  <a href="./work/15-days-in-japan/">
+  <? require_once('../_spinner.html'); ?>
+  <a href="./work/15-days-in-japan/" class="featured-image">
     <img width="3000" height="1500"
       src="/media/images/15-days-in-japan-slide.jpg"
   </a>
-  <div>
+  <div class="featured-description">
     <h2>
       <a href="./work/15-days-in-japan/">Featured: 15 Days in Japan</a>
     </h2>

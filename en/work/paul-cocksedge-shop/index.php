@@ -13,6 +13,8 @@
   </span>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="paul-cocksedge-shop">
 
   <img class="clear side" width="1008" height="500"

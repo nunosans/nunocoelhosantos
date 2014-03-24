@@ -13,6 +13,8 @@
   </span>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="norman-hartnell">
 
   <img class="clear side" width="1080" height="1080" src="/media/images/norman-hartnell-screen-2.jpg">

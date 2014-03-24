@@ -14,6 +14,8 @@
   </span>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="ailara-berdyyeva">
 
   <img class="clear side" width="1008" height="917"

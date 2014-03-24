@@ -9,6 +9,8 @@
   <span><? echo $project_number ?> of <? echo $projects_total ?></span>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="ustwo-identity">
 
 </div>

@@ -13,6 +13,8 @@
   </span>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="kent-and-curwen">
 
   <img class="full" width="1264" height="902" src="/media/images/kent-and-curwen-on-an-ipad.jpg">

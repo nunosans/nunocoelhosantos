@@ -2,11 +2,6 @@
 body {
   background-color: #FAFAFA;
   color: $shade-2;
-  /* Add a spinner (to be removed with JS) */
-  background-image: url(/media/graphics/spinner-light.gif);
-  background-size: 30px;
-  background-position: 50% 300px;
-  background-repeat: no-repeat;
   /* Center the body"s direct children on the page */
   > * {
     margin: 0 auto 90px;

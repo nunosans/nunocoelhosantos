@@ -8,6 +8,8 @@
   <h2><? echo $title ?></h2>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="sony-vaio-message-center">
 
   <img class="clear side" width="1008" height="533" src="/media/images/vaio-message-center-laptop.jpg">

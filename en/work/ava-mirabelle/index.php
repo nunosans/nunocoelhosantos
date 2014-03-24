@@ -13,6 +13,8 @@
   </span>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="ava-mirabelle">
 
   <img class="full" width="1264" height="500" src="/media/images/ava-mirabelle-logo-on-an-image.jpg">

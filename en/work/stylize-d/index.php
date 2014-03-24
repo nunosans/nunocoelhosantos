@@ -13,6 +13,8 @@
   </span>
 </div>
 
+<? require_once('../../../_spinner.html'); ?>
+
 <div class="project" id="stylize-d">
 
   <img class="full" width="1264" height="902" src="/media/images/stylize-d-white-on-image.jpg">
