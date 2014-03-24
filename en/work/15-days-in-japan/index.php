@@ -18,7 +18,6 @@
 
 <div class="project" id="15-days-in-japan">
 
-  <!-- Header image on ipad -->
   <img class="full" width="1264" height="680"
     src="/media/images/15-days-in-japan-on-ipad.jpg">
 

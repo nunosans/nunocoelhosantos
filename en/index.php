@@ -1,6 +1,6 @@
 <?
   $page = 'Home';
-  $title = 'Designer & Web Developer';
+  $title = 'Designer & Developer';
   $description = 'Nuno Coelho Santos is a Graphic Designer and Web
     Developer based in London.';
   require_once('header.inc.php');
@@ -113,7 +113,7 @@
     </h4>
     <a href="./work/creative-space/">
       <img width="240" height="140"
-       src="/media/images/the-creative-space.jpg"
+       src="/media/images/creative-space-card.jpg"
        alt="">
     </a>
     <p>Website for the real estate company that transforms offices into homes</p>
