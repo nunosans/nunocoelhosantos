@@ -2,9 +2,6 @@
 @media only screen and (max-width: 936px) {
   body > * {width: 528px;}
   #header, .project, .project-nav, .work h3 {width: 496px;}
-  #header h1 br + br {
-    display: block;
-  }
   .featured > div > * {padding-right: 256px;}
   .work {width: 512px; padding: 0;}
   .work h3 {

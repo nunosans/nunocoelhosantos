@@ -381,8 +381,6 @@ body.ready {
       -moz-transition-duration: 0.0s;
       -o-transition-duration: 0.0s;
       transition-duration: 0.0s; }
-    #header h1 br + br {
-      display: none; }
 
 #nav {
   float: right;
@@ -1080,9 +1078,6 @@ body.ready #copyright {
 
   #header, .project, .project-nav, .work h3 {
     width: 496px; }
-
-  #header h1 br + br {
-    display: block; }
 
   .featured > div > * {
     padding-right: 256px; }

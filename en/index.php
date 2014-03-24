@@ -91,7 +91,7 @@
         src="/media/images/auria-card.jpg"
         alt="" >
     </a>
-    <p>Website for Auria, the british luxery swimwear brand</p>
+    <p>Logo and web design for Auria, the <br>eco-friendly swimwear brand</p>
   </div>
 
   <div class="new">
@@ -103,7 +103,7 @@
        src="/media/images/the-scientist-card.jpg"
        alt="">
     </a>
-    <p>Design of the official scientific articles aggregate for iPhone</p>
+    <p>UI Design of the scientific articles aggregator and news feed for iOS</p>
   </div>
 
   <div class="new">
@@ -127,7 +127,7 @@
        src="/media/images/instagram-redesign-brief-card.jpg"
        alt="">
     </a>
-    <p>A re-imagination of the popular photo sharing app</p>
+    <p>A re-imagined UI of the popular photography app for iOS</p>
   </div>
 
   <!-- Projects from 2012 -->

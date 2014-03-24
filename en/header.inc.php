@@ -62,7 +62,7 @@
     <div id="header">
       <h1>
         <em><a href="/en/">Nuno Coelho Santos</a></em><br>
-        London-based Designer <br>&amp; Web Developer
+        London-based Designer &amp; Developer
       </h1>
       <ul id="nav">
         <li>
