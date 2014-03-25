@@ -27,11 +27,18 @@
     <source src="/media/videos/creative-space-homepage.mov"  type="video/mov">
   </video>
   <div class="txt">
-    <h2>15 Days in Japan</h2>
-    <h6>Personal Project, Design and Development</h6>
+    <h2>Creative Space</h2>
+    <h6>Front-end and Back-end Web Development</h6>
     <p>
-      Each day had its own blog post and the user could access a list of all
-      the days on a side menu.
+      I worked with
+      <a href="http://roandcostudio.com" target="_blank">RoAndCo</a> for
+      <a href="http://creativespace.us/" target="_blank">Creative Space</a>
+      to build their brand new website. With the help from
+      <a href="http://joaomagalhaes.me/" target="_blank">João Magalhães</a>,
+      I implemented the design thought for every screen and input device and
+      created a custom Content Management System for the team at Creative Space
+      to edit the text on the website, update images and add new blog posts or
+      press entires.
     </p>
   </div>
 
@@ -40,12 +47,22 @@
 
   <div class="txt clear">
     <p>
-      Each day had its own blog post and the user could access a list of all
-      the days on a side menu.
+      This is was a successful collaboration of three teams in three different
+      timezones executed within time and budget with a great result. The website
+      was featured on
+      <a href="http://www.siteinspire.com" target="_blank">siteInspire</a>
+      and other web design showcase networks.
+    </p>
+    <p>
+      The website was build in
+      <a href="http://rubyonrails.org" target="_blank">Ruby on Rails</a>,
+      it supports
+      <a href="http://en.wikipedia.org/wiki/Internet_Explorer_8" target="_blank">Internet Explorer 8</a>
+      and above, modern desktop browsers and most mobile browsers.
     </p>
     <p class="icon-globe-1">
-      <a href="http://15daysinjapan.com/"
-      target="_blank">15 Days in Japan</a>
+      <a href="http://creativespace.us/"
+      target="_blank">Creative Space</a>
     </p>
   </div>
   <img class="side no-margin" width="1008" height="674"
