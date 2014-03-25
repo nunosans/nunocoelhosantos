@@ -20,7 +20,7 @@
     <link href="/humans.txt" rel="author">
     <?
     $project_number = 0;  // Initial value to iterate
-    $projects_total = 28; // Total number of projects
+    $projects_total = 27; // Total number of projects
     switch ($title) {
       case 'Fractures from Anxiety'   : $project_number++;
       case 'Sophie Westerlind'        : $project_number++;

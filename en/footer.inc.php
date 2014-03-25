@@ -125,7 +125,8 @@
 
     <!-- Scripts -->
     <!--<script src="http://code.jquery.com/jquery-latest.min.js"></script>-->
-    <script src="/javascripts/jquery-2.0.3.min.js"></script>
+    <!--<script src="/javascripts/jquery-2.0.3.min.js"></script> -->
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
     <script src="/javascripts/localscroll.js"></script>
     <script src="/javascripts/scrollto.js"></script>
     <script src="/javascripts/scripts.js"></script>

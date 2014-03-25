@@ -950,7 +950,9 @@ body.ready #copyright {
   -webkit-animation: fadein 0.15s ease-in;
   animation: fadein 0.15s ease-in;
   -webkit-animation-delay: 0.2s;
-  animation-delay: 0.2s; }
+  animation-delay: 0.2s;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards; }
 
 body.ready .spinner {
   display: none; }
