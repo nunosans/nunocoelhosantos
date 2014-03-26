@@ -12,6 +12,7 @@
       fontend, font, end, developer, ustwo, us, two">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
     <meta name="format-detection" content="telephone=no">
+    <meta name="robots" content="noindex, nofollow, noodp, noydir, noarchive">
     <link rel="icon"          href="http://nunocoelhosantos.com/media/graphics/favicon.png">
     <link rel="shortcut icon" href="http://nunocoelhosantos.com/media/graphics/favicon.png">
     <link href="/stylesheets/all.css" rel="stylesheet">

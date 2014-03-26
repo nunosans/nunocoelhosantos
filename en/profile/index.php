@@ -9,6 +9,8 @@
   <h2>Profile</h2>
 </div>
 
+<? require_once('../../_spinner.html'); ?>
+
 <div class="project" id="profile">
 
 

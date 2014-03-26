@@ -501,7 +501,7 @@ body#home {
   .featured .spinner .container1 > div,
   .featured .spinner .container2 > div,
   .featured .spinner .container3 > div {
-    background-color: #e0e0e0; }
+    background-color: #777777; }
 
 body.ready .featured-description {
   opacity: 1; }
@@ -960,7 +960,7 @@ body.ready .spinner {
 .container1 > div, .container2 > div, .container3 > div {
   width: 6px;
   height: 6px;
-  background-color: #777777;
+  background-color: #c7c7c7;
   border-radius: 100%;
   position: absolute;
   -webkit-animation: bouncedelay 1.2s infinite ease-in-out;
