@@ -129,9 +129,9 @@
     <h2>Availability</h2>
     <p>
       I am available to work in-house and remotely. For long commitments I am
-      willing to relocate temporarily. To see a calendar with the days I currently
-      have available, please visit my
-      <a href="" target="_blank">Availability Calendar</a>.
+      willing to relocate temporarily. <!--To see a calendar with the days I
+      currently have available, please visit my
+      <a href="" target="_blank">Availability Calendar</a>.-->
     </p>
   </div>
 

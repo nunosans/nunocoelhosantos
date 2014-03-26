@@ -299,40 +299,46 @@
     <p>Development of the Protein’s journal version for the iPad</p>
   </div>
 
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/shooting-people">Shooting People</a>
+      <!-- <a href="./work/shooting-people"> -->
+        Shooting People
+      <!-- </a> -->
     </h4>
-    <a href="./work/shooting-people">
+    <!-- <a href="./work/shooting-people"> -->
       <img width="240" height="140"
         src="/media/images/shooting-people-card.jpg"
         alt="Photograph of the buinsess cards designed for Shooting People">
-    </a>
+    <!-- </a> -->
     <p>Print, web design and development for the filmmakers’ network</p>
   </div>
 
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/lilias-buchanan">Lilias Buchanan</a>
+      <!-- <a href="./work/lilias-buchanan"> -->
+        Lilias Buchanan
+      <!-- </a> -->
     </h4>
-    <a href="./work/lilias-buchanan">
+    <!-- <a href="./work/lilias-buchanan"> -->
       <img width="240" height="140"
         src="/media/images/lilias-buchanan-card.jpg"
         alt="Fraction of one of the illustrations from the series ‘The Death of
         Ivan Illych’ by Lilias Buchanan">
-    </a>
+    <!-- </a> -->
     <p>Online portfolio for the portraitist illustrator and graphic designer</p>
   </div>
 
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/jo-phipps">Jo Phipps</a>
+      <!-- <a href="./work/jo-phipps"> -->
+        Jo Phipps
+      <!-- </a> -->
     </h4>
-    <a href="./work/jo-phipps">
+    <!-- <a href="./work/jo-phipps"> -->
       <img width="240" height="140"
         src="/media/images/jo-phipps-card.jpg"
         alt="Fraction of ‘Joseph’ by Jo Phipps">
-    </a>
+    <!-- </a> -->
     <p>Design and development of the artist online portfolio</p>
   </div>
 
@@ -351,27 +357,31 @@
   <!-- Projects from 2010 -->
   <h3>2010</h3>
 
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/marili-andre">Marili André</a>
+      <!-- <a href="./work/marili-andre"> -->
+        Marili André
+      <!-- </a> -->
     </h4>
-    <a href="./work/marili-andre">
+    <!-- <a href="./work/marili-andre"> -->
       <img width="240" height="140"
         src="/media/images/marili-andre-card.jpg"
         alt="Frame of one of Marili André videos overlayed by the logo">
-    </a>
+    <!-- </a> -->
     <p>Identity for the fashion photographer and filmmaking artist</p>
   </div>
 
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/ailara-berdyyeva">Ailara Berdyyeva</a>
+      <!-- <a href="./work/ailara-berdyyeva"> -->
+        Ailara Berdyyeva
+      <!-- </a> -->
     </h4>
-    <a href="./work/ailara-berdyyeva">
+    <!-- <a href="./work/ailara-berdyyeva"> -->
       <img width="240" height="140"
         src="/media/images/ailara-berdyyeva-card.jpg"
         alt="Photo of the ‘Inside/Outsie’ bag by Ailara Berdyyeva">
-    </a>
+    <!-- </a> -->
     <p>Identity, print, photography and web design for the textile designer webfolio</p>
   </div>
 
@@ -402,27 +412,31 @@
   <!-- Projects from 2009 -->
   <h3>2009</h3>
 
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/miti-ruangkritya">Miti Ruangkritya</a>
+      <!-- <a href="./work/miti-ruangkritya"> -->
+        Miti Ruangkritya
+      <!-- </a> -->
     </h4>
-    <a href="./work/miti-ruangkritya">
+    <!-- <a href="./work/miti-ruangkritya"> -->
       <img width="240" height="140"
         src="/media/images/miti-ruangkritya-card.jpg"
         alt="Fraction of ‘Bangkok Protest’ by Miti Ruangkritya">
-    </a>
+    <!-- </a> -->
     <p>Design of the website for the Thai photojournalist</p>
   </div>
 
-  <div>
+  <div class="dev">
     <h4>
-      <a href="./work/sophie-westerlind">Sophie Westerlind</a>
+      <!-- <a href="./work/sophie-westerlind"> -->
+        Sophie Westerlind
+      <!-- </a> -->
     </h4>
-    <a href="./work/sophie-westerlind">
+    <!-- <a href="./work/sophie-westerlind"> -->
       <img width="240" height="140"
         src="/media/images/sophie-westerlind-card.png"
         alt="Fraction of one of Sophie Westerlind’s illustrations">
-    </a>
+    <!-- </a> -->
     <p>Design and development for the graphic designer and illustrator</p>
   </div>
 

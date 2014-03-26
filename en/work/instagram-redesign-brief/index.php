@@ -17,9 +17,10 @@
 
 <div class="project" id="instagram-redesign-brief">
 
-  <img class="full" width="1008" height=""
+  <img class="full" width="1264" height="737"
     src="/media/images/instagram-redesign-brief-hero.jpg">
-  <img class="clear side" width="1008" height=""
+
+  <img class="clear side" width="1008" height="552"
     src="/media/images/instagram-redesign-brief-sketches.jpg">
   <div class="txt">
     <h2>Instagram Redesign Brief</h2>
@@ -53,11 +54,11 @@
       target="_blank">Dark prototype (open on iPhone)</a>
     </p>
   </div>
-  <video class="right side" width="1264" height="790" autoplay="autoplay" autoplay loop>
-    <source src="/media/videos/instagram-demo-video.webm" type="video/webm">
-    <source src="/media/videos/instagram-demo-video.mp4"  type="video/mp4">
-    <source src="/media/videos/instagram-demo-video.ogg"  type="video/ogg">
-    <source src="/media/videos/instagram-demo-video.mov"  type="video/mov">
+  <video class="right side" width="1008" height="1395" autoplay="autoplay" autoplay loop>
+    <source src="/media/videos/instagram-redesign-brief-demo-video.webm" type="video/webm">
+    <source src="/media/videos/instagram-redesign-brief-demo-video.mp4"  type="video/mp4">
+    <source src="/media/videos/instagram-redesign-brief-demo-video.ogg"  type="video/ogg">
+    <source src="/media/videos/instagram-redesign-brief-demo-video.mov"  type="video/mov">
   </video>
 
   <img class="clear half no-margin" width="624" height=""
