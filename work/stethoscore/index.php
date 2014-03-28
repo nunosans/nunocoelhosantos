@@ -42,16 +42,6 @@
   <img class="side" width="1264" height="680"
     src="/media/images/stethoscore-overview.jpg">
 
-  <img class="clear half" width="624" height="624"
-    src="/media/images/stethoscore-detail-1-2x.png">
-  <img class="half" width="624" height="624"
-    src="/media/images/stethoscore-detail-1-1x.png">
-
-  <img class="clear half" width="624" height="624"
-    src="/media/images/stethoscore-detail-2-2x.png">
-  <img class="half" width="624" height="624"
-    src="/media/images/stethoscore-detail-2-1x.png">
-
 </div>
 
 <? require_once('../../_footer.php'); ?>

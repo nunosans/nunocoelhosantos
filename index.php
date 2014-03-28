@@ -1,8 +1,7 @@
 <?
   $page = 'Home';
   $title = 'Designer & Developer';
-  $description = 'Nuno Coelho Santos is a Graphic Designer and Web
-    Developer based in London.';
+  $description = 'Nuno is a Designer and Developer based in London.';
   require_once('_header.php');
 ?>
 
