@@ -14,7 +14,7 @@
 <div class="project" id="profile">
 
 
-  <img class="clear side" src="/media/images/profile-portrait-1.jpg" width="" height="">
+  <img class="clear side" src="/media/images/profile-portrait-1.jpg" width="1008" height="669">
   <div class="txt">
     <h2>Autobiography</h2>
     <p>
@@ -45,7 +45,7 @@
       product you need to understand the technology and the user in equal amounts.
     </p>
   </div>
-  <img class="both" src="/media/images/profile-csm.jpg" width="" height="">
+  <img class="both" src="/media/images/profile-csm.jpg" width="624" height="639">
 
   <div class="clear txt">
     <p>
@@ -59,7 +59,7 @@
       the fampany™ culture.
     </p>
   </div>
-  <img class="side" src="/media/images/profile-ustwo.jpg" width="" height="">
+  <img class="side" src="/media/images/profile-ustwo.jpg" width="1008" height="672">
 
   <div class="clear txt">
     <h2>High-profile brands I worked with</h2>
@@ -128,10 +128,10 @@
   <div class="txt">
     <h2>Availability</h2>
     <p>
-      I am available to work in-house and remotely. For long commitments I am
-      willing to relocate temporarily. <!--To see a calendar with the days I
-      currently have available, please visit my
-      <a href="" target="_blank">Availability Calendar</a>.-->
+      I am available to work in-house and remotely. For long commitments, I am
+      willing to relocate. Please visit my
+      <a href="/availability" target="_blank">Availability Calendar</a> to see
+      the current days I have available to work.
     </p>
   </div>
 
