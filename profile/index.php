@@ -98,7 +98,7 @@
       an iOS Development internship at <a href="http://prote.in/os"
       target="_blank">Protein</a>. From the second half of 2012 until March 2014
       I was a designer and front-end web developer at <a href="http://ustwo.com"
-      target="_blank">ustwo™</a>. I now work full-time as a freelancer.
+      target="_blank">ustwo™</a>. I now work full-time at <a href="http://thread.com">Thread</a>.
     </p>
   </div>
   <div class="txt">
