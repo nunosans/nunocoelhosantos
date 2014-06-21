@@ -62,6 +62,17 @@
   <img class="side" src="/media/images/profile-ustwo.jpg" width="1008" height="672">
 
   <div class="clear txt">
+    <p>
+      Since June 2014 I started working as a Product Designer for 
+      <a href="http://thread.com/" target="_blank">Thread</a>, 
+      a start-up with a mission to disrupt retail starting with helping men
+      find the best clothing items for themselves with the help of a stylist
+      and tailored to their needs, finances and taste.
+    </p>
+  </div>
+  <img class="side" src="/media/images/profile-thread.jpg" width="1008" height="672">
+
+  <div class="clear txt">
     <h2>High-profile brands I worked with</h2>
     <ul>
       <li>
