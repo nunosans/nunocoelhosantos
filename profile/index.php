@@ -125,15 +125,6 @@
       <a href="http://www.sublimetext.com/2" target="_blank">Sublime Text</a>.
     </p>
   </div>
-  <div class="txt">
-    <h2>Availability</h2>
-    <p>
-      I am available to work in-house and remotely. For long commitments, I am
-      willing to relocate. Please visit my
-      <a href="/availability" target="_blank">Availability Calendar</a> to see
-      the current days I have available to work.
-    </p>
-  </div>
 
 </div>
 
