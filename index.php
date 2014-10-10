@@ -43,7 +43,7 @@
     <p></p>
   </div>
 
-  <div class="new">
+  <div>
     <h4>
       <a href="./work/15-days-in-japan/">15 Days in Japan</a>
     </h4>
@@ -82,7 +82,7 @@
       close to you</p>
   </div>
 
-  <div class="new">
+  <div>
     <h4>
       <a href="./work/auria/">Auria</a>
     </h4>
@@ -94,7 +94,7 @@
     <p>Logo and web design for Auria, the <br>eco-friendly swimwear brand</p>
   </div>
 
-  <div class="new">
+  <div>
     <h4>
       <a href="./work/the-scientist/">The Scientist</a>
     </h4>
@@ -106,7 +106,7 @@
     <p>UI Design of the scientific articles aggregator and news feed for iOS</p>
   </div>
 
-  <div class="new">
+  <div>
     <h4>
       <a href="./work/creative-space/">Creative Space</a>
     </h4>
@@ -118,7 +118,7 @@
     <p>Website for the real estate company that transforms offices into homes</p>
   </div>
 
-  <div class="new">
+  <div>
     <h4>
       <a href="./work/instagram-redesign-brief/">Instagram Redesign Brief</a>
     </h4>
