@@ -48,7 +48,7 @@
     <link href="/humans.txt" rel="author">
     <?php
     $project_number = 0;  // Initial value to iterate
-    $projects_total = 20; // Total number of projects
+    $projects_total = 23; // Total number of projects
     switch ($title) {
       case 'Fractures from Anxiety'   : $project_number++;
       // case 'Sophie Westerlind'        : $project_number++;
@@ -82,6 +82,9 @@
       // case 'Plenti'                   : $project_number++;
       case '15 Days in Japan'         : $project_number++;
       // case 'ustwo Identity'           : $project_number++;
+      case 'BLACK App Website'        : $project_number++;
+      case 'Konto'                    : $project_number++;
+      case 'Thread'                   : $project_number++;
       //Add new projects here using the same structure
     }
     ?>
