@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Stethoscore';
   $description='User interface, user experience & web development for the
     medical utility app';

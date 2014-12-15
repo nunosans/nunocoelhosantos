@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Google DoubleClick';
   $description='Front-end development for the Rich Media Gallery mobile site';
   require_once('../../_header.php');

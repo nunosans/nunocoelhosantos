@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Auria';
   $description='Website for Auria, the London-based swimswear designer';
   require_once('../../_header.php');

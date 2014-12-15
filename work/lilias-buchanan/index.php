@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Lilias Buchanan';
   $description='Online portfolio for the portraitist illustrator and graphic designer';
   require_once('../../_header.php');

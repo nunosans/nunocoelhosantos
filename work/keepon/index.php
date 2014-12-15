@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Keepon';
   $description='Design, Architecture and experience of the third-party Kickoff client for iOS';
   require_once('../../_header.php');

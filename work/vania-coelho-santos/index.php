@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Vânia Coelho Santos';
   $description='Design and development of my sister’s architecture digital portfolio';
   require_once('../../_header.php');

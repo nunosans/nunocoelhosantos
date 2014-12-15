@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Paul Cocksedge Shop';
   $description='Identity and online store for the London-based design studio';
   require_once('../../_header.php');

@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Index 7';
   $description='Identity and print design for the photography exhibition';
   require_once('../../_header.php');

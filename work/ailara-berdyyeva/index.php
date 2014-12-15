@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Ailara Berdyyeva';
   $description='Identity, print, photography and web design for the textile
   designer webfolio';

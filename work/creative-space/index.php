@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Creative Space';
   $description='';
   require_once('../../_header.php');

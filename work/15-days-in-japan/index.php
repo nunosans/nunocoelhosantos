@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='15 Days in Japan';
   $description='A live blog of the day-to-day of my travels in the land of the
     rising sun';

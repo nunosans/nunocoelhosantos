@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Ana Barreira';
   $description='Identity, print and web design of the fashion photography
   webfolio';

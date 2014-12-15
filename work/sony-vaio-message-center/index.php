@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Sony VAIO Message Center';
   $description='Front-end development of Sony VAIO’s news content management system';
   require_once('../../_header.php');

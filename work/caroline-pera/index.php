@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Caroline Pera';
   $description='Identity, print and web design for the jewellery design webfolio';
   require_once('../../_header.php');

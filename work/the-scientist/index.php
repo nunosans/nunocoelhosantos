@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='The Scientist';
   $description='';
   require_once('../../_header.php');

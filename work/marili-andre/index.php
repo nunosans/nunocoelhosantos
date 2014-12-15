@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Marili André';
   $description='Identity for the fashion photographer and filmmaking artist';
   require_once('../../_header.php');

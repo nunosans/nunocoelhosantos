@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Sophie Westerlind';
   $description='Design and development for the graphic designer and
     illustrator';

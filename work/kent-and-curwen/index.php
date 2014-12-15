@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Kent & Curwen';
   $description='Development of the Kent & Curwen website';
   require_once('../../_header.php');

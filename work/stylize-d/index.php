@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Stylize/d';
   $description='Identity and web design for the independent fashion blog';
   require_once('../../_header.php');

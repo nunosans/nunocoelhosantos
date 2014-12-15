@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Norman Hartnell';
   $description='Development of HM The Queen’s dressmaker revival brand website';
   require_once('../../_header.php');

@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Protein Journal';
   $description='Development of the Protein’s journal version for the iPad';
   require_once('../../_header.php');

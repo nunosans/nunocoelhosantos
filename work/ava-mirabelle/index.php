@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Ava Mirabelle';
   $description='Identity and development of the hand-made online fashion store';
   require_once('../../_header.php');

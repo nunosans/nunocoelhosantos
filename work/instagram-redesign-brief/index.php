@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Instagram Redesign Brief';
   $description='';
   require_once('../../_header.php');

@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Fractures from Anxiety';
   $description='Book and cover design for the short stories of Marcus Bastel';
   require_once('../../_header.php');

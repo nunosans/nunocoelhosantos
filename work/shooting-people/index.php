@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Shooting People';
   $description='Print, web design and development for the independent filmmakers’ network';
   require_once('../../_header.php');

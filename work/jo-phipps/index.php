@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Jo Phipps';
   $description='Design & Development of the artist online portfolio';
   require_once('../../_header.php');

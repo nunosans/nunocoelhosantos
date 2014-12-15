@@ -1,4 +1,5 @@
 <?php
+  $page='Project';
   $title='Miti Ruangkritya';
   $description='Design and development of the website for the thai photojournalist';
   require_once('../../_header.php');
