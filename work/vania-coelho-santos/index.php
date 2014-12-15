@@ -1,19 +1,19 @@
-<?
+<?php
   $title='Vânia Coelho Santos';
   $description='Design and development of my sister’s architecture digital portfolio';
   require_once('../../_header.php');
 ?>
 
 <div class="project-nav">
-  <h2><? echo $title ?></h2>
-  <span><? echo $project_number ?> of <? echo $projects_total ?></span>
+  <h2><?php echo $title ?></h2>
+  <span><?php echo $project_number ?> of <?php echo $projects_total ?></span>
   <span>
     <a href="../paul-cocksedge-shop/">Previous</a> &thinsp;/&thinsp;
     <a href="../ava-mirabelle/">Next</a>
   </span>
 </div>
 
-<? require_once('../../_spinner.php'); ?>
+<?php require_once('../../_spinner.php'); ?>
 
 <div class="project" id="vania-coelho-santos">
 
@@ -63,4 +63,4 @@
 
 </div>
 
-<? require_once('../../_footer.php'); ?>
+<?php require_once('../../_footer.php'); ?>

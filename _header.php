@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Nuno Coelho Santos
-      <? if ($page=='Home' || $page=='Profile') {echo(' &nbsp;—&nbsp; '); }
+      <?php if ($page=='Home' || $page=='Profile') {echo(' &nbsp;—&nbsp; '); }
          else {echo(' &nbsp;~&nbsp; ');}; echo $title; ?></title>
     <!-- Technical Formating Meta Tags -->
     <meta http-equiv="content-type"     content="charset=utf-8">
@@ -15,7 +15,7 @@
     <meta name="host"      content="nunocoelhosantos.com">
     <meta name="generator" content="Sublime Text 3">
     <!-- Search Eengine and Browser Meta Tags -->
-    <meta name="description" content="<? echo($description) ?>">
+    <meta name="description" content="<?php echo($description) ?>">
     <meta name="keywords"    content="nuno, coelho, santos, graphic, web,
       design, identity, soares, reis, csm, central, saint, martins, london,
       fontend, font, end, developer, ustwo, us, two">
@@ -28,9 +28,9 @@
     <meta property="og:image"            content="http://nunocoelhosantos.com/media/images/instagram-redesign-brief-card.jpg">
     <meta property="og:site_name"        content="Nuno Coelho Santos">
     <meta property="og:title"            content="Nuno Coelho Santos
-      <? if ($page=='Home' || $page=='Profile') {echo(' &nbsp;—&nbsp; '); }
+      <?php if ($page=='Home' || $page=='Profile') {echo(' &nbsp;—&nbsp; '); }
          else {echo(' &nbsp;~&nbsp; ');}; echo $title; ?>">
-    <meta property="og:description"      content="<? echo($description) ?>">
+    <meta property="og:description"      content="<?php echo($description) ?>">
     <meta property="og:type"             content="website">
     <meta property="og:url"              content="http://nunocoelhosantos.com/">
     <!-- Favicon Meta Tags (use both) -->
@@ -46,7 +46,7 @@
     <script>try{Typekit.load();}catch(e){};</script>
     <!-- Humans -->
     <link href="/humans.txt" rel="author">
-    <?
+    <?php
     $project_number = 0;  // Initial value to iterate
     $projects_total = 20; // Total number of projects
     switch ($title) {
@@ -86,7 +86,7 @@
     }
     ?>
   </head>
-  <body <? if ($page=='Home') {echo('id="home"');} ?>>
+  <body <?php if ($page=='Home') {echo('id="home"');} ?>>
     <div id="header">
       <h1>
         <em><a href="/">Nuno Coelho Santos</a></em><br>
@@ -94,7 +94,7 @@
       </h1>
       <ul id="nav">
         <li>
-          <a href="<? if ($page=='Home') {echo('#portfolio');} else {echo('/');}?>">Portfolio</a>
+          <a href="<?php if ($page=='Home') {echo('#portfolio');} else {echo('/');}?>">Portfolio</a>
         </li>
         <li>
           <a href="/profile">Profile</a>

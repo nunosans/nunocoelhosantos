@@ -1,19 +1,19 @@
-<?
+<?php
   $title='Auria';
   $description='Website for Auria, the London-based swimswear designer';
   require_once('../../_header.php');
 ?>
 
 <div class="project-nav">
-  <h2><? echo $title ?></h2>
-  <span><? echo $project_number ?> of <? echo $projects_total ?></span>
+  <h2><?php echo $title ?></h2>
+  <span><?php echo $project_number ?> of <?php echo $projects_total ?></span>
   <span>
     <a href="../15-days-in-japan/">Previous</a> &thinsp;/&thinsp;
     <a href="../the-scientist/">Next</a>
   </span>
 </div>
 
-<? require_once('../../_spinner.php'); ?>
+<?php require_once('../../_spinner.php'); ?>
 
 <div class="project" id="auria">
 
@@ -46,7 +46,7 @@
     </p>
   </div>
 
-  <? require_once('../../_spinner.php'); ?>
+  <?php require_once('../../_spinner.php'); ?>
 
   <div class="txt clear">
     <p>
@@ -89,4 +89,4 @@
 
 </div>
 
-<? require_once('../../_footer.php'); ?>
+<?php require_once('../../_footer.php'); ?>

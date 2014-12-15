@@ -1,4 +1,4 @@
-<?
+<?php
   $title='Ana Barreira';
   $description='Identity, print and web design of the fashion photography
   webfolio';
@@ -6,15 +6,15 @@
 ?>
 
 <div class="project-nav">
-  <h2><? echo $title ?></h2>
-  <span><? echo $project_number ?> of <? echo $projects_total ?></span>
+  <h2><?php echo $title ?></h2>
+  <span><?php echo $project_number ?> of <?php echo $projects_total ?></span>
   <span>
     <a href="../caroline-pera/">Previous</a> &thinsp;/&thinsp;
     <a href="../fractures-from-anxiety/">Next</a>
   </span>
 </div>
 
-<? require_once('../../_spinner.php'); ?>
+<?php require_once('../../_spinner.php'); ?>
 
 <div class="project" id="ana-barreira">
 
@@ -74,4 +74,4 @@
 
 </div>
 
-<? require_once('../../_footer.php'); ?>
+<?php require_once('../../_footer.php'); ?>

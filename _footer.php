@@ -91,7 +91,7 @@
           This is the online portfolio and archive of Nuno Coelho Santos.
           I use this website as a way to document the process of each project
           and my progress as a designer.
-          <? if ($page != 'Profile'): ?><a href="/profile">More about me</a>.<? endif; ?>
+          <?php if ($page != 'Profile'): ?><a href="/profile">More about me</a>.<?php endif; ?>
         </p>
       </div>
       <div class="txt grid2">

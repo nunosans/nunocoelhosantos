@@ -1,4 +1,4 @@
-<?
+<?php
   $title='15 Days in Japan';
   $description='A live blog of the day-to-day of my travels in the land of the
     rising sun';
@@ -6,15 +6,15 @@
 ?>
 
 <div class="project-nav">
-  <h2><? echo $title ?></h2>
-  <span><? echo $project_number ?> of <? echo $projects_total ?></span>
+  <h2><?php echo $title ?></h2>
+  <span><?php echo $project_number ?> of <?php echo $projects_total ?></span>
   <span>
     Previous &thinsp;/&thinsp;
     <a href="../auria/">Next</a>
   </span>
 </div>
 
-<? require_once('../../_spinner.php'); ?>
+<?php require_once('../../_spinner.php'); ?>
 
 <div class="project" id="15-days-in-japan">
 
@@ -79,4 +79,4 @@
 
 </div>
 
-<? require_once('../../_footer.php'); ?>
+<?php require_once('../../_footer.php'); ?>

@@ -1,4 +1,4 @@
-<?
+<?php
   $page='Profile';
   $title='Profile';
   $description='Profile of Nuno Coelho Santos, Designer & Developer based in London';
@@ -9,7 +9,7 @@
   <h2>Profile</h2>
 </div>
 
-<? require_once('../_spinner.php'); ?>
+<?php require_once('../_spinner.php'); ?>
 
 <div class="project" id="profile">
 
@@ -139,4 +139,4 @@
 
 </div>
 
-<? include_once("../_footer.php"); ?>
+<?php include_once("../_footer.php"); ?>

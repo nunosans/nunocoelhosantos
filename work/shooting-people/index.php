@@ -1,19 +1,19 @@
-<?
+<?php
   $title='Shooting People';
   $description='Print, web design and development for the independent filmmakers’ network';
   require_once('../../_header.php');
 ?>
 
 <div class="project-nav">
-  <h2><? echo $title ?></h2>
-  <span><? echo $project_number ?> of <? echo $projects_total ?></span>
+  <h2><?php echo $title ?></h2>
+  <span><?php echo $project_number ?> of <?php echo $projects_total ?></span>
   <span>
     <a href="../protein-journal/">Previous</a> &thinsp;/&thinsp;
     <a href="../lilias-buchanan/">Next</a>
   </span>
 </div>
 
-<? require_once('../../_spinner.php'); ?>
+<?php require_once('../../_spinner.php'); ?>
 
 <div class="project" id="shooting-people">
 
@@ -35,4 +35,4 @@
 
 </div>
 
-<? require_once('../../_footer.php'); ?>
+<?php require_once('../../_footer.php'); ?>

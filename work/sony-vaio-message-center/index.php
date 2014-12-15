@@ -1,14 +1,14 @@
-<?
+<?php
   $title='Sony VAIO Message Center';
   $description='Front-end development of Sony VAIO’s news content management system';
   require_once('../../_header.php');
 ?>
 
 <div class="project-nav">
-  <h2><? echo $title ?></h2>
+  <h2><?php echo $title ?></h2>
 </div>
 
-<? require_once('../../_spinner.php'); ?>
+<?php require_once('../../_spinner.php'); ?>
 
 <div class="project" id="sony-vaio-message-center">
 
@@ -55,4 +55,4 @@
 
 </div>
 
-<? require_once('../../_footer.php'); ?>
+<?php require_once('../../_footer.php'); ?>
