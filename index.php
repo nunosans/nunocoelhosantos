@@ -28,6 +28,48 @@
 <!-- Portfolio -->
 <div class="work" id="portfolio">
 
+  <!-- Projects from 2014 -->
+  <h3>2014</h3>
+
+  <div class="new">
+    <h4>
+      <a href="./work/thread/">Thread</a>
+    </h4>
+    <a href="./work/thread/">
+      <img width="240" height="140"
+        nopin="nopin"
+        src="/media/images/thread-card.jpg"
+        alt="">
+    </a>
+    <p></p>
+  </div>
+
+  <div class="new">
+    <h4>
+      <a href="./work/konto/">Konto</a>
+    </h4>
+    <a href="./work/konto/">
+      <img width="240" height="140"
+        nopin="nopin"
+        src="/media/images/konto-card.jpg"
+        alt="">
+    </a>
+    <p></p>
+  </div>
+
+  <div class="new">
+    <h4>
+      <a href="./work/black-app-website/">BLACK App Website</a>
+    </h4>
+    <a href="./work/black-app-website/">
+      <img width="240" height="140"
+        nopin="nopin"
+        src="/media/images/black-app-website-card.jpg"
+        alt="">
+    </a>
+    <p></p>
+  </div>
+
   <!-- Projects from 2013 -->
   <h3>2013</h3>
 
