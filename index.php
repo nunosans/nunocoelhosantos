@@ -10,6 +10,7 @@
   <?php require_once('_spinner.php'); ?>
   <a href="./work/15-days-in-japan/" class="featured-image">
     <img width="3000" height="1500"
+      nopin="nopin"
       src="/media/images/15-days-in-japan-slide.jpg"
   </a>
   <div class="featured-description">
