@@ -1,7 +1,7 @@
 <?php
   $page='Profile';
   $title='Profile';
-  $description='Profile of Nuno Coelho Santos, Designer & Developer based in London';
+  $description='Profile of Nuno Coelho Santos, Designer & Developer based in Tokyo';
   require_once('../_header.php');
 ?>
 
@@ -18,7 +18,7 @@
   <div class="txt">
     <h2>Autobiography</h2>
     <p>
-      I am a developer and graphic designer based in London and original from
+      I am a developer and graphic designer based in Tokyo and original from
       <a href="http://vimeo.com/21698583" target="_blank">Porto, Portugal</a>.
       My work reflects a lot of my personality: organised, tidy,
       straight-forward, unpronounced.
