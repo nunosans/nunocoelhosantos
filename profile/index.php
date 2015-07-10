@@ -34,7 +34,7 @@
 
   <div class="clear txt">
     <p>
-      Since late in 2008 I have been living in London to attend an undergraduate
+      In late 2008 I moved to London to attend an undergraduate
       course at <a href="http://www.csm.arts.ac.uk/" target="_blank">Central
       Saint Martins</a>.
     </p>
@@ -63,7 +63,7 @@
 
   <div class="clear txt">
     <p>
-      Since June 2014 I started working as a Product Designer for
+      In June 2014 I started working as a Product Designer for
       <a href="http://thread.com/" target="_blank">Thread</a>,
       a start-up with a mission to disrupt retail starting with helping men
       find the best clothing items for themselves with the help of a stylist
