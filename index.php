@@ -1,26 +1,24 @@
 <?php
   $page = 'Home';
   $title = 'Designer & Developer';
-  $description = 'Nuno is a Designer and Developer based in London.';
+  $description = 'Nuno is a Designer and Developer based in Tokyo.';
   require_once('_header.php');
 ?>
 
 <!-- Featured Project -->
 <div class="featured">
   <?php require_once('_spinner.php'); ?>
-  <a href="./work/15-days-in-japan/" class="featured-image">
+  <a href="./work/thread-v2/" class="featured-image">
     <img width="3000" height="1500"
       nopin="nopin"
-      src="/media/images/15-days-in-japan-slide.jpg"
+      src="/media/images/thread-v2-slide.jpg"
   </a>
   <div class="featured-description">
     <h2>
-      <a href="./work/15-days-in-japan/">Featured: 15 Days in Japan</a>
+      <a href="./work/thread-v2/">Featured: Thread V2</a>
     </h2>
     <p>
-      <a href="./work/15-days-in-japan/">
-        A photo journal documenting the
-        <br>day-to-day of my first trip to Japan
+      <a href="./work/thread-v2/">
       </a>
     </p>
   </div>
@@ -29,10 +27,52 @@
 <!-- Portfolio -->
 <div class="work" id="portfolio">
 
+  <!-- Projects from 2015 -->
+  <h3>2015</h3>
+
+  <div>
+    <h4>
+      <a href="./work/thread-v2/">Thread V2</a>
+    </h4>
+    <a href="./work/thread-v2/">
+      <img width="240" height="140"
+        nopin="nopin"
+        src="/media/images/thread-v2-card.jpg"
+        alt="">
+    </a>
+    <p></p>
+  </div>
+
+  <div>
+    <h4>
+      <a href="./work/thread-for-ios/">Thread for iOS</a>
+    </h4>
+    <a href="./work/thread-for-ios/">
+      <img width="240" height="140"
+        nopin="nopin"
+        src="/media/images/thread-for-ios-card.jpg"
+        alt="">
+    </a>
+    <p></p>
+  </div>
+
+  <div>
+    <h4>
+      <a href="./work/pomodoro-for-apple-watch/">Pomodoro for Watch</a>
+    </h4>
+    <a href="./work/pomodoro-for-apple-watch/">
+      <img width="240" height="140"
+        nopin="nopin"
+        src="/media/images/pomodoro-for-apple-watch-card.jpg"
+        alt="">
+    </a>
+    <p></p>
+  </div>
+
   <!-- Projects from 2014 -->
   <h3>2014</h3>
 
-  <div class="new">
+  <div>
     <h4>
       <a href="./work/thread/">Thread</a>
     </h4>
@@ -45,27 +85,27 @@
     <p></p>
   </div>
 
-  <div class="new">
+  <div>
     <h4>
-      <a href="./work/konto/">Konto</a>
+      <a href="./work/1975/">1975</a>
     </h4>
-    <a href="./work/konto/">
+    <a href="./work/1975/">
       <img width="240" height="140"
         nopin="nopin"
-        src="/media/images/konto-card.jpg"
+        src="/media/images/1975-card.jpg"
         alt="">
     </a>
     <p></p>
   </div>
 
-  <div class="new">
+  <div>
     <h4>
-      <a href="./work/black-app-website/">BLACK App Website</a>
+      <a href="./work/plenti/">Plenti</a>
     </h4>
-    <a href="./work/black-app-website/">
+    <a href="./work/plenti/">
       <img width="240" height="140"
         nopin="nopin"
-        src="/media/images/black-app-website-card.jpg"
+        src="/media/images/plenti-card.jpg"
         alt="">
     </a>
     <p></p>
@@ -73,19 +113,6 @@
 
   <!-- Projects from 2013 -->
   <h3>2013</h3>
-
-  <div class="new private">
-    <h4>
-      <a href="./work/ustwo-identity/">ustwo Identity</a>
-    </h4>
-    <a href="./work/ustwo-identity/">
-      <img width="240" height="140"
-        nopin="nopin"
-        src="/media/images/ustwo-identity-card.jpg"
-        alt="">
-    </a>
-    <p></p>
-  </div>
 
   <div>
     <h4>
@@ -100,33 +127,6 @@
     <p>
       A custom built travel blog documenting my first trip to Japan.
     </p>
-  </div>
-
-  <div class="new private">
-    <h4>
-      <a href="./work/plenti/">Plenti</a>
-    </h4>
-    <a href="./work/plenti/">
-      <img width="240" height="140"
-        nopin="nopin"
-        src="/media/images/plenti-card.jpg"
-        alt="">
-    </a>
-    <p></p>
-  </div>
-
-  <div class="new private">
-    <h4>
-      <a href="./work/kerbside/">Kerbside</a>
-    </h4>
-    <a href="./work/kerbside/">
-      <img width="240" height="140"
-        nopin="nopin"
-        src="/media/images/kerbside-card.jpg"
-        alt="">
-    </a>
-    <p>Design of the app that lets you give and collect items
-      close to you</p>
   </div>
 
   <div>
@@ -197,7 +197,7 @@
     <p>Identity and web design for the independent fashion blog</p>
   </div>
 
-  <div class="new private">
+  <div class="private">
     <h4>
       <a href="./work/vaio-message-center/">Sony VAIO Message Center</a>
     </h4>

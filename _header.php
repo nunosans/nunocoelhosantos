@@ -102,8 +102,5 @@
         <li>
           <a href="/profile">Profile</a>
         </li>
-        <!-- <li>
-          <a href="http://blog.nunocoelhosantos.com/">Blog</a>
-        </li> -->
       </ul>
     </div>
