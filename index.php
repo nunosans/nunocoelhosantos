@@ -11,7 +11,7 @@
   <a href="./work/thread-v2/" class="featured-image">
     <img width="3000" height="1500"
       nopin="nopin"
-      src="/media/images/thread-v2-slide.jpg"
+      src="/media/images/thread-v2-slide.jpg">
   </a>
   <div class="featured-description">
     <h2>
