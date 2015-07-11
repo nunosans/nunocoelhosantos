@@ -17,13 +17,13 @@ function resizeFeaturedProject() {
   var container = $('.featured');
   var elementRatio = 0.5;
 
-  // if (mobileDevice) {
+  if (mobileDevice) {
     var element = container.find('img');
-    // container.find('video').remove();
-  // } else {
-    // var element = container.find('video');
-    // container.find('img').remove();
-  // }
+    container.find('video').remove();
+  } else {
+    var element = container.find('video');
+    container.find('img').remove();
+  }
 
   // Apply required styles.
   element.css('position', 'relative');
