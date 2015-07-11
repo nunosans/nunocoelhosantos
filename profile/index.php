@@ -16,7 +16,7 @@
 
   <img class="clear side" src="/media/images/profile-portrait-1.jpg" width="1008" height="669">
   <div class="txt">
-    <h2>Autobiography</h2>
+    <h2>Short Autobiography</h2>
     <p>
       I am a developer and graphic designer based in Tokyo and original from
       <a href="http://vimeo.com/21698583" target="_blank">Porto, Portugal</a>.
