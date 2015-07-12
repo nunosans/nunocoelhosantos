@@ -86,9 +86,11 @@
   </video>
 
   <!-- Add to cart animation on desktop video -->
-  <img class="full" width="1008" height="669"
-    src=""
-    alt="Add to cart animation on desktop video">
+  <video class="full site" width="1418" height="980" muted autoplay loop>
+    <source src="/media/videos/thread-v2-add-to-cart.mp4"  type="video/mp4">
+    <source src="/media/videos/thread-v2-add-to-cart.webm" type="video/webm">
+    <source src="/media/videos/thread-v2-add-to-cart.ogg"  type="video/ogg">
+  </video>
 
   <div class="clear txt">
     <p>
