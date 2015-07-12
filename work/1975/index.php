@@ -1,6 +1,6 @@
 <?php
   $page='Project';
-  $title='Konto';
+  $title='1975';
   $description='';
   require_once('../../_header.php');
 ?>
@@ -10,13 +10,13 @@
   <span><?php echo $project_number ?> of <?php echo $projects_total ?></span>
   <span>
     <a href="../thread/">Previous</a> &thinsp;/&thinsp;
-    <a href="../black-app-website/">Next</a>
+    <a href="../plenti/">Next</a>
   </span>
 </div>
 
 <?php require_once('../../_spinner.php'); ?>
 
-<div class="project" id="konto">
+<div class="project" id="1975">
 
 </div>
 

@@ -1,6 +1,6 @@
 <?php
   $page='Project';
-  $title='BLACK App Website';
+  $title='Thread for iOS';
   $description='';
   require_once('../../_header.php');
 ?>
@@ -9,14 +9,14 @@
   <h2><?php echo $title ?></h2>
   <span><?php echo $project_number ?> of <?php echo $projects_total ?></span>
   <span>
-    <a href="../konto/">Previous</a> &thinsp;/&thinsp;
-    <a href="../15-days-in-japan/">Next</a>
+    <a href="../thread-v2/">Previous</a> &thinsp;/&thinsp;
+    <a href="../pomodoro-for-apple-watch/">Next</a>
   </span>
 </div>
 
 <?php require_once('../../_spinner.php'); ?>
 
-<div class="project" id="black-app-website">
+<div class="project" id="thread-for-ios">
 
 </div>
 
