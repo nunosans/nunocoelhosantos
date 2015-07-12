@@ -45,6 +45,13 @@
     <source src="/media/videos/thread-v2-browse.ogg"  type="video/ogg">
   </video>
 
+  <!-- Add to cart animation on desktop video -->
+  <video class="full site" width="1418" height="980" muted autoplay loop>
+    <source src="/media/videos/thread-v2-add-to-cart.mp4"  type="video/mp4">
+    <source src="/media/videos/thread-v2-add-to-cart.webm" type="video/webm">
+    <source src="/media/videos/thread-v2-add-to-cart.ogg"  type="video/ogg">
+  </video>
+
   <div class="clear txt">
     <p>
       Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus
@@ -83,13 +90,6 @@
     <source src="/media/videos/thread-v2-mobile-browse.mp4"  type="video/mp4">
     <source src="/media/videos/thread-v2-mobile-browse.webm" type="video/webm">
     <source src="/media/videos/thread-v2-mobile-browse.ogg"  type="video/ogg">
-  </video>
-
-  <!-- Add to cart animation on desktop video -->
-  <video class="full site" width="1418" height="980" muted autoplay loop>
-    <source src="/media/videos/thread-v2-add-to-cart.mp4"  type="video/mp4">
-    <source src="/media/videos/thread-v2-add-to-cart.webm" type="video/webm">
-    <source src="/media/videos/thread-v2-add-to-cart.ogg"  type="video/ogg">
   </video>
 
   <div class="clear txt">
