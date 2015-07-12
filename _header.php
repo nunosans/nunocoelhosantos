@@ -16,9 +16,9 @@
     <meta name="generator" content="Sublime Text 3">
     <!-- Search Eengine and Browser Meta Tags -->
     <meta name="description" content="<?php echo($description) ?>">
-    <meta name="keywords"    content="nuno, coelho, santos, graphic, web,
-      design, identity, soares, reis, csm, central, saint, martins, london,
-      fontend, font, end, developer, ustwo, us, two">
+    <meta name="keywords"    content="nuno, coelho, coehlo, santos, graphic, web,
+      design, identity, soares, reis, csm, saint, martins, london,
+      fontend, font, end, developer, ustwo, thread">
     <meta name="revisit-after" content="14 days">
     <meta name="rating"        content="General">
     <meta http-equiv="x-ua-compatible" content="ie=8; chrome=1">
