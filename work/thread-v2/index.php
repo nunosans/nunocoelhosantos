@@ -73,13 +73,17 @@
   </div>
 
   <!-- Home mobile video -->
-  <img class="clear half" width="1008" height="669"
-    src=""
-    alt="Home mobile video">
+  <video class="clear half" width="624" height="1000" muted autoplay loop>
+    <source src="/media/videos/thread-v2-mobile-home.mp4"  type="video/mp4">
+    <source src="/media/videos/thread-v2-mobile-home.webm" type="video/webm">
+    <source src="/media/videos/thread-v2-mobile-home.ogg"  type="video/ogg">
+  </video>
   <!-- Browse mobile video -->
-  <img class="half" width="1008" height="669"
-    src=""
-    alt="Browse mobile video">
+  <video class="half" width="624" height="1000" muted autoplay loop>
+    <source src="/media/videos/thread-v2-mobile-browse.mp4"  type="video/mp4">
+    <source src="/media/videos/thread-v2-mobile-browse.webm" type="video/webm">
+    <source src="/media/videos/thread-v2-mobile-browse.ogg"  type="video/ogg">
+  </video>
 
   <!-- Add to cart animation on desktop video -->
   <img class="full" width="1008" height="669"
