@@ -13,10 +13,10 @@
       <source src="/media/images/thread-v2-slide.mp4" type="video/mp4">
       <source src="/media/images/thread-v2-slide.ogg" type="video/ogg">
       <source src="/media/images/thread-v2-slide.webm" type="video/webm">
-      <img width="3000" height="1500"
-        nopin="nopin"
-        src="/media/images/thread-v2-slide.jpg">
     </video>
+    <img width="3000" height="1500"
+      nopin="nopin"
+      src="/media/images/thread-v2-slide.jpg">
   </a>
   <div class="featured-description">
     <h2>
