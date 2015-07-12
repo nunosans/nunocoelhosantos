@@ -24,6 +24,7 @@
     </h2>
     <p>
       <a href="./work/thread-v2/">
+        Duis mollis, est non commodo luctus, nisi erat porttitor ligula lacinia.
       </a>
     </p>
   </div>
@@ -45,7 +46,9 @@
         src="/media/images/thread-v2-card.jpg"
         alt="">
     </a>
-    <p></p>
+    <p>
+      Duis mollis, est non commodo luctus, nisi erat porttitor ligula lacinia.
+    </p>
   </div>
 
   <div class="new">
@@ -58,7 +61,9 @@
         src="/media/images/thread-for-ios-card.jpg"
         alt="">
     </a>
-    <p></p>
+    <p>
+      Duis mollis, est non commodo luctus, nisi erat porttitor ligula lacinia.
+    </p>
   </div>
 
   <div class="new">
@@ -71,7 +76,9 @@
         src="/media/images/pomodoro-for-apple-watch-card.jpg"
         alt="">
     </a>
-    <p></p>
+    <p>
+      Duis mollis, est non commodo luctus, nisi erat porttitor ligula lacinia.
+    </p>
   </div>
 
   <!-- Projects from 2014 -->
@@ -87,7 +94,9 @@
         src="/media/images/thread-card.jpg"
         alt="">
     </a>
-    <p></p>
+    <p>
+      Duis mollis, est non commodo luctus, nisi erat porttitor ligula lacinia.
+    </p>
   </div>
 
   <div class="new">
@@ -100,7 +109,9 @@
         src="/media/images/1975-card.jpg"
         alt="">
     </a>
-    <p></p>
+    <p>
+      Duis mollis, est non commodo luctus, nisi erat porttitor ligula lacinia.
+    </p>
   </div>
 
   <div class="new">
@@ -113,7 +124,9 @@
         src="/media/images/plenti-card.jpg"
         alt="">
     </a>
-    <p></p>
+    <p>
+      Duis mollis, est non commodo luctus, nisi erat porttitor ligula lacinia.
+    </p>
   </div>
 
   <!-- Projects from 2013 -->
