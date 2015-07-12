@@ -20,7 +20,7 @@
 
   <!-- Home desktop and mobile interface image -->
   <img class="clear side" width="1008" height="669"
-    src=""
+    src="/media/images/thread-v2-home.jpg"
     alt="Home desktop and mobile interface image">
   <div class="txt">
     <h2>Thread V2</h2>
