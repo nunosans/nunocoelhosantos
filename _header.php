@@ -3,7 +3,7 @@
   <head>
     <title>Nuno Coelho Santos
       <?php if ($page=='Home' || $page=='Profile') {echo(' &nbsp;—&nbsp; '); }
-         else {echo(' &nbsp;~&nbsp; ');}; echo $title; ?></title>
+         else {echo(' &nbsp;～&nbsp; ');}; echo $title; ?></title>
     <!-- Technical Formating Meta Tags -->
     <meta http-equiv="content-type"     content="charset=utf-8">
     <meta http-equiv="content-language" content="en-gb">
