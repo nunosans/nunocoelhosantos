@@ -38,6 +38,67 @@
     </p>
   </div>
 
+  <div class="clear txt">
+    <p>
+      Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus
+      sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi
+      leo risus, porta ac consectetur ac, vestibulum at eros.
+    </p>
+    <p>
+      Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget
+      lacinia odio sem nec elit. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere
+      velit aliquet.
+    </p>
+  </div>
+
+  <!-- Home desktop and mobile interface image -->
+  <img class="half no-margin clear" width="624" height="450"
+    src="/media/images/thread-v2-wireframe-tour.png"
+    alt="Home desktop and mobile interface image">
+
+  <!-- Home desktop and mobile interface image -->
+  <img class="half no-margin" width="624" height="450"
+    src="/media/images/thread-v2-wireframe-price-ranges.png"
+    alt="Home desktop and mobile interface image">
+
+  <!-- Home desktop and mobile interface image -->
+  <img class="half clear" width="624" height="450"
+    src="/media/images/thread-v2-wireframe-quickview.png"
+    alt="Home desktop and mobile interface image">
+
+  <!-- Home desktop and mobile interface image -->
+  <img class="half" width="624" height="450"
+    src="/media/images/thread-v2-wireframe-messages.png"
+    alt="Home desktop and mobile interface image">
+
+  <div class="clear txt">
+    <p>
+      Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus
+      sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi
+      leo risus, porta ac consectetur ac, vestibulum at eros.
+    </p>
+    <p>
+      Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget
+      lacinia odio sem nec elit. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere
+      velit aliquet.
+    </p>
+  </div>
+  <div class="txt">
+    <p>
+      Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus
+      sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi
+      leo risus, porta ac consectetur ac, vestibulum at eros.
+    </p>
+    <p>
+      Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget
+      lacinia odio sem nec elit. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere
+      velit aliquet.
+    </p>
+  </div>
+
   <!-- Browse desktop interface image -->
   <video class="full site" width="1418" height="980" muted autoplay loop>
     <source src="/media/videos/thread-v2-browse.mp4"  type="video/mp4">
