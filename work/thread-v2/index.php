@@ -164,10 +164,6 @@
       velit aliquet.
     </p>
   </div>
-  <!-- Messages on desktop -->
-  <img class="side" width="1008" height="669"
-    src=""
-    alt="Messages on desktop">
 
 </div>
 
