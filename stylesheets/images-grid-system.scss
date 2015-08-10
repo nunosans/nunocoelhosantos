@@ -2,17 +2,17 @@
 .full,
 .side,
 .half,
-.both {
+.both,
+.third {
   height: auto;
   margin-bottom: 60px;
 }
 .side,
 .half,
-.both {
+.both,
+.third {
   margin-left: 16px;
 }
-
-
 .full {
   // width: 1264px;
   width: 752px;
@@ -28,7 +28,10 @@
   // width:  752px;
   width: 496px;
 }
-
+.third {
+  // width: 410px;
+  width: 240px;
+}
 .right {
   float: right;
 }

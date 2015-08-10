@@ -24,9 +24,11 @@
   .project .side,
   .project .site-plan,
   .project .both,
-  .project .half {
+  .project .half,
+  .project .third {
     width: 240px;
-    }
+    margin-left: 0;
+  }
 
   #info, #copyright {width: 272px;}
   #info .txt.grid4 {width: 256px;}
