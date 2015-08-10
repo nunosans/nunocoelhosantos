@@ -51,7 +51,7 @@
   </div>
 
   <img class="full" width="1264" height="687"
-    src="/media/images/top-science-wireframes.png">
+    src="/media/images/the-scientist-wireframes.png">
 
   <img class="full" width="1264" height="787"
     src="/media/images/the-scientist-user-photo.jpg">
