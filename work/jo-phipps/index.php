@@ -14,8 +14,6 @@
   </span>
 </div>
 
-<?php require_once('../../_spinner.php'); ?>
-
 <div class="project" id="jo-phipps">
 
   <!-- Work goes here -->

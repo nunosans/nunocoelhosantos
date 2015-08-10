@@ -12,10 +12,7 @@
     <a href="../1975/">Previous</a> &thinsp;/&thinsp;
     <a href="../15-days-in-japan/">Next</a>
   </span>
-
 </div>
-
-<?php require_once('../../_spinner.php'); ?>
 
 <div class="project" id="plenti">
 

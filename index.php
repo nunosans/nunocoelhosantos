@@ -7,7 +7,6 @@
 
 <!-- Featured Project -->
 <div class="featured">
-  <?php require_once('_spinner.php'); ?>
   <a href="./work/thread-v2/" class="featured-image">
     <video width="1500" height="750" muted autoplay loop>
       <source src="/media/videos/thread-v2-slide.mp4"  type="video/mp4">

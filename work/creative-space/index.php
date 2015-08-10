@@ -14,8 +14,6 @@
   </span>
 </div>
 
-<?php require_once('../../_spinner.php'); ?>
-
 <div class="project" id="creative-space">
 
   <img class="full" width="1008" height="456"

@@ -15,8 +15,6 @@
   </span>
 </div>
 
-<?php require_once('../../_spinner.php'); ?>
-
 <div class="project" id="15-days-in-japan">
 
   <img class="full" width="1264" height="680"

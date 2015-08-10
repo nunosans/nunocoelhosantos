@@ -14,8 +14,6 @@
   </span>
 </div>
 
-<?php require_once('../../_spinner.php'); ?>
-
 <div class="project" id="thread-v2">
 
   <!-- Home desktop and mobile interface image -->

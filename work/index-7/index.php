@@ -14,8 +14,6 @@
   </span>
 </div>
 
-<?php require_once('../../_spinner.php'); ?>
-
 <div class="project" id="index-7">
 
   <img class="clear side" width="1008" height="673" src="/media/images/index-7-flyers.jpg">

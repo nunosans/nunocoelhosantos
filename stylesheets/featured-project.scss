@@ -8,21 +8,16 @@
   /* Display background while image loads */
   width: 100%;
   background-color: #303030;
-  // background-image: url(/media/graphics/spinner-dark.gif);
   background-size: 30px;
   background-position: center;
   background-repeat: no-repeat;
   img,
   video {
     position: relative;
-    -webkit-transition-duration: 1.2s;
-       -moz-transition-duration: 1.2s;
-         -o-transition-duration: 1.2s;
-            transition-duration: 1.2s;
-    -webkit-transition-property: opacity;
-       -moz-transition-property: opacity;
-         -o-transition-property: opacity;
-            transition-property: opacity;
+    -webkit-transition-property: none;
+       -moz-transition-property: none;
+         -o-transition-property: none;
+            transition-property: none;
   }
   img {
     z-index: 1;
@@ -40,15 +35,14 @@
     padding: 16px 0 40px;
     width: 100%;
     background-color: rgba(0,0,0,0.85);
-    opacity: 0;
     -webkit-transition-duration: 1.2s;
        -moz-transition-duration: 1.2s;
          -o-transition-duration: 1.2s;
             transition-duration: 1.2s;
-    -webkit-transition-property: background-color, opacity;
-       -moz-transition-property: background-color, opacity;
-         -o-transition-property: background-color, opacity;
-            transition-property: background-color, opacity;
+    -webkit-transition-property: background-color;
+       -moz-transition-property: background-color;
+         -o-transition-property: background-color;
+            transition-property: background-color;
     > * {
       margin: 0 auto;
       padding-right: 512px;
@@ -94,24 +88,4 @@
 .featured:hover {
   /* Add pointing cursor when hovering the featured project */
   cursor: pointer;
-}
-
-.featured .spinner {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin: -12px 0 0 -12px;
-  width: 24px;
-  height: 24px;
-  .container1 > div,
-  .container2 > div,
-  .container3 > div {
-    background-color: $shade-2;
-  }
-}
-
-body.ready {
-  .featured-description {
-    opacity: 1;
-  }
 }

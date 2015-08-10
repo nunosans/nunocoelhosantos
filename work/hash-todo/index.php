@@ -15,8 +15,6 @@
   </span>
 </div>
 
-<?php require_once('../../_spinner.php'); ?>
-
 <div class="project" id="hash-todo">
 
   <img class="full" width="1080" height="1080"

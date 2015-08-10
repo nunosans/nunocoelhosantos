@@ -14,8 +14,6 @@
   </span>
 </div>
 
-<?php require_once('../../_spinner.php'); ?>
-
 <div class="project" id="shooting-people">
 
   <img class="clear side" width="1008" height="647"

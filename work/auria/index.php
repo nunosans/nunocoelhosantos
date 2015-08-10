@@ -14,8 +14,6 @@
   </span>
 </div>
 
-<?php require_once('../../_spinner.php'); ?>
-
 <div class="project" id="auria">
 
   <video class="full" width="1264" height="711" autoplay="autoplay" loop="loop">
@@ -46,8 +44,6 @@
       to bring thicker lines and better readability.
     </p>
   </div>
-
-  <?php require_once('../../_spinner.php'); ?>
 
   <div class="txt clear">
     <p>

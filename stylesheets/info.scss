@@ -4,16 +4,7 @@
   padding-top: 200px;
   margin-bottom: 15px;
   clear: both;
-  opacity: 0;
   width: 784px;
-  -webkit-transition-property: opacity;
-     -moz-transition-property: opacity;
-       -o-transition-property: opacity;
-          transition-property: opacity;
-  -webkit-transition-duration: 1.2s;
-     -moz-transition-duration: 1.2s;
-       -o-transition-duration: 1.2s;
-          transition-duration: 1.2s;
   .txt {
     border-top: 1px solid $shade-3;
     min-height: 140px;
@@ -54,11 +45,5 @@
   p,
   li {
     color: $shade-2;
-  }
-}
-
-body.ready {
-  #info {
-    opacity: 1;
   }
 }

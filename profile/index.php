@@ -9,8 +9,6 @@
   <h2>Profile</h2>
 </div>
 
-<?php require_once('../_spinner.php'); ?>
-
 <div class="project" id="profile">
 
 

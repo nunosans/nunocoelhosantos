@@ -15,8 +15,6 @@
   </span>
 </div>
 
-<?php require_once('../../_spinner.php'); ?>
-
 <div class="project" id="ana-barreira">
 
   <img class="full no-margin" width="1264" height="540"

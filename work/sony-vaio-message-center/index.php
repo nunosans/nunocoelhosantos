@@ -9,8 +9,6 @@
   <h2><?php echo $title ?></h2>
 </div>
 
-<?php require_once('../../_spinner.php'); ?>
-
 <div class="project" id="sony-vaio-message-center">
 
   <img class="clear side" width="1008" height="533" src="/media/images/vaio-message-center-laptop.jpg">

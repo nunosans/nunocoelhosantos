@@ -90,29 +90,14 @@ video {
   display: inline-block;
   float: left;
   background-color: #FAFAFA;
-  opacity: 0;
   -webkit-transition-duration: 1.2s;
      -moz-transition-duration: 1.2s;
        -o-transition-duration: 1.2s;
           transition-duration: 1.2s;
-}
-img {
-  -webkit-transition-property: opacity, width;
-     -moz-transition-property: opacity, width;
-       -o-transition-property: opacity, width;
-          transition-property: opacity, width;
-}
-video {
-  -webkit-transition-property: opacity;
-     -moz-transition-property: opacity;
-       -o-transition-property: opacity;
-          transition-property: opacity;
-}
-body.ready {
-  img,
-  video {
-    opacity: 1;
-  }
+  -webkit-transition-property: all;
+     -moz-transition-property: all;
+       -o-transition-property: all;
+          transition-property: all;
 }
 
 /* Let"s customise the browser"s selection color... */
@@ -279,8 +264,4 @@ input[type="submit"]:focus {
        -o-transition-duration: 0.15s;
           transition-duration: 0.15s;
   cursor: pointer;
-}
-
-body.ready {
-  background-image: none;
 }
