@@ -19,7 +19,7 @@
   <img class="full" width="1008" height="456"
       src="/media/images/creative-space-on-ipad.jpg">
 
-  <video class="clear side" width="1264" height="1094" autoplay="autoplay" autoplay loop>
+  <video class="clear side" width="1264" height="1094" muted autoplay loop>
     <source src="/media/videos/creative-space-homepage.webm" type="video/webm">
     <source src="/media/videos/creative-space-homepage.mp4"  type="video/mp4">
     <source src="/media/videos/creative-space-homepage.ogg"  type="video/ogg">
@@ -70,15 +70,13 @@
   <img class="clear side right" width="1008" height="674"
     src="/media/images/creative-space-cms-2.jpg">
 
-  <video class="clear half" id="special-4"
-    width="624" height="368" autoplay="autoplay" autoplay loop>
+  <video class="clear half" id="special-4" width="624" height="368" muted autoplay loop>
     <source src="/media/videos/creative-space-cms-link-popup.webm" type="video/webm">
     <source src="/media/videos/creative-space-cms-link-popup.mp4"  type="video/mp4">
     <source src="/media/videos/creative-space-cms-link-popup.ogg"  type="video/ogg">
     <source src="/media/videos/creative-space-cms-link-popup.mov"  type="video/mov">
   </video>
-  <video class="half" id="special-5"
-    width="624" height="368" autoplay="autoplay" autoplay loop>
+  <video class="half" id="special-5" width="624" height="368" muted autoplay loop>
     <source src="/media/videos/creative-space-cms-logo-hover.webm" type="video/webm">
     <source src="/media/videos/creative-space-cms-logo-hover.mp4"  type="video/mp4">
     <source src="/media/videos/creative-space-cms-logo-hover.ogg"  type="video/ogg">

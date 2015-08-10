@@ -58,7 +58,7 @@
       target="_blank">15 Days in Japan</a>
     </p>
   </div>
-  <video class="side" width="1264" height="790" autoplay="autoplay" autoplay loop>
+  <video class="side" width="1264" height="790" muted autoplay loop>
     <source src="/media/videos/15-days-in-japan-sidebar.webm" type="video/webm">
     <source src="/media/videos/15-days-in-japan-sidebar.mp4"  type="video/mp4">
     <source src="/media/videos/15-days-in-japan-sidebar.ogg"  type="video/ogg">

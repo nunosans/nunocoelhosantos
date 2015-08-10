@@ -16,7 +16,7 @@
 
 <div class="project" id="auria">
 
-  <video class="full" width="1264" height="711" autoplay="autoplay" loop="loop">
+  <video class="full" width="1264" height="711" muted autoplay loop>
     <source src="/media/videos/auria-promo-video.webm" type="video/webm">
     <source src="/media/videos/auria-promo-video.mp4"  type="video/mp4">
     <source src="/media/videos/auria-promo-video.ogg"  type="video/ogg">
@@ -67,7 +67,7 @@
       <a href="http://auria-london.com/" target="_blank">Auria</a>
     </p>
   </div>
-  <video class="side" width="1008" height="674" autoplay="autoplay" loop="loop">
+  <video class="side" width="1008" height="674" muted autoplay loop>
     <source src="/media/videos/auria-website-on-screen.webm" type="video/webm">
     <source src="/media/videos/auria-website-on-screen.mp4"  type="video/mp4">
     <source src="/media/videos/auria-website-on-screen.ogg"  type="video/ogg">

@@ -53,7 +53,7 @@
       target="_blank">Dark prototype (open on iPhone)</a>
     </p>
   </div>
-  <video class="right side" width="1008" height="1395" autoplay="autoplay" autoplay loop>
+  <video class="right side" width="1008" height="1395" muted autoplay loop>
     <source src="/media/videos/instagram-redesign-brief-demo-video.webm" type="video/webm">
     <source src="/media/videos/instagram-redesign-brief-demo-video.mp4"  type="video/mp4">
     <source src="/media/videos/instagram-redesign-brief-demo-video.ogg"  type="video/ogg">
