@@ -17,7 +17,7 @@
 <div class="project" id="thread-v2">
 
   <!-- Home desktop and mobile interface image -->
-  <img class="clear side" width="1008" height="669"
+  <img class="clear side" width="1008" height="730"
     src="/media/images/thread-v2-home.jpg"
     alt="Home desktop and mobile interface image">
   <div class="txt">
