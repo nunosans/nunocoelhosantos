@@ -7,13 +7,15 @@
   margin: 0 auto 0;
   /* Display background while image loads */
   width: 100%;
-  background-color: #303030;
+  background-color: #1F1F1F;
   background-size: 30px;
   background-position: center;
   background-repeat: no-repeat;
   img,
   video {
+    display: none;
     position: relative;
+    background-color: #1F1F1F;
     -webkit-transition-property: none;
        -moz-transition-property: none;
          -o-transition-property: none;
@@ -24,6 +26,14 @@
   }
   video {
     z-index: 2;
+    -webkit-background-size:cover;
+       -moz-background-size:cover;
+         -o-background-size:cover;
+            background-size:cover;
+    &[poster] {
+      width: 100%;
+      height: auto;
+    }
   }
   .featured-description {
     position: absolute;

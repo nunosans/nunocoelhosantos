@@ -8,7 +8,8 @@
 <!-- Featured Project -->
 <div class="featured">
   <a href="./work/thread-v2/" class="featured-image">
-    <video width="1500" height="750" muted autoplay loop>
+    <video width="1500" height="750" muted autoplay loop
+      poster="/media/images/thread-v2-slide.jpg">
       <source src="/media/videos/thread-v2-slide.mp4"  type="video/mp4">
       <source src="/media/videos/thread-v2-slide.ogg"  type="video/ogg">
       <source src="/media/videos/thread-v2-slide.webm" type="video/webm">

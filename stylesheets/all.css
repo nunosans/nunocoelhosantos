@@ -395,13 +395,15 @@ body#home {
   margin: 0 auto 0;
   /* Display background while image loads */
   width: 100%;
-  background-color: #303030;
+  background-color: #1F1F1F;
   background-size: 30px;
   background-position: center;
   background-repeat: no-repeat; }
   .featured img,
   .featured video {
+    display: none;
     position: relative;
+    background-color: #1F1F1F;
     -webkit-transition-property: none;
     -moz-transition-property: none;
     -o-transition-property: none;
@@ -409,7 +411,14 @@ body#home {
   .featured img {
     z-index: 1; }
   .featured video {
-    z-index: 2; }
+    z-index: 2;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; }
+    .featured video[poster] {
+      width: 100%;
+      height: auto; }
   .featured .featured-description {
     position: absolute;
     bottom: 0;

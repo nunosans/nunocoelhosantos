@@ -26,7 +26,7 @@ function resizeFeaturedProject() {
   }
 
   // Apply required styles.
-  element.css('position', 'relative');
+  element.css('position', 'relative').show();
 
   // Resize the right element.
   function resizeElement() {
