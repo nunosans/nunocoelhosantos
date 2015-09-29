@@ -1,7 +1,7 @@
 <?php
   $page = 'Home';
   $title = 'Designer & Developer';
-  $description = 'Nuno is a Designer and Developer based in London.';
+  $description = 'Nuno is a Designer and Developer based in Tokyo.';
   require_once('_header.php');
 ?>
 

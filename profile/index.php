@@ -1,7 +1,7 @@
 <?php
   $page='Profile';
   $title='Profile';
-  $description='Profile of Nuno Coelho Santos, Designer & Developer based in London';
+  $description='Profile of Nuno Coelho Santos, Designer & Developer based in Tokyo';
   require_once('../_header.php');
 ?>
 
@@ -16,7 +16,7 @@
   <div class="txt">
     <h2>Short Autobiography</h2>
     <p>
-      I am a developer and graphic designer based in London and original from
+      I am a developer and graphic designer based in Tokyo and original from
       <a href="http://vimeo.com/21698583" target="_blank">Porto, Portugal</a>.
       My work reflects a lot of my personality: organised, tidy,
       straight-forward, unpronounced.
@@ -34,7 +34,7 @@
     <p>
       In late 2008 I moved to London to attend an undergraduate
       course at <a href="http://www.csm.arts.ac.uk/" target="_blank">Central
-      Saint Martins</a>.
+      Saint Martins</a>. And in late 2015 I relocated to Tokyo, Japan.
     </p>
     <p>
       I have been working as an independent designer since 2009. I started
@@ -71,7 +71,7 @@
   <img class="side" src="/media/images/profile-thread.jpg" width="1008" height="672">
 
   <div class="clear txt">
-    <h2>Brands I have worked with</h2>
+    <h2>I have worked with</h2>
     <ul>
       <li>
         <a href="https://www.americanexpress.com/uk/" target="_blank">American Express</a>
@@ -99,15 +99,17 @@
   <div class="txt">
     <h2>Experience</h2>
     <p>
-      I've done freelance work since 2009. In December 2009 I interned as a graphic
+      In December 2009 I interned as a graphic
       designer for <a href="http://saatchidesign.com/" target="_blank">Saatchi
       &amp; Saatchi Design</a>. In 2010 and 2011 I was the in-house designer and
       front-end developer of <a href="http://shootingpeople.org/"
       target="_blank">Shooting People</a>. In the summer of 2011 I did
       an iOS Development internship at <a href="http://prote.in/os"
-      target="_blank">Protein</a>. From the second half of 2012 until March 2014
-      I was a designer and front-end web developer at <a href="http://ustwo.com"
-      target="_blank">ustwo™</a>. I now work full-time at <a href="http://thread.com">Thread</a>.
+      target="_blank">Protein</a>. From mid-2012 until mid-2014
+      I was a designer and developer at <a href="http://ustwo.com"
+      target="_blank">ustwo™</a>. I then joined the
+      <a href="http://thread.com">Thread</a> team as product designer. Currently
+      I work as contractor.
     </p>
   </div>
   <div class="txt">
