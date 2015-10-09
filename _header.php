@@ -15,6 +15,7 @@
     <meta name="host"      content="nunocoelhosantos.com">
     <meta name="generator" content="Sublime Text 3">
     <!-- Search Eengine and Browser Meta Tags -->
+    <meta name="robots" content="noindex, nofollow, noodp, noydir, noarchive">
     <meta name="description" content="<?php echo($description) ?>">
     <meta name="keywords"    content="nuno, coelho, coehlo, santos, graphic, web,
       design, identity, soares, reis, csm, saint, martins, london,
