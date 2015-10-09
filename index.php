@@ -24,7 +24,7 @@
     </h2>
     <p>
       <a href="./work/thread-v2/">
-        Duis mollis, est non commodo luctus, nisi erat porttitor ligula lacinia.
+        The new experience for the menswear styling website
       </a>
     </p>
   </div>
@@ -47,7 +47,7 @@
         alt="">
     </a>
     <p>
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula lacinia.
+      The new experience for the menswear styling website
     </p>
   </div>
 
