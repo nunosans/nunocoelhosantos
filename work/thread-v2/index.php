@@ -22,17 +22,16 @@
     alt="Home desktop and mobile interface image">
   <div class="txt">
     <h2>Thread V2</h2>
-    <h6>Egestas, Ullamcorper amet Porta</h6>
+    <h6>Full-time as Product Designer</h6>
     <p>
-      Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus
-      sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi
-      leo risus, porta ac consectetur ac, vestibulum at eros.
+      Since I started working at Thread, we started thinking what the next
+      version of the Thread experience would be and how we could achieve it.
+      My role involved a lot of the product thinking and all of the user
+      experience design, user interface design and front-end web development.
     </p>
     <p>
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget
-      lacinia odio sem nec elit. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere
-      velit aliquet.
+      Thread is a menswear styling service where users, mostly men or their
+      partners, sign up to get a personal stylist for free.
     </p>
   </div>
 
@@ -58,28 +57,20 @@
 
   <div class="clear txt">
     <p>
-      Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus
-      sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi
-      leo risus, porta ac consectetur ac, vestibulum at eros.
-    </p>
-    <p>
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget
-      lacinia odio sem nec elit. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere
-      velit aliquet.
+      The key areas of the website were the registration, on-boarding,
+      messaging, browsing, recommendations and purchase. We refined all these
+      areas and dedicated most of our energy to iterate and experiment on
+      the recommendations sent by the stylist to the user, both visually
+      and in terms of content.
     </p>
   </div>
   <div class="txt">
     <p>
-      Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus
-      sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi
-      leo risus, porta ac consectetur ac, vestibulum at eros.
-    </p>
-    <p>
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget
-      lacinia odio sem nec elit. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere
-      velit aliquet.
+      Above you can see some mockups of this version of the website on desktop.
+      All the flows and screens were mocked up in desktop and mobile to give
+      the team a clear picture on where we were headed. It helped create
+      a holistic view of the system and produce great discussions. These
+      were also the mockups we used to build prototypes to test with users.
     </p>
   </div>
 
@@ -99,28 +90,28 @@
 
   <div class="clear txt">
     <p>
-      Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus
-      sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi
-      leo risus, porta ac consectetur ac, vestibulum at eros.
+      Some of my favourite details in the new interface of Thread are the
+      icons at the top of the Browse experience. These were designed to go
+      together perfectly well with the design of the logo and typeface of the
+      website.
     </p>
     <p>
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget
-      lacinia odio sem nec elit. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere
-      velit aliquet.
+      Also on Browse, the filters appear as you hover on the labels
+      and load new results instantly when you click on them. This makes a very
+      fast and intuitive experience in a very clean interface.
     </p>
   </div>
   <div class="txt">
     <p>
-      Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus
-      sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi
-      leo risus, porta ac consectetur ac, vestibulum at eros.
+      Another detail I quite like is when a user adds an item to the cart.
+      If a user is viewing an item on the quickview modal and adds an item to
+      the cart, that overlay slides down and the cart badge appears in the
+      navigation as you can see from the video above.
     </p>
     <p>
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget
-      lacinia odio sem nec elit. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere
-      velit aliquet.
+      This is meaningful because not only clearly indicates what the next
+      step on the flow is, proceeding to checkout by clicking on the cart icon,
+      but it also resembles putting a clothing item inside of a shopping bag.
     </p>
   </div>
 
@@ -139,15 +130,15 @@
 
   <div class="clear txt">
     <p>
-      Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus
-      sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi
-      leo risus, porta ac consectetur ac, vestibulum at eros.
+      Thread, as a team, moves incredibly fast and is constantly changing
+      how the product looks and works. At the same time, most of the design
+      is tested in different groups of users. So if you are an existing user
+      you might have not seen any of this work and if you register now you
+      might see a completely new version of the website.
     </p>
-    <p>
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget
-      lacinia odio sem nec elit. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere
-      velit aliquet.
+    <p class="icon-globe-1">
+      <a href="https://thread.com/"
+      target="_blank">Thread.com</a>
     </p>
   </div>
 
