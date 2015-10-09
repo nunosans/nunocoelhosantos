@@ -51,7 +51,7 @@
     </p>
   </div>
 
-  <div class="new">
+  <div class="new private">
     <h4>
       <a href="./work/thread-for-ios/">Thread for iOS</a>
     </h4>
@@ -66,7 +66,7 @@
     </p>
   </div>
 
-  <div class="new">
+  <div class="new private">
     <h4>
       <a href="./work/pomodoro-for-apple-watch/">Pomodoro for Watch</a>
     </h4>
@@ -82,9 +82,9 @@
   </div>
 
   <!-- Projects from 2014 -->
-  <h3>2014</h3>
+  <!--<h3>2014</h3>-->
 
-  <div class="new">
+  <div class="new private">
     <h4>
       <a href="./work/thread/">Thread</a>
     </h4>
@@ -99,7 +99,7 @@
     </p>
   </div>
 
-  <div class="new">
+  <div class="new private">
     <h4>
       <a href="./work/1975/">1975</a>
     </h4>
@@ -114,7 +114,7 @@
     </p>
   </div>
 
-  <div class="new">
+  <div class="new private">
     <h4>
       <a href="./work/plenti/">Plenti</a>
     </h4>
