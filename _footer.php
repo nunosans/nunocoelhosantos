@@ -97,7 +97,7 @@
       <div class="txt grid2">
         <h4>Contacts</h4>
         <p>
-          <a class="tel" href="tel:+8109049300962">+81 0904 930 0962</a>,<br>
+          <a class="tel" href="tel:+819049300962">+81 904 930 0962</a>,<br>
           or <a href="mailto:nuno@nunocoelhosantos.com?subject=Question%20about%20your%20work%20/%20Quote%20/%20Work%20proposal&body=Dear%20Nuno,%0D%0A%0D%0A">nuno@nunocoelhosantos.com</a>.
         </p>
       </div>
