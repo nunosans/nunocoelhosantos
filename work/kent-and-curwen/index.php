@@ -9,8 +9,8 @@
   <h2><?php echo $title ?></h2>
   <span><?php echo $project_number ?> of <?php echo $projects_total ?></span>
   <span>
-    <a href="../stylize-d/">Previous</a> &thinsp;/&thinsp;
-    <a href="../keepon/">Next</a>
+    <a href="../sony-vaio-message-center/">Previous</a> &thinsp;/&thinsp;
+    <a href="../google-doubleclick/">Next</a>
   </span>
 </div>
 

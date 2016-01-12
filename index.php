@@ -38,6 +38,21 @@
 
   <div class="new">
     <h4>
+      <a href="./work/a-year-in-an-instant/">A Year in an Instant</a>
+    </h4>
+    <a href="./work/a-year-in-an-instant/">
+      <img width="240" height="140"
+        nopin="nopin"
+        src="/media/images/a-year-in-an-instant-card.jpg"
+        alt="">
+    </a>
+    <p>
+      An instant film diary documenting my first 365 days living in Japan
+    </p>
+  </div>
+
+  <div>
+    <h4>
       <a href="./work/thread-v2/">Thread V2</a>
     </h4>
     <a href="./work/thread-v2/">
@@ -51,7 +66,7 @@
     </p>
   </div>
 
-  <div class="new private">
+  <div class="new">
     <h4>
       <a href="./work/thread-for-ios/">Thread for iOS</a>
     </h4>
@@ -62,11 +77,11 @@
         alt="">
     </a>
     <p>
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula lacinia.
+      Wireframes for the core Thread experience on iOS
     </p>
   </div>
 
-  <div class="new private">
+  <div class="new">
     <h4>
       <a href="./work/pomodoro-for-apple-watch/">Pomodoro for Watch</a>
     </h4>
@@ -77,14 +92,14 @@
         alt="">
     </a>
     <p>
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula lacinia.
+      Interface design for the time tracking utility app
     </p>
   </div>
 
   <!-- Projects from 2014 -->
-  <!--<h3>2014</h3>-->
+  <h3>2014</h3>
 
-  <div class="new private">
+  <div class="new">
     <h4>
       <a href="./work/thread/">Thread</a>
     </h4>
@@ -95,11 +110,11 @@
         alt="">
     </a>
     <p>
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula lacinia.
+      Design and front-end development for the personal styling website
     </p>
   </div>
 
-  <div class="new private">
+  <div class="new">
     <h4>
       <a href="./work/1975/">1975</a>
     </h4>
@@ -110,11 +125,11 @@
         alt="">
     </a>
     <p>
-      Duis mollis, est non commodo luctus, nisi erat porttitor ligula lacinia.
+      A Ruby on Rails application to create photodiaries for travellers
     </p>
   </div>
 
-  <div class="new private">
+  <div class="new">
     <h4>
       <a href="./work/plenti/">Plenti</a>
     </h4>
@@ -215,17 +230,19 @@
     <p>Identity and web design for the independent fashion blog</p>
   </div>
 
-  <div class="private">
+  <div>
     <h4>
-      <a href="./work/vaio-message-center/">Sony VAIO Message Center</a>
+      <a href="./work/sony-vaio-message-center/">Sony VAIO Message Center</a>
     </h4>
-    <a href="./work/vaio-message-center/">
+    <a href="./work/sony-vaio-message-center/">
       <img width="240" height="140"
         nopin="nopin"
         src="/media/images/vaio-message-center-card.jpg"
         alt="">
     </a>
-    <p></p>
+    <p>
+      Front-end development of the internal Windows 8 message editor
+    </p>
   </div>
 
   <div>
@@ -242,7 +259,7 @@
     <p>Responsive website for the luxury menswear brand</p>
   </div>
 
-  <div class="private">
+  <div>
     <h4>
       <a href="./work/google-doubleclick/">Google DoubleClick</a>
     </h4>
@@ -252,7 +269,9 @@
         src="/media/images/google-doubleclick-card.jpg"
         alt="">
     </a>
-    <p></p>
+    <p>
+      Front-end development of Google's DoubleClick Rich Media Gallery
+    </p>
   </div>
 
   <div>

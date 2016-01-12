@@ -9,8 +9,8 @@
   <h2><?php echo $title ?></h2>
   <span><?php echo $project_number ?> of <?php echo $projects_total ?></span>
   <span>
-    Previous &thinsp;/&thinsp;
-    <a href="../15-days-in-japan/">Next</a>
+    <a href="../a-year-in-an-instant/">Previous</a> &thinsp;/&thinsp;
+    <a href="../thread-for-ios/">Next</a>
   </span>
 </div>
 

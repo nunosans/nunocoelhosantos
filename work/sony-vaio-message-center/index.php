@@ -7,6 +7,11 @@
 
 <div class="project-nav">
   <h2><?php echo $title ?></h2>
+  <span><?php echo $project_number ?> of <?php echo $projects_total ?></span>
+  <span>
+    <a href="../stylize-d/">Previous</a> &thinsp;/&thinsp;
+    <a href="../kent-and-curwen/">Next</a>
+  </span>
 </div>
 
 <div class="project" id="sony-vaio-message-center">

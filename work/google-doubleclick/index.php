@@ -8,6 +8,10 @@
 <div class="project-nav">
   <h2><?php echo $title ?></h2>
   <span><?php echo $project_number ?> of <?php echo $projects_total ?></span>
+  <span>
+    <a href="../kent-and-curwen/">Previous</a> &thinsp;/&thinsp;
+    <a href="../keepon/">Next</a>
+  </span>
 </div>
 
 <div class="project" id="google-doubleclick">

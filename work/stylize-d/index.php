@@ -10,7 +10,7 @@
   <span><?php echo $project_number ?> of <?php echo $projects_total ?></span>
   <span>
     <a href="../instagram-redesign-brief/">Previous</a> &thinsp;/&thinsp;
-    <a href="../kent-and-curwen/">Next</a>
+    <a href="../sony-vaio-message-center/">Next</a>
   </span>
 </div>
 

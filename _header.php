@@ -7,11 +7,11 @@
     <!-- Technical Formating Meta Tags -->
     <meta http-equiv="content-type"     content="charset=utf-8">
     <meta http-equiv="content-language" content="en-gb">
-    <meta http-equiv="expires"          content="Wed, 31 Dec 2014 12:00:00 GMT">
+    <meta http-equiv="expires"          content="Wed, 31 Dec 2016 12:00:00 GMT">
     <!-- Authoring Meta Tags -->
     <meta name="author"    content="Nuno Coelho Santos">
     <meta name="publisher" content="Nuno Coelho Santos">
-    <meta name="copyright" content="2014 by Nuno Coelho Santos">
+    <meta name="copyright" content="2016 by Nuno Coelho Santos">
     <meta name="host"      content="nunocoelhosantos.com">
     <meta name="generator" content="Sublime Text 3">
     <!-- Search Eengine and Browser Meta Tags -->
@@ -49,19 +49,19 @@
     <link href="/humans.txt" rel="author">
     <?php
     $project_number = 0;  // Initial value to iterate
-    $projects_total = 21; // Total number of projects
+    $projects_total = 29; // Total number of projects
     switch ($title) {
       case 'Fractures from Anxiety'   : $project_number++;
-      // case 'Sophie Westerlind'        : $project_number++;
-      // case 'Miti Ruangkritya'         : $project_number++;
+      // case 'Sophie Westerlind'     : $project_number++;
+      // case 'Miti Ruangkritya'      : $project_number++;
       case 'Ana Barreira'             : $project_number++;
       case 'Caroline Pera'            : $project_number++;
-      // case 'Ailara Berdyyeva'         : $project_number++;
-      // case 'Marili André'             : $project_number++;
+      // case 'Ailara Berdyyeva'      : $project_number++;
+      // case 'Marili André'          : $project_number++;
       case 'Stethoscore'              : $project_number++;
-      // case 'Jo Phipps'                : $project_number++;
-      // case 'Lilias Buchanan'          : $project_number++;
-      // case 'Shooting People'          : $project_number++;
+      // case 'Jo Phipps'             : $project_number++;
+      // case 'Lilias Buchanan'       : $project_number++;
+      // case 'Shooting People'       : $project_number++;
       case 'Protein Journal'          : $project_number++;
       case 'Index 7'                  : $project_number++;
       case 'Expresso Viagens'         : $project_number++;
@@ -71,22 +71,23 @@
       case 'Norman Hartnell'          : $project_number++;
       case '#todo'                    : $project_number++;
       case 'Keepon'                   : $project_number++;
-      // case 'Google DoubleClick'       : $project_number++;
+      case 'Google DoubleClick'       : $project_number++;
       case 'Kent & Curwen'            : $project_number++;
-      // case 'Sony VAIO Message Center' : $project_number++;
+      case 'Sony VAIO Message Center' : $project_number++;
       case 'Stylize/d'                : $project_number++;
       case 'Instagram Redesign Brief' : $project_number++;
       case 'Creative Space'           : $project_number++;
       case 'The Scientist'            : $project_number++;
       case 'Auria'                    : $project_number++;
       case '15 Days in Japan'         : $project_number++;
-      // case 'Plenti'                   : $project_number++;
-      // case '1975'                     : $project_number++;
-      // case 'Thread'                   : $project_number++;
-      // case 'Pomodoro for Watch'      : $project_number++;
-      // case 'Thread for iOS'           : $project_number++;
+      case 'Plenti'                   : $project_number++;
+      case '1975'                     : $project_number++;
+      case 'Thread'                   : $project_number++;
+      case 'Pomodoro for Watch'      : $project_number++;
+      case 'Thread for iOS'           : $project_number++;
       case 'Thread V2'                : $project_number++;
-      //Add new projects here using the same structure
+      case 'A Year in an Instant'     : $project_number++;
+      // Add new projects here using the same structure
     }
     ?>
   </head>
