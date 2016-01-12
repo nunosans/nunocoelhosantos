@@ -94,7 +94,7 @@
     <div id="header">
       <h1>
         <em><a href="/">Nuno Coelho Santos</a></em><br>
-        Tokyo-based Designer &amp; Developer
+        Tokyo based Designer &amp; Developer
       </h1>
       <ul id="nav">
         <li>
