@@ -1,0 +1,271 @@
+<!doctype html>
+<html>
+  <head>
+    <title>
+      Nuno Coelho Santos
+      <% if !current_page.data.title.empty? %>
+        <%= " – " + current_page.data.title %>
+      <% end %>
+    </title>
+    <!-- Technical Formating Meta Tags -->
+    <meta http-equiv="content-type"     content="charset=utf-8">
+    <meta http-equiv="content-language" content="en-gb">
+    <meta http-equiv="expires"          content="Wed, 31 Dec 2016 12:00:00 GMT">
+    <!-- Authoring Meta Tags -->
+    <meta name="author"    content="Nuno Coelho Santos">
+    <meta name="publisher" content="Nuno Coelho Santos">
+    <meta name="copyright" content="2016 by Nuno Coelho Santos">
+    <meta name="host"      content="nunocoelhosantos.com">
+    <meta name="generator" content="Sublime Text 3">
+    <!-- Search Eengine and Browser Meta Tags -->
+    <meta name="robots" content="noindex, nofollow, noodp, noydir, noarchive">
+    <meta name="description" content="<?php echo($description) ?>">
+    <meta name="keywords"    content="nuno, coelho, coehlo, santos, graphic, web,
+      design, identity, soares, reis, csm, saint, martins, london,
+      fontend, font, end, developer, ustwo, thread">
+    <meta name="revisit-after" content="14 days">
+    <meta name="rating"        content="General">
+    <meta http-equiv="x-ua-compatible" content="ie=8; chrome=1">
+    <!-- Open Graph Meta Tags (ogp.me) -->
+    <meta property="og:image"            content="http://nunocoelhosantos.com/images/15-days-in-japan-card.jpg">
+    <meta property="og:image"            content="http://nunocoelhosantos.com/images/auria-card.jpg">
+    <meta property="og:image"            content="http://nunocoelhosantos.com/images/instagram-redesign-brief-card.jpg">
+    <meta property="og:site_name"        content="Nuno Coelho Santos">
+    <meta property="og:title"            content="Nuno Coelho Santos <% if !current_page.data.title.empty? %><%= " – " + current_page.data.title %><% end %>">
+    <meta property="og:description"      content="<?php echo($description) ?>">
+    <meta property="og:type"             content="website">
+    <meta property="og:url"              content="http://nunocoelhosantos.com/">
+    <!-- Favicon Meta Tags (use both) -->
+    <link rel="icon"          href="http://nunocoelhosantos.com/graphics/favicon.png">
+    <link rel="shortcut icon" href="http://nunocoelhosantos.com/graphics/favicon.png">
+    <!-- Apple iOS Meta Tags -->
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <!-- Stylesheets -->
+    <%= stylesheet_link_tag "site" %>
+    <!-- Typekit -->
+    <script src="http://use.typekit.com/qxu7res.js"></script>
+    <script>try{Typekit.load();}catch(e){};</script>
+    <!-- Humans -->
+    <link href="/humans.txt" rel="author">
+    <!--
+    $project_number = 0;  // Initial value to iterate
+    $projects_total = 29; // Total number of projects
+    switch ($title) {
+      case 'Fractures from Anxiety'   : $project_number++;
+      // case 'Sophie Westerlind'     : $project_number++;
+      // case 'Miti Ruangkritya'      : $project_number++;
+      case 'Ana Barreira'             : $project_number++;
+      case 'Caroline Pera'            : $project_number++;
+      // case 'Ailara Berdyyeva'      : $project_number++;
+      // case 'Marili André'          : $project_number++;
+      case 'Stethoscore'              : $project_number++;
+      // case 'Jo Phipps'             : $project_number++;
+      // case 'Lilias Buchanan'       : $project_number++;
+      // case 'Shooting People'       : $project_number++;
+      case 'Protein Journal'          : $project_number++;
+      case 'Index 7'                  : $project_number++;
+      case 'Expresso Viagens'         : $project_number++;
+      case 'Ava Mirabelle'            : $project_number++;
+      case 'Vânia Coelho Santos'      : $project_number++;
+      case 'Paul Cocksedge Shop'      : $project_number++;
+      case 'Norman Hartnell'          : $project_number++;
+      case '#todo'                    : $project_number++;
+      case 'Keepon'                   : $project_number++;
+      case 'Google DoubleClick'       : $project_number++;
+      case 'Kent & Curwen'            : $project_number++;
+      case 'Sony VAIO Message Center' : $project_number++;
+      case 'Stylize/d'                : $project_number++;
+      case 'Instagram Redesign Brief' : $project_number++;
+      case 'Creative Space'           : $project_number++;
+      case 'The Scientist'            : $project_number++;
+      case 'Auria'                    : $project_number++;
+      case '15 Days in Japan'         : $project_number++;
+      case 'Plenti'                   : $project_number++;
+      case '1975'                     : $project_number++;
+      case 'Thread'                   : $project_number++;
+      case 'Pomodoro for Watch'      : $project_number++;
+      case 'Thread for iOS'           : $project_number++;
+      case 'Thread V2'                : $project_number++;
+      case 'A Year in an Instant'     : $project_number++;
+      // Add new projects here using the same structure
+    }
+    -->
+  </head>
+  <body
+    <% if current_page.url == "/" %>
+      id="home"
+    <% end %>
+    >
+    <div id="header">
+      <h1>
+        <em><a href="/">Nuno Coelho Santos</a></em><br>
+        Tokyo based Designer &amp; Developer
+      </h1>
+      <ul id="nav">
+        <li>
+        <% if current_page.url == "/" %>
+          <a href="#portfolio">Portfolio</a>
+        <% else %>
+          <a href="/">Portfolio</a>
+        <% end %>
+        </li>
+        <li>
+          <a href="/profile">Profile</a>
+        </li>
+      </ul>
+    </div>
+
+    <%= yield %>
+
+    <div id="columns">
+      <div class="thirty"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="three"></div>
+      <div class="zero"></div>
+      <div class="twenty"></div>
+      <div class="thirty"></div>
+    </div>
+
+    <div id="info">
+      <div class="txt grid4">
+        <h4>About</h4>
+        <p>
+          This is the online portfolio and archive of Nuno Coelho Santos.
+          I use this website as a way to document the process of each project
+          and my progress as a designer.
+          <?php if ($page != 'Profile'): ?><a href="/profile">More about me</a>.<?php endif; ?>
+        </p>
+      </div>
+      <div class="txt grid2">
+        <h4>Contacts</h4>
+        <p>
+          <a class="tel" href="tel:+819049300962">+81 904 930 0962</a>,<br>
+          or <a href="mailto:nuno@nunocoelhosantos.com?subject=Question%20about%20your%20work%20/%20Quote%20/%20Work%20proposal&body=Dear%20Nuno,%0D%0A%0D%0A">nuno@nunocoelhosantos.com</a>.
+        </p>
+      </div>
+      <div class="txt grid1">
+        <h4>Also on</h4>
+        <ul>
+          <li>
+            <a href="http://dribbble.com/nunosans" target="_blank">Dribbble</a>
+          </li>
+          <li>
+            <a href="http://github.com/nunosans" target="_blank">Github</a>
+          </li>
+          <li>
+            <a href="http://instagram.com/nunosans" target="_blank">Instagram</a>
+          </li>
+          <li>
+            <a href="http://twitter.com/nunosans" target="_blank">Twitter</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <span id="copyright">
+      © 2008&thinsp;—&thinsp;2016 Nuno Coelho Santos &thinsp;/&thinsp;
+      <a id="columns-on">Show Columns</a><a id="columns-off">Hide Columns</a>
+    </span>
+
+    <!-- Scripts -->
+    <%= javascript_include_tag "jquery-2.1.4.min" %>
+    <%= javascript_include_tag "localscroll" %>
+    <%= javascript_include_tag "scrollto" %>
+    <%= javascript_include_tag "site" %>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-35923540-10']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl':'http://www')
+          + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+
+  </body>
+</html>

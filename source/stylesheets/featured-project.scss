@@ -1,0 +1,101 @@
+// Featured project
+.featured {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  /* Relative position to fix children absolute position*/
+  margin: 0 auto 0;
+  /* Display background while image loads */
+  width: 100%;
+  background-color: #1F1F1F;
+  background-size: 30px;
+  background-position: center;
+  background-repeat: no-repeat;
+  img,
+  video {
+    display: none;
+    position: relative;
+    background-color: #1F1F1F;
+    -webkit-transition-property: none;
+       -moz-transition-property: none;
+         -o-transition-property: none;
+            transition-property: none;
+  }
+  img {
+    z-index: 1;
+  }
+  video {
+    z-index: 2;
+    -webkit-background-size:cover;
+       -moz-background-size:cover;
+         -o-background-size:cover;
+            background-size:cover;
+    &[poster] {
+      width: 100%;
+      height: auto;
+    }
+  }
+  .featured-description {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 3;
+    display: block;
+    overflow: visible;
+    padding: 16px 0 40px;
+    width: 100%;
+    background-color: rgba(0,0,0,0.85);
+    -webkit-transition-duration: 1.2s;
+       -moz-transition-duration: 1.2s;
+         -o-transition-duration: 1.2s;
+            transition-duration: 1.2s;
+    -webkit-transition-property: background-color;
+       -moz-transition-property: background-color;
+         -o-transition-property: background-color;
+            transition-property: background-color;
+    > * {
+      margin: 0 auto;
+      padding-right: 512px;
+      width: 240px;
+      -webkit-transition-duration: 0.3s;
+         -moz-transition-duration: 0.3s;
+           -o-transition-duration: 0.3s;
+              transition-duration: 0.3s;
+      -webkit-transition-property: padding-right, padding-left, width;
+         -moz-transition-property: padding-right, padding-left, width;
+           -o-transition-property: padding-right, padding-left, width;
+              transition-property: padding-right, padding-left, width;
+    }
+  }
+  div:hover {
+    background-color: rgba(255,21,0,0.7);
+    cursor: pointer;
+    -webkit-transition-duration: 0.0s;
+       -moz-transition-duration: 0.0s;
+         -o-transition-duration: 0.0s;
+            transition-duration: 0.0s;
+  }
+  h2 {
+    padding-bottom: 8px;
+    color: white;
+  }
+  p {
+    background-image: url(/graphics/arrow.png);
+    background-position: 240px 5px;
+    background-repeat: no-repeat;
+    background-size: 8px 12px;
+    color: rgba(255,255,255,0.6);
+  }
+  a {
+    display: inline;
+    border: none;
+    color: inherit;
+    text-shadow: none;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+.featured:hover {
+  /* Add pointing cursor when hovering the featured project */
+  cursor: pointer;
+}
